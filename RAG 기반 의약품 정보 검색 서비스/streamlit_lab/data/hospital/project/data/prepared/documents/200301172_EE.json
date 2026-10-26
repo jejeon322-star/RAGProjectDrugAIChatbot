@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200301172:EE",
+  "drug_id": "mfds:200301172",
+  "scope_type": "product",
+  "title": "뉴클러캡슐(세파클러수화물) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301172/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200301172_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:59:51.827104+00:00",
+  "text": "[원문 1쪽]\n효능효과\n○ 유효균종\n폐렴연쇄구균, 인플루엔자균, 포도구균, 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 대장균, 프로테우\n스 미라빌리스, 클레브시엘라, 임균\n○ 적응증\n- 중이염\n- 폐렴, 인후두염, 편도염, 기관지염\n- 신우신염, 방광염, 임균성 요도염\n- 부스럼, 옹종, 모낭염, 연조직염, 감염성 죽종, 피하농양, 생인손, 창상감염",
+  "content_hash": "00bacab3ee01b8bf39036f7dbff22edecf895105c500e4a7e6a855c1a3aff7e0",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "e8f75427a9c363bf6fdfa40774d983d8c1d8a12d0208b4c5577f267f41d00b1f",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n○ 유효균종\n폐렴연쇄구균, 인플루엔자균, 포도구균, 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 대장균, 프로테우\n스 미라빌리스, 클레브시엘라, 임균\n○ 적응증\n- 중이염\n- 폐렴, 인후두염, 편도염, 기관지염\n- 신우신염, 방광염, 임균성 요도염\n- 부스럼, 옹종, 모낭염, 연조직염, 감염성 죽종, 피하농양, 생인손, 창상감염"
+        }
+      ]
+    }
+  ]
+}

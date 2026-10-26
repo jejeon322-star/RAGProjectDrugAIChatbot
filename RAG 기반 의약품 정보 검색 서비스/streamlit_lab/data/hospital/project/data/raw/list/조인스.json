@@ -1,0 +1,82 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 3,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200811665",
+        "ITEM_NAME": "조인스탑연질캡슐",
+        "ITEM_ENG_NAME": "Joinstop Soft Cap.",
+        "ENTP_NAME": "알리코제약(주)",
+        "ENTP_ENG_NAME": "Korea Arlico Pharm Co.,Ltd.",
+        "ENTP_SEQ": "19620007",
+        "ENTP_NO": "1420",
+        "ITEM_PERMIT_DATE": "20081217",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200811665",
+        "SPCLTY_PBLC": "일반의약품",
+        "PRDUCT_TYPE": "[03160]혼합비타민제(비타민AD 혼합제제를 제외)",
+        "PRDUCT_PRMISN_NO": "457",
+        "ITEM_INGR_NAME": "Calcium Pantothenate/Cyanocobalamin/Fursultiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate/Tocopherol Acetate",
+        "ITEM_INGR_CNT": "9",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/151688585610000076",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": null,
+        "BIZRNO": "1348115033"
+      },
+      {
+        "ITEM_SEQ": "199702182",
+        "ITEM_NAME": "조인스정200밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1))(수출명:카라스론)",
+        "ITEM_ENG_NAME": "Joins Tablet 200mg",
+        "ENTP_NAME": "에스케이케미칼(주)",
+        "ENTP_ENG_NAME": "SK Chemicals Co., Ltd.",
+        "ENTP_SEQ": "19570024",
+        "ENTP_NO": "1346",
+        "ITEM_PERMIT_DATE": "19970923",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199702182",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "165",
+        "ITEM_INGR_NAME": "Clematidis Radix·Trichosanthis Radix·Prunellae Spica 30% Ethanol Dry Extract (40→1)",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1NrIK7Z3HWW",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "644701930",
+        "BIZRNO": "8468100915"
+      },
+      {
+        "ITEM_SEQ": "202303397",
+        "ITEM_NAME": "조인스에프정300밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1)) ",
+        "ITEM_ENG_NAME": "Joins-F Tab.",
+        "ENTP_NAME": "에스케이케미칼(주)",
+        "ENTP_ENG_NAME": "SK Chemicals Co., Ltd.",
+        "ENTP_SEQ": "19570024",
+        "ENTP_NO": "1346",
+        "ITEM_PERMIT_DATE": "20231221",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "202303397",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "5144",
+        "ITEM_INGR_NAME": "Clematidis Radix·Trichosanthis Radix·Prunellae Spica 30% Ethanol Dry Extract (40→1)",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1PSKKNO66s4",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "644705000",
+        "BIZRNO": "8468100915"
+      }
+    ]
+  }
+}

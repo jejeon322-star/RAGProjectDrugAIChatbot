@@ -1,0 +1,27 @@
+{
+  "products": 101,
+  "warnings": [
+    {
+      "drug_id": "mfds:195700007",
+      "message": "수치로 확인할 수 없는 분량: 주사용수"
+    },
+    {
+      "drug_id": "mfds:196900058",
+      "message": "수치로 확인할 수 없는 분량: 염화암모늄"
+    }
+  ],
+  "documents": 406,
+  "chunks": 1288,
+  "table_sections_held_for_review": 7,
+  "embedding_called": false,
+  "vector_index_created": false,
+  "notes": [
+    "성분·함량은 원문 구분자로 파싱했으며 단위 환산은 하지 않았습니다.",
+    "제형·방출 특성·투여 경로는 자동 확정하지 않았습니다.",
+    "긴 절의 조건이 청크 밖에 있을 수 있어 최종 근거는 article_text와 함께 검증해야 합니다.",
+    "표를 포함한 절은 구조 검증 전 자동 답변용 검색에서 제외해야 합니다."
+  ],
+  "products_with_classification": 100,
+  "products_with_parsed_ingredients": 101,
+  "chunks_pending_context_validation": 1288
+}

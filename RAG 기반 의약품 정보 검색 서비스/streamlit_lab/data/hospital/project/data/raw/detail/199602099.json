@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199602099",
+        "ITEM_NAME": "리포타손주(덱사메타손팔미테이트)",
+        "ENTP_NAME": "(주)킴스제약",
+        "ITEM_PERMIT_DATE": "19961015",
+        "CNSGN_MANUF": "타나베파마코리아주식회사",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 약간 점조성을 띤 유탁성 주사제",
+        "BAR_CODE": "8800596006804,8800596006811,8800596006828,8806533001000,8806533001017,8806533001024",
+        "MATERIAL_NAME": "총량 : 1밀리리터|성분명 : 덱사메타손팔미테이트|분량 : 4.0|단위 : 밀리그램|규격 : 별규|성분정보 : 덱사메타손으로 2.5밀리그램|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602099/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602099/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602099/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602099/II",
+        "STORAGE_METHOD": "밀봉용기, 차광.실온보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1mL x 10앰플",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "2691",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250507",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-05-07/사용상주의사항변경(부작용포함), 2024-06-21/성상, 2024-04-11/사용상주의사항변경(부작용포함), 2023-01-13/제품명, 2022-06-20/사용상주의사항변경(부작용포함), 2018-08-13/사용상주의사항변경(부작용포함), 2018-07-18/제품명칭변경, 2017-11-07/사용상주의사항변경(부작용포함), 2017-03-30/사용상주의사항변경(부작용포함), 2015-09-13/제품명칭변경, 2015-07-01/사용상주의사항변경(부작용포함), 2012-01-28/용법용량변경, 2012-01-28/효능효과변경, 2012-01-28/사용상주의사항변경(부작용포함), 2009-06-12/사용상주의사항변경(부작용포함), 2003-05-21/사용상주의사항변경(부작용포함), 2003-03-18/사용상주의사항변경(부작용포함), 2002-07-24/용법용량변경, 2000-06-28/사용상주의사항변경(부작용포함), 2000-02-17/사용상주의사항변경(부작용포함), 1996-10-15/용법용량변경, 1996-10-15",
+        "TOTAL_CONTENT": "1",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M258481]덱사메타손팔미테이트",
+        "INGR_NAME": "[M040044]농글리세린|[M040305]수산화나트륨|[M040534]주사용수|[M081583]정제대두유|[M081584]정제난황레시친",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "Lipothason Inj.(Dexamethasone Palmitate)",
+        "ENTP_ENG_NAME": "KIMS Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Dexamethasone Palmitate",
+        "BIZRNO": "1078701806",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

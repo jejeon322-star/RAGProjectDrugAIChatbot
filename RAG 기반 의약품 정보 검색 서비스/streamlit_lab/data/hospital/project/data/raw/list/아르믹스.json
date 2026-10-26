@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "199203486",
+        "ITEM_NAME": "아르믹스주",
+        "ITEM_ENG_NAME": "Armix Injection",
+        "ENTP_NAME": "대한약품공업(주)",
+        "ENTP_ENG_NAME": "DAI HAN PHARM CO., LTD.",
+        "ENTP_SEQ": "19550006",
+        "ENTP_NO": "1303",
+        "ITEM_PERMIT_DATE": "19920428",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199203486",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[03250]단백아미노산제제",
+        "PRDUCT_PRMISN_NO": "166",
+        "ITEM_INGR_NAME": "Glycine/L-Alanine/L-Arginine/L-Cysteine Hydrochloride Hydrate/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Valine",
+        "ITEM_INGR_CNT": "15",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": null,
+        "BIZRNO": "1348500111"
+      }
+    ]
+  }
+}

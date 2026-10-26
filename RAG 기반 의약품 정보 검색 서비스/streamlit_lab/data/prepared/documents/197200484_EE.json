@@ -1,0 +1,56 @@
+{
+  "doc_id": "mfds:197200484:EE",
+  "drug_id": "mfds:197200484",
+  "scope_type": "product",
+  "title": "맥페란정(메토클로프라미드) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200484/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200484.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20140103",
+  "collected_at": "2026-10-22T05:27:51.179510+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(성인)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "ㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방",
+          "raw_content": "ㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "ㆍ 방사선요법 유발 구역ㆍ구토 예방",
+          "raw_content": "ㆍ 방사선요법 유발 구역ㆍ구토 예방"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "ㆍ 구역ㆍ구토의 증상 치료",
+          "raw_content": "ㆍ 구역ㆍ구토의 증상 치료"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(1～18세 소아)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "ㆍ 2차 치료로써 항암화학요법 후 지연된 구역ㆍ구토 예방",
+          "raw_content": "ㆍ 2차 치료로써 항암화학요법 후 지연된 구역ㆍ구토 예방"
+        }
+      ]
+    }
+  ],
+  "text": "(성인)\n\nㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방\n\nㆍ 방사선요법 유발 구역ㆍ구토 예방\n\nㆍ 구역ㆍ구토의 증상 치료\n\n(1～18세 소아)\n\nㆍ 2차 치료로써 항암화학요법 후 지연된 구역ㆍ구토 예방",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(성인)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[ㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[ㆍ 방사선요법 유발 구역ㆍ구토 예방]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[ㆍ 구역ㆍ구토의 증상 치료]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(1～18세 소아)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[ㆍ 2차 치료로써 항암화학요법 후 지연된 구역ㆍ구토 예방]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "ea47e077c0057adebd5ec5cd44787bae29859955cfc38847e6b6ca27829bb15e"
+}

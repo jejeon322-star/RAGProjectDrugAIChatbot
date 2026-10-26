@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200804359:UD",
+  "drug_id": "mfds:200804359",
+  "scope_type": "product",
+  "title": "암브콜흡입액(암브록솔염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804359/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200804359_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:01:03.816582+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 및 6세 이상의 어린이\n: 암브록솔염산염으로서 매회 15 ∼ 22.5 mg(2 ∼ 3 mL)를 1일 1 ∼ 2회 흡입한다.\n만일 1일 1회 흡입만이 가능할 경우, 일정한 효과를 나타내기 위하여 정제나 시럽제 등의 투여로 보완되어야\n한다.\n이 약은 모든 흡입기계를 통해 사용할 수 있으며 등장화되어 있다.\n기관지 천식환자는 사용전에 기관기 진경제를 복용하여야 한다.",
+  "content_hash": "bddbc01bc60ef4dd47f62d1bbc5d86fb8c2d4648cc34881a0c6ecdb2bd8f57c6",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "a9b0b29d5feee272d1af149ddf1bc793a47f2da6f08dd8b29752c3027d9bdb98",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 및 6세 이상의 어린이\n: 암브록솔염산염으로서 매회 15 ∼ 22.5 mg(2 ∼ 3 mL)를 1일 1 ∼ 2회 흡입한다.\n만일 1일 1회 흡입만이 가능할 경우, 일정한 효과를 나타내기 위하여 정제나 시럽제 등의 투여로 보완되어야\n한다.\n이 약은 모든 흡입기계를 통해 사용할 수 있으며 등장화되어 있다.\n기관지 천식환자는 사용전에 기관기 진경제를 복용하여야 한다."
+        }
+      ]
+    }
+  ]
+}

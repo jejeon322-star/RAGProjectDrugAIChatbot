@@ -1,0 +1,158 @@
+{
+  "doc_id": "mfds:196300035:UD",
+  "drug_id": "mfds:196300035",
+  "scope_type": "product",
+  "title": "아주디곡신주사액 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196300035/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196300035.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20190607",
+  "collected_at": "2026-10-22T05:05:41.706191+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 성인",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 급속 포화요법(포화량 : 1.0-4.0㎎) : 디곡신으로서 초회 0.5-1.0㎎, 이후 0.5㎎을 6-8시간마다 경구투여하고 충분한 효과가 나타날 때까지 계속한다.",
+          "raw_content": "1) 급속 포화요법(포화량 : 1.0-4.0㎎) : 디곡신으로서 초회 0.5-1.0㎎, 이후 0.5㎎을 6-8시간마다 경구투여하고 충분한 효과가 나타날 때까지 계속한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 완서 포화요법을 사용할 수도 있다.",
+          "raw_content": "2) 완서 포화요법을 사용할 수도 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 유지요법 : 1일 0.25-0.5㎎을 경구투여한다.",
+          "raw_content": "3) 유지요법 : 1일 0.25-0.5㎎을 경구투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 소아",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 급속 포화요법",
+          "raw_content": "1) 급속 포화요법"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2세 미만 : 1일 체중 ㎏당 0.06-0.08㎎을 3-4회 분할 투여한다.",
+          "raw_content": "2세 미만 : 1일 체중 ㎏당 0.06-0.08㎎을 3-4회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "2세 이상 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 투여한다.",
+          "raw_content": "2세 이상 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "2) 유지요법",
+          "raw_content": "2) 유지요법"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "포화량의 1/5-1/3을 투여한다.",
+          "raw_content": "포화량의 1/5-1/3을 투여한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "1. 성인",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 급속 포화요법(포화량 : 1.0-2.0㎎) : 디곡신으로서 1회 0.25-0.5㎎을 2-4시간마다 정맥주사하고 충분한 효과가 나타날 때까지 계속한다.",
+          "raw_content": "1) 급속 포화요법(포화량 : 1.0-2.0㎎) : 디곡신으로서 1회 0.25-0.5㎎을 2-4시간마다 정맥주사하고 충분한 효과가 나타날 때까지 계속한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 완서 포화요법을 사용할 수도 있다.",
+          "raw_content": "2) 완서 포화요법을 사용할 수도 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 유지요법 : 1일 0.25㎎을 정맥주사한다.",
+          "raw_content": "3) 유지요법 : 1일 0.25㎎을 정맥주사한다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "2. 소아",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 급속 포화요법",
+          "raw_content": "1) 급속 포화요법"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "① 신생아, 미숙아 : 1일 체중 ㎏당 0.03-0.05㎎을 3-4회 분할 정맥 또는 근육주사한다.",
+          "raw_content": "① 신생아, 미숙아 : 1일 체중 ㎏당 0.03-0.05㎎을 3-4회 분할 정맥 또는 근육주사한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "② 2세 미만 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 정맥 또는 근육주사한다.",
+          "raw_content": "② 2세 미만 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 정맥 또는 근육주사한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "③ 2세 이상 : 1일 체중 ㎏당 0.02-0.04㎎을 3-4회 분할 정맥 또는 근육주사한다.",
+          "raw_content": "③ 2세 이상 : 1일 체중 ㎏당 0.02-0.04㎎을 3-4회 분할 정맥 또는 근육주사한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "2) 유지요법",
+          "raw_content": "2) 유지요법"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "포화량의 1/15-1/10을 정맥 또는 근육주사한다",
+          "raw_content": "포화량의 1/15-1/10을 정맥 또는 근육주사한다"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 성인\n\n1) 급속 포화요법(포화량 : 1.0-4.0㎎) : 디곡신으로서 초회 0.5-1.0㎎, 이후 0.5㎎을 6-8시간마다 경구투여하고 충분한 효과가 나타날 때까지 계속한다.\n\n2) 완서 포화요법을 사용할 수도 있다.\n\n3) 유지요법 : 1일 0.25-0.5㎎을 경구투여한다.\n\n2. 소아\n\n1) 급속 포화요법\n\n2세 미만 : 1일 체중 ㎏당 0.06-0.08㎎을 3-4회 분할 투여한다.\n\n2세 이상 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 투여한다.\n\n2) 유지요법\n\n포화량의 1/5-1/3을 투여한다.\n\n연령, 증상에 따라 적절히 증감한다.\n\n1. 성인\n\n1) 급속 포화요법(포화량 : 1.0-2.0㎎) : 디곡신으로서 1회 0.25-0.5㎎을 2-4시간마다 정맥주사하고 충분한 효과가 나타날 때까지 계속한다.\n\n2) 완서 포화요법을 사용할 수도 있다.\n\n3) 유지요법 : 1일 0.25㎎을 정맥주사한다.\n\n2. 소아\n\n1) 급속 포화요법\n\n① 신생아, 미숙아 : 1일 체중 ㎏당 0.03-0.05㎎을 3-4회 분할 정맥 또는 근육주사한다.\n\n② 2세 미만 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 정맥 또는 근육주사한다.\n\n③ 2세 이상 : 1일 체중 ㎏당 0.02-0.04㎎을 3-4회 분할 정맥 또는 근육주사한다.\n\n2) 유지요법\n\n포화량의 1/15-1/10을 정맥 또는 근육주사한다\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"(경구 : 정제, 엘릭실제)\">\r\n    <ARTICLE title=\"1. 성인\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법(포화량 : 1.0-4.0㎎) : 디곡신으로서 초회 0.5-1.0㎎, 이후 0.5㎎을 6-8시간마다 경구투여하고 충분한 효과가 나타날 때까지 계속한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 완서 포화요법을 사용할 수도 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 유지요법 : 1일 0.25-0.5㎎을 경구투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 소아\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2세 미만 : 1일 체중 ㎏당 0.06-0.08㎎을 3-4회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2세 이상 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 유지요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[포화량의 1/5-1/3을 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n  <SECTION title=\"(주사제)\">\r\n    <ARTICLE title=\"1. 성인\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법(포화량 : 1.0-2.0㎎) : 디곡신으로서 1회 0.25-0.5㎎을 2-4시간마다 정맥주사하고 충분한 효과가 나타날 때까지 계속한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 완서 포화요법을 사용할 수도 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 유지요법 : 1일 0.25㎎을 정맥주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 소아\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[① 신생아, 미숙아 : 1일 체중 ㎏당 0.03-0.05㎎을 3-4회 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[② 2세 미만 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[③ 2세 이상 : 1일 체중 ㎏당 0.02-0.04㎎을 3-4회 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 유지요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[포화량의 1/15-1/10을 정맥 또는 근육주사한다]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "f9817a2de3bc97bc6f3523a07d9c47a55776a6eb2f3095409daec1b45126aaa3"
+}

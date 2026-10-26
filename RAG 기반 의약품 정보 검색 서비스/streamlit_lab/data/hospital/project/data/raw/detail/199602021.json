@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199602021",
+        "ITEM_NAME": "씨프록탄정250밀리그램(시프로플록사신염산염수화물)",
+        "ENTP_NAME": "한국넬슨제약(주)",
+        "ITEM_PERMIT_DATE": "19961004",
+        "CNSGN_MANUF": "신일제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 원형 필름코팅정제",
+        "BAR_CODE": "8806567009706,8806567009713,8806567009720,8806567009737",
+        "MATERIAL_NAME": "총량 : 1정(460mg) 중|성분명 : 시프로플록사신염산염수화물|분량 : 291|단위 : 밀리그램|규격 : USP|성분정보 : 시프로플록사신으로서250mg|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602021/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602021/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602021/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "100정/병, 30정/병",
+        "EDI_CODE": "656700970",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1975",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260323",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2026-03-23/사용상주의사항변경(부작용포함), 2021-09-18/사용상주의사항변경(부작용포함), 2020-05-21/효능효과변경, 2020-05-21/효능효과변경, 2018-08-02/용법용량변경, 2018-08-02/사용상주의사항변경(부작용포함), 2018-08-02/사용상주의사항변경(부작용포함), 2017-09-30/사용상주의사항변경(부작용포함), 2017-01-06/효능효과변경, 2017-01-06/사용상주의사항변경(부작용포함), 2016-05-14/사용상주의사항변경(부작용포함), 2013-10-13/성상변경, 2012-10-08/사용상주의사항변경(부작용포함), 2011-06-23/제품명칭변경, 2010-10-18/사용상주의사항변경(부작용포함), 2008-04-18/사용상주의사항변경(부작용포함), 2008-02-02/용법용량변경, 2008-02-02/효능효과변경, 2008-02-02/사용상주의사항변경(부작용포함), 2006-09-08",
+        "TOTAL_CONTENT": "1정(460mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223091]시프로플록사신염산염수화물",
+        "INGR_NAME": "[M040450]옥수수전분|[M040826]히드록시프로필셀룰로오스|[M060073]미결정셀룰로오스|[M071119]전분글리콜산나트륨|[M080518]저치환도히드록시프로필셀룰로오스|[M082089]디아세틸레이티드모노글리세리드|[M102967]히프로멜로오스|[M205921]산화티탄|[M209359]폴리에틸렌글리콜6000|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "J01MA02",
+        "ITEM_ENG_NAME": "Ciproctan Tab. 250mg",
+        "ENTP_ENG_NAME": "Hankooknelsonpharm.Co.,Ltd",
+        "MAIN_INGR_ENG": "Ciprofloxacin Hydrochloride Hydrate",
+        "BIZRNO": "3038111410",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

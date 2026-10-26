@@ -1,0 +1,218 @@
+{
+  "doc_id": "mfds:195700016:NB",
+  "drug_id": "mfds:195700016",
+  "scope_type": "product",
+  "title": "안나카주사액10%(제일벤조산나트륨카페인주)(수출용) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700016/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700016.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20180917",
+  "collected_at": "2026-10-22T05:00:50.500839+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용 시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용 시에는 각별히 주의할 것(유리앰플주사제에 한함).",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용 시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용 시에는 각별히 주의할 것(유리앰플주사제에 한함)."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 위궤양 또는 그 병력이 있는 환자",
+          "raw_content": "1) 위궤양 또는 그 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 심장애 환자",
+          "raw_content": "2) 심장애 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 녹내장 환자",
+          "raw_content": "3) 녹내장 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 이 약에 과민반응 환자",
+          "raw_content": "4) 이 약에 과민반응 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 소화기계 : 구역, 설사 등이 나타날 수 있다.",
+          "raw_content": "1) 소화기계 : 구역, 설사 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 순환기계 : 빈맥, 심계항진, 기외수축 등이 나타날 수 있다.",
+          "raw_content": "2) 순환기계 : 빈맥, 심계항진, 기외수축 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 중추신경계 : 불면, 흥분, 진전, 어지럼, 동공확대, 섬광암점(Scintillation-Scotoma), 이명, 불안 등이 나타날 수 있다.",
+          "raw_content": "3) 중추신경계 : 불면, 흥분, 진전, 어지럼, 동공확대, 섬광암점(Scintillation-Scotoma), 이명, 불안 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 눈 : 만성 녹내장을 악화시킨다는 보고가 있다.",
+          "raw_content": "4) 눈 : 만성 녹내장을 악화시킨다는 보고가 있다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 기타 : 무력감이 나타날 수 있다.",
+          "raw_content": "5) 기타 : 무력감이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약을 과량투여할 경우 우울증 환자를 더욱 우울하게 만들 수 있으므로 1회 용량이 1 g을 넘지 않도록 한다.",
+          "raw_content": "이 약을 과량투여할 경우 우울증 환자를 더욱 우울하게 만들 수 있으므로 1회 용량이 1 g을 넘지 않도록 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 잔틴계 약물(아미노필린수화물, 디프로필린, 테오필린 등) 또는 중추신경 흥분제와 병용투여시 병용약물의 대사와 배설을 지연시켜 과도한 중추신경 흥분작용이 나타날 수 있다.",
+          "raw_content": "1) 잔틴계 약물(아미노필린수화물, 디프로필린, 테오필린 등) 또는 중추신경 흥분제와 병용투여시 병용약물의 대사와 배설을 지연시켜 과도한 중추신경 흥분작용이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) MAO억제제와 병용투여시 빈맥, 혈압상승 등이 나타날 수 있다.",
+          "raw_content": "2) MAO억제제와 병용투여시 빈맥, 혈압상승 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 시메티딘과 병용투여시 카페인의 대사와 배설을 지연시켜 과도한 중추신경계 흥분작용이 나타날 수 있다.",
+          "raw_content": "3) 시메티딘과 병용투여시 카페인의 대사와 배설을 지연시켜 과도한 중추신경계 흥분작용이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "카페인은 태반을 통과하여 모유중으로 쉽게 이행되므로 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부에는 장기연용을 피한다.",
+          "raw_content": "카페인은 태반을 통과하여 모유중으로 쉽게 이행되므로 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부에는 장기연용을 피한다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 과량투여시의 처치",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 증상 : 소화기 증상(메스꺼움, 구토 등), 혈관 증상(부정맥, 혈압 상승 등), 정신 신경 증상(경련, 혼수 등), 호흡기 증상(호흡촉진, 호흡마비 등) 등의 악화를 일으킬 수 있다.",
+          "raw_content": "1) 증상 : 소화기 증상(메스꺼움, 구토 등), 혈관 증상(부정맥, 혈압 상승 등), 정신 신경 증상(경련, 혼수 등), 호흡기 증상(호흡촉진, 호흡마비 등) 등의 악화를 일으킬 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 처치 : 수액 등에 의해 이 약의 배설을 촉진한다. 흥분 상태에서는 대증요법으로 디아제팜, 페노바르비탈 등의 중추신경억제제 투여를 고려하고 호흡관리를 실시한다.",
+          "raw_content": "2) 처치 : 수액 등에 의해 이 약의 배설을 촉진한다. 흥분 상태에서는 대증요법으로 디아제팜, 페노바르비탈 등의 중추신경억제제 투여를 고려하고 호흡관리를 실시한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정맥주사를 할 경우에는 주사속도를 느리게 한다.",
+          "raw_content": "1) 정맥주사를 할 경우에는 주사속도를 느리게 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 주사바늘은 작은 것을 사용한다.",
+          "raw_content": "2) 주사바늘은 작은 것을 사용한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 근육 또는 피하 주사 시",
+          "raw_content": "3) 근육 또는 피하 주사 시"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "(1) 신경 주행 부위를 피하도록 주의한다.",
+          "raw_content": "(1) 신경 주행 부위를 피하도록 주의한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "(2) 반복 주사하는 경우에는 주사 부위를 바꾸어 좌우 교대로 주사한다.",
+          "raw_content": "(2) 반복 주사하는 경우에는 주사 부위를 바꾸어 좌우 교대로 주사한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "(3) 주사 바늘에 의해 격통을 호소하거나 혈액의 역류가 발생한 경우에는 즉시 바늘을 빼고 부위를 바꾸어 주사한다.",
+          "raw_content": "(3) 주사 바늘에 의해 격통을 호소하거나 혈액의 역류가 발생한 경우에는 즉시 바늘을 빼고 부위를 바꾸어 주사한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용 시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용 시에는 각별히 주의할 것(유리앰플주사제에 한함).\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 위궤양 또는 그 병력이 있는 환자\n\n2) 심장애 환자\n\n3) 녹내장 환자\n\n4) 이 약에 과민반응 환자\n\n3. 이상반응\n\n1) 소화기계 : 구역, 설사 등이 나타날 수 있다.\n\n2) 순환기계 : 빈맥, 심계항진, 기외수축 등이 나타날 수 있다.\n\n3) 중추신경계 : 불면, 흥분, 진전, 어지럼, 동공확대, 섬광암점(Scintillation-Scotoma), 이명, 불안 등이 나타날 수 있다.\n\n4) 눈 : 만성 녹내장을 악화시킨다는 보고가 있다.\n\n5) 기타 : 무력감이 나타날 수 있다.\n\n4. 일반적 주의\n\n이 약을 과량투여할 경우 우울증 환자를 더욱 우울하게 만들 수 있으므로 1회 용량이 1 g을 넘지 않도록 한다.\n\n5. 상호작용\n\n1) 잔틴계 약물(아미노필린수화물, 디프로필린, 테오필린 등) 또는 중추신경 흥분제와 병용투여시 병용약물의 대사와 배설을 지연시켜 과도한 중추신경 흥분작용이 나타날 수 있다.\n\n2) MAO억제제와 병용투여시 빈맥, 혈압상승 등이 나타날 수 있다.\n\n3) 시메티딘과 병용투여시 카페인의 대사와 배설을 지연시켜 과도한 중추신경계 흥분작용이 나타날 수 있다.\n\n6. 임부 및 수유부에 대한 투여\n\n카페인은 태반을 통과하여 모유중으로 쉽게 이행되므로 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부에는 장기연용을 피한다.\n\n7. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.\n\n8. 과량투여시의 처치\n\n1) 증상 : 소화기 증상(메스꺼움, 구토 등), 혈관 증상(부정맥, 혈압 상승 등), 정신 신경 증상(경련, 혼수 등), 호흡기 증상(호흡촉진, 호흡마비 등) 등의 악화를 일으킬 수 있다.\n\n2) 처치 : 수액 등에 의해 이 약의 배설을 촉진한다. 흥분 상태에서는 대증요법으로 디아제팜, 페노바르비탈 등의 중추신경억제제 투여를 고려하고 호흡관리를 실시한다.\n\n9. 적용상의 주의\n\n1) 정맥주사를 할 경우에는 주사속도를 느리게 한다.\n\n2) 주사바늘은 작은 것을 사용한다.\n\n3) 근육 또는 피하 주사 시\n\n(1) 신경 주행 부위를 피하도록 주의한다.\n\n(2) 반복 주사하는 경우에는 주사 부위를 바꾸어 좌우 교대로 주사한다.\n\n(3) 주사 바늘에 의해 격통을 호소하거나 혈액의 역류가 발생한 경우에는 즉시 바늘을 빼고 부위를 바꾸어 주사한다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용 시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용 시에는 각별히 주의할 것(유리앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 위궤양 또는 그 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약에 과민반응 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 구역, 설사 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 순환기계 : 빈맥, 심계항진, 기외수축 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중추신경계 : 불면, 흥분, 진전, 어지럼, 동공확대, 섬광암점(Scintillation-Scotoma), 이명, 불안 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 눈 : 만성 녹내장을 악화시킨다는 보고가 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 기타 : 무력감이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약을 과량투여할 경우 우울증 환자를 더욱 우울하게 만들 수 있으므로 1회 용량이 1 g을 넘지 않도록 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 잔틴계 약물(아미노필린수화물, 디프로필린, 테오필린 등) 또는 중추신경 흥분제와 병용투여시 병용약물의 대사와 배설을 지연시켜 과도한 중추신경 흥분작용이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO억제제와 병용투여시 빈맥, 혈압상승 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 시메티딘과 병용투여시 카페인의 대사와 배설을 지연시켜 과도한 중추신경계 흥분작용이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[카페인은 태반을 통과하여 모유중으로 쉽게 이행되므로 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부에는 장기연용을 피한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 증상 : 소화기 증상(메스꺼움, 구토 등), 혈관 증상(부정맥, 혈압 상승 등), 정신 신경 증상(경련, 혼수 등), 호흡기 증상(호흡촉진, 호흡마비 등) 등의 악화를 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 처치 : 수액 등에 의해 이 약의 배설을 촉진한다. 흥분 상태에서는 대증요법으로 디아제팜, 페노바르비탈 등의 중추신경억제제 투여를 고려하고 호흡관리를 실시한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정맥주사를 할 경우에는 주사속도를 느리게 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 주사바늘은 작은 것을 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 근육 또는 피하 주사 시]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 신경 주행 부위를 피하도록 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 반복 주사하는 경우에는 주사 부위를 바꾸어 좌우 교대로 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 주사 바늘에 의해 격통을 호소하거나 혈액의 역류가 발생한 경우에는 즉시 바늘을 빼고 부위를 바꾸어 주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "11082adf69299ab28647773d318c13e78e4fb73b630dee7c16c9967d58d05dd4"
+}

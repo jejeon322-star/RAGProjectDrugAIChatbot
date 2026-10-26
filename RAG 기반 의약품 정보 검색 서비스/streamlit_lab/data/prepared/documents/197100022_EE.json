@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:197100022:EE",
+  "drug_id": "mfds:197100022",
+  "scope_type": "product",
+  "title": "대한염화나트륨포도당주사액(1-3) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100022/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100022.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260904",
+  "collected_at": "2026-10-22T05:23:08.846372+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급",
+          "raw_content": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 에너지 보급",
+          "raw_content": "○ 에너지 보급"
+        }
+      ]
+    }
+  ],
+  "text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급\n\n○ 에너지 보급",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 에너지 보급]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "43d2fba7f028b23fa875f9749738d88805527d99d588de7f502a63e7840f1da8"
+}

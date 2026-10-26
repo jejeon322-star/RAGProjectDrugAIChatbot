@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196300001",
+        "ITEM_NAME": "디고신정(디곡신)",
+        "ENTP_NAME": "에이치케이이노엔(주)",
+        "ITEM_PERMIT_DATE": "19630516",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 원형정제이다.",
+        "BAR_CODE": "8806400000907,8806400000914,8806400000921,8806400000938",
+        "MATERIAL_NAME": "총량 : 이 약 1정(120mg) 중|성분명 : 디곡신|분량 : 0.25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196300001/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196300001/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196300001/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기, 실온보존(1∼30℃)",
+        "VALID_TERM": "전과 동일",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1000정/병",
+        "EDI_CODE": "640000090",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1452",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20190607",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2019-06-07/저장방법 및 유효기간(사용기간)변경, 2008-04-10/성상변경, 2008-04-10/제품명칭변경, 2008-04-10/사용상주의사항변경(부작용포함), 1996-01-01/용법용량변경, 1996-01-01/효능효과변경, 1996-01-01/사용상주의사항변경(부작용포함), 1995-05-19/사용상주의사항변경(부작용포함), 1992-03-26/저장방법 및 유효기간(사용기간)변경, 1986-10-24/성상변경, 1986-10-24/사용상주의사항변경(부작용포함), 1978-05-10/용법용량변경, 1978-05-10/효능효과변경, 1978-05-10",
+        "TOTAL_CONTENT": "이 약 1정(120mg) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 울혈성심부전(폐부종, 심장천식 등 포함) : 판막질환, 고혈압, 허혈성심질환(심근경색, 협심증 등), 선천성심질환, 폐성심(폐혈전, 색전증, 폐기종, 폐섬유증)에 의한 것.\" />\r\n    <ARTICLE title=\"2. 심방세동·조동에 의한 빈맥, 발작성심방성빈맥\" />\r\n    <ARTICLE title=\"3. 기타 심질환(심막염, 심근질환 등), 갑상선기능항진증 및 저하증\" />\r\n    <ARTICLE title=\"4. 심부전 또는 각종 빈맥의 예방 및 치료\" />\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제, 엘릭실제)\" />\r\n    <ARTICLE title=\"1. 성인\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법(포화량 : 1.0-4.0㎎) : 디곡신으로서 초회 0.5-1.0㎎, 이후 0.5㎎을 6-8시간마다 경구투여하고 충분한 효과가 나타날 때까지 계속한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 완서 포화요법을 사용할 수도 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 유지요법 : 1일 0.25-0.5㎎을 경구투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 소아\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2세 미만 : 1일 체중 ㎏당 0.06-0.08㎎을 3-4회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2세 이상 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 유지요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[포화량의 1/5-1/3을 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(주사제)\" />\r\n    <ARTICLE title=\"1. 성인\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법(포화량 : 1.0-2.0㎎) : 디곡신으로서 1회 0.25-0.5㎎을 2-4시간마다 정맥주사하고 충분한 효과가 나타날 때까지 계속한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 완서 포화요법을 사용할 수도 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 유지요법 : 1일 0.25㎎을 정맥주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 소아\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급속 포화요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[① 신생아, 미숙아 : 1일 체중 ㎏당 0.03-0.05㎎을 3-4회 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[② 2세 미만 : 1일 체중 ㎏당 0.04-0.06㎎을 3-4회 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[③ 2세 이상 : 1일 체중 ㎏당 0.02-0.04㎎을 3-4회 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 유지요법]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[포화량의 1/15-1/10을 정맥 또는 근육주사한다]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 방실블록(특히 애덤스-스토크스증후군), 동방블록, 경동맥동증후군 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 디기탈리스 중독, 폐쇄성 심근병증(특발성 비대성 대동맥판하협착증 등) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 심실빈맥 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) WPW증후군 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 이 약에 과민증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급성 심근경색, 심실성 기외수축, 심내막염, 폐성심, 갑상선기능항진 또는 저하증, 신장애 환자(저용량에서도 중독을 일으키기 쉽고 효과의 발현이 현저하지 않으므로 과량 투여로 중독을 일으킬 위험이 있음.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 혈액투석을 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전해질평형실조(저칼륨혈증, 고칼륨혈증, 고칼슘혈증, 저마그네슘혈증) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 동기능부전증후군 환자(동서맥을 유발 또는 악화시키거나 동방블록을 일으킬 수 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 중증의 호흡기질환 환자(디기탈리스제제에 대한 심근의 감수성을 증가시킬 수 있다.)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 다음과 같은 중독증상이 나타날 수 있으므로 관찰을 충분히 하고 이러한 증상이 나타날 경우에는 감량하거나 휴약하고 다시 저용량에서 재투여를 시작하는 등 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[① 소화기계 : 식욕부진, 구역, 구토, 설사 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[② 순환기계 : 부정맥(심실성 기외수축), 방실블록, 빈맥, 현저한 서맥 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[③ 눈 : 시각장애(빛이 없는 곳에서 가물가물하게 보임, 황시, 녹시, 복시 등)가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[④ 정신신경계 : 어지러움, 두통, 방향감각상실, 착란, 허약, 감정둔화, 피로, 권태, 우울 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 과민증 : 발진, 두드러기, 자반, 부종, 호산구증가, 혈소판감소, 홍반성 루푸스(LE)양 증후군 등이 나타날 수 있으므로 이러한 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 기타 : 드물게 여성형 유방, 근력저하 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 투여할 경우에는 관찰을 충분히 하고 과거 이 약 투여 2-3주 이내에 디기탈리스제제 또는 기타의 강심배당체가 투여되었는지를 확인한 후 신중히 투여량을 결정한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 흡수불량증후군 또는 위장관이 복구된 환자는 더 많은 용량이 필요하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 다음 약물과 병용투여시 디기탈리스 중독을 일으키기 쉬우므로 병용투여할 경우에는 관찰을 충분히 하고 신중히 투여한다. : 칼륨배설성 이뇨제(치아짓계 이뇨제, 에타크린산, 클로르탈리돈, 푸로세미드 등), 아미오다론, 스피로노락톤, 칼슘제, 레세르핀계 약물, 아트로핀계 약물, β-차단제, 교감신경효능약, 갑상선제제, 퀴니딘, 칼슘길항제, 이트라코나졸, 인도메타신, 프로파페논, 캅토프릴, 플레카이니드, 프라조신, 프로판텔린, 테트라사이클린, 에리스로마이신, 리튬염, 코르티코스테로이드, 카르베녹솔론, 미라베그론]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 다음 약과 병용투여시 이 약의 흡수를 지연 또는 감소시킬 수 있으므로 이 약의 흡수 저해를 피하기 위하여 가능한 투여간격을 늘이는 등 신중히 투여한다. : 콜레스티라민, 황산프라디오마이신, 제산제, 카올린-펙틴, 설파살라진, 네오마이신, 메토클로프라미드, 디페녹실레이트, 리팜피신, 페니토인, 페니실라민]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임신중의 투여에 대한 안전성은 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약은 모유중으로 이행하므로 수유중인 부인에 투여할 경우에는 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아에 투여할 경우에는 부작용이 나타나기 쉬우므로 관찰을 충분히 하고 신중히 투여량을 결정한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고령자에 투여할 경우에는 부작용이 나타나기 쉬우므로 관찰을 충분히 하고 신중히 투여량을 결정한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의(주사제에 한함.)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[빠른 정맥주사는 혈관수축으로 고혈압을 일으키거나 관상혈류가 감소될 수 있다. 그러므로 고혈압성 심부전 및 급성 심근경색시 주사속도를 천천히 하는 것이 중요하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040091]디곡신",
+        "INGR_NAME": "[M040450]옥수수전분|[M051756]포비돈|[M223367]유당수화물|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "C01AA05",
+        "ITEM_ENG_NAME": "Digosin Tab.",
+        "ENTP_ENG_NAME": "HK inno.N corporation",
+        "MAIN_INGR_ENG": "Digoxin",
+        "BIZRNO": "2018638914",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

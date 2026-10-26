@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:197300090:EE",
+  "drug_id": "mfds:197300090",
+  "scope_type": "product",
+  "title": "염카루 주 3% (염화칼슘수화물) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300090/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300090.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260831",
+  "collected_at": "2026-10-22T05:29:03.820692+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 저 칼슘혈증에 의한 테타니 또는 그 관련 증상",
+          "raw_content": "○ 저 칼슘혈증에 의한 테타니 또는 그 관련 증상"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "○ 마그네슘중독",
+          "raw_content": "○ 마그네슘중독"
+        }
+      ]
+    }
+  ],
+  "text": "○ 저 칼슘혈증에 의한 테타니 또는 그 관련 증상\n\n○ 마그네슘중독",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 저 칼슘혈증에 의한 테타니 또는 그 관련 증상]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 마그네슘중독]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "568d0c9ff98d48c126f8b1eea5789c7fae085b1ae274c95de2f1adf32b270cb5"
+}

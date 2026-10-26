@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200402637:UD",
+  "drug_id": "mfds:200402637",
+  "scope_type": "product",
+  "title": "아모디핀정5밀리그램(암로디핀캄실산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402637/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200402637_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:00:07.816783+00:00",
+  "text": "[원문 1쪽]\n용법용량\n<성인>\n암로디핀으로서 1일 1회 5mg을 경구투여하며 환자의 반응에 따라 1일 최고 10 mg까지 증량할 수 있다. 연\n령, 증상에 따라 적절히 증감한다.\n<소아 (6-17세)>\n효과적인 혈압강하를 위한 암로디핀의 경구투여 용량은 1일 1회 2.5 mg-5 mg이다.\n소아환자에서 1일 5 mg을 초과하는 용량은 연구되지 않았다.",
+  "content_hash": "dba6a517b037100b0261e3c2b2da6dcd52cd48a6d742aacde16788796f310ac1",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "bbbceb03fd4ce339288fbb8757fb7e1767a8f2b4f288e1500c4fa891b98c5048",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n<성인>\n암로디핀으로서 1일 1회 5mg을 경구투여하며 환자의 반응에 따라 1일 최고 10 mg까지 증량할 수 있다. 연\n령, 증상에 따라 적절히 증감한다.\n<소아 (6-17세)>\n효과적인 혈압강하를 위한 암로디핀의 경구투여 용량은 1일 1회 2.5 mg-5 mg이다.\n소아환자에서 1일 5 mg을 초과하는 용량은 연구되지 않았다."
+        }
+      ]
+    }
+  ]
+}

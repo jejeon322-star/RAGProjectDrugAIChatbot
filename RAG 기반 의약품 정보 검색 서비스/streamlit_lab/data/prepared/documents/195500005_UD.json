@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:195500005:UD",
+  "drug_id": "mfds:195500005",
+  "scope_type": "product",
+  "title": "중외5%포도당생리식염액(수출명:5%DextroseinnormalsalineInj.) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195500005/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195500005.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210827",
+  "collected_at": "2026-10-22T04:58:03.845942+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "보통 성인 1일 500～1,000mL를 2～3회 나누어 점적 정맥주사한다.",
+          "raw_content": "보통 성인 1일 500～1,000mL를 2～3회 나누어 점적 정맥주사한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "투여속도는 시간당 250～500mL(분당 60～120방울)이고, 영ㆍ유아의 경우 시간당 15～60mL(분당 4～15방울), 고령자의 경우 시간당 250mL(분당 60방울)로 한다.",
+          "raw_content": "투여속도는 시간당 250～500mL(분당 60～120방울)이고, 영ㆍ유아의 경우 시간당 15～60mL(분당 4～15방울), 고령자의 경우 시간당 250mL(분당 60방울)로 한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+          "raw_content": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "보통 성인 1일 500～1,000mL를 2～3회 나누어 점적 정맥주사한다.\n\n투여속도는 시간당 250～500mL(분당 60～120방울)이고, 영ㆍ유아의 경우 시간당 15～60mL(분당 4～15방울), 고령자의 경우 시간당 250mL(분당 60방울)로 한다.\n\n투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통 성인 1일 500～1,000mL를 2～3회 나누어 점적 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여속도는 시간당 250～500mL(분당 60～120방울)이고, 영ㆍ유아의 경우 시간당 15～60mL(분당 4～15방울), 고령자의 경우 시간당 250mL(분당 60방울)로 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "1a3243ca4161f4d351d97acd5739e5842613875454331264895894e016c5a1b1"
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201804137",
+        "ITEM_NAME": "에소파졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+        "ENTP_NAME": "(주)일화",
+        "ITEM_PERMIT_DATE": "20181019",
+        "CNSGN_MANUF": "(주)유유제약",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "연한 분홍색의 장방형 필름코팅정",
+        "BAR_CODE": "8806409037201,8806409037218",
+        "MATERIAL_NAME": "총량 : 1정270.25밀리그램|성분명 : 에스오메프라졸마그네슘삼수화물|분량 : 21.69|단위 : 밀리그램|규격 : EP|성분정보 : 에스오메프라졸로서 20밀리그램|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804137/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804137/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804137/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "28정/상자[(7정/Alu-Alu x 4)]",
+        "EDI_CODE": "640903720",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1396",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240327",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-03-27/사용상의 주의사항, 2023-07-28/사용상주의사항변경(부작용포함), 2023-05-14/사용상주의사항변경(부작용포함), 2019-09-12/제품명칭변경, 2019-08-26/성상변경, 2019-08-26/사용상주의사항변경(부작용포함), 2019-08-26",
+        "TOTAL_CONTENT": "1270.25",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M092321]에스오메프라졸마그네슘삼수화물",
+        "INGR_NAME": "[M040262]산화마그네슘|[M051630]트리아세틴|[M081161]크로스포비돈|[M103077]L-아르기닌|[M116999]아크릴이즈분홍색(93A84421)|[M245108]미결정셀룰로오스|[M245108]미결정셀룰로오스|[M261157]오파드라이II흰색(85F18422)|[M269120]푸마르산스테아릴나트륨",
+        "ATC_CODE": "A02BC05",
+        "ITEM_ENG_NAME": "Esopazole Tab. 20mg",
+        "ENTP_ENG_NAME": "IL HWA CO.,LTD.",
+        "MAIN_INGR_ENG": "Esomeprazole Magnesium Trihydrate",
+        "BIZRNO": "1328101004",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

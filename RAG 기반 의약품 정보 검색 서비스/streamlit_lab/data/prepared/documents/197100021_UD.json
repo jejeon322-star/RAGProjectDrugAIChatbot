@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:197100021:UD",
+  "drug_id": "mfds:197100021",
+  "scope_type": "product",
+  "title": "대한염화나트륨포도당주사액(1-2) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100021/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100021.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250922",
+  "collected_at": "2026-10-22T05:22:50.452115+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "보통 성인 1회 500～1,000mL를 점적 정맥주사한다.",
+          "raw_content": "보통 성인 1회 500～1,000mL를 점적 정맥주사한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다. 특히 신생아, 미숙아에는 급속주입(시간당 100mL 이상)하지 않는다.",
+          "raw_content": "투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다. 특히 신생아, 미숙아에는 급속주입(시간당 100mL 이상)하지 않는다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+          "raw_content": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "보통 성인 1회 500～1,000mL를 점적 정맥주사한다.\n\n투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다. 특히 신생아, 미숙아에는 급속주입(시간당 100mL 이상)하지 않는다.\n\n투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통 성인 1회 500～1,000mL를 점적 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다. 특히 신생아, 미숙아에는 급속주입(시간당 100mL 이상)하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "70f676a1fec3ea3c96f01d5853f0e98a6bb968663695db3c81981d6f9f308e0a"
+}

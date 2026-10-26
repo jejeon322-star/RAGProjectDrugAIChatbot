@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201405094:EE",
+  "drug_id": "mfds:201405094",
+  "scope_type": "product",
+  "title": "쎄레민캡슐200밀리그램(세레콕시브) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405094/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201405094_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:02.821029+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 골관절염(퇴행관절염)의 증상이나 징후의 완화\n2. 류마티스관절염의 증상이나 징후의 완화\n3. 강직척추염의 증상 및 징후의 완화\n4. 성인의 급성 통증 완화(수술후, 발치후 진통)\n5. 원발월경통",
+  "content_hash": "4a30b89348c233de5078537a7a1a0ffcfa33f9d548cb0d25e93d217b37269c76",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "7865b2be1f5b5e9c5bfad60090c927998e5ef2de2390f35d9d695c16b247ee80",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 골관절염(퇴행관절염)의 증상이나 징후의 완화\n2. 류마티스관절염의 증상이나 징후의 완화\n3. 강직척추염의 증상 및 징후의 완화\n4. 성인의 급성 통증 완화(수술후, 발치후 진통)\n5. 원발월경통"
+        }
+      ]
+    }
+  ]
+}

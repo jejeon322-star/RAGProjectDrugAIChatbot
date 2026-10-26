@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197800388",
+  "doc_id": "mfds:197800388:STORAGE",
+  "title": "신일덱사메타손정 — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "1e5f8cf04f97be0513f9c69c04c1cb828fe9a0a5784a11c286ff42f09027ec79",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\197800388.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:43.660213+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광 기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광 기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 36 개월"
+}

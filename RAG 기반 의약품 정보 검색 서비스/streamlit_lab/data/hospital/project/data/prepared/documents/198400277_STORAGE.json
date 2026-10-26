@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:198400277",
+  "doc_id": "mfds:198400277:STORAGE",
+  "title": "유한디나트륨인산덱사메타손주사액(수출명:덱사컴,유한덱사컴) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "9d13983a07d8dc7dbf5824bc7b0095efe398e8713a2c4db2942ebe5dd59cb5f6",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\198400277.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:45.421276+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광한 밀봉용기, 실온(1 ~ 30℃) 보관\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광한 밀봉용기, 실온(1 ~ 30℃) 보관\n사용기간: 제조일로부터 24 개월"
+}

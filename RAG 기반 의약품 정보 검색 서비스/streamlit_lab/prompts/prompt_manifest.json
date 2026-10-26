@@ -1,0 +1,15 @@
+{
+  "version": "2026-10-23-prompt-v2",
+  "canonical_directory": "prompts",
+  "model": "gpt-6-astra",
+  "evaluation_cases": 7,
+  "after_passed": 7,
+  "unit_and_ui_checks": 24,
+  "hashes": {
+    "answer.txt": "038c9b2473311344d7a322f92e17e05d23d02ac773813b955fcaeea58eb97fcd",
+    "explore.txt": "b1046cf4e039011226ef49ad5cf8fff1535e964ac76d123dd287873991a25257",
+    "interpret.txt": "13ab5568cb5bf0722a16fad7be41a51797fae0a9958b4a26438e5b8df835b506",
+    "search.txt": "d65f0f7f41589a19e054bbf5d6c2fea5b55f191a5d3e4bd2da556c6ddd4d599b",
+    "select.txt": "05df051bb8566df3005c3c1c3099030079723d486264395b6d0911626025ad33"
+  }
+}

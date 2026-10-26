@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "195900034",
+        "ITEM_NAME": "신신티눈고(살리실산반창고)(수출명:SINSINCORNPLASTER)",
+        "ENTP_NAME": "신신제약(주)",
+        "ITEM_PERMIT_DATE": "19591201",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "흰색 부직포에 담황색 - 유백색의 점착물질이 도포(바르다)된 경고제이며, 둥근 모양의 보호용 펠트와 고정용 반창고가 들어있다.\r\n\r\n",
+        "BAR_CODE": "8806438003901,8806438003918,8806438003925,8806438003932",
+        "MATERIAL_NAME": "총량 : 25.42㎠, 1.45g 중|성분명 : 살리실산|분량 : 0.725|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900034/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900034/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900034/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900034/II",
+        "STORAGE_METHOD": "밀폐용기\r\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1매 (4.1×6.2㎠) : 2매 / 1포 / 케이스",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1332",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20151030",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상변경, 2015-10-30/사용상주의사항변경(부작용포함), 2014-04-25/용법용량변경, 2014-04-25/성상변경, 2014-04-25/용법용량변경, 2005-01-31/성상변경, 2005-01-31/사용상주의사항변경(부작용포함), 1997-04-25/용법용량변경, 1982-11-18/저장방법 및 유효기간(사용기간)변경, 1981-03-17/효능효과변경, 1979-03-14",
+        "TOTAL_CONTENT": "25.42㎠, 1.45g 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(경고제)(반창고)(액제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[티눈, 못(굳은살), 사마귀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(결제, 27%)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통의 모자이크(양) 발바닥 사마귀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(겔제, 5%)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[건조, 인설 또는 못(굳은살)의 피부의 박리]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[본 품을 이형지로부터 벗겨 이 약제면을 환부(질환 부위)에 대고 테이프로 고정하고 2~5일마다 교체하여 붙인다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자(부위)에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약에 과민증 또는 그 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 당뇨병 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액순환장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 눈주위 및 점막]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 감염, 염증, 발적(충혈되어 붉어짐) 또는 자극이 있는 부위]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 점, 태어날 때부터 있는 점 또는 사마귀, 털이 있는 사마귀 및 생식기 부위의 사마귀]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 약물 또는 화장품등에 의해 알레르기 증상(예 : 발진, 발적(충혈되어 붉어짐), 가려움,]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[옻 등에 의한 피부염)의 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 영아(젖먹이)&nbsp;&#8729; 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 신부전 환자(살리실염이 피부에 대량 흡수될 경우 중독을 유발하므로 신부전 환자에]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[는 광범위한 피부에 장기간 적용하지 않는다)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 발진, 발적(충혈되어 붉어짐), 홍반(붉은 반점), 가려움이 나타날 수 있으며 이러한 증]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[상이 나타날 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 대량 장기간 연용(계속 사용)시 피부염, 피부궤양이 나타날 수 있으며 이러한 증상이]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[나타날 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약이 정상 피부에 닿았을 경우에는 국소 자극 반응이 나타날 수 있으며 이러한]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[반응이 나타날 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 드물게 피부자극, 접촉성 알레르기 반응이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법&nbsp;&#8729; 용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수회(여러 차례) 사용하여도 증상의 개선이 나타나지 않을 경우에는 사용을 중지하고]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[약사 또는 의사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 화농(곪음)성피부염, 습윤(습기 참), 미란(짓무름)의 경우에는 이를 미리 치료한 후 이]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[약을 적용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약을 붙인 채로 물 속에 들어가는 경우에는 약고가 녹아서 없어질 수 있으므로]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[주의한다.(경고제/반창고에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 광범위 병소(아픈 부위)에 적용하는 경우에는 부작용이 나타나기 쉬우므로 주의하여]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 실수로 이 약을 복용한 경우에는 의사 또는 약사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 소아에 투여시 보호자의 지도&nbsp;&#8729; 감독 하에 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 메토트렉세이트와 병용(함께 사용)시 메토트렉세이트의 독성이 증가할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 설포닐우레아와 병용(함께 사용)투여시 혈당저하작용이 증가할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약은 다른 국소 적용 약물의 흡수를 촉진시킬 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 경구투여한(먹인) 동물실험에서 기형발생작용이 보고된 바 있으므로 이 약을]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(웃돌다)한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약이 모유로 배출된다는 보고가 있으나 영아(젖먹이)에 미치는 영향은 알려져 있]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[지 않다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 수유부에 투여시 유방 부위에 적용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[유&nbsp;&#8729; 소아는 부작용이 나타나기 쉬우므로 대량을 광범위한 부위에 적용하거나 장기간]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 외용으로만 적용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈, 코, 입 및 다른 점막에 닿지 않도록 주의하여 적용한다. 실수로 눈에 들어갔을]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[경우에는 충분한 양의 물로 완전히 씻어낸 후 의사의 지시에 따른다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 환부(질환 부위) 이외의 피부에 닿지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 가능한 한 서늘한 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 화기 근처에 두지 않는다(액제/갤제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 사용하지 않을 경우에는 뚜껑을 잘 닫아 둔다(액제/갤제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040264]살리실산",
+        "INGR_NAME": "[M007910]반창고|[M040118]정제라놀린|[M071211]천연고무|[M081244]부직포|[M089920]펠트|[M094433]글리세릴로지네이트|[M096997]폴리이소부틸렌",
+        "ATC_CODE": "D11AF",
+        "ITEM_ENG_NAME": "Sinsin Corn Plaster",
+        "ENTP_ENG_NAME": "SINSIN Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Salicylic Acid",
+        "BIZRNO": "1188104136",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196700060",
+        "ITEM_NAME": "마이암부톨제피정400밀리그램(에탐부톨염산염)",
+        "ENTP_NAME": "(주)유한양행",
+        "ITEM_PERMIT_DATE": "19671002",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "황색의 원형필름코팅정제",
+        "BAR_CODE": "8806421004403,8806421004410,8806421004427,8806421004434,8806421004441",
+        "MATERIAL_NAME": "총량 : 1정(약 587mg) 중|성분명 : 에탐부톨염산염|분량 : 400.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700060/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700060/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700060/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1 ~ 30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "100정/상자[10정/PTPⅩ10]",
+        "EDI_CODE": "642100440",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1329",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20251017",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-10-17/사용상의 주의사항, 2024-02-22/저장방법 및 유효기간(사용기간)변경, 2020-06-04/사용상주의사항변경(부작용포함), 2013-10-13/사용상주의사항변경(부작용포함), 2012-02-15/제품명칭변경, 2009-02-03/사용상주의사항변경(부작용포함), 2008-02-02/용법용량변경, 2008-02-02/효능효과변경, 2008-02-02/사용상주의사항변경(부작용포함), 1995-09-18/사용상주의사항변경(부작용포함), 1990-08-24/저장방법 및 유효기간(사용기간)변경, 1984-02-06/사용상주의사항변경(부작용포함), 1979-03-14/용법용량변경, 1979-03-14/효능효과변경, 1979-03-14",
+        "TOTAL_CONTENT": "1정(약 587mg) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"○ 유효균종\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[결핵균]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 적응증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[폐결핵 및 기타 결핵증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 초기치료\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[염산에탐부톨로서 1일 체중 kg당 15 mg을 24시간마다 1회 경구투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 재치료\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[이 약으로서 1일 체중 kg당 25 mg을 24시간마다 1회 투여한다. 60일 투여 후에는 1일 체중 kg당 15 mg을 24시간마다 1회 투여한다. 25 mg씩 투여할 때는 월 1회 안과검사를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[원칙적으로 다른 항결핵제와 병용투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 또는 이 약의 구성성분에 과민반응 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 시신경염 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 당뇨병 또는 알코올 중독 환자에는 투여하지 않는 것을 원칙으로 하나 부득이 투여할 경우에는 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 영ㆍ유아에는 투여하지 않는 것을 원칙으로 하나 부득이 투여할 경우에는 신중히 투여한다(시력장애의 조기발견이 어렵다.).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 신장애 환자(축적을 일으킨다는 보고가 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 고요산혈증, 통풍 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 이 약은 황색4호(타르트라진)를 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 이 약은 황색5호(선셋옐로우 FCF, Sunset Yellow FCF)를 함유하고 있으므로 이 성분에 과민하거나&nbsp;알레르기 병력이 있는 환자에는 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 말초신경계]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 시신경 : 시신경 장애에 의해 시력저하, 중심암점, 시야협착, 색감각이상 등의 시력장애가 나타날 수 있으므로 충분히 관찰하고 이상이 확인되는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 지각신경 : 하지의 마비감이 나타날 수 있으므로 이러한 증상이 나타나는 경우에는 투여를 중지한다. 계속적인 투여가 불가피할 경우에는 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 드물게 말초신경병증이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 중추신경계 : 환각, 불안, 불면, 두통, 어지러움 등의 정신증상이 나타날 수 있으므로 이러한 증상이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 과민반응 : 드물게 발열, 발진, 가려움, 권태감, 피부점막안증후군(스티븐스-존슨증후군), 중독성표피괴사용해(리엘증후군) 등의 과민반응이 나타날 수 있으므로 이러한 증상이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 소화기계 : 때때로 식욕부진, 구역, 구토, 위부불쾌감, 위통, 금속성 맛 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 간장 : 드물게 중증 간장애, 일과성의 AST/ALT의 상승, 간염, 황달 등이 나타날 수 있으므로 정기적으로 간기능 검사를 하는 등 충분히 관찰하고 이상이 확인되는 경우에는 투여를 중지하고 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 쇽, 아나필락시양 증상 : 쇽, 아나필락시양 증상이 나타날 수 있으므로 충분히 관찰하고 호흡곤란, 전신홍조, 맥관부종(안면부종, 인후부종 등), 두드러기 등의 이상이 확인되는 경우에는 투여를 중지하고 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 호흡기계 : 간질성폐렴, 호산구성 폐렴이 나타날 수 있으므로 충분히 관찰하고 발열, 기침, 호흡곤란, 흉부X선 이상 등이 확인되는 경우에는 투여를 중지하고 코르티코이드 투여 등의 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 혈액계 : 백혈구 감소, 호중구 감소, 혈소판 감소 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 신장 : 드물게 간질성신염, 신독성 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 기타 : 드물게 고요산혈증, 통풍, 관절통, 피부염 등이 나타난다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 국내 부작용 보고자료의 분석·평가에 따라 다음의 이상반응을 추가한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[ㆍ 전신: DRESS(Drug Rash with Eosinophilia and Systemic Symptom) 증후군]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[ㆍ 피부: 반점구진 발진]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[ㆍ 혈액계: 호산구 증가증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 때때로 시력장애가 나타날 수 있으므로 투여 중에는 환자를 항상 관찰하고 복약지도를 충분히 하여 시력장애의 징후가 발견되는 경우에는 즉시 투여를 중지한다. 시력장애는 주로 시신경염에 의한다고 하며 초기증상으로는 흐려보임, 주시하는 대상물이 갑자기 보기 힘들어지며 검게 보이고, 색조가 바뀌어 보이는 등의 호소가 많다. 일반적으로 시력장애는 조기에 발견하여 신속히 투여를 중지한다면 비교적 단기간 내에 회복되지만, 발견이 늦어져 중증 시력장애인 경우는 회복이 늦어지거나 회복되지 않았다는 보고가 있다. 이 약에 의한 시력장애의 예를 추적 조사한 보고에 따르면 고령자에서 체중에 따른 투여량이 많은 환자, 신기능이 저하된 환자 또는 당뇨병 환자에서 이상반응이 발현되기 쉬운 경향이 있다고 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 시력장애는 한쪽 눈씩 일정한 거리에서 매일 아침 읽는 것으로 조기발견이 가능하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 투여개시 전에 반드시 시력검사 및 외안검사를 실시한다. 투여 중에는 정기적으로 안과검사를 실시하고 이상이 발견된 경우에는 즉시 투여를 중지하고 정밀검사를 실시한다. 간단한 안과검사로는 다음과 같은 방법이 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 시력검사표를 이용한 시력검사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 손가락을 이용한 시야협착검사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 중심암점계를 이용한 검사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(4) 안저검사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(5) 색맹표를 이용한 검사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 고령자에 투여하는 경우에는 시력검사를 특히 신중히 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 약물축적에 따른 신기능 저하가 나타나는 경우에는 신손상 정도에 따라 투여간격을 연장한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 호산구증가와 전신증상을 동반한 약물 반응(DRESS), 스티븐스-존슨 증후군(SJS), 독성표피괴사융해증(TEN)과 같은 생명을 위협하거나 치명적일 수 있는 중증피부이상반응이 시판 후 보고되었다.처방 시 환자에게 증상 및 징후에 대해 알리고 환자의 증상 및 징후를 모니터링 해야 한다. 해당 증상 및 징후 발생할 시, 이 약의 투여를 중단하고 치료대안을 고려해야 하며 이 약의 투여를 재개하지 않아야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 시력장애는 리팜피신에 의해 증강될 수 있으므로 병용할 경우는 충분히 관찰하고 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임신 중 투여에 대한 안전성이 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 여성에게는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약은 모유 중으로 이행하므로 수유부에 투여하는 것을 피하고 부득이 투여하는 경우에는 수유를 중지한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 영아, 유아에 대한 투여는 안전성이 확립되어 있지 않으므로 원칙적으로 투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 12세 미만의 소아에는 투여하지 않는 것이 바람직하다(시력장애의 조기발견이 어렵다.) 또한, 소아에서 발진 발현은 기저 감염 또는 여타 감염과정으로 오해될 수 있으므로 투여 중 해당 증상 있는 소아에 대해 이 약에 대한 이상반응 가능성을 고려해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 일반적으로 고령자는 생리기능이 저하되어 있는 경우가 많아 이상반응이 발현되기 쉬우므로 환자의 상태를 관찰하면서 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고령자에게는 시력장애가 나타나기 쉬우므로 정기적으로 안과검사를 실시하고 환자의 상태를 충분히 관찰하면서 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 증상 : 식욕부진, 구역, 구토, 복통, 발열, 권태감, 두통, 어지러움, 정신혼동, 방향성 상실, 환각 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 처치 : 특별한 해독제는 없다. 투여를 중지하고 구토 및 위세척을 실시하며 아나필락시양 증상에는 응급처치를 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223143]에탐부톨염산염",
+        "INGR_NAME": "[M040531]젤라틴|[M060511]황색4호|[M083518]모노라우린산소르비탄|[M203374]스테아르산|[M207642]백당|[M210694]D-소르비톨액|[M223556]스테아르산마그네슘|[M245622]오파드라이 노란색(21F62317)",
+        "ATC_CODE": "J04AK02",
+        "ITEM_ENG_NAME": "Myambutol Tablet 400mg",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "MAIN_INGR_ENG": "Ethambutol Hydrochloride",
+        "BIZRNO": "1188100601",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

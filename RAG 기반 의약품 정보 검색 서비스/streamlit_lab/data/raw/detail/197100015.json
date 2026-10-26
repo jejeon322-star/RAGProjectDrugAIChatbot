@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197100015",
+        "ITEM_NAME": "타치온정50밀리그램(글루타티온(환원형))",
+        "ENTP_NAME": "동아제약(주)",
+        "ITEM_PERMIT_DATE": "19711123",
+        "CNSGN_MANUF": "(주)마더스제약",
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "흰색의 원형 필름코팅정",
+        "BAR_CODE": "8806265003808,8806265003815,8806265003822,8806265003839,8806265003846,8806265003853,8806265003860,8806265003877,8806425034505,8806425034512,8806425034529,8806425034536,8806425034543,8806425034550",
+        "MATERIAL_NAME": "총량 : 1정(254.4밀리그램) 중|성분명 : 글루타티온(환원형)|분량 : 50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100015/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100015/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100015/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온(1～30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "병  - 90정/병",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "2606",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20220303",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "용법·용량, 2022-03-03/성상변경, 2020-03-04/효능효과변경, 2018-07-17/제품명칭변경, 2018-07-17/저장방법 및 유효기간(사용기간)변경, 2008-04-02/제품명칭변경, 2008-04-02/효능효과변경, 1988-05-20/제품명칭변경, 1987-05-07/저장방법 및 유효기간(사용기간)변경, 1986-01-14/사용상주의사항변경(부작용포함), 1981-03-09/저장방법 및 유효기간(사용기간)변경, 1981-03-09/용법용량변경, 1981-03-09/성상변경, 1976-06-15",
+        "TOTAL_CONTENT": "1정(254.4밀리그램) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[약물중독, 자가중독]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 글루타티온으로서 1회 50-100mg, 1일 1-3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"(정제)(캡슐제)\">\r\n    <ARTICLE title=\"1. 다음과 같은 경우 이 약의 복용을 즉시 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과민증 : 드물게 발진 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n  <SECTION title=\"(주사제)\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[하되, 특히 어린이, 노약자 사용시에는 각별히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 아나필락시양 증상 : 드물게 아나필락시양 증상이 나타날 수 있으므로 관찰을 충분히 하고, 안면창백, 혈압저하, 맥박이상 등이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 과민증 : 드물게 발진 등이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 조제시 : 앰플제제는 용해 후 즉시 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 근육주사하는 경우에는 신경 및 혈관을 피하여 신중히 투여한다. 또, 반복투여의 필요성이 있는 경우에는 좌우를 바꾸어 주사하는 등 동일부위를 피하고 유ㆍ소아에는 특히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M256276]글루타티온(환원형)",
+        "INGR_NAME": "[M085786]전분글리콜산나트륨|[M095813]이산화규소|[M243259]스테아르산마그네슘|[M249539]히드록시프로필셀룰로오스|[M269778]미결정셀룰로오스101|[M278091]오파드라이 화이트 20A680000|[M278092]오파드라이 AMBII 화이트 88A180040",
+        "ATC_CODE": "V03AB32",
+        "ITEM_ENG_NAME": "Tathion Tab. 50mg",
+        "ENTP_ENG_NAME": "Dong-A Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Glutathione (Reduced)",
+        "BIZRNO": "2048640118",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

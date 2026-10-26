@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196500051",
+        "ITEM_NAME": "지엘타이밍정(카페인무수물)",
+        "ENTP_NAME": "지엘팜텍(주)",
+        "ITEM_PERMIT_DATE": "19651221",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "노란색의 팔각형 정제",
+        "BAR_CODE": "8806242007300,8806242007317,8806242007324,8806497009005,8806497009012,8806497009029,8806497009036,8806497009043,8806497009050,8806497009067",
+        "MATERIAL_NAME": "총량 : 1정204밀리그램|성분명 : 카페인무수물|분량 : 50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500051/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500051/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500051/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500051/II",
+        "STORAGE_METHOD": "밀폐용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "12정/상자(12정/PTPX1), 100정/병",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1475",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20200103",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2020-01-03/제품명칭변경, 2019-11-11/성상변경, 2019-09-03/사용상주의사항변경(부작용포함), 2018-10-12/저장방법 및 유효기간(사용기간)변경, 2018-10-12/용법용량변경, 2018-10-12/성상변경, 2018-10-12/제품명칭변경, 2018-10-12/사용상주의사항변경(부작용포함), 2009-11-07/사용상주의사항변경(부작용포함), 1998-04-24/용법용량변경, 1998-04-24/효능효과변경, 1998-04-24/제품명칭변경, 1989-07-21/저장방법 및 유효기간(사용기간)변경, 1986-11-29/사용상주의사항변경(부작용포함), 1982-04-30/용법용량변경, 1982-04-30/효능효과변경, 1982-04-30/저장방법 및 유효기간(사용기간)변경, 1980-04-04/용법용량변경, 1980-04-04",
+        "TOTAL_CONTENT": "1204",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[졸음]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 카페인무수물로서 1회 100-300㎎을 1일 1-3회 경구 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약은 유당(젖당)을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당(젖당)분해효소결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 위궤양 또는 그 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 녹내장 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한한 이 첨부문서를 소지할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과량투여에 의해 진전(떨림), 어지러움, 심계항진(두근거림), 불면, 불안, 동공산대, 부정맥, 기외수축(조기수축), 빈맥(빠른맥), 이명(귀울림) 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 기타: 만성 녹내장을 악화시킬 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 기타 이 약의 복용 시 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 중추신경계의 심한 흥분상태는 치오펜탈나트륨과 같은 단시간형 바르비탈계 약물을 투여함으로써 조절될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약은 태반을 통과하고 모유중으로 쉽게 이행되므로 임부 또는 임신하고 있을 가능성이 있는 부인 및 수유부에는 장기 연용(계속 사용)하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 일반적으로 고령자(노인)에서는 생리기능이 저하되어 있으므로 용량을 감량(줄임)하는 등 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관할 것]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용(잘못 사용)에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223183]카페인무수물",
+        "INGR_NAME": "[M040133]리보플라빈|[M040450]옥수수전분|[M085786]전분글리콜산나트륨|[M086809]전호화전분|[M243259]스테아르산마그네슘|[M244062]카르복시메틸셀룰로오스나트륨|[M244993]경질무수규산|[M254581]유당수화물|[M268422]페퍼민트분말향 71329",
+        "ATC_CODE": "N06BC01",
+        "ITEM_ENG_NAME": "GL Timing Tab.",
+        "ENTP_ENG_NAME": "GL PharmTech",
+        "MAIN_INGR_ENG": "Anhydrous Caffeine",
+        "BIZRNO": "1078825483",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

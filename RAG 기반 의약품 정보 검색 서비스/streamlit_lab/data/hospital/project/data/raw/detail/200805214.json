@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200805214",
+        "ITEM_NAME": "엘리펜세미정",
+        "ENTP_NAME": "동국제약(주)",
+        "ITEM_PERMIT_DATE": "20080507",
+        "CNSGN_MANUF": "풍림무약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "연한 황색의 장방형 필름코팅정제",
+        "BAR_CODE": "8806534014801,8806534014818,8806534014825,8806534014832",
+        "MATERIAL_NAME": "총량 : 이 약 1정 (222.5mg) 중|성분명 : 아세트아미노펜|분량 : 162.50|단위 : 밀리그램|규격 : EP|성분정보 : |비고 : ;총량 : 이 약 1정 (222.5mg) 중|성분명 : 트라마돌염산염|분량 : 18.75|단위 : 밀리그램|규격 : EP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200805214/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200805214/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200805214/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온보관(1-30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병, 100정/병",
+        "EDI_CODE": "653401480",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1416",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260219",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2026-02-19/사용상주의사항변경(부작용포함), 2025-11-10/사용상주의사항변경(부작용포함), 2025-03-20/사용상주의사항변경(부작용포함), 2024-10-02/사용상주의사항변경(부작용포함), 2022-03-28/사용상주의사항변경(부작용포함), 2021-03-18/용법용량변경, 2021-03-18/저장방법 및 유효기간(사용기간)변경, 2018-10-10/사용상주의사항변경(부작용포함), 2018-04-09/용법용량변경, 2018-04-09/사용상주의사항변경(부작용포함), 2011-05-12/사용상주의사항변경(부작용포함), 2009-06-22",
+        "TOTAL_CONTENT": "이 약 1정 (222.5mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040353]아세트아미노펜|[M222893]트라마돌염산염",
+        "INGR_NAME": "[M051756]포비돈|[M080518]저치환도히드록시프로필셀룰로오스|[M081161]크로스포비돈|[M083947]콜로이드성이산화규소|[M223556]스테아르산마그네슘|[M230938]오파드라이 Ⅱ 노란색(85F42086)",
+        "ATC_CODE": "N02AJ13",
+        "ITEM_ENG_NAME": "Eliphen Semi Tablet",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Acetaminophen/Tramadol Hydrochloride",
+        "BIZRNO": "3018508241",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200200559",
+        "ITEM_NAME": "유덱손주(디나트륨인산덱사메타손)(수출명:DexamethasoneInjection)",
+        "ENTP_NAME": "(주)마더스제약",
+        "ITEM_PERMIT_DATE": "20020720",
+        "CNSGN_MANUF": "(주)제일제약",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "투명한 액",
+        "BAR_CODE": "8806228011901,8806552009605",
+        "MATERIAL_NAME": "총량 : 1밀리리터|성분명 : 디나트륨인산덱사메타손|분량 : 5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200559/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200559/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200559/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200559/II",
+        "STORAGE_METHOD": "차광밀봉용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1ml x 자사포장단위\r\n",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1313",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250507",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-05-07/사용상주의사항변경(부작용포함), 2024-06-21/사용상주의사항변경(부작용포함), 2023-01-13/사용상주의사항변경(부작용포함), 2018-11-22/사용상주의사항변경(부작용포함), 2018-06-18/사용상주의사항변경(부작용포함), 2015-09-13/제품명칭변경, 2004-07-09/제품명칭변경, 2003-12-26/제품명칭변경, 2003-11-07/제품명칭변경, 2003-07-07",
+        "TOTAL_CONTENT": "1밀리리터",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M085432]디나트륨인산덱사메타손",
+        "INGR_NAME": "[M040043]글리세린|[M040220]벤질알코올|[M040534]주사용수|[M096245]에데트산나트륨",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "Dexamethasone Injection",
+        "ENTP_ENG_NAME": "MOTHER'S PHARMACEUTICAL.",
+        "MAIN_INGR_ENG": "Dexamethasone Disodium Phosphate",
+        "BIZRNO": "3128629302",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,302 @@
+{
+  "doc_id": "mfds:195800020:NB",
+  "drug_id": "mfds:195800020",
+  "scope_type": "product",
+  "title": "마구내신주사액<황산마그네슘수화물> — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195800020/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195800020.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210930",
+  "collected_at": "2026-10-22T05:02:20.540108+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1.경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(유리앰플주사제에 한함).",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(유리앰플주사제에 한함)."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 신기능장애 환자",
+          "raw_content": "1) 신기능장애 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 혼수 환자",
+          "raw_content": "2) 혼수 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 고마그네슘혈증 환자",
+          "raw_content": "3) 고마그네슘혈증 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 방실차단(Ⅰ ∼ Ⅲ단계) 환자 또는 다른 심장전도장애 환자",
+          "raw_content": "4) 방실차단(Ⅰ ∼ Ⅲ단계) 환자 또는 다른 심장전도장애 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 근무력증 환자",
+          "raw_content": "5) 근무력증 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 장내기생충질환의 소아",
+          "raw_content": "1) 장내기생충질환의 소아"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 심질환 환자",
+          "raw_content": "2) 심질환 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 소화기계 : 구토, 구강건조",
+          "raw_content": "1) 소화기계 : 구토, 구강건조"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 순환기계 : 매우 드물게 전도장애, 서맥 등이 나타날 수 있다.",
+          "raw_content": "2) 순환기계 : 매우 드물게 전도장애, 서맥 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 혈액계 : 조홍(빠른 주입시), 매우 드물게 말초혈관확장",
+          "raw_content": "3) 혈액계 : 조홍(빠른 주입시), 매우 드물게 말초혈관확장"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 자율신경계 : 두통, 두중감, 떨림, 따끔거림",
+          "raw_content": "4) 자율신경계 : 두통, 두중감, 떨림, 따끔거림"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 대량투여에 의해 마그네슘중독을 일으켜 열감, 갈증, 혈압저하, 중추신경억제, 심박동수억제, 호흡마비 등이 나타날 수 있다. 해독에는 칼슘제를 정맥주사한다.",
+          "raw_content": "5) 대량투여에 의해 마그네슘중독을 일으켜 열감, 갈증, 혈압저하, 중추신경억제, 심박동수억제, 호흡마비 등이 나타날 수 있다. 해독에는 칼슘제를 정맥주사한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 기타 : 투여부위의 열감",
+          "raw_content": "6) 기타 : 투여부위의 열감"
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 상호금기",
+          "raw_content": "1) 상호금기"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "(1) 바르비탈산염, 마약 및 기타 최면약(또는 전신마취제) : 중추신경억제효과를 증강시킬 수 있다.",
+          "raw_content": "(1) 바르비탈산염, 마약 및 기타 최면약(또는 전신마취제) : 중추신경억제효과를 증강시킬 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "2) 상호주의",
+          "raw_content": "2) 상호주의"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "(1) 이 약과 철, 아미노글리코시드계 항생물질(테트라사이클린 등), 불화나트륨 : 염 또는 복합체 형성으로 인하여 이들 약물의 흡수가 감소될 수 있다.",
+          "raw_content": "(1) 이 약과 철, 아미노글리코시드계 항생물질(테트라사이클린 등), 불화나트륨 : 염 또는 복합체 형성으로 인하여 이들 약물의 흡수가 감소될 수 있다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "(2) 이소니아지드, 클로르프로마진, 디곡신 : 약물의 흡수에 변화가 나타날 수 있다.",
+          "raw_content": "(2) 이소니아지드, 클로르프로마진, 디곡신 : 약물의 흡수에 변화가 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "(3) 근육이완제 : 신경근육 접합부의 마그네슘 효과를 증가시킨다.",
+          "raw_content": "(3) 근육이완제 : 신경근육 접합부의 마그네슘 효과를 증가시킨다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "임부",
+          "raw_content": "임부"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "자간증은 임부와 태아의 생명을 위협할 수 있으므로 자간증인 임부에 황산마그네슘을 투여한다.",
+          "raw_content": "자간증은 임부와 태아의 생명을 위협할 수 있으므로 자간증인 임부에 황산마그네슘을 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "마그네슘은 태반을 통과해 태아의 근육긴장저하증, 반사저하, 저혈압을 유발할 수 있다. 분만 중에 투여하면 신생아의 호흡저하를 유발할 수 있다. 임부에게 사용할 때는 태아의 심박수를 모니터링해야하며 분만 후 2시간 이내에는 사용하지 않아야 한다.",
+          "raw_content": "마그네슘은 태반을 통과해 태아의 근육긴장저하증, 반사저하, 저혈압을 유발할 수 있다. 분만 중에 투여하면 신생아의 호흡저하를 유발할 수 있다. 임부에게 사용할 때는 태아의 심박수를 모니터링해야하며 분만 후 2시간 이내에는 사용하지 않아야 한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "후향적 역학 연구 및 사례보고에서 황산마그네슘을 5~7일 이상 임부에 투여했을 때 태아의 저칼슘혈증, 골격탈회, 뼈감소증 및 기타 골격 부작용을 포함하는 태아 부작용이 보고되었다. 관찰된 부작용의 임상적 중요성은 알려져 있지 않다.",
+          "raw_content": "후향적 역학 연구 및 사례보고에서 황산마그네슘을 5~7일 이상 임부에 투여했을 때 태아의 저칼슘혈증, 골격탈회, 뼈감소증 및 기타 골격 부작용을 포함하는 태아 부작용이 보고되었다. 관찰된 부작용의 임상적 중요성은 알려져 있지 않다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "임신 중 황산마그네슘을 장기간 또는 반복적으로 투여한 경우 신생아에 대하여 비정상적인 칼슘 또는 마그네슘 수치를 모니터링하고 골격 부작용을 고려해야 한다.",
+          "raw_content": "임신 중 황산마그네슘을 장기간 또는 반복적으로 투여한 경우 신생아에 대하여 비정상적인 칼슘 또는 마그네슘 수치를 모니터링하고 골격 부작용을 고려해야 한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "수유부",
+          "raw_content": "수유부"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "수유 중 안전성이 확립되지 않았으므로 황산마그네슘이 필수적이지 않는 한 투여는 권장되지 않는다.",
+          "raw_content": "수유 중 안전성이 확립되지 않았으므로 황산마그네슘이 필수적이지 않는 한 투여는 권장되지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 신중히 투여한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 과량투여시의 처치",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 증상",
+          "raw_content": "1) 증상"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "(1) 혈중 마그네슘 2.5 ∼ 5 mmol/L : ECG상 PR간격, QRS 지속시간이 늘어나며 T파가 증가한다.",
+          "raw_content": "(1) 혈중 마그네슘 2.5 ∼ 5 mmol/L : ECG상 PR간격, QRS 지속시간이 늘어나며 T파가 증가한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "(2) 혈중 마그네슘 3 ∼ 5 mmol/L : 건반사(tendon reflex)가 억제되고 의식이 영향을 받는다.",
+          "raw_content": "(2) 혈중 마그네슘 3 ∼ 5 mmol/L : 건반사(tendon reflex)가 억제되고 의식이 영향을 받는다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "(3) 혈중 마그네슘 5 ∼ 7.5 mmol/L : 호흡억제",
+          "raw_content": "(3) 혈중 마그네슘 5 ∼ 7.5 mmol/L : 호흡억제"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "(4) 혈중 마그네슘 10 mmol/L : 심장정지",
+          "raw_content": "(4) 혈중 마그네슘 10 mmol/L : 심장정지"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "2) 치료",
+          "raw_content": "2) 치료"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "투여용량을 줄이거나 투여를 중지할 경우 이상반응이 신속히 완화되며, 과량 투여시 해독제로 10 % 글루콘산칼슘 주사액 10 mL를 서서히 정맥주사한다.",
+          "raw_content": "투여용량을 줄이거나 투여를 중지할 경우 이상반응이 신속히 완화되며, 과량 투여시 해독제로 10 % 글루콘산칼슘 주사액 10 mL를 서서히 정맥주사한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 적용상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정맥주사 단독투여시에는 10 % 이하의 농도로 천천히 주사한다.",
+          "raw_content": "1) 정맥주사 단독투여시에는 10 % 이하의 농도로 천천히 주사한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약의 수용액과 설파제, 알칼리탄산염·탄산수소염, 주석산염, 가용성 인산염, 브롬화칼륨, 브롬화암모늄 등을 함유하는 제제와 혼합시 침전이 형성될 수 있으므로 혼합을 피한다.",
+          "raw_content": "2) 이 약의 수용액과 설파제, 알칼리탄산염·탄산수소염, 주석산염, 가용성 인산염, 브롬화칼륨, 브롬화암모늄 등을 함유하는 제제와 혼합시 침전이 형성될 수 있으므로 혼합을 피한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 전해질 보정용으로 사용할 경우에는 반드시 희석하여 사용하고 인산염을 함유하는 제제와 배합시 침전을 형성할 수 있으므로 주의한다. 또한 감염을 고려하여 환자의 피부 및 기구를 소독하고 개봉후 즉시 사용하며 남은 액은 재사용하지 않는다.",
+          "raw_content": "3) 전해질 보정용으로 사용할 경우에는 반드시 희석하여 사용하고 인산염을 함유하는 제제와 배합시 침전을 형성할 수 있으므로 주의한다. 또한 감염을 고려하여 환자의 피부 및 기구를 소독하고 개봉후 즉시 사용하며 남은 액은 재사용하지 않는다."
+        }
+      ]
+    }
+  ],
+  "text": "1.경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(유리앰플주사제에 한함).\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 신기능장애 환자\n\n2) 혼수 환자\n\n3) 고마그네슘혈증 환자\n\n4) 방실차단(Ⅰ ∼ Ⅲ단계) 환자 또는 다른 심장전도장애 환자\n\n5) 근무력증 환자\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 장내기생충질환의 소아\n\n2) 심질환 환자\n\n4. 이상반응\n\n1) 소화기계 : 구토, 구강건조\n\n2) 순환기계 : 매우 드물게 전도장애, 서맥 등이 나타날 수 있다.\n\n3) 혈액계 : 조홍(빠른 주입시), 매우 드물게 말초혈관확장\n\n4) 자율신경계 : 두통, 두중감, 떨림, 따끔거림\n\n5) 대량투여에 의해 마그네슘중독을 일으켜 열감, 갈증, 혈압저하, 중추신경억제, 심박동수억제, 호흡마비 등이 나타날 수 있다. 해독에는 칼슘제를 정맥주사한다.\n\n6) 기타 : 투여부위의 열감\n\n5. 상호작용\n\n1) 상호금기\n\n(1) 바르비탈산염, 마약 및 기타 최면약(또는 전신마취제) : 중추신경억제효과를 증강시킬 수 있다.\n\n2) 상호주의\n\n(1) 이 약과 철, 아미노글리코시드계 항생물질(테트라사이클린 등), 불화나트륨 : 염 또는 복합체 형성으로 인하여 이들 약물의 흡수가 감소될 수 있다.\n\n(2) 이소니아지드, 클로르프로마진, 디곡신 : 약물의 흡수에 변화가 나타날 수 있다.\n\n(3) 근육이완제 : 신경근육 접합부의 마그네슘 효과를 증가시킨다.\n\n6. 임부 및 수유부에 대한 투여\n\n임부\n\n자간증은 임부와 태아의 생명을 위협할 수 있으므로 자간증인 임부에 황산마그네슘을 투여한다.\n\n마그네슘은 태반을 통과해 태아의 근육긴장저하증, 반사저하, 저혈압을 유발할 수 있다. 분만 중에 투여하면 신생아의 호흡저하를 유발할 수 있다. 임부에게 사용할 때는 태아의 심박수를 모니터링해야하며 분만 후 2시간 이내에는 사용하지 않아야 한다.\n\n후향적 역학 연구 및 사례보고에서 황산마그네슘을 5~7일 이상 임부에 투여했을 때 태아의 저칼슘혈증, 골격탈회, 뼈감소증 및 기타 골격 부작용을 포함하는 태아 부작용이 보고되었다. 관찰된 부작용의 임상적 중요성은 알려져 있지 않다.\n\n임신 중 황산마그네슘을 장기간 또는 반복적으로 투여한 경우 신생아에 대하여 비정상적인 칼슘 또는 마그네슘 수치를 모니터링하고 골격 부작용을 고려해야 한다.\n\n수유부\n\n수유 중 안전성이 확립되지 않았으므로 황산마그네슘이 필수적이지 않는 한 투여는 권장되지 않는다.\n\n7. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 신중히 투여한다.\n\n8. 과량투여시의 처치\n\n1) 증상\n\n(1) 혈중 마그네슘 2.5 ∼ 5 mmol/L : ECG상 PR간격, QRS 지속시간이 늘어나며 T파가 증가한다.\n\n(2) 혈중 마그네슘 3 ∼ 5 mmol/L : 건반사(tendon reflex)가 억제되고 의식이 영향을 받는다.\n\n(3) 혈중 마그네슘 5 ∼ 7.5 mmol/L : 호흡억제\n\n(4) 혈중 마그네슘 10 mmol/L : 심장정지\n\n2) 치료\n\n투여용량을 줄이거나 투여를 중지할 경우 이상반응이 신속히 완화되며, 과량 투여시 해독제로 10 % 글루콘산칼슘 주사액 10 mL를 서서히 정맥주사한다.\n\n9. 적용상의 주의사항\n\n1) 정맥주사 단독투여시에는 10 % 이하의 농도로 천천히 주사한다.\n\n2) 이 약의 수용액과 설파제, 알칼리탄산염·탄산수소염, 주석산염, 가용성 인산염, 브롬화칼륨, 브롬화암모늄 등을 함유하는 제제와 혼합시 침전이 형성될 수 있으므로 혼합을 피한다.\n\n3) 전해질 보정용으로 사용할 경우에는 반드시 희석하여 사용하고 인산염을 함유하는 제제와 배합시 침전을 형성할 수 있으므로 주의한다. 또한 감염을 고려하여 환자의 피부 및 기구를 소독하고 개봉후 즉시 사용하며 남은 액은 재사용하지 않는다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1.경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(유리앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 신기능장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 혼수 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 고마그네슘혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 방실차단(Ⅰ ∼ Ⅲ단계) 환자 또는 다른 심장전도장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 근무력증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 장내기생충질환의 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심질환 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 구토, 구강건조]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 순환기계 : 매우 드물게 전도장애, 서맥 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액계 : 조홍(빠른 주입시), 매우 드물게 말초혈관확장]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 자율신경계 : 두통, 두중감, 떨림, 따끔거림]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 대량투여에 의해 마그네슘중독을 일으켜 열감, 갈증, 혈압저하, 중추신경억제, 심박동수억제, 호흡마비 등이 나타날 수 있다. 해독에는 칼슘제를 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 기타 : 투여부위의 열감]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 상호금기]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 바르비탈산염, 마약 및 기타 최면약(또는 전신마취제) : 중추신경억제효과를 증강시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 상호주의]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 이 약과 철, 아미노글리코시드계 항생물질(테트라사이클린 등), 불화나트륨 : 염 또는 복합체 형성으로 인하여 이들 약물의 흡수가 감소될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 이소니아지드, 클로르프로마진, 디곡신 : 약물의 흡수에 변화가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 근육이완제 : 신경근육 접합부의 마그네슘 효과를 증가시킨다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[자간증은 임부와 태아의 생명을 위협할 수 있으므로 자간증인 임부에 황산마그네슘을 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[마그네슘은 태반을 통과해 태아의 근육긴장저하증, 반사저하, 저혈압을 유발할 수 있다. 분만 중에 투여하면 신생아의 호흡저하를 유발할 수 있다. 임부에게 사용할 때는 태아의 심박수를 모니터링해야하며 분만 후 2시간 이내에는 사용하지 않아야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[후향적 역학 연구 및 사례보고에서 황산마그네슘을 5~7일 이상 임부에 투여했을 때 태아의 저칼슘혈증, 골격탈회, 뼈감소증 및 기타 골격 부작용을 포함하는 태아 부작용이 보고되었다. 관찰된 부작용의 임상적 중요성은 알려져 있지 않다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임신 중 황산마그네슘을 장기간 또는 반복적으로 투여한 경우 신생아에 대하여 비정상적인 칼슘 또는 마그네슘 수치를 모니터링하고 골격 부작용을 고려해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수유 중 안전성이 확립되지 않았으므로 황산마그네슘이 필수적이지 않는 한 투여는 권장되지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 증상]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 혈중 마그네슘 2.5 ∼ 5 mmol/L : ECG상 PR간격, QRS 지속시간이 늘어나며 T파가 증가한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 혈중 마그네슘 3 ∼ 5 mmol/L : 건반사(tendon reflex)가 억제되고 의식이 영향을 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 혈중 마그네슘 5 ∼ 7.5 mmol/L : 호흡억제]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(4) 혈중 마그네슘 10 mmol/L : 심장정지]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 치료]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[투여용량을 줄이거나 투여를 중지할 경우 이상반응이 신속히 완화되며, 과량 투여시 해독제로 10 % 글루콘산칼슘 주사액 10 mL를 서서히 정맥주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정맥주사 단독투여시에는 10 % 이하의 농도로 천천히 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 수용액과 설파제, 알칼리탄산염·탄산수소염, 주석산염, 가용성 인산염, 브롬화칼륨, 브롬화암모늄 등을 함유하는 제제와 혼합시 침전이 형성될 수 있으므로 혼합을 피한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전해질 보정용으로 사용할 경우에는 반드시 희석하여 사용하고 인산염을 함유하는 제제와 배합시 침전을 형성할 수 있으므로 주의한다. 또한 감염을 고려하여 환자의 피부 및 기구를 소독하고 개봉후 즉시 사용하며 남은 액은 재사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "3c185ff6d1aa6abb3f057802435e78505a34bc609a21ac7609d414988660b6f4"
+}

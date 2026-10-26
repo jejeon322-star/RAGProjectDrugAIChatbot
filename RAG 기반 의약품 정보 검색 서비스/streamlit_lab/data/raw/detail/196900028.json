@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196900028",
+        "ITEM_NAME": "대한아스코르브산주사액",
+        "ENTP_NAME": "대한약품공업(주)",
+        "ITEM_PERMIT_DATE": "19690311",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색-거의 무색투명한 액이 들어있는 무색투명한 앰플",
+        "BAR_CODE": "8806451007306,8806451007313,8806451007320,8806451007337,8806451007344",
+        "MATERIAL_NAME": "총량 : 1밀리리터 중 1관|성분명 : 아스코르브산|분량 : 50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900028/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900028/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900028/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900028/II",
+        "STORAGE_METHOD": "밀봉용기",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "2 mL × 50 앰플",
+        "EDI_CODE": "645100733",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1303",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20220314",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상, 2022-03-14/효능효과변경, 2021-12-23/제품명칭변경, 2008-02-29/저장방법 및 유효기간(사용기간)변경, 1985-12-26/용법용량변경, 1982-06-14/효능효과변경, 1980-03-20/용법용량변경, 1980-03-20/저장방법 및 유효기간(사용기간)변경, 1980-03-20/사용상주의사항변경(부작용포함), 1980-03-20",
+        "TOTAL_CONTENT": "1밀리리터 중 1관",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[급성 또는 경구투여가 어려운 경우의]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1. 비타민 C 결핍증의 예방과 치료 : 괴혈병 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2. 비타민 C 의 요구량이 증가하는 경우 :]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부&#x119e;수유부, 심한 육체노동 시 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염 등)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 골절시의 골기질형성, 골유합촉진]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 기미, 주근깨, 염증후의 색소침착]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 광선과민성피부염 등]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[아스코르빈산으로서 1일 50∼1,000 mg을 1일 1회∼수회 분할하여 피하, 근육 또는 정맥주사 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플 주사제는 용기절단 시, 유리파편이 혼입되어 이상반응을 초래할 수 있으므로 사용 시, 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용하되 특히 어린이, 노약자에 사용 시는 각별히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고수산뇨증(hyperoxaluria : 요중에 과량의 수산염이 배설되는 상태), 지중해빈혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 통풍환자 및 시스틴뇨증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) Glucose-6-phosphate dehydrogenase (G6PD) 결핍환자 : 고용량을 투여할 경우 용혈을 초래할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 신장의 수산결석 환자 : 1일 1 g 이상 투여할 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[아황산수소나트륨이 함유되어 있으므로 아황산아나필락시와 같은 알레르기를 일으킬 수 있으며, 일부 감수성 환자에서는 생명을 위협할 정도 또는 이보다 약한 천식발작을 일으킬 수 있다. 일반 사람에서의 아황산감수성은 비천식환자보다 천식환자에서 빈번한 것으로 나타났다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 구역, 구토, 설사, 속쓰림, 복부경련, 피로, 홍조, 두통, 불면이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 1일 1 g 이상 투여 시, 요의 산성화로 설사 및 신결석의 위험이 증가될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 1일 600 mg 이상의 용량 투여 시, 이뇨작용이 발현될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) G6PD 결핍환자에서 용혈이 발생될 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과량의 아스코르빈산 투여는 고수산뇨증, 또는 요산염, 시스틴, 수산염 또는 기타약물을 요로에 침전시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약은 통상적으로 경구투여하며 주사투여는 급성 또는 경구투여가 어려운 경우, 즉, 소장의 흡수불량에 의한 비타민 C 결핍증 및 인공정맥영양투여에 한하여 실시한다. 또한, 경구투여가 가능하고 효과가 충분하다고 판단될 경우에는 곧 경구투여로 전환한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 살리실산염은 비타민 C의 백혈구와 혈소판으로의 흡수를 저해한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 아스피린, 흡연을 통한 니코틴, 알코올, 일부 식욕저해제, 철분제, 페니토인 및 일부 항전간제, 에스트로겐이 포함된 경구용 피임약, 테트라싸이클린계 항생제와의 병용은 이 약의 조직 탈포화작용(tissue desaturation)을 유도할 수 있으므로 병용을 피한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약의 고용량 투여 시, 경구용 항응고제(쿠마린계 약물)의 반응을 감소시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약과 플루페나진과의 병용 시, 플루페나진의 혈장농도가 저하된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 바르비탈산 유도체는 이 약의 신장 배설을 촉진한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 코르티코스테로이드제는 이 약의 산화를 증가시킨다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임부 투여 시 태아에 대한 위해성이나 생식능에 대한 효과는 밝혀지지 않았으므로 이 약의 투여로 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고용량 투여에 대한 태아의 영향이 밝혀지지 않았으므로 임신 중 이 약을 1 g 이상 복용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 임신 중, 고용량을 투여할 경우, 신생아에게 괴혈병을 초래할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약은 유즙으로 이행되나 1일 상용량 투여 시, 영아에의 위험성에 대한 증거는 없다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 임상검사치에의 영향\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 각종 요당 검사 시, 요당의 검출을 방해할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 각종 요검사시의 혈뇨검사 또는 대변의 잠혈검사시 위음성반응을 초래할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 과량투여 시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[과량투여 시, 설사, 신장의 수산결석을 초래할 수 있으며 1일 600 mg 이상의 용량은 이뇨작용을 일으킬 수 있다. 과량 독성 증상이 발현된 경우에는 투여를 중단하고 대증요법을 실시한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 피하 또는 근육주사할 때, 주사부위에 일시적인 경미한 통증을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 피하, 근육주사는 부득이한 경우 필요 최소용량을 투여하되 신경주행부위를 피하고 동일 부위에 반복 주사 하지 않도록 하며 특히, 신생아, 미숙아, 유ㆍ소아에의 투여 시 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 주사침을 삽입할 때 격통을 호소하거나 혈액의 역류를 발견할 경우에는 바로 침을 뽑아야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 정맥투여 시, 주사 속도가 빠를 경우에는 일시적인 기절, 어지러움을 초래할 수 있으며 혈관통이 나타날 수 있으므로 가능한 한 천천히 주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"11. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하여 건조한 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M258994]아스코르브산",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M207094]탄산수소나트륨",
+        "ATC_CODE": "A11GA01",
+        "ITEM_ENG_NAME": "Dai Han Ascorbic Acid Injection",
+        "ENTP_ENG_NAME": "DAI HAN PHARM CO., LTD.",
+        "MAIN_INGR_ENG": "Ascorbic Acid",
+        "BIZRNO": "1348500111",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

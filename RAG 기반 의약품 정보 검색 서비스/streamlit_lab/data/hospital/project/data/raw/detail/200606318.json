@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200606318",
+        "ITEM_NAME": "모사프론정(모사프리드시트르산염수화물)",
+        "ENTP_NAME": "동국제약(주)",
+        "ITEM_PERMIT_DATE": "20060629",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 장방형 필름코팅정제",
+        "BAR_CODE": "8806534019905,8806534019912,8806534019929,8806574000802,8806719007109,8806719007116,8806719007123,8806719007130,8806719007147,8806719007154",
+        "MATERIAL_NAME": "총량 : 1정135.00밀리그램|성분명 : 모사프리드시트르산염수화물|분량 : 5.29|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : 이수화물",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200606318/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200606318/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200606318/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200606318/II",
+        "STORAGE_METHOD": "기밀용기, 실온(1-30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,300정/병",
+        "EDI_CODE": "653401990",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1416",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230117",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2023-01-17/사용상주의사항변경(부작용포함), 2015-05-01/제품명칭변경, 2013-05-08/사용상주의사항변경(부작용포함), 2013-02-06/제품명칭변경, 2013-02-06/사용상주의사항변경(부작용포함), 2013-01-29/용법용량변경, 2013-01-29/효능효과변경, 2013-01-29/용법용량변경, 2012-12-12/성상변경, 2012-12-12/제품명칭변경, 2012-12-12/성상변경, 2011-02-25/제품명칭변경, 2010-03-10/사용상주의사항변경(부작용포함), 2008-09-12",
+        "TOTAL_CONTENT": "1135.00",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M234050]모사프리드시트르산염수화물",
+        "INGR_NAME": "[M040450]옥수수전분|[M222271]오파드라이화이트(03B28796)|[M244529]저치환도히드록시프로필셀룰로오스|[M244534]스테아르산마그네슘|[M245060]콜로이드성이산화규소|[M249539]히드록시프로필셀룰로오스|[M254581]유당수화물",
+        "ATC_CODE": "A03FA09",
+        "ITEM_ENG_NAME": "Mosapron Tablet (Mosapride Citrate Dihydrate)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Mosapride Citrate Dihydrate",
+        "BIZRNO": "3018508241",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

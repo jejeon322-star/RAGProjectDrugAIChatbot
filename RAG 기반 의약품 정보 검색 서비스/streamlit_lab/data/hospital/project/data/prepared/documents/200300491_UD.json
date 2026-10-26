@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200300491:UD",
+  "drug_id": "mfds:200300491",
+  "scope_type": "product",
+  "title": "토베손점안액(토브라마이신,덱사메타손) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300491/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200300491_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:59:51.918616+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 이 약을 4-6시간 간격으로 결막낭내에 1-2방울 점안한다.\n초기 24-48시간 동안은 2시간 간격으로 1-2방울 투여하고 증상이 개선되면 점차 감량하조기에 투여중지하\n지 않는다.",
+  "content_hash": "5b5b37403be2da2761bf35d8f529b1f8701d2839ee1d62fb53c850a315a16744",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "fb1e59395faed908bea4edd0313c32c32a35f4fd348fe558af4afcb4e98e2d0c",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 이 약을 4-6시간 간격으로 결막낭내에 1-2방울 점안한다.\n초기 24-48시간 동안은 2시간 간격으로 1-2방울 투여하고 증상이 개선되면 점차 감량하조기에 투여중지하\n지 않는다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198801980:UD",
+  "drug_id": "mfds:198801980",
+  "scope_type": "product",
+  "title": "암브로콜시럽(암브록솔,클렌부테롤) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801980/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198801980_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:22.845795+00:00",
+  "text": "[원문 1쪽]\n용법용량\n1) 성인 및 소아(12세 이상) : 1회 20ml 1일 2회 복용한다.\n증세가 뚜렷이 호전된 후에는 1회 10ml 1일 2-3회로 감량할 수 있다. 심한 호흡곤란 환자는 처음 2-3일간 1\n회 20ml 1일 3회 복용할 수 있다.\n2) 소아(12세 미만) : 연령 및 체중에 따라 1회 2.5-15ml 1일 2회 복용한다.",
+  "content_hash": "d841c9b330392d227861681a4bb092f2daf7d69a9107631b2f0d50d5f7de0cf3",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "30b7acba0782a4d574e8af391a3ded31269f7d450fca79fb1aa1ece73ca2143c",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n1) 성인 및 소아(12세 이상) : 1회 20ml 1일 2회 복용한다.\n증세가 뚜렷이 호전된 후에는 1회 10ml 1일 2-3회로 감량할 수 있다. 심한 호흡곤란 환자는 처음 2-3일간 1\n회 20ml 1일 3회 복용할 수 있다.\n2) 소아(12세 미만) : 연령 및 체중에 따라 1회 2.5-15ml 1일 2회 복용한다."
+        }
+      ]
+    }
+  ]
+}

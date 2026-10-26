@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "198801980",
+        "ITEM_NAME": "암브로콜시럽(암브록솔,클렌부테롤)",
+        "ENTP_NAME": "한미약품(주)",
+        "ITEM_PERMIT_DATE": "19880825",
+        "CNSGN_MANUF": "(주)퍼슨",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 불투명 플라스틱병 또는 반투명 플라스틱병에 든 딸기향을 가진 무색의 시럽제",
+        "BAR_CODE": "8806435018304,8806435018311,8806435018328,8806435018335,8806435018342",
+        "MATERIAL_NAME": "총량 : 100 mL 중|성분명 : 암브록솔염산염|분량 : 150|단위 : 밀리그램|규격 : EP|성분정보 : |비고 : ;총량 : 100 mL 중|성분명 : 클렌부테롤염산염|분량 : 0.1|단위 : 밀리그램|규격 : BP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198801980/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198801980/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198801980/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온보관(1~30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "500mL/병, 1000mL/병",
+        "EDI_CODE": "643501833,643501834",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1337",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250331",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명, 2025-03-31/저장방법 및 사용(유효)기간, 2021-06-22/사용상주의사항변경(부작용포함), 2020-01-02/성상변경, 2018-10-02/효능효과변경, 1996-04-10/용법용량변경, 1996-04-10/사용상주의사항변경(부작용포함), 1996-04-10/사용상주의사항변경(부작용포함), 1991-10-15/사용상주의사항변경(부작용포함), 1989-09-01",
+        "TOTAL_CONTENT": "100 mL 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M222889]클렌부테롤염산염|[M233843]암브록솔염산염",
+        "INGR_NAME": "[M007131]정제수|[M040044]농글리세린|[M080883]피로아황산나트륨|[M085046]프로필파라벤|[M207642]백당|[M222565]시트르산나트륨수화물|[M223090]시트르산수화물|[M255158]메틸파라벤|[M285311]딸기향 S-JF20000",
+        "ATC_CODE": "R03CC63",
+        "ITEM_ENG_NAME": "Ambrocol Syrup",
+        "ENTP_ENG_NAME": "Hanmi Pharm. Co.,Ltd.",
+        "MAIN_INGR_ENG": "Ambroxol Hydrochloride/Clenbuterol Hydrochloride",
+        "BIZRNO": "1248700613",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:200805814",
+  "doc_id": "mfds:200805814:STORAGE",
+  "title": "아미카주250밀리그램(황산아미카신)(바이알)(수출용) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "2b1154204d383402c1c04b9986aa169f87db81fd61625d543cf46a3b1fb7ea4b",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\200805814.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:21.581894+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 건냉암소보관\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 건냉암소보관\n사용기간: 제조일로부터 24 개월"
+}

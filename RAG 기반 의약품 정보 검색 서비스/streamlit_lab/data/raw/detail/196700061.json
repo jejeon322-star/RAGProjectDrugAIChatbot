@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196700061",
+        "ITEM_NAME": "에어신신파스",
+        "ENTP_NAME": "신신제약(주)",
+        "ITEM_PERMIT_DATE": "19670719",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "이 약은 무색내지 미황색(연노랑)의 액체로서 내압용기에 충진한(채워진) 에어로솔제이다.",
+        "BAR_CODE": "8806438006506,8806438006513,8806438006520,8806438006537,8806438006544,8806438006551",
+        "MATERIAL_NAME": "총량 : 이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향|성분명 : l-멘톨|분량 : 240.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향|성분명 : d-캄파|분량 : 300.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향|성분명 : 살리실산메틸|분량 : 300.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향|성분명 : 디펜히드라민|분량 : 20.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향|성분명 : 티몰|분량 : 15.6|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향|성분명 : 살리실산글리콜|분량 : 156.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700061/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700061/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700061/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700061/II",
+        "STORAGE_METHOD": "화기를 피하여 실온에 보관(1∼30℃)",
+        "VALID_TERM": "전과 동일",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "220mL/1캔, 300mL/1캔",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1332",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20221022",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2022-10-22/성상변경, 2017-03-14/사용상주의사항변경(부작용포함), 2013-06-24/용법용량변경, 2013-06-24/효능효과변경, 2013-06-24/성상변경, 2013-06-24/성상변경, 2010-03-30/저장방법 및 유효기간(사용기간)변경, 2008-04-22/사용상주의사항변경(부작용포함), 1997-04-25/사용상주의사항변경(부작용포함), 1991-12-05/사용상주의사항변경(부작용포함), 1989-11-07/사용상주의사항변경(부작용포함), 1986-01-01/용법용량변경, 1986-01-01/효능효과변경, 1986-01-01/저장방법 및 유효기간(사용기간)변경, 1983-09-06/용법용량변경, 1983-09-06",
+        "TOTAL_CONTENT": "이 약 100mL 중 (원액 10mL, 분사제 90mL)-후레쉬유자향",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스 통증, 피부가려움, 벌레물린데, 동창(언 상처)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[1일 1회 ~ 수회(여러 차례) 환부(질환 부위)에 적당량을 뿌린다]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자(부위)에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 30개월 이하의 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈주위, 점막 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 습진, 옻 등에 의한 피부염, 상처부위]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 지금까지 약이나 화장품 등에 의한 알레르기 증상(예를 들면 발진&#x2022;발적(충혈되어 붉어짐), 가려움, 옻 등에 의한 피부염 등)이 나타난 적이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 본인 또는 가족이 알레르기 체질인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 습윤(습기 참)이나 미란(짓무름)이 심한 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 소아(경련을 유발할 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 임부 또는 임신하고 있을 가능성이 있는 여성]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 수유부]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약의 사용으로 인해 발진&#x2022;발적(충혈되어 붉어짐), 가려움, 부종(부기) 등의 증상이 나타나는 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에게 사용할 경우에는 보호자의 지도ㆍ감독하에 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 5～6일간 투여 후에도 증상의 개선이 보이지 않을 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 살리실산메틸은 피부를 통하여 많은 양이 흡수될 경우 중독증상이 나타날 수 있으므로 넓은 표면에 대한 장기간의 사용은 피한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 외용으로만 사용하고 흡입하지 않는다. 흡입에 의해 현기증, 구역 등의 증상을 일으킬 수가 있으므로 가능한 흡입하지 않는 것이 좋으며 또한 그 주위 사람에게도 충분히 주의해서 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈에 들어가지 않도록 주의한다. 만일 눈에 들어간 경우에는 즉시 물로 씻는다. 증상이 심할 경우에는 안과의사의 치료를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 사용전에 잘 흔들어 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 환부(질환부위)로부터 20㎝의 거리에서 뿌린다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 동일 부위에 연속하여 3초 이상 뿌리지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 대량ㆍ광범위하게 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[※ 고압가스를 사용한 가연성 제품으로서 위험하므로 다음의 주의를 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 불꽃을 향하여 사용하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 화기를 사용하고 있는 실내에서 사용하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 밀폐된 실내에서 사용한 후에는 반드시 환기를 실시할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 온도가 40℃ 이상 되는 장소에 보관하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 화기에 가까이 하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 사용후 용기를 불 속에 넣지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 사용한 후 잔가스가 없도록 하여 버릴 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 밀폐된 장소에 보관하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 난로, 풍로등 화기부근에서 사용하지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M070611]살리실산글리콜|[M223254]티몰|[M040108]디펜히드라민|[M203279]살리실산메틸|[M204418]d-캄파|[M230875]l-멘톨",
+        "INGR_NAME": "[M060187]액화석유가스|[M256387]에탄올(99.5)|[M257812]후레쉬유자향|[M284425]에탄올(95)",
+        "ATC_CODE": "M02AC",
+        "ITEM_ENG_NAME": "Air Sinsin Pas",
+        "ENTP_ENG_NAME": "SINSIN Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "D-Camphor/Diphenhydramine/Glycol Salicylate/L-Menthol/Methyl Salicylate/Thymol",
+        "BIZRNO": "1188104136",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

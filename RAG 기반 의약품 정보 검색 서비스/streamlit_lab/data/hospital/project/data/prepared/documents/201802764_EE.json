@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201802764:EE",
+  "drug_id": "mfds:201802764",
+  "scope_type": "product",
+  "title": "비카페롤정 — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802764/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201802764_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:59.395986+00:00",
+  "text": "[원문 1쪽]\n효능효과\n○ 다음 경우의 비타민 D의 보급\n- 임신ㆍ수유기, 발육기, 노년기\n- 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다.\n᠊ 비타민 D(콜레칼시페롤) : 뼈, 이의 발육불량, 구루병의 예방",
+  "content_hash": "47e916e5c1ff4e694d090fc7f6e27a6e7003a1022ad4524f4a4bc675ab3735eb",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "d8461d1ada4c887f2312a29ab7dcb49223fc9610aa1aedf4f29cc11ff1677d39",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n○ 다음 경우의 비타민 D의 보급\n- 임신ㆍ수유기, 발육기, 노년기\n- 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다.\n᠊ 비타민 D(콜레칼시페롤) : 뼈, 이의 발육불량, 구루병의 예방"
+        }
+      ]
+    }
+  ]
+}

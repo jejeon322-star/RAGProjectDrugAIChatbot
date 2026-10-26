@@ -1,0 +1,368 @@
+{
+  "doc_id": "mfds:195900034:NB",
+  "drug_id": "mfds:195900034",
+  "scope_type": "product",
+  "title": "신신티눈고(살리실산반창고)(수출명:SINSINCORNPLASTER) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900034/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195900034.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20151030",
+  "collected_at": "2026-10-22T05:02:37.671966+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음 환자(부위)에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약에 과민증 또는 그 병력이 있는 환자",
+          "raw_content": "1) 이 약에 과민증 또는 그 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 당뇨병 환자",
+          "raw_content": "2) 당뇨병 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 혈액순환장애 환자",
+          "raw_content": "3) 혈액순환장애 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 눈주위 및 점막",
+          "raw_content": "4) 눈주위 및 점막"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 감염, 염증, 발적(충혈되어 붉어짐) 또는 자극이 있는 부위",
+          "raw_content": "5) 감염, 염증, 발적(충혈되어 붉어짐) 또는 자극이 있는 부위"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 점, 태어날 때부터 있는 점 또는 사마귀, 털이 있는 사마귀 및 생식기 부위의 사마귀",
+          "raw_content": "6) 점, 태어날 때부터 있는 점 또는 사마귀, 털이 있는 사마귀 및 생식기 부위의 사마귀"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 약물 또는 화장품등에 의해 알레르기 증상(예 : 발진, 발적(충혈되어 붉어짐), 가려움,",
+          "raw_content": "1) 약물 또는 화장품등에 의해 알레르기 증상(예 : 발진, 발적(충혈되어 붉어짐), 가려움,"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "옻 등에 의한 피부염)의 병력이 있는 환자",
+          "raw_content": "옻 등에 의한 피부염)의 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "2) 영아(젖먹이) ∙ 유아",
+          "raw_content": "2) 영아(젖먹이)&nbsp;&#8729; 유아"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "3) 신부전 환자(살리실염이 피부에 대량 흡수될 경우 중독을 유발하므로 신부전 환자에",
+          "raw_content": "3) 신부전 환자(살리실염이 피부에 대량 흡수될 경우 중독을 유발하므로 신부전 환자에"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "는 광범위한 피부에 장기간 적용하지 않는다)",
+          "raw_content": "는 광범위한 피부에 장기간 적용하지 않는다)"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 부작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 발진, 발적(충혈되어 붉어짐), 홍반(붉은 반점), 가려움이 나타날 수 있으며 이러한 증",
+          "raw_content": "1) 발진, 발적(충혈되어 붉어짐), 홍반(붉은 반점), 가려움이 나타날 수 있으며 이러한 증"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "상이 나타날 경우에는 투여를 중지한다.",
+          "raw_content": "상이 나타날 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "2) 대량 장기간 연용(계속 사용)시 피부염, 피부궤양이 나타날 수 있으며 이러한 증상이",
+          "raw_content": "2) 대량 장기간 연용(계속 사용)시 피부염, 피부궤양이 나타날 수 있으며 이러한 증상이"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "나타날 경우에는 투여를 중지한다.",
+          "raw_content": "나타날 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "3) 이 약이 정상 피부에 닿았을 경우에는 국소 자극 반응이 나타날 수 있으며 이러한",
+          "raw_content": "3) 이 약이 정상 피부에 닿았을 경우에는 국소 자극 반응이 나타날 수 있으며 이러한"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "반응이 나타날 경우에는 투여를 중지한다.",
+          "raw_content": "반응이 나타날 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "4) 드물게 피부자극, 접촉성 알레르기 반응이 나타날 수 있다.",
+          "raw_content": "4) 드물게 피부자극, 접촉성 알레르기 반응이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정해진 용법 ∙ 용량을 잘 지킨다.",
+          "raw_content": "1) 정해진 용법&nbsp;&#8729; 용량을 잘 지킨다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수회(여러 차례) 사용하여도 증상의 개선이 나타나지 않을 경우에는 사용을 중지하고",
+          "raw_content": "2) 수회(여러 차례) 사용하여도 증상의 개선이 나타나지 않을 경우에는 사용을 중지하고"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "약사 또는 의사와 상의한다.",
+          "raw_content": "약사 또는 의사와 상의한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "3) 화농(곪음)성피부염, 습윤(습기 참), 미란(짓무름)의 경우에는 이를 미리 치료한 후 이",
+          "raw_content": "3) 화농(곪음)성피부염, 습윤(습기 참), 미란(짓무름)의 경우에는 이를 미리 치료한 후 이"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "약을 적용한다.",
+          "raw_content": "약을 적용한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "4) 이 약을 붙인 채로 물 속에 들어가는 경우에는 약고가 녹아서 없어질 수 있으므로",
+          "raw_content": "4) 이 약을 붙인 채로 물 속에 들어가는 경우에는 약고가 녹아서 없어질 수 있으므로"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "주의한다.(경고제/반창고에 한함).",
+          "raw_content": "주의한다.(경고제/반창고에 한함)."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "5) 광범위 병소(아픈 부위)에 적용하는 경우에는 부작용이 나타나기 쉬우므로 주의하여",
+          "raw_content": "5) 광범위 병소(아픈 부위)에 적용하는 경우에는 부작용이 나타나기 쉬우므로 주의하여"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "사용한다.",
+          "raw_content": "사용한다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "6) 실수로 이 약을 복용한 경우에는 의사 또는 약사와 상의한다.",
+          "raw_content": "6) 실수로 이 약을 복용한 경우에는 의사 또는 약사와 상의한다."
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "7) 소아에 투여시 보호자의 지도 ∙ 감독 하에 사용한다.",
+          "raw_content": "7) 소아에 투여시 보호자의 지도&nbsp;&#8729; 감독 하에 사용한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 메토트렉세이트와 병용(함께 사용)시 메토트렉세이트의 독성이 증가할 수 있다.",
+          "raw_content": "1) 메토트렉세이트와 병용(함께 사용)시 메토트렉세이트의 독성이 증가할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 설포닐우레아와 병용(함께 사용)투여시 혈당저하작용이 증가할 수 있다.",
+          "raw_content": "2) 설포닐우레아와 병용(함께 사용)투여시 혈당저하작용이 증가할 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 이 약은 다른 국소 적용 약물의 흡수를 촉진시킬 수 있다.",
+          "raw_content": "3) 이 약은 다른 국소 적용 약물의 흡수를 촉진시킬 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약을 경구투여한(먹인) 동물실험에서 기형발생작용이 보고된 바 있으므로 이 약을",
+          "raw_content": "1) 이 약을 경구투여한(먹인) 동물실험에서 기형발생작용이 보고된 바 있으므로 이 약을"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회",
+          "raw_content": "임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "(웃돌다)한다고 판단되는 경우에만 투여한다.",
+          "raw_content": "(웃돌다)한다고 판단되는 경우에만 투여한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "2) 이 약이 모유로 배출된다는 보고가 있으나 영아(젖먹이)에 미치는 영향은 알려져 있",
+          "raw_content": "2) 이 약이 모유로 배출된다는 보고가 있으나 영아(젖먹이)에 미치는 영향은 알려져 있"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "지 않다.",
+          "raw_content": "지 않다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "3) 수유부에 투여시 유방 부위에 적용하지 않는다.",
+          "raw_content": "3) 수유부에 투여시 유방 부위에 적용하지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "유 ∙ 소아는 부작용이 나타나기 쉬우므로 대량을 광범위한 부위에 적용하거나 장기간",
+          "raw_content": "유&nbsp;&#8729; 소아는 부작용이 나타나기 쉬우므로 대량을 광범위한 부위에 적용하거나 장기간"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "사용하지 않는다.",
+          "raw_content": "사용하지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약은 외용으로만 적용한다.",
+          "raw_content": "1) 이 약은 외용으로만 적용한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 눈, 코, 입 및 다른 점막에 닿지 않도록 주의하여 적용한다. 실수로 눈에 들어갔을",
+          "raw_content": "2) 눈, 코, 입 및 다른 점막에 닿지 않도록 주의하여 적용한다. 실수로 눈에 들어갔을"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "경우에는 충분한 양의 물로 완전히 씻어낸 후 의사의 지시에 따른다.",
+          "raw_content": "경우에는 충분한 양의 물로 완전히 씻어낸 후 의사의 지시에 따른다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "3) 환부(질환 부위) 이외의 피부에 닿지 않도록 주의한다.",
+          "raw_content": "3) 환부(질환 부위) 이외의 피부에 닿지 않도록 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직사일광을 피하고 가능한 한 서늘한 곳에 보관한다.",
+          "raw_content": "2) 직사일광을 피하고 가능한 한 서늘한 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.",
+          "raw_content": "3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 화기 근처에 두지 않는다(액제/갤제에 한함).",
+          "raw_content": "4) 화기 근처에 두지 않는다(액제/갤제에 한함)."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 사용하지 않을 경우에는 뚜껑을 잘 닫아 둔다(액제/갤제에 한함).",
+          "raw_content": "5) 사용하지 않을 경우에는 뚜껑을 잘 닫아 둔다(액제/갤제에 한함)."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음 환자(부위)에는 투여하지 말 것.\n\n1) 이 약에 과민증 또는 그 병력이 있는 환자\n\n2) 당뇨병 환자\n\n3) 혈액순환장애 환자\n\n4) 눈주위 및 점막\n\n5) 감염, 염증, 발적(충혈되어 붉어짐) 또는 자극이 있는 부위\n\n6) 점, 태어날 때부터 있는 점 또는 사마귀, 털이 있는 사마귀 및 생식기 부위의 사마귀\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 약물 또는 화장품등에 의해 알레르기 증상(예 : 발진, 발적(충혈되어 붉어짐), 가려움,\n\n옻 등에 의한 피부염)의 병력이 있는 환자\n\n2) 영아(젖먹이) ∙ 유아\n\n3) 신부전 환자(살리실염이 피부에 대량 흡수될 경우 중독을 유발하므로 신부전 환자에\n\n는 광범위한 피부에 장기간 적용하지 않는다)\n\n3. 부작용\n\n1) 발진, 발적(충혈되어 붉어짐), 홍반(붉은 반점), 가려움이 나타날 수 있으며 이러한 증\n\n상이 나타날 경우에는 투여를 중지한다.\n\n2) 대량 장기간 연용(계속 사용)시 피부염, 피부궤양이 나타날 수 있으며 이러한 증상이\n\n나타날 경우에는 투여를 중지한다.\n\n3) 이 약이 정상 피부에 닿았을 경우에는 국소 자극 반응이 나타날 수 있으며 이러한\n\n반응이 나타날 경우에는 투여를 중지한다.\n\n4) 드물게 피부자극, 접촉성 알레르기 반응이 나타날 수 있다.\n\n4. 일반적 주의\n\n1) 정해진 용법 ∙ 용량을 잘 지킨다.\n\n2) 수회(여러 차례) 사용하여도 증상의 개선이 나타나지 않을 경우에는 사용을 중지하고\n\n약사 또는 의사와 상의한다.\n\n3) 화농(곪음)성피부염, 습윤(습기 참), 미란(짓무름)의 경우에는 이를 미리 치료한 후 이\n\n약을 적용한다.\n\n4) 이 약을 붙인 채로 물 속에 들어가는 경우에는 약고가 녹아서 없어질 수 있으므로\n\n주의한다.(경고제/반창고에 한함).\n\n5) 광범위 병소(아픈 부위)에 적용하는 경우에는 부작용이 나타나기 쉬우므로 주의하여\n\n사용한다.\n\n6) 실수로 이 약을 복용한 경우에는 의사 또는 약사와 상의한다.\n\n7) 소아에 투여시 보호자의 지도 ∙ 감독 하에 사용한다.\n\n5. 상호작용\n\n1) 메토트렉세이트와 병용(함께 사용)시 메토트렉세이트의 독성이 증가할 수 있다.\n\n2) 설포닐우레아와 병용(함께 사용)투여시 혈당저하작용이 증가할 수 있다.\n\n3) 이 약은 다른 국소 적용 약물의 흡수를 촉진시킬 수 있다.\n\n6. 임부 및 수유부에 대한 투여\n\n1) 이 약을 경구투여한(먹인) 동물실험에서 기형발생작용이 보고된 바 있으므로 이 약을\n\n임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회\n\n(웃돌다)한다고 판단되는 경우에만 투여한다.\n\n2) 이 약이 모유로 배출된다는 보고가 있으나 영아(젖먹이)에 미치는 영향은 알려져 있\n\n지 않다.\n\n3) 수유부에 투여시 유방 부위에 적용하지 않는다.\n\n7. 소아에 대한 투여\n\n유 ∙ 소아는 부작용이 나타나기 쉬우므로 대량을 광범위한 부위에 적용하거나 장기간\n\n사용하지 않는다.\n\n8. 적용상의 주의\n\n1) 이 약은 외용으로만 적용한다.\n\n2) 눈, 코, 입 및 다른 점막에 닿지 않도록 주의하여 적용한다. 실수로 눈에 들어갔을\n\n경우에는 충분한 양의 물로 완전히 씻어낸 후 의사의 지시에 따른다.\n\n3) 환부(질환 부위) 이외의 피부에 닿지 않도록 주의한다.\n\n9. 저장상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관한다.\n\n2) 직사일광을 피하고 가능한 한 서늘한 곳에 보관한다.\n\n3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.\n\n4) 화기 근처에 두지 않는다(액제/갤제에 한함).\n\n5) 사용하지 않을 경우에는 뚜껑을 잘 닫아 둔다(액제/갤제에 한함).",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자(부위)에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약에 과민증 또는 그 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 당뇨병 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액순환장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 눈주위 및 점막]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 감염, 염증, 발적(충혈되어 붉어짐) 또는 자극이 있는 부위]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 점, 태어날 때부터 있는 점 또는 사마귀, 털이 있는 사마귀 및 생식기 부위의 사마귀]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 약물 또는 화장품등에 의해 알레르기 증상(예 : 발진, 발적(충혈되어 붉어짐), 가려움,]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[옻 등에 의한 피부염)의 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 영아(젖먹이)&nbsp;&#8729; 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 신부전 환자(살리실염이 피부에 대량 흡수될 경우 중독을 유발하므로 신부전 환자에]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[는 광범위한 피부에 장기간 적용하지 않는다)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 발진, 발적(충혈되어 붉어짐), 홍반(붉은 반점), 가려움이 나타날 수 있으며 이러한 증]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[상이 나타날 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 대량 장기간 연용(계속 사용)시 피부염, 피부궤양이 나타날 수 있으며 이러한 증상이]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[나타날 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약이 정상 피부에 닿았을 경우에는 국소 자극 반응이 나타날 수 있으며 이러한]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[반응이 나타날 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 드물게 피부자극, 접촉성 알레르기 반응이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법&nbsp;&#8729; 용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수회(여러 차례) 사용하여도 증상의 개선이 나타나지 않을 경우에는 사용을 중지하고]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[약사 또는 의사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 화농(곪음)성피부염, 습윤(습기 참), 미란(짓무름)의 경우에는 이를 미리 치료한 후 이]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[약을 적용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약을 붙인 채로 물 속에 들어가는 경우에는 약고가 녹아서 없어질 수 있으므로]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[주의한다.(경고제/반창고에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 광범위 병소(아픈 부위)에 적용하는 경우에는 부작용이 나타나기 쉬우므로 주의하여]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 실수로 이 약을 복용한 경우에는 의사 또는 약사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 소아에 투여시 보호자의 지도&nbsp;&#8729; 감독 하에 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 메토트렉세이트와 병용(함께 사용)시 메토트렉세이트의 독성이 증가할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 설포닐우레아와 병용(함께 사용)투여시 혈당저하작용이 증가할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약은 다른 국소 적용 약물의 흡수를 촉진시킬 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 경구투여한(먹인) 동물실험에서 기형발생작용이 보고된 바 있으므로 이 약을]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(웃돌다)한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약이 모유로 배출된다는 보고가 있으나 영아(젖먹이)에 미치는 영향은 알려져 있]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[지 않다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 수유부에 투여시 유방 부위에 적용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[유&nbsp;&#8729; 소아는 부작용이 나타나기 쉬우므로 대량을 광범위한 부위에 적용하거나 장기간]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 외용으로만 적용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈, 코, 입 및 다른 점막에 닿지 않도록 주의하여 적용한다. 실수로 눈에 들어갔을]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[경우에는 충분한 양의 물로 완전히 씻어낸 후 의사의 지시에 따른다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 환부(질환 부위) 이외의 피부에 닿지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 가능한 한 서늘한 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 화기 근처에 두지 않는다(액제/갤제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 사용하지 않을 경우에는 뚜껑을 잘 닫아 둔다(액제/갤제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "adfaed51f4462f89bc3270c55543944d75154852a2ba20ceebf5b780638ac71b"
+}

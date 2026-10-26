@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200502066",
+        "ITEM_NAME": "안티라제정(수출명: Strikase)",
+        "ENTP_NAME": "(주)한국비엠아이",
+        "ITEM_PERMIT_DATE": "20050826",
+        "CNSGN_MANUF": "(주)노바엠헬스케어",
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": " 연녹색의 원형 장용성 필름코팅정\r\n",
+        "BAR_CODE": "8806548010004,8806548010011,8806548010028,8806548010035",
+        "MATERIAL_NAME": "총량 : 1정291밀리그램|성분명 : 결정트립신|분량 : 1|단위 : 밀리그램|규격 : USP|성분정보 : 2,500 유에스피 트립신 단위|비고 : ;총량 : 1정291밀리그램|성분명 : 브로멜라인|분량 : 40|단위 : 밀리그램|규격 : KP|성분정보 : 20,000 브로멜라인 단위|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502066/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502066/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502066/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502066/II",
+        "STORAGE_METHOD": "기밀용기, 실온(1～30℃)보관\r\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "500정/병,1000정/병",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1395",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20210915",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2021-09-15/사용상주의사항변경(부작용포함), 2018-06-28/사용상주의사항변경(부작용포함), 2010-01-07/제품명칭변경, 2006-09-15",
+        "TOTAL_CONTENT": "1291",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M051649]결정트립신|[M095415]브로멜라인",
+        "INGR_NAME": "[M081161]크로스포비돈|[M223367]유당수화물|[M229401]미결정셀룰로오스|[M244534]스테아르산마그네슘|[M245060]콜로이드성이산화규소|[M270790]탭쉴드흰색(11W401)|[M281016]탭쉴드 녹색 319G726",
+        "ATC_CODE": "M09AB52",
+        "ITEM_ENG_NAME": "Antirase Tab.",
+        "ENTP_ENG_NAME": "BMI KOREA",
+        "MAIN_INGR_ENG": "Bromelain/Crystallized Trypsin",
+        "BIZRNO": "1248636434",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

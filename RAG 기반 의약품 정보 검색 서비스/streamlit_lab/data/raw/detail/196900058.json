@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196900058",
+        "ITEM_NAME": "코푸시럽에스",
+        "ENTP_NAME": "(주)유한양행",
+        "ITEM_PERMIT_DATE": "19691104",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "알루미늄 호일 포장에 들어있는 엷은 황갈색의 방향성 시럽제",
+        "BAR_CODE": "8806421022902,8806421022919,8806421022926,8806421055207,8806421055214,8806421055221,8806421055238",
+        "MATERIAL_NAME": "총량 : 이 약 100ml 중|성분명 : 덱스트로메토르판브롬화수소산염수화물|분량 : 75|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100ml 중|성분명 : dl-메틸에페드린염산염|분량 : 131.25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100ml 중|성분명 : 클로르페니라민말레산염|분량 : 15|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 100ml 중|성분명 : 염화암모늄|분량 : 1,000|단위 : 밀리그램|규격 : BP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900058/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900058/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900058/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30 ℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "6포/상자[20밀리리터/포 X 6],12포/상자[20밀리리터/포 X 12]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1329",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240923",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2024-09-23/저장방법 및 사용(유효)기간, 2024-09-23/성상, 2024-09-23/성상변경, 2019-01-22/사용상주의사항변경(부작용포함), 2015-12-17/용법용량변경, 2015-12-17/효능효과변경, 2015-12-17/사용상주의사항변경(부작용포함), 2015-02-14/용법용량변경, 2015-02-14/사용상주의사항변경(부작용포함), 2008-04-05/용법용량변경, 2008-04-05/사용상주의사항변경(부작용포함), 1995-01-01/용법용량변경, 1995-01-01/효능효과변경, 1995-01-01/사용상주의사항변경(부작용포함), 1992-08-17/사용상주의사항변경(부작용포함), 1983-06-30/저장방법 및 유효기간(사용기간)변경, 1981-12-02/용법용량변경, 1981-12-02",
+        "TOTAL_CONTENT": "이 약 100ml 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[기침, 가래]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 20 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아 : 1회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11세 이상 &#x301c; 15세 미만 13 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8세 이상 &#x301c; 11세 미만 10 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5세 이상 &#x301c; 8세 미만 7 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3세 이상 &#x301c; 5세 미만 5 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2세 이상 &#x301c; 3세 미만 4 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3 &#x301c; 4회 식후 및 취침 시에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 3개월 미만의 영아(시럽제에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 15세 미만의 소아(정제에 한함)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이 약을 복용하는 동안 다음의 행위를 하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 복용시에는 음주하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 복용하는 동안 졸음이 오는 경우가 있으므로 자동차 운전 또는 기계류의 운전 조작을 피할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인, 양친 또는 형제 등이 두드러기, 접촉피부염, 알레르기비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 지금까지 약에 의해 알레르기 증상(예, 발열, 발진, 관절통, 가려움 등)을 일으킨 적이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간장질환, 신장질환, 갑상샘질환, 당뇨병 등이 있는 환자, 고열환자, 허약자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 심장질환 및 고혈압 환자, 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 녹내장(예, 눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 다음과 같은 기침이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 이 약은 카라멜을 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다(시럽제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 발진, 발적, 가려움, 구역, 구토, 식욕부진, 어지럼, 배뇨곤란, 목마름(지속적이거나 심한), 불안, 떨림, 불면]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 5 ∼ 6회 복용하여도 증상이 좋아지지 않을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에게 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 장소에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하고 되도록 습기가 적은 서늘한 곳에 밀전하여 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040435]염화암모늄|[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물",
+        "INGR_NAME": "[M007131]정제수|[M060131]소르빈산칼륨|[M060260]카라멜|[M095147]수크랄로스|[M210694]D-소르비톨액|[M222565]시트르산나트륨수화물|[M223090]시트르산수화물|[M229149]후르츠믹스향",
+        "ATC_CODE": "R05FA",
+        "ITEM_ENG_NAME": "Cough Syrup -S",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "MAIN_INGR_ENG": "Ammonium Chloride/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate",
+        "BIZRNO": "1188100601",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

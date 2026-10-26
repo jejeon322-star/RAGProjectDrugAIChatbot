@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199802171:UD",
+  "drug_id": "mfds:199802171",
+  "scope_type": "product",
+  "title": "이텍스암브록솔시럽(암브록솔염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802171/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199802171_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:41.517054+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인\n: 암브록솔염산염으로서 치료초기에 1회 30 mg 1일 3회 복용하고 계속 치료 시 1회 15 mg 1일\n3회 복용한다.\n소아\n5세 이상 : 1회 15 mg 1일 2 ∼ 3회 복용한다.\n2 ∼ 4세 : 1회 7.5 mg 1일 3회 복용한다.\n이 약은 식사와 관계없이 복용할 수 있다.\n만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.",
+  "content_hash": "4d88cfccdf92025b771ef2d42023d65917e1b19511ce50a382f08cc2fcb9d5c8",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "46e568e1d57702171cb503adaef277f2fd22fc5ad9179db56ac0fbb7c874ca38",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인\n: 암브록솔염산염으로서 치료초기에 1회 30 mg 1일 3회 복용하고 계속 치료 시 1회 15 mg 1일\n3회 복용한다.\n소아\n5세 이상 : 1회 15 mg 1일 2 ∼ 3회 복용한다.\n2 ∼ 4세 : 1회 7.5 mg 1일 3회 복용한다.\n이 약은 식사와 관계없이 복용할 수 있다.\n만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다."
+        }
+      ]
+    }
+  ]
+}

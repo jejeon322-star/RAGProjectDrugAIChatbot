@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197200483:EE",
+  "drug_id": "mfds:197200483",
+  "scope_type": "product",
+  "title": "뇌선 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200483/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200483.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20251110",
+  "collected_at": "2026-10-22T05:27:39.565607+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "두통, 치통, 발치후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통, 오한, 발열시의 해열",
+          "raw_content": "두통, 치통, 발치후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통, 오한, 발열시의 해열"
+        }
+      ]
+    }
+  ],
+  "text": "두통, 치통, 발치후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통, 오한, 발열시의 해열",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[두통, 치통, 발치후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통, 오한, 발열시의 해열]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "555ef992b85c1b4d1a57c94c05b20ec169d074aba8ca38a7b417527ceca44504"
+}

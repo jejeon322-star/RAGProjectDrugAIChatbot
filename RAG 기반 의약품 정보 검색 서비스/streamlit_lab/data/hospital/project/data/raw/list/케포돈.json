@@ -1,0 +1,82 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 3,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "199501140",
+        "ITEM_NAME": "케포돈1그람주(세파제돈나트륨)",
+        "ITEM_ENG_NAME": "Kepodon Inj.",
+        "ENTP_NAME": "한국유니온제약(주)",
+        "ENTP_ENG_NAME": "Union Korea Pharm Co. LTD.,",
+        "ENTP_SEQ": "19560010",
+        "ENTP_NO": "1326",
+        "ITEM_PERMIT_DATE": "19951124",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199501140",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06180]주로 그람양성, 음성균에 작용하는 것",
+        "PRDUCT_PRMISN_NO": "112",
+        "ITEM_INGR_NAME": "Cefazedone Sodium",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "665504051",
+        "BIZRNO": "6078121765"
+      },
+      {
+        "ITEM_SEQ": "202301568",
+        "ITEM_NAME": "케포돈2그램주(세파제돈나트륨)",
+        "ITEM_ENG_NAME": "Kefodon Inj. 2g",
+        "ENTP_NAME": "한국유니온제약(주)",
+        "ENTP_ENG_NAME": "Union Korea Pharm Co. LTD.,",
+        "ENTP_SEQ": "19560010",
+        "ENTP_NO": "1326",
+        "ITEM_PERMIT_DATE": "20230516",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "202301568",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06180]주로 그람양성, 음성균에 작용하는 것",
+        "PRDUCT_PRMISN_NO": "5233",
+        "ITEM_INGR_NAME": "Cefazedone Sodium",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "665508571",
+        "BIZRNO": "6078121765"
+      },
+      {
+        "ITEM_SEQ": "202400158",
+        "ITEM_NAME": "케포돈0.5그램주(세파제돈나트륨)",
+        "ITEM_ENG_NAME": "Kefodon Inj. 0.5g",
+        "ENTP_NAME": "한국유니온제약(주)",
+        "ENTP_ENG_NAME": "Union Korea Pharm Co. LTD.,",
+        "ENTP_SEQ": "19560010",
+        "ENTP_NO": "1326",
+        "ITEM_PERMIT_DATE": "20240122",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "202400158",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06180]주로 그람양성, 음성균에 작용하는 것",
+        "PRDUCT_PRMISN_NO": "5237",
+        "ITEM_INGR_NAME": "Cefazedone Sodium",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "665508591",
+        "BIZRNO": "6078121765"
+      }
+    ]
+  }
+}

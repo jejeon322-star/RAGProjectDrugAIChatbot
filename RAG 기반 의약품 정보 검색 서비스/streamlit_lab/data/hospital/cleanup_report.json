@@ -1,0 +1,21 @@
+[
+  "app.py",
+  "collect_all_drugs.py",
+  "collect_drugs.py",
+  "collect_for_window.py",
+  "전체수집.cmd",
+  "기존모드실행.cmd",
+  "검증_진행상황.md",
+  "IMPLEMENTATION.md",
+  "미사용/step0_llm.py",
+  "미사용/step1_widgets.py",
+  "미사용/step2_rerun.py",
+  "미사용/step3_state.py",
+  "미사용/step4_echo.py",
+  "미사용/step5_llm.py",
+  "미사용/step6_context.py",
+  "미사용/step7_skeleton.py",
+  "미사용/step8_wiki_api.py",
+  "미사용/plus_widget_key.py",
+  "미사용/.env.example"
+]

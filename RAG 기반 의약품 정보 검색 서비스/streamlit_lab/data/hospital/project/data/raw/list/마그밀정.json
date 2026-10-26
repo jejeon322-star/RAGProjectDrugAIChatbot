@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "197400246",
+        "ITEM_NAME": "마그밀정(수산화마그네슘)",
+        "ITEM_ENG_NAME": "Magmil Tab.(Magnesium Hydroxide)",
+        "ENTP_NAME": "삼남제약(주)",
+        "ENTP_ENG_NAME": "SAMNAM PHARMACEUTICAL CO., LTD",
+        "ENTP_SEQ": "19550017",
+        "ENTP_NO": "1307",
+        "ITEM_PERMIT_DATE": "19740902",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "197400246",
+        "SPCLTY_PBLC": "일반의약품",
+        "PRDUCT_TYPE": "[02340]제산제",
+        "PRDUCT_PRMISN_NO": "123",
+        "ITEM_INGR_NAME": "Magnesium Hydroxide",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OZiugAPfPm",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "653700240",
+        "BIZRNO": "3058118345"
+      }
+    ]
+  }
+}

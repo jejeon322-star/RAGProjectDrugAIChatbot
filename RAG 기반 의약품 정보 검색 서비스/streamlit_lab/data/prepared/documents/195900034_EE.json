@@ -1,0 +1,62 @@
+{
+  "doc_id": "mfds:195900034:EE",
+  "drug_id": "mfds:195900034",
+  "scope_type": "product",
+  "title": "신신티눈고(살리실산반창고)(수출명:SINSINCORNPLASTER) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900034/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195900034.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20151030",
+  "collected_at": "2026-10-22T05:02:37.671966+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "(경고제)(반창고)(액제)",
+          "raw_content": "(경고제)(반창고)(액제)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "티눈, 못(굳은살), 사마귀",
+          "raw_content": "티눈, 못(굳은살), 사마귀"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "(결제, 27%)",
+          "raw_content": "(결제, 27%)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "보통의 모자이크(양) 발바닥 사마귀",
+          "raw_content": "보통의 모자이크(양) 발바닥 사마귀"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "(겔제, 5%)",
+          "raw_content": "(겔제, 5%)"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "건조, 인설 또는 못(굳은살)의 피부의 박리",
+          "raw_content": "건조, 인설 또는 못(굳은살)의 피부의 박리"
+        }
+      ]
+    }
+  ],
+  "text": "(경고제)(반창고)(액제)\n\n티눈, 못(굳은살), 사마귀\n\n(결제, 27%)\n\n보통의 모자이크(양) 발바닥 사마귀\n\n(겔제, 5%)\n\n건조, 인설 또는 못(굳은살)의 피부의 박리",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(경고제)(반창고)(액제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[티눈, 못(굳은살), 사마귀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(결제, 27%)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통의 모자이크(양) 발바닥 사마귀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(겔제, 5%)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[건조, 인설 또는 못(굳은살)의 피부의 박리]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "5073592bf228375d33e568d74a70c0dc6c020081e857c47029c107f40c48af98"
+}

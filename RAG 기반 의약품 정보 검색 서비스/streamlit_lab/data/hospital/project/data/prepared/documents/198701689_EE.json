@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198701689:EE",
+  "drug_id": "mfds:198701689",
+  "scope_type": "product",
+  "title": "토라렌주(디클로페낙나트륨)(수출명:토페라렌주사(Toferareninjection)) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198701689/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198701689_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:09.767565+00:00",
+  "text": "[원문 1쪽]\n효능효과\n(경구)\n1. 주효능 효과\n류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염\n2. 다음 질환에도 사용할 수 있다.\n.\n수술후  외상후 염증 및 동통, 급성통풍, 비관절성 류마티즘, 요통, 치통,\n월경곤란증, 이비인후 영역의 염증 및 동통, 견관절 주위염\n(주사)\n1. 다음 질환에 사용할 수 있다.\n류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염,\n.\n수술후  외상후 염증 및 동통, 급성통풍, 신 및 간산통\n(서방성 제제)\n1. 주효능 효과\n류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염\n2. 다음 질환에도 사용할 수 있다.\n.\n수술후  외상후 염증 및 동통, 비관절성 류마티즘, 견관절 주위염",
+  "content_hash": "936efcba9f09ea3cdea21c37fccf457d7dbe69a94d3610e3bc0993d4f08f1e3a",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "b32a30c74ec3cf5cc5ae412809d07c4b2cb6868efd6ea8a0531580d72ac96043",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n(경구)\n1. 주효능 효과\n류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염\n2. 다음 질환에도 사용할 수 있다.\n.\n수술후  외상후 염증 및 동통, 급성통풍, 비관절성 류마티즘, 요통, 치통,\n월경곤란증, 이비인후 영역의 염증 및 동통, 견관절 주위염\n(주사)\n1. 다음 질환에 사용할 수 있다.\n류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염,\n.\n수술후  외상후 염증 및 동통, 급성통풍, 신 및 간산통\n(서방성 제제)\n1. 주효능 효과\n류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염\n2. 다음 질환에도 사용할 수 있다.\n.\n수술후  외상후 염증 및 동통, 비관절성 류마티즘, 견관절 주위염"
+        }
+      ]
+    }
+  ]
+}

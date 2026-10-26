@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:196400046:UD",
+  "drug_id": "mfds:196400046",
+  "scope_type": "product",
+  "title": "게루삼정 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400046/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196400046.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20191220",
+  "collected_at": "2026-10-22T05:09:10.677214+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "만 15세 이상 및 성인: 1회 2정, 1일 3회",
+          "raw_content": "만 15세 이상 및 성인: 1회 2정, 1일 3회"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "만 8세 이상 15세 미만: 1회 1정, 1일 3회",
+          "raw_content": "만 8세 이상 15세 미만: 1회 1정, 1일 3회"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "식간(식사때와 식사때 사이) 및 취침시 복용한다.",
+          "raw_content": "식간(식사때와 식사때 사이) 및 취침시 복용한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "복용간격은 4시간 이상으로 한다.",
+          "raw_content": "복용간격은 4시간 이상으로 한다."
+        }
+      ]
+    }
+  ],
+  "text": "만 15세 이상 및 성인: 1회 2정, 1일 3회\n\n만 8세 이상 15세 미만: 1회 1정, 1일 3회\n\n식간(식사때와 식사때 사이) 및 취침시 복용한다.\n\n복용간격은 4시간 이상으로 한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 15세 이상 및 성인: 1회 2정, 1일 3회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 8세 이상 15세 미만: 1회 1정, 1일 3회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[식간(식사때와 식사때 사이) 및 취침시 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[복용간격은 4시간 이상으로 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "ffdfebaadc254462748a657b45a76ec7356ea34773a4383b4c995efa9c9e0649"
+}

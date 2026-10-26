@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202601853",
+        "ITEM_NAME": "로수탄젯오디정10/20밀리그램(에제티미브, 로수바스타틴칼슘)",
+        "ENTP_NAME": "동국제약(주)",
+        "ITEM_PERMIT_DATE": "20260630",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색 내지 미황색의 타원형 구강붕해정",
+        "BAR_CODE": "8806534064202,8806534064219",
+        "MATERIAL_NAME": "총량 : 1정338.70밀리그램|성분명 : 에제티미브(미분화)|분량 : 10.00|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 : ;총량 : 1정338.70밀리그램|성분명 : 로수바스타틴칼슘(미분화)|분량 : 20.80|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601853/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601853/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601853/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1-30℃)보관",
+        "VALID_TERM": "제조일로부터 18 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/상자[10정/PTP X 3]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1416",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20261006",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 사용(유효)기간, 2026-10-06",
+        "TOTAL_CONTENT": "1338.70",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M270546]로수바스타틴칼슘(미분화)|[M282749]에제티미브(미분화)",
+        "INGR_NAME": "[M081161]크로스포비돈|[M089671]포비돈|[M095933]스테아릴푸마르산나트륨|[M215426]크로스카르멜로오스나트륨|[M244752]라우릴황산나트륨|[M245108]미결정셀룰로오스|[M247246]스테비올배당체|[M254581]유당수화물|[M254581]유당수화물|[M286552]누룽지분말향 31901",
+        "ATC_CODE": "C10BA06",
+        "ITEM_ENG_NAME": "Rosutanzet OD Tab. 10/20mg (Ezetimibe, Rosuvastatin Calcium)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Ezetimibe/Rosuvastatin Calcium Micronized",
+        "BIZRNO": "3018508241",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

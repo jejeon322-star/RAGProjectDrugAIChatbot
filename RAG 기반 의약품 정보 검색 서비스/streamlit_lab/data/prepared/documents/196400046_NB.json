@@ -1,0 +1,134 @@
+{
+  "doc_id": "mfds:196400046:NB",
+  "drug_id": "mfds:196400046",
+  "scope_type": "product",
+  "title": "게루삼정 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400046/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196400046.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20191220",
+  "collected_at": "2026-10-22T05:09:10.677214+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음과 같은 사람은 이 약을 복용하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 투석요법을 받고 있는 환자",
+          "raw_content": "1) 투석요법을 받고 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 만 7세 이하의 어린이",
+          "raw_content": "2) 만 7세 이하의 어린이"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 테트라사이클린계 항생제",
+          "raw_content": "1) 테트라사이클린계 항생제"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음과 같은 사람은 이 약 복용하기 전에 의사, 치과의사, 약사와 상의할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 신장장애",
+          "raw_content": "1) 신장장애"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 다른 약물을 복용하고 있는 사람",
+          "raw_content": "2) 다른 약물을 복용하고 있는 사람"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 다음과 같은 사람( 경우) 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 이 첨부문서를 소지할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약을 복용하는 동안 변비 또는 설사의 증상이 나타날 경우",
+          "raw_content": "1) 이 약을 복용하는 동안 변비 또는 설사의 증상이 나타날 경우"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 2주정도 투여하여도 증상의 개선이 없을 경우",
+          "raw_content": "2) 2주정도 투여하여도 증상의 개선이 없을 경우"
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 기타 이 약의 복용시 주의할 사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정해진 용법ㆍ용량을 잘 지킬 것.",
+          "raw_content": "1) 정해진 용법ㆍ용량을 잘 지킬 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 어린이 투여할 경우에는 보호자의 지도 감독하에 투여할 것.",
+          "raw_content": "2) 어린이 투여할 경우에는 보호자의 지도 감독하에 투여할 것."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 나트륨 제한 식이를 하는 사람.",
+          "raw_content": "3) 나트륨 제한 식이를 하는 사람."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손에 닿지 않는 곳에 보관할 것.",
+          "raw_content": "1) 어린이의 손에 닿지 않는 곳에 보관할 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직사일광을 피하고 되도록 습기가 적은 서늘한 곳에 보관할 것.",
+          "raw_content": "2) 직사일광을 피하고 되도록 습기가 적은 서늘한 곳에 보관할 것."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.",
+          "raw_content": "3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음과 같은 사람은 이 약을 복용하지 말 것.\n\n1) 투석요법을 받고 있는 환자\n\n2) 만 7세 이하의 어린이\n\n2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\n\n1) 테트라사이클린계 항생제\n\n3. 다음과 같은 사람은 이 약 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\n\n1) 신장장애\n\n2) 다른 약물을 복용하고 있는 사람\n\n4. 다음과 같은 사람( 경우) 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 이 첨부문서를 소지할 것.\n\n1) 이 약을 복용하는 동안 변비 또는 설사의 증상이 나타날 경우\n\n2) 2주정도 투여하여도 증상의 개선이 없을 경우\n\n5. 기타 이 약의 복용시 주의할 사항\n\n1) 정해진 용법ㆍ용량을 잘 지킬 것.\n\n2) 어린이 투여할 경우에는 보호자의 지도 감독하에 투여할 것.\n\n3) 나트륨 제한 식이를 하는 사람.\n\n6. 저장상의 주의사항\n\n1) 어린이의 손에 닿지 않는 곳에 보관할 것.\n\n2) 직사일광을 피하고 되도록 습기가 적은 서늘한 곳에 보관할 것.\n\n3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 투석요법을 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 만 7세 이하의 어린이]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 테트라사이클린계 항생제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람은 이 약 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 신장장애]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 다른 약물을 복용하고 있는 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 사람( 경우) 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 복용하는 동안 변비 또는 설사의 증상이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 2주정도 투여하여도 증상의 개선이 없을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 어린이 투여할 경우에는 보호자의 지도 감독하에 투여할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 나트륨 제한 식이를 하는 사람.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손에 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 되도록 습기가 적은 서늘한 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "c8d5de95efefe2dd4205a4b1565d15e2bfa3ea7c0aae9f1ea6b771bb2943e8cd"
+}

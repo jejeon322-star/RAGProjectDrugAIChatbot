@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197200091",
+  "doc_id": "mfds:197200091:STORAGE",
+  "title": "도란사민캡슐(트라넥삼산)(수출명:트라민캡슐) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "fc1aa1c9413b660bf7f1058ed209351ee9a28b95a3d8820311207b94ee1afe9a",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200091.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:26:36.897813+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀폐용기, 실온보관(1~30℃)\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀폐용기, 실온보관(1~30℃)\n사용기간: 제조일로부터 36 개월"
+}

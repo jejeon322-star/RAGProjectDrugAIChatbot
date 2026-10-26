@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197100015:EE",
+  "drug_id": "mfds:197100015",
+  "scope_type": "product",
+  "title": "타치온정50밀리그램(글루타티온(환원형)) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100015/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100015.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220303",
+  "collected_at": "2026-10-22T05:22:33.852984+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "약물중독, 자가중독",
+          "raw_content": "약물중독, 자가중독"
+        }
+      ]
+    }
+  ],
+  "text": "약물중독, 자가중독",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[약물중독, 자가중독]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "88ab0675aefef6ab12f3e406510c34c9c9b3088a5fb6abffc23d8ee0e4bed384"
+}

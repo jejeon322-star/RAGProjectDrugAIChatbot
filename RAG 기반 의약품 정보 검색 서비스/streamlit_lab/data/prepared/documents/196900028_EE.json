@@ -1,0 +1,86 @@
+{
+  "doc_id": "mfds:196900028:EE",
+  "drug_id": "mfds:196900028",
+  "scope_type": "product",
+  "title": "대한아스코르브산주사액 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900028/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900028.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220314",
+  "collected_at": "2026-10-22T05:15:15.912662+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "급성 또는 경구투여가 어려운 경우의",
+          "raw_content": "급성 또는 경구투여가 어려운 경우의"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "1. 비타민 C 결핍증의 예방과 치료 : 괴혈병 등",
+          "raw_content": "1. 비타민 C 결핍증의 예방과 치료 : 괴혈병 등"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "2. 비타민 C 의 요구량이 증가하는 경우 :",
+          "raw_content": "2. 비타민 C 의 요구량이 증가하는 경우 :"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "임부ᆞ수유부, 심한 육체노동 시 등",
+          "raw_content": "임부&#x119e;수유부, 심한 육체노동 시 등"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우",
+          "raw_content": "3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등)",
+          "raw_content": "1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등)"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염 등)",
+          "raw_content": "2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염 등)"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "3) 골절시의 골기질형성, 골유합촉진",
+          "raw_content": "3) 골절시의 골기질형성, 골유합촉진"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "4) 기미, 주근깨, 염증후의 색소침착",
+          "raw_content": "4) 기미, 주근깨, 염증후의 색소침착"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "5) 광선과민성피부염 등",
+          "raw_content": "5) 광선과민성피부염 등"
+        }
+      ]
+    }
+  ],
+  "text": "급성 또는 경구투여가 어려운 경우의\n\n1. 비타민 C 결핍증의 예방과 치료 : 괴혈병 등\n\n2. 비타민 C 의 요구량이 증가하는 경우 :\n\n임부ᆞ수유부, 심한 육체노동 시 등\n\n3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우\n\n1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등)\n\n2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염 등)\n\n3) 골절시의 골기질형성, 골유합촉진\n\n4) 기미, 주근깨, 염증후의 색소침착\n\n5) 광선과민성피부염 등",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[급성 또는 경구투여가 어려운 경우의]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1. 비타민 C 결핍증의 예방과 치료 : 괴혈병 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2. 비타민 C 의 요구량이 증가하는 경우 :]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부&#x119e;수유부, 심한 육체노동 시 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염 등)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 골절시의 골기질형성, 골유합촉진]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 기미, 주근깨, 염증후의 색소침착]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 광선과민성피부염 등]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "b05794a2874cdb61ed6a066b525b338b4de56f0935e7caf07a817391be65b1e2"
+}

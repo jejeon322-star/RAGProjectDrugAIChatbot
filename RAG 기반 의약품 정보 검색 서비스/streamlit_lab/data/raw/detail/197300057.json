@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197300057",
+        "ITEM_NAME": "대한5%쏠비톨주사액",
+        "ENTP_NAME": "대한약품공업(주)",
+        "ITEM_PERMIT_DATE": "19730810",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색투명한 용액을 무색투명한 유리 또는 플라스틱 용기에 충진한 것이다.",
+        "BAR_CODE": "8806451002202,8806451002219,8806451002226",
+        "MATERIAL_NAME": "총량 : 100밀리리터 중|성분명 : D-소르비톨|분량 : 5|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300057/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300057/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300057/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300057/II",
+        "STORAGE_METHOD": "밀봉용기,실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월,제조일로부터 18 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "500mL/백 ",
+        "EDI_CODE": "645100222",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1303",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20150717",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 유효기간(사용기간)변경, 2015-07-17/저장방법 및 유효기간(사용기간)변경, 1995-07-24/성상변경, 1992-09-29/저장방법 및 유효기간(사용기간)변경, 1986-01-08/효능효과변경, 1980-03-29/용법용량변경, 1980-03-29/사용상주의사항변경(부작용포함), 1980-03-29",
+        "TOTAL_CONTENT": "100밀리리터 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 간질환, 당뇨병시의 수분·에너지 보급\" />\r\n    <ARTICLE title=\"2. 수술전·후의 수분·에너지 보급\" />\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 성인 :　D-소르비톨로서 보통 1회 4∼50 g 1일 1∼수회 천천히 정맥주사 또는 점적정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 1일 최대량은 이 약으로서 100 g이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 점적정맥주사 속도는 이 약으로서 시간당 0.5 g/kg이하로 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 저장성 탈수증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 유전성 과당불내증 환자 3) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[요붕증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대량ㆍ급속 투여 : 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[정맥주사로만 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M204410]D-소르비톨",
+        "INGR_NAME": "[M040534]주사용수",
+        "ATC_CODE": "B05BA03",
+        "ITEM_ENG_NAME": "Dai Han 5% D-Sorbitol Inj.",
+        "ENTP_ENG_NAME": "DAI HAN PHARM CO., LTD.",
+        "MAIN_INGR_ENG": "D-Sorbitol",
+        "BIZRNO": "1348500111",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

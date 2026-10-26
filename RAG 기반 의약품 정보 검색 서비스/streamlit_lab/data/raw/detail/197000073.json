@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197000073",
+        "ITEM_NAME": "투수크친시럽(수출용)",
+        "ENTP_NAME": "안국약품(주)",
+        "ITEM_PERMIT_DATE": "19700128",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "주황색의 투명액체   ",
+        "BAR_CODE": "8806502023606",
+        "MATERIAL_NAME": "총량 : 100밀리리터중|성분명 : 염산노스카핀|분량 : 150|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터중|성분명 : 말레인산클로르페니라민|분량 : 20|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터중|성분명 : 디엘 염산메칠에페드린|분량 : 262.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터중|성분명 : 구아야콜설폰산칼륨|분량 : 675|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000073/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000073/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000073/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000073/II",
+        "STORAGE_METHOD": "기밀용기",
+        "VALID_TERM": "제조일로부터 60 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30,75,120,500밀리리터(의료보험용: 500밀리리터) ",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1362",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20151217",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2015-12-17/용법용량변경, 2015-12-17/사용상주의사항변경(부작용포함), 2015-02-14/용법용량변경, 2015-02-14/제품명칭변경, 2014-01-08/사용상주의사항변경(부작용포함), 2008-04-05/용법용량변경, 2008-04-05/성상변경, 1983-12-20/사용상주의사항변경(부작용포함), 1983-08-05/저장방법 및 유효기간(사용기간)변경, 1983-08-05/용법용량변경, 1983-08-05/효능효과변경, 1983-08-05/성상변경, 1983-08-05/용법용량변경, 1979-04-25/효능효과변경, 1979-04-25",
+        "TOTAL_CONTENT": "100밀리리터중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[기침,천식,가래]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 1회 10㎖ 1일 3-4회 식후 및 취침 시에 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[소아 1회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[11세 이상 - 15세 미만 7㎖]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[8세 이상 - 11세 미만 5㎖]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[5세 이상 - 8세 미만 4㎖]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[3세 이상 - 5세 미만 3㎖]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[2세 이상 - 3세 미만 2㎖]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부 또는 임신하고 있을 가능성이 있는 부인]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인 또는 양친, 형제 등이 두드러기, 접촉성 피부염, 알레르기성 비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 약으로 알레르기 증상(예를 들면 발열, 발진, 관절통, 가려움 등)을 일으킨 일이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간장애, 신장애, 갑상선질환, 당뇨병 등 병이 있는 환자, 고열 환자, 허약자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 심장애 및 고혈압 환자, 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 녹내장(눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 투여함으로써 발진, 발적, 구역, 구토, 식욕부진, 어지러움 등이 나타날 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약을 투여함으로써 졸음이 나타날 수 있으므로 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수회 투여하여도 증상의 개선이 없을 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소아에게 투여할 경우에는 보호자의 지도·감독 하에 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등과 병용투여하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 될 수 있으면 습기가 적고 서늘한 곳에 밀전하여 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040060]염산노스카핀|[M040616]말레인산클로르페니라민|[M207450]디엘 염산메칠에페드린|[M050059]구아야콜설폰산칼륨",
+        "INGR_NAME": "[M007131]정제수|[M040043]글리세린|[M040046]아미노초산|[M040160]P-옥시안식향산메칠|[M040426]염화나트륨|[M040735]P-옥시안식향산프로필|[M050521]바닐린|[M089972]체리엣센스|[M096245]에데트산나트륨|[M101350]구연산|[M207642]백당|[M236261]염산|[M240301]황색5호|[M240795]레몬에센스|[M284425]에탄올(95)",
+        "ATC_CODE": "R05FA02",
+        "ITEM_ENG_NAME": "Tusscochin Syrup(for export)",
+        "ENTP_ENG_NAME": "Ahngook Pharm",
+        "MAIN_INGR_ENG": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Noscapine Hydrochloride/Potassium Guaiacolsulfonate",
+        "BIZRNO": "1188104188",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

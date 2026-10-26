@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201209714",
+        "ITEM_NAME": "명문아미카신황산염주사500밀리그람(수출용)",
+        "ENTP_NAME": "명문제약(주)",
+        "ITEM_PERMIT_DATE": "20121214",
+        "CNSGN_MANUF": "한국유니온제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색이나 미황색의 투명한 액이 들어있는 갈색의 앰플",
+        "BAR_CODE": "8806498062108,8806498062115",
+        "MATERIAL_NAME": "총량 : 1ml 중|성분명 : 아미카신황산염|분량 : 250|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : (역가)",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201209714/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201209714/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201209714/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201209714/II",
+        "STORAGE_METHOD": "차광밀봉용기, 건냉암소보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1앰플(2mL)  X 10",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1476",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230913",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2023-09-13",
+        "TOTAL_CONTENT": "1ml 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235156]아미카신황산염",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M051960]황산|[M222565]시트르산나트륨수화물",
+        "ATC_CODE": "J01GB06",
+        "ITEM_ENG_NAME": "Myungmoon Amikacin Sulfate Inj 500mg",
+        "ENTP_ENG_NAME": "Myungmoon Pharm. Co., Ltd.",
+        "MAIN_INGR_ENG": "Amikacin Sulfate",
+        "BIZRNO": "1248135615",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:195700015:UD",
+  "drug_id": "mfds:195700015",
+  "scope_type": "product",
+  "title": "안나카주사액20%(제일벤조산나트륨카페인주)(수출용) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700015/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700015.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20180917",
+  "collected_at": "2026-10-22T05:00:19.422556+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 벤조산나트륨카페인으로서 1회 100 ∼ 500 mg 근육 또는 피하주사한다. 긴급할 경우에는 정맥주사할 수 있다.",
+          "raw_content": "성인 : 벤조산나트륨카페인으로서 1회 100 ∼ 500 mg 근육 또는 피하주사한다. 긴급할 경우에는 정맥주사할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "증상에 따라 적절히 증감한다.",
+          "raw_content": "증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 벤조산나트륨카페인으로서 1회 100 ∼ 500 mg 근육 또는 피하주사한다. 긴급할 경우에는 정맥주사할 수 있다.\n\n증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 벤조산나트륨카페인으로서 1회 100 ∼ 500 mg 근육 또는 피하주사한다. 긴급할 경우에는 정맥주사할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "692b82dd71f0ad2bfeac61dee375b08ef608f6479737bb342d1a0377a2567a0d"
+}

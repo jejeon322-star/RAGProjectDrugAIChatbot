@@ -1,0 +1,134 @@
+{
+  "doc_id": "mfds:196300025:UD",
+  "drug_id": "mfds:196300025",
+  "scope_type": "product",
+  "title": "옥시톤주사액5아이유(옥시토신) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196300025/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196300025.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220208",
+  "collected_at": "2026-10-22T05:05:05.960879+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "원칙적으로 점적정맥주사를 한다.",
+          "raw_content": "원칙적으로 점적정맥주사를 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "1. 분만유도 및 진통미약",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "-점적정맥주사",
+          "raw_content": "-점적정맥주사"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "옥시토신으로서 보통 5-10단위를 5%포도당주사액(500mL)등에 혼합하여, 점적속도를 분당 1-2밀리단위(mU)로 시작하여 진통이 나타나는 상황 및 태아심박 등을 관찰하면서 적절히 증감한다. 점적속도는 분당 20밀리단위를 초과하지 않는다.",
+          "raw_content": "옥시토신으로서 보통 5-10단위를 5%포도당주사액(500mL)등에 혼합하여, 점적속도를 분당 1-2밀리단위(mU)로 시작하여 진통이 나타나는 상황 및 태아심박 등을 관찰하면서 적절히 증감한다. 점적속도는 분당 20밀리단위를 초과하지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "2. 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 유산, 인공임신중절",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "- 점적정맥주사",
+          "raw_content": "- 점적정맥주사"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "이 약으로서 보통 5-10단위를 5% 포도당주사액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다.",
+          "raw_content": "이 약으로서 보통 5-10단위를 5% 포도당주사액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "- 정맥주사(분만후 출혈, 이완성 자궁출혈의 경우)",
+          "raw_content": "- 정맥주사(분만후 출혈, 이완성 자궁출혈의 경우)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "이 약으로서 5-10단위를 정맥내에 천천히 주사한다.",
+          "raw_content": "이 약으로서 5-10단위를 정맥내에 천천히 주사한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "- 근육주사",
+          "raw_content": "- 근육주사"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "이 약으로서 5-10단위를 근육내에 천천히 주사한다.",
+          "raw_content": "이 약으로서 5-10단위를 근육내에 천천히 주사한다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "3. 제왕절개술(태아만출 후)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "- 점적정맥주사",
+          "raw_content": "- 점적정맥주사"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "이 약으로서 보통 5-10단위를 5% 포도당액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다.",
+          "raw_content": "이 약으로서 보통 5-10단위를 5% 포도당액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "- 근육주사",
+          "raw_content": "- 근육주사"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "이 약으로서 5-10단위를 근육내에 주사한다.",
+          "raw_content": "이 약으로서 5-10단위를 근육내에 주사한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "- 자궁 근육주사",
+          "raw_content": "- 자궁 근육주사"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "이 약으로서 5-10단위를 자궁근층내에 직접 주사한다.",
+          "raw_content": "이 약으로서 5-10단위를 자궁근층내에 직접 주사한다."
+        }
+      ]
+    }
+  ],
+  "text": "원칙적으로 점적정맥주사를 한다.\n\n1. 분만유도 및 진통미약\n\n-점적정맥주사\n\n옥시토신으로서 보통 5-10단위를 5%포도당주사액(500mL)등에 혼합하여, 점적속도를 분당 1-2밀리단위(mU)로 시작하여 진통이 나타나는 상황 및 태아심박 등을 관찰하면서 적절히 증감한다. 점적속도는 분당 20밀리단위를 초과하지 않는다.\n\n2. 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 유산, 인공임신중절\n\n- 점적정맥주사\n\n이 약으로서 보통 5-10단위를 5% 포도당주사액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다.\n\n- 정맥주사(분만후 출혈, 이완성 자궁출혈의 경우)\n\n이 약으로서 5-10단위를 정맥내에 천천히 주사한다.\n\n- 근육주사\n\n이 약으로서 5-10단위를 근육내에 천천히 주사한다.\n\n3. 제왕절개술(태아만출 후)\n\n- 점적정맥주사\n\n이 약으로서 보통 5-10단위를 5% 포도당액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다.\n\n- 근육주사\n\n이 약으로서 5-10단위를 근육내에 주사한다.\n\n- 자궁 근육주사\n\n이 약으로서 5-10단위를 자궁근층내에 직접 주사한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[원칙적으로 점적정맥주사를 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"1. 분만유도 및 진통미약\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[-점적정맥주사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[옥시토신으로서 보통 5-10단위를 5%포도당주사액(500mL)등에 혼합하여, 점적속도를 분당 1-2밀리단위(mU)로 시작하여 진통이 나타나는 상황 및 태아심박 등을 관찰하면서 적절히 증감한다. 점적속도는 분당 20밀리단위를 초과하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 유산, 인공임신중절\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[- 점적정맥주사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[이 약으로서 보통 5-10단위를 5% 포도당주사액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[- 정맥주사(분만후 출혈, 이완성 자궁출혈의 경우)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[이 약으로서 5-10단위를 정맥내에 천천히 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[- 근육주사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[이 약으로서 5-10단위를 근육내에 천천히 주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 제왕절개술(태아만출 후)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[- 점적정맥주사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[이 약으로서 보통 5-10단위를 5% 포도당액(500mL)등에 혼합하여 자궁수축 상황 등을 관찰하면서 적절히 증감한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[- 근육주사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[이 약으로서 5-10단위를 근육내에 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[- 자궁 근육주사]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[이 약으로서 5-10단위를 자궁근층내에 직접 주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "953729cfa9d5e01d76f607354782fd9f4f175ccc2272fdbb059bea1479629124"
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200402487",
+        "ITEM_NAME": "록소론정(록소프로펜나트륨수화물)",
+        "ENTP_NAME": "(주)팜젠사이언스",
+        "ITEM_PERMIT_DATE": "20040630",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "담홍색의 원형 정제",
+        "BAR_CODE": "8806701003300,8806701003317,8806701003324",
+        "MATERIAL_NAME": "총량 : 1정 당(260mg)|성분명 : 록소프로펜나트륨수화물|분량 : 68.1|단위 : 밀리그램|규격 : JP|성분정보 : 무수물로서 60mg|비고 : 이수화물",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200402487/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200402487/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200402487/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기  실온보관(1~30℃)\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "500정/병, 30정/병",
+        "EDI_CODE": "670100330",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1487",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240108",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2024-01-08/사용상주의사항변경(부작용포함), 2023-04-30/사용상주의사항변경(부작용포함), 2021-03-16/사용상주의사항변경(부작용포함), 2019-01-24/사용상주의사항변경(부작용포함), 2015-05-01/제품명칭변경, 2013-07-18/사용상주의사항변경(부작용포함), 2012-01-28/용법용량변경, 2012-01-28/효능효과변경, 2012-01-28/사용상주의사항변경(부작용포함), 2008-04-11/사용상주의사항변경(부작용포함), 2006-03-03",
+        "TOTAL_CONTENT": "1정 당(260mg)",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M222839]록소프로펜나트륨수화물",
+        "INGR_NAME": "[M051756]포비돈|[M060073]미결정셀룰로오스|[M071119]전분글리콜산나트륨|[M080518]저치환도히드록시프로필셀룰로오스|[M217340]적색40호 알루미늄레이크|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "M01AE19",
+        "ITEM_ENG_NAME": "Loxoron Tab.",
+        "ENTP_ENG_NAME": "PharmGen Science, Inc.",
+        "MAIN_INGR_ENG": "Loxoprofen Sodium Hydrate",
+        "BIZRNO": "1248136540",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

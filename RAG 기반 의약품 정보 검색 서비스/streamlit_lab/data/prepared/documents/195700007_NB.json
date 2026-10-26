@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:195700007:NB",
+  "drug_id": "mfds:195700007",
+  "scope_type": "product",
+  "title": "대한멸균증류수(주사용수) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700007/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700007.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20180110",
+  "collected_at": "2026-10-22T04:59:27.305959+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함)",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함)"
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함)",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "dbeb45e1ae33192ec02d0e659e9c0a13949374eba795a5e27827ddb352972e0c"
+}

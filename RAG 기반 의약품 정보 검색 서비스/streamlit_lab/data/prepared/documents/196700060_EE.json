@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:196700060:EE",
+  "drug_id": "mfds:196700060",
+  "scope_type": "product",
+  "title": "마이암부톨제피정400밀리그램(에탐부톨염산염) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700060/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196700060.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20251017",
+  "collected_at": "2026-10-22T05:13:40.773239+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "○ 유효균종",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "결핵균",
+          "raw_content": "결핵균"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "○ 적응증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "폐결핵 및 기타 결핵증",
+          "raw_content": "폐결핵 및 기타 결핵증"
+        }
+      ]
+    }
+  ],
+  "text": "○ 유효균종\n\n결핵균\n\n○ 적응증\n\n폐결핵 및 기타 결핵증",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"○ 유효균종\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[결핵균]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 적응증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[폐결핵 및 기타 결핵증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "d2096ffc0d462b810ec417106de52a6f4c6eae1b20b64e61f2f7d0efebb7ad47"
+}

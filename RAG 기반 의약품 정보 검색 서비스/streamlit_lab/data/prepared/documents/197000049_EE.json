@@ -1,0 +1,74 @@
+{
+  "doc_id": "mfds:197000049:EE",
+  "drug_id": "mfds:197000049",
+  "scope_type": "product",
+  "title": "셉트린정 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000049/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000049.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250922",
+  "collected_at": "2026-10-22T05:18:24.502821+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "○ 유효균종",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "대장균, 시트로박터, 클레브시엘라, 엔테로박터, 프로테우스(프로테우스 불가리스, 프로테우스 미라빌리스), 프로비덴시아 레트게리, 모르가넬라 모르가니, 장구균, 헤모필루스 인플루엔자, 시겔라, 티푸스균, 파라티푸스균, 임균, 폐렴연쇄구균, 뉴우모시스티스 카리니, 화농연쇄구균, 포도구균",
+          "raw_content": "대장균, 시트로박터, 클레브시엘라, 엔테로박터, 프로테우스(프로테우스 불가리스, 프로테우스 미라빌리스), 프로비덴시아 레트게리, 모르가넬라 모르가니, 장구균, 헤모필루스 인플루엔자, 시겔라, 티푸스균, 파라티푸스균, 임균, 폐렴연쇄구균, 뉴우모시스티스 카리니, 화농연쇄구균, 포도구균"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "○ 적응증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "- 급만성기관지염, 기관지확장증, 폐렴",
+          "raw_content": "- 급만성기관지염, 기관지확장증, 폐렴"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "- 부비동염, 중이염",
+          "raw_content": "- 부비동염, 중이염"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "- 급만성방광염, 신우신염, 요도염, 전립선염, 임질",
+          "raw_content": "- 급만성방광염, 신우신염, 요도염, 전립선염, 임질"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "- 장티푸스, 파라티푸스, 장염, 세균성이질",
+          "raw_content": "- 장티푸스, 파라티푸스, 장염, 세균성이질"
+        }
+      ]
+    }
+  ],
+  "text": "○ 유효균종\n\n대장균, 시트로박터, 클레브시엘라, 엔테로박터, 프로테우스(프로테우스 불가리스, 프로테우스 미라빌리스), 프로비덴시아 레트게리, 모르가넬라 모르가니, 장구균, 헤모필루스 인플루엔자, 시겔라, 티푸스균, 파라티푸스균, 임균, 폐렴연쇄구균, 뉴우모시스티스 카리니, 화농연쇄구균, 포도구균\n\n○ 적응증\n\n- 급만성기관지염, 기관지확장증, 폐렴\n\n- 부비동염, 중이염\n\n- 급만성방광염, 신우신염, 요도염, 전립선염, 임질\n\n- 장티푸스, 파라티푸스, 장염, 세균성이질",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 유효균종\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대장균, 시트로박터, 클레브시엘라, 엔테로박터, 프로테우스(프로테우스 불가리스, 프로테우스 미라빌리스), 프로비덴시아 레트게리, 모르가넬라 모르가니, 장구균, 헤모필루스 인플루엔자, 시겔라, 티푸스균, 파라티푸스균, 임균, 폐렴연쇄구균, 뉴우모시스티스 카리니, 화농연쇄구균, 포도구균]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 적응증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 급만성기관지염, 기관지확장증, 폐렴]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 부비동염, 중이염]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 급만성방광염, 신우신염, 요도염, 전립선염, 임질]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 장티푸스, 파라티푸스, 장염, 세균성이질]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "94c75c547da8bcf1f47f5ee3834929b46e402d6f62e583ef8d0364e2c11a1ea7"
+}

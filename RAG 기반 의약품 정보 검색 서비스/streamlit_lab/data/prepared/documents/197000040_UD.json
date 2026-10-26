@@ -1,0 +1,74 @@
+{
+  "doc_id": "mfds:197000040:UD",
+  "drug_id": "mfds:197000040",
+  "scope_type": "product",
+  "title": "대웅우루사연질캡슐 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000040/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000040.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20231208",
+  "collected_at": "2026-10-22T05:18:15.627361+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "(캡슐제)",
+          "raw_content": "(캡슐제)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "성인 : 1회 1캡슐, 1일 3회 복용한다.",
+          "raw_content": "성인 : 1회 1캡슐, 1일 3회 복용한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "(정제)",
+          "raw_content": "(정제)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "성인 : 1회 1정, 1일 3회 복용한다.",
+          "raw_content": "성인 : 1회 1정, 1일 3회 복용한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "(겔제)",
+          "raw_content": "(겔제)"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "성인 : 1회 1포, 1일 3회 복용한다.",
+          "raw_content": "성인 : 1회 1포, 1일 3회 복용한다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "(액제)",
+          "raw_content": "(액제)"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "성인 : 1회 1병, 1일 3회 복용한다.",
+          "raw_content": "성인 : 1회 1병, 1일 3회 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "(캡슐제)\n\n성인 : 1회 1캡슐, 1일 3회 복용한다.\n\n(정제)\n\n성인 : 1회 1정, 1일 3회 복용한다.\n\n(겔제)\n\n성인 : 1회 1포, 1일 3회 복용한다.\n\n(액제)\n\n성인 : 1회 1병, 1일 3회 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(캡슐제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1캡슐, 1일 3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(정제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1정, 1일 3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(겔제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1포, 1일 3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(액제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1병, 1일 3회 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "e9f17f1e65a1d9310baf3a736d360591c6d446600296507cfd97e62d47088305"
+}

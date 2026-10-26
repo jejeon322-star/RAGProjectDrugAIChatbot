@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202203264",
+        "ITEM_NAME": "가스터주사액20밀리그램(파모티딘)",
+        "ENTP_NAME": "동아에스티(주)",
+        "ITEM_PERMIT_DATE": "20220811",
+        "CNSGN_MANUF": "(주)녹십자웰빙",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 내지 연한 노란색의 투명한 액이 무색투명한 바이알에 든 주사제",
+        "BAR_CODE": "8806425076505,8806425076512,8806425076529",
+        "MATERIAL_NAME": "총량 : 1밀리리터|성분명 : 파모티딘|분량 : 20|단위 : 밀리그램|규격 : JP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203264/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203264/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203264/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203264/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 18 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "10바이알/상자[10밀리리터/바이알×10]",
+        "EDI_CODE": "642507651",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1290",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260825",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 사용(유효)기간, 2026-08-25/효능·효과, 2026-06-04/용법·용량, 2026-06-04/사용상의 주의사항, 2026-06-04/사용상주의사항변경(부작용포함), 2024-11-07/사용상주의사항변경(부작용포함), 2023-01-25",
+        "TOTAL_CONTENT": "1",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M081653]파모티딘",
+        "INGR_NAME": "[M040426]염화나트륨|[M040534]주사용수|[M070004]수산화나트륨|[M202247]L-아스파르트산|[M236261]염산|[M243713]D-만니톨",
+        "ATC_CODE": "A02BA03",
+        "ITEM_ENG_NAME": "Gaster Inj. 20mg/10mL",
+        "ENTP_ENG_NAME": "DONG-A ST",
+        "MAIN_INGR_ENG": "Famotidine",
+        "BIZRNO": "2048640122",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

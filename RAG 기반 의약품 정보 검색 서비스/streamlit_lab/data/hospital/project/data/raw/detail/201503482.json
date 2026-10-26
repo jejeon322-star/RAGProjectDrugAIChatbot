@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201503482",
+        "ITEM_NAME": "에소파졸캡슐20mg(에스오메프라졸마그네슘이수화물)",
+        "ENTP_NAME": "(주)일화",
+        "ITEM_PERMIT_DATE": "20150529",
+        "CNSGN_MANUF": "삼천당제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색 또는 회색의 구형의 미세과립이 들어있는 상부청록색,하부미황색의 경질캡슐제",
+        "BAR_CODE": "8806409031001,8806409031018,8806409031025,8806409031032",
+        "MATERIAL_NAME": "총량 : 1캡슐 (87.55mg) 중|성분명 : 에스오메프라졸마그네슘과립|분량 : 87.55|단위 : 밀리그램|규격 : 별첨규격(전과동)|성분정보 : 에스오메프라졸로서 20mg|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201503482/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201503482/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201503482/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "28캡슐/병, 100캡슐/병\n",
+        "EDI_CODE": "640903100",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1396",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240327",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-03-27/사용상주의사항변경(부작용포함), 2023-05-14/사용상주의사항변경(부작용포함), 2019-09-12/사용상주의사항변경(부작용포함), 2017-09-24/사용상주의사항변경(부작용포함), 2017-05-20/저장방법 및 유효기간(사용기간)변경, 2015-10-19",
+        "TOTAL_CONTENT": "1캡슐 (87.55mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M262063]에스오메프라졸마그네슘과립",
+        "INGR_NAME": "[M262086]상부 청록색, 하부 미황색 경질캡슐",
+        "ATC_CODE": "A02BC05",
+        "ITEM_ENG_NAME": "Esopazole Cap. 20mg",
+        "ENTP_ENG_NAME": "IL HWA CO.,LTD.",
+        "MAIN_INGR_ENG": "Esomeprazole Magnesium Granules",
+        "BIZRNO": "1328101004",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200203727:UD",
+  "drug_id": "mfds:200203727",
+  "scope_type": "product",
+  "title": "아세탈정(아세클로페낙) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200203727/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200203727_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:59:45.323189+00:00",
+  "text": "[원문 1쪽]\n용법용량\n○ 성인 : 아세클로페낙으로서 1회 100 mg을 12시간마다 1일 2회 복용한다.\n○ 간장애 환자 : 초기 용량으로 1일 100 mg을 투여한다.\n이 약은 씹거나 부수지 말고 그대로 복용한다.\n증상에 따라 적절히 증감한다.\n이 약의 심혈관계 이상반응을 최소화하기 위해 최저 유효 용량으로 최단 기간 동안 투여해야 한다.",
+  "content_hash": "fea1ba1248119325cdc306de2c75d4e631baf3fff2b417f3f1f52ba19c63ce21",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "bb8f012a0147be83f9bc3393fa5c423de6cb8f292c1b05ed38f6c4909ca9f063",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n○ 성인 : 아세클로페낙으로서 1회 100 mg을 12시간마다 1일 2회 복용한다.\n○ 간장애 환자 : 초기 용량으로 1일 100 mg을 투여한다.\n이 약은 씹거나 부수지 말고 그대로 복용한다.\n증상에 따라 적절히 증감한다.\n이 약의 심혈관계 이상반응을 최소화하기 위해 최저 유효 용량으로 최단 기간 동안 투여해야 한다."
+        }
+      ]
+    }
+  ]
+}

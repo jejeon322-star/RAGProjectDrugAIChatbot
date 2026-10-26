@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200403164",
+        "ITEM_NAME": "글리녹스주사(아미카신황산염)(수출명 : GLYNOX Inj., KACINA INJ., Kacinas Inj., Amyofarc Injection)(수출용)",
+        "ENTP_NAME": "(주)휴온스",
+        "ITEM_PERMIT_DATE": "20041004",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 내지 미황색의 용액이 무색투명한 바이알에 든 주사제 \r\n",
+        "BAR_CODE": "8806706001301,8806706001318,8806706001325,8806706040607",
+        "MATERIAL_NAME": "총량 : 1mL 중-수출용1|성분명 : 아미카신황산염|분량 : 250|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : 역가;총량 : 1mL 중-수출용2|성분명 : 아미카신황산염|분량 : 250|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403164/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403164/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403164/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403164/II",
+        "STORAGE_METHOD": "밀봉용기,실온(1~30℃)보관 \n",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "2밀리리터/바이알 X 10",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1683",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230913",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2023-09-13/저장방법 및 유효기간(사용기간)변경, 2010-03-16/성상변경, 2010-03-16/제품명칭변경, 2010-03-16/제품명칭변경, 2008-11-11/제품명칭변경, 2008-11-01/제품명칭변경, 2007-01-22/성상변경, 2006-09-25/사용상주의사항변경(부작용포함), 2005-01-22/용법용량변경, 2005-01-22/효능효과변경, 2005-01-22",
+        "TOTAL_CONTENT": "1mL 중-수출용1/1mL 중-수출용2",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235156]아미카신황산염|[M235156]아미카신황산염",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040378]아황산수소나트륨|[M040534]주사용수|[M040534]주사용수|[M051960]황산|[M070004]수산화나트륨|[M222565]시트르산나트륨수화물|[M223087]시트르산나트륨수화물",
+        "ATC_CODE": "J01GB06",
+        "ITEM_ENG_NAME": "Glinox Inj. (Amikacin sulfate)",
+        "ENTP_ENG_NAME": "Huons Co., Ltd.",
+        "MAIN_INGR_ENG": "Amikacin Sulfate",
+        "BIZRNO": "8638700270",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

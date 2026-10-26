@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201404435",
+        "ITEM_NAME": "일동세파졸린주사2그램(세파졸린나트륨)(수출용)",
+        "ENTP_NAME": "일동제약(주)",
+        "ITEM_PERMIT_DATE": "20140929",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색~노란색을 띤 흰색 결정, 결정성 가루 또는 덩어리가 충전된 무색투명한 바이알",
+        "BAR_CODE": null,
+        "MATERIAL_NAME": "총량 : 1 바이알 중|성분명 : 세파졸린나트륨|분량 : 2|단위 : 그램|규격 : JP|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404435/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404435/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404435/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404435/II",
+        "STORAGE_METHOD": "밀봉용기, 실온보관(1~30°C)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "10 바이알",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1293",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240814",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-08-14/용법용량변경, 2022-07-30/사용상주의사항변경(부작용포함), 2022-07-30/사용상주의사항변경(부작용포함), 2021-08-21/저장방법 및 유효기간(사용기간)변경, 2015-08-20",
+        "TOTAL_CONTENT": "1 바이알 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M020059]세파졸린나트륨",
+        "INGR_NAME": null,
+        "ATC_CODE": null,
+        "ITEM_ENG_NAME": "Ildong Cefazolin Inj. 2g(Cefazoline Sodium)(for export)",
+        "ENTP_ENG_NAME": "Ildong Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Cefazolin Sodium",
+        "BIZRNO": "6828500435",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

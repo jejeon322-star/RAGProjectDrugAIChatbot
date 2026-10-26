@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197100059",
+  "doc_id": "mfds:197100059:STORAGE",
+  "title": "쎄레스톤지크림 — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "0606ec80df683b30f1c1ee3f39810aca97b7254e0bb6d29bc9154068ccedf628",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100059.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:24:49.325417+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 기밀용기, 실온보관(1~30℃)\n\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 기밀용기, 실온보관(1~30℃)\n\n사용기간: 제조일로부터 36 개월"
+}

@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "195800020",
+        "ITEM_NAME": "마구내신주사액<황산마그네슘수화물>",
+        "ENTP_NAME": "대원제약(주)",
+        "ITEM_PERMIT_DATE": "19581208",
+        "CNSGN_MANUF": "(주)휴온스",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색의 투명한 액이 든 무색 투명한 플라스틱 주사제",
+        "BAR_CODE": "8806718015303,8806718015310,8806718015327",
+        "MATERIAL_NAME": "총량 : 1밀리리터 중|성분명 : 황산마그네슘수화물|분량 : 100|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195800020/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195800020/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195800020/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기, 실온(1∼30℃)보관\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "20mL/앰플(PE) X 50",
+        "EDI_CODE": "671801531",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1373",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20210930",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "효능·효과, 2021-09-30/사용상주의사항변경(부작용포함), 2020-02-21/사용상주의사항변경(부작용포함), 2017-01-12/용법용량변경, 2017-01-12/효능효과변경, 2017-01-12/저장방법 및 유효기간(사용기간)변경, 2010-06-11/제품명칭변경, 2008-02-29/용법용량변경, 2008-02-29/저장방법 및 유효기간(사용기간)변경, 2005-05-30/성상변경, 2005-05-30/사용상주의사항변경(부작용포함), 2002-07-25/사용상주의사항변경(부작용포함), 1999-07-15/용법용량변경, 1999-07-15/효능효과변경, 1999-07-15/사용상주의사항변경(부작용포함), 1998-01-01/용법용량변경, 1998-01-01/효능효과변경, 1998-01-01/사용상주의사항변경(부작용포함), 1995-10-12/저장방법 및 유효기간(사용기간)변경, 1995-10-12/용법용량변경, 1995-10-12/효능효과변경, 1995-10-12/성상변경, 1995-10-12/제품명칭변경, 1986-10-31/저장방법 및 유효기간(사용기간)변경, 1986-10-31/사용상주의사항변경(부작용포함), 1981-03-14/저장방법 및 유효기간(사용기간)변경, 1981-03-14/용법용량변경, 1981-03-14/효능효과변경, 1981-03-14/성상변경, 1958-12-10",
+        "TOTAL_CONTENT": "1밀리리터 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[저마그네슘혈증에 의한 경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 저마그네슘혈증에 의한 경련 : 마그네슘황산염으로서 1 ∼ 2 g을 정맥주사한다(4.05 ∼ 8.1 mmol).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 자간증의 발작 : 이 약으로서 4 ∼ 5 g을 10분간 정맥주사 한다(16.2 ∼ 20.25 mmol)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 자궁경직 방지 : 이 약으로서 초기 4 g을 정맥주사한다(16.2 mmol). 이후 1 g을 투여할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 전해질보급(저마그네슘혈증) : 이 약으로서 1 g을 6시간마다 4회 근육주사한다. 또는 이 약 5 g을 5 % 포도당주사액이나 0.9 % 생리식염 주사액에 첨가하여 3시간동안 정맥내투여를 할 수 있다. 결핍증 치료시 환자의 신장배출기능을 잘 살펴야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 소아 : 이 약의 안전성은 시험된 바 없다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1.경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(유리앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 신기능장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 혼수 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 고마그네슘혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 방실차단(Ⅰ ∼ Ⅲ단계) 환자 또는 다른 심장전도장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 근무력증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 장내기생충질환의 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심질환 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 구토, 구강건조]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 순환기계 : 매우 드물게 전도장애, 서맥 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액계 : 조홍(빠른 주입시), 매우 드물게 말초혈관확장]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 자율신경계 : 두통, 두중감, 떨림, 따끔거림]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 대량투여에 의해 마그네슘중독을 일으켜 열감, 갈증, 혈압저하, 중추신경억제, 심박동수억제, 호흡마비 등이 나타날 수 있다. 해독에는 칼슘제를 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 기타 : 투여부위의 열감]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 상호금기]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 바르비탈산염, 마약 및 기타 최면약(또는 전신마취제) : 중추신경억제효과를 증강시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 상호주의]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 이 약과 철, 아미노글리코시드계 항생물질(테트라사이클린 등), 불화나트륨 : 염 또는 복합체 형성으로 인하여 이들 약물의 흡수가 감소될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 이소니아지드, 클로르프로마진, 디곡신 : 약물의 흡수에 변화가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 근육이완제 : 신경근육 접합부의 마그네슘 효과를 증가시킨다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[자간증은 임부와 태아의 생명을 위협할 수 있으므로 자간증인 임부에 황산마그네슘을 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[마그네슘은 태반을 통과해 태아의 근육긴장저하증, 반사저하, 저혈압을 유발할 수 있다. 분만 중에 투여하면 신생아의 호흡저하를 유발할 수 있다. 임부에게 사용할 때는 태아의 심박수를 모니터링해야하며 분만 후 2시간 이내에는 사용하지 않아야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[후향적 역학 연구 및 사례보고에서 황산마그네슘을 5~7일 이상 임부에 투여했을 때 태아의 저칼슘혈증, 골격탈회, 뼈감소증 및 기타 골격 부작용을 포함하는 태아 부작용이 보고되었다. 관찰된 부작용의 임상적 중요성은 알려져 있지 않다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임신 중 황산마그네슘을 장기간 또는 반복적으로 투여한 경우 신생아에 대하여 비정상적인 칼슘 또는 마그네슘 수치를 모니터링하고 골격 부작용을 고려해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수유 중 안전성이 확립되지 않았으므로 황산마그네슘이 필수적이지 않는 한 투여는 권장되지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 증상]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 혈중 마그네슘 2.5 ∼ 5 mmol/L : ECG상 PR간격, QRS 지속시간이 늘어나며 T파가 증가한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 혈중 마그네슘 3 ∼ 5 mmol/L : 건반사(tendon reflex)가 억제되고 의식이 영향을 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 혈중 마그네슘 5 ∼ 7.5 mmol/L : 호흡억제]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(4) 혈중 마그네슘 10 mmol/L : 심장정지]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 치료]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[투여용량을 줄이거나 투여를 중지할 경우 이상반응이 신속히 완화되며, 과량 투여시 해독제로 10 % 글루콘산칼슘 주사액 10 mL를 서서히 정맥주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정맥주사 단독투여시에는 10 % 이하의 농도로 천천히 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 수용액과 설파제, 알칼리탄산염·탄산수소염, 주석산염, 가용성 인산염, 브롬화칼륨, 브롬화암모늄 등을 함유하는 제제와 혼합시 침전이 형성될 수 있으므로 혼합을 피한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전해질 보정용으로 사용할 경우에는 반드시 희석하여 사용하고 인산염을 함유하는 제제와 배합시 침전을 형성할 수 있으므로 주의한다. 또한 감염을 고려하여 환자의 피부 및 기구를 소독하고 개봉후 즉시 사용하며 남은 액은 재사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M080356]황산마그네슘수화물",
+        "INGR_NAME": "[M040534]주사용수",
+        "ATC_CODE": "A12CC02",
+        "ITEM_ENG_NAME": "Magnesin Inj.",
+        "ENTP_ENG_NAME": "Daewon Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Magnesium Sulfate Hydrate",
+        "BIZRNO": "2078136336",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

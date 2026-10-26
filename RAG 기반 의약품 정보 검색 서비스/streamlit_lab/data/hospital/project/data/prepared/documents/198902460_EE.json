@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198902460:EE",
+  "drug_id": "mfds:198902460",
+  "scope_type": "product",
+  "title": "페리덱스연고(덱사메타손) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198902460/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198902460_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:47.727749+00:00",
+  "text": "[원문 1쪽]\n효능효과\n다음 질환에 의한 염증의 완화 : 미란[짓무름] 또는 궤양을 수반하는 난치성 구내염[입안염] 및 설염[혀염]",
+  "content_hash": "5a44963e5cf71a1f68a81a362249b83e54c13a8aa3081f20fc15ab825f50ec00",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "aeb56823f3fbe030dd35fcbd6d5243ae17cb5dccdf2b05d90bd2ab6b4a7c726e",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n다음 질환에 의한 염증의 완화 : 미란[짓무름] 또는 궤양을 수반하는 난치성 구내염[입안염] 및 설염[혀염]"
+        }
+      ]
+    }
+  ]
+}

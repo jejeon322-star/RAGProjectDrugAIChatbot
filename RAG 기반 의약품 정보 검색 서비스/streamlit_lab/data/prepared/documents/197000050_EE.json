@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:197000050:EE",
+  "drug_id": "mfds:197000050",
+  "scope_type": "product",
+  "title": "자이로릭정(알로푸리놀) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000050/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000050.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260629",
+  "collected_at": "2026-10-22T05:18:39.782722+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "(정제)",
+          "raw_content": "(정제)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "통풍, 고뇨산혈증, 요산신장병증",
+          "raw_content": "통풍, 고뇨산혈증, 요산신장병증"
+        }
+      ]
+    }
+  ],
+  "text": "(정제)\n\n통풍, 고뇨산혈증, 요산신장병증",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(정제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[통풍, 고뇨산혈증, 요산신장병증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "beae49c0b2e42a24271b87dbf1316c6dbd443a20781d1e813a96f465ceeedea3"
+}

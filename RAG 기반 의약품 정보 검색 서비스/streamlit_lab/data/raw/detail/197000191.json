@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197000191",
+        "ITEM_NAME": "휴온스3%염화칼슘주사액(수출용)",
+        "ENTP_NAME": "(주)휴온스",
+        "ITEM_PERMIT_DATE": "19700110",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 앰플내의 무색액체 또는 무색 투명한 플라스틱제(폴리프로필렌, 폴리에칠렌)\r\n용기내의 무색액체",
+        "BAR_CODE": "8806706028506,8806706028513,8806706028520",
+        "MATERIAL_NAME": "총량 : 1mL 중|성분명 : 염화칼슘수화물|분량 : 30|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000191/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000191/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000191/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기, 실온보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "20mL×50유리앰플, 20mLx50플라스틱앰플",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1683",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20210604",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명, 2021-06-04/사용상주의사항변경(부작용포함), 2016-12-23/저장방법 및 유효기간(사용기간)변경, 2007-07-06/사용상의 주의사항, 2006-02-05/용법·용량, 2006-02-05/효능·효과, 2006-02-05/제품명, 2003-05-23/사용상의 주의사항, 2002-07-25/저장방법 및 유효기간(사용기간)변경, 1998-11-05/성상변경, 1998-11-05/저장방법 및 유효기간(사용기간)변경, 1986-10-24/사용상주의사항변경(부작용포함), 1981-05-18/용법용량변경, 1981-05-18/효능효과변경, 1981-05-18",
+        "TOTAL_CONTENT": "1mL 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 저 칼슘혈증에 의한 테타니 또는 그 관련 증상]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 마그네슘중독]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 염화칼슘으로서 0.4∼1 g을 1일 1회, 매우 천천히(칼슘으로서 0.68∼1.36mEq/분) 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 앰플주사제는 용기 절단시 유리파편이 혼합되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 정맥 칼슘 함유 제제와 세프트리악손을 혼합하여 사용할 때, 세프트리악손-칼슘 침전을 일으킬 수 있다. 따라서, 세프트리악손과 이 약을 포함한 정맥 칼슘 함유 제제를 동일한 주입용 기구를 사용하여 동시에 투여해서는 안된다. 연속주입을 위해 동일한 주입선을 사용해야하는 경우, 주입선을 주입 전/후 적절한 용액으로 철저히 씻어낸다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 강심배당체를 투여중인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고칼슘혈증ㆍ신결석증의 병력이 있는 고칼슘뇨증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 유육종증(sarcoidosis), 신질환이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 신결석 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 저단백혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 중증의 신부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 심부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 신생아(≤28일)에서는 다른 칼슘 함유 제품과 마찬가지로 별도의 주입선을 사용하는 경우라도, 세프트리악손과 이 약을 병용하여 사용하지 말 것 (신생아의 혈액에 치명적인 세프트리악손 칼슘 염의 침전 위험)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 활성형 비타민 D제제를 복용하고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 갑상선 기능항진증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 식욕부진, 구역 및 구토, 변비, 위통 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 순환기계 : 말초혈관이완 및 혈압강하, 심박동불규칙 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액계 : 산성화제이므로 산증을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 과량투여 : 골격근 이완, 식욕부진, 체중감소, 근육통, 관절통, 변비 및 결석, 고나트륨혈증, 울혈성심부전, 부종 등을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 기타 : 권태, 홍조, 졸음, 땀, 심계항진, 발한, 피부발진 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[장기 또는 소아투여시 정기적으로 혈중 및 요중 칼슘치를 검사하며 고칼슘혈증이 나타난 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 강심배당체(메틸디곡신, 디곡신, 디기톡신 등)와 병용투여시 강심배당체의 작용을 증강하고 서맥, 심실성기외수축, 방실블록 등의 중독증상을 유발할 수 있으므로 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 비탈분극성근이완제(튜보큐라린, 판쿠로니움, 베쿠로니움)와 병용투여시 이들 약물의 근이완작용이 감소될 수 있으므로 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 테트라사이클린의 효과를 반감시키므로 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 자궁수축제의 작용을 증강할 수 있으므로 병용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 항알도스테론제, 트리암테렌과 병용투여시 고칼륨혈증을 일으킬 수 있으므로 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부의 투여에 대해 알려진 것이 없으므로, 반드시 필요한 경우에만 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정맥주사에만 사용하며 주사시 혈관밖으로 주사액이 누출되지 않도록 주의한다(특히 신생아 또는 영ㆍ유아).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 급속히 정맥주사하는 경우 심장성 실신 의 증상이 나타날 수 있으므로 천천히 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 정맥내 주사에 의해서 심계항진, 서맥, 혈압변동, 열감, 홍조, 발한 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 탄산, 구연산, 수산, 인산, 황산, 주석산의 염류, 은염, 연(鉛)염, 세프트리악손등 여러 가지 성분과 혼합할 경우 침전이 생기므로 혼합하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 에탄올에 의해서 침전이 생기므로, 에탄올로 소독한 주사기는 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 투여전 : 한냉기에는 체온정도로 따뜻하게 하여 사용한다. 개봉직후 바로 사용하고, 잔액은 사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M217500]염화칼슘수화물",
+        "INGR_NAME": "[M040534]주사용수",
+        "ATC_CODE": "B05XA07",
+        "ITEM_ENG_NAME": "CACL 3% Huons Inj. (for export)",
+        "ENTP_ENG_NAME": "Huons Co., Ltd.",
+        "MAIN_INGR_ENG": "Calcium Chloride Hydrate",
+        "BIZRNO": "8638700270",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

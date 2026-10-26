@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:196500051:UD",
+  "drug_id": "mfds:196500051",
+  "scope_type": "product",
+  "title": "지엘타이밍정(카페인무수물) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500051/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196500051.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20200103",
+  "collected_at": "2026-10-22T05:10:11.057130+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 카페인무수물로서 1회 100-300㎎을 1일 1-3회 경구 투여한다.",
+          "raw_content": "성인 : 카페인무수물로서 1회 100-300㎎을 1일 1-3회 경구 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 카페인무수물로서 1회 100-300㎎을 1일 1-3회 경구 투여한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 카페인무수물로서 1회 100-300㎎을 1일 1-3회 경구 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "889670434c3acc030c6eeeafbcaa130280939d4c03940905eca1273dad74fee2"
+}

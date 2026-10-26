@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200804771:EE",
+  "drug_id": "mfds:200804771",
+  "scope_type": "product",
+  "title": "시너젯정 — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804771/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200804771_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:01:04.815934+00:00",
+  "text": "[원문 1쪽]\n효능효과\n중등도-중증의 급ㆍ만성 통증",
+  "content_hash": "ac46532ec53cf673c54eca4a20b636062a4c1cea191a3c4184255727cd9ca44d",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "7589d2cfdeccb6afbb58591eb08bb2ab2e8b8b398705f5712042d8b4c944f7e3",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n중등도-중증의 급ㆍ만성 통증"
+        }
+      ]
+    }
+  ]
+}

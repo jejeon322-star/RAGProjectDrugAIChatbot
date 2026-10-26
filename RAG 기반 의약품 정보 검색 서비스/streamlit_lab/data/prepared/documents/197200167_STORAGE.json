@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197200167",
+  "doc_id": "mfds:197200167:STORAGE",
+  "title": "유니파스(수출용) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "cbc8df382b67e5e5204363d3c6a0a8729b6e673fc68cf2501c58a732a9f4533d",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200167.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:27:21.998100+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀폐용기,건냉암소보관\n\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀폐용기,건냉암소보관\n\n사용기간: 제조일로부터 36 개월"
+}

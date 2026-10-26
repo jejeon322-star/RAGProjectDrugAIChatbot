@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197000190",
+  "doc_id": "mfds:197000190:STORAGE",
+  "title": "휴온스포도당주사액(20%)(수출명:광명포도당주사액20%) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "b9de551c20eb3990ea88848ce2f84b49c0546c68d1253ab072d4fb06e305fe05",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000190.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:21:55.520398+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 실온(1-30도)보관\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 실온(1-30도)보관\n사용기간: 제조일로부터 36 개월"
+}

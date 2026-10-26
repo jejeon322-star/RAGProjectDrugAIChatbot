@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200402637:EE",
+  "drug_id": "mfds:200402637",
+  "scope_type": "product",
+  "title": "아모디핀정5밀리그램(암로디핀캄실산염) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402637/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200402637_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:00:05.990440+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한\n심근성허혈증\n2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의\n-협심증으로 인한 입원의 위험성 감소\n-관상동맥 혈관재생술에 대한 위험성 감소",
+  "content_hash": "036159188403a5c2e43a4ac11106898d63576234abdad2f47b94bfaec13cd3cb",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "e141f07d962e20e28b6533c6c7bcc70b284a5f774f994220d881ebbb8658b971",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한\n심근성허혈증\n2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의\n-협심증으로 인한 입원의 위험성 감소\n-관상동맥 혈관재생술에 대한 위험성 감소"
+        }
+      ]
+    }
+  ]
+}

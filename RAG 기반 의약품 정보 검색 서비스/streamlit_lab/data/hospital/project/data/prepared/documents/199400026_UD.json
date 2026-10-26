@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199400026:UD",
+  "drug_id": "mfds:199400026",
+  "scope_type": "product",
+  "title": "로이솔주사액(암브록솔염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400026/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199400026_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:57:36.707397+00:00",
+  "text": "[원문 1쪽]\n용법용량\n* 7.5 mg/mL, 15 mg/2 mL\n성인 : 암브록솔염산염으로서 1회 15 mg 1일 2 ∼ 3회 천천히 정맥주사한다. 심한 경우 1회 30 mg까지 증\n량할 수 있으며 생리식염주사액 또는 링거용액과 함께 점적 정맥주사할 수 있다.\n소아 : 이 약으로서 1일 체중 kg당 1.2 ∼ 1.6 mg을 천천히 정맥주사한다.\n<연령에 따른 투여량>\n5세 이상 : 1회 15 mg 1일 2 ∼ 3회\n2 ∼ 4세 : 1회 7.5 mg 1일 3회\n2세 미만 : 1회 7.5 mg 1일 2회\n호흡곤란증후군이 있는 신생아 및 조산아에서 폐표면활성제 생성 증진에는 이 약으로서 1일 체중 kg당 10\n∼ 30 mg을 4회로 분할하여 천천히 정맥주사한다.\n연령, 증상에 따라 적절히 증감한다.",
+  "content_hash": "0870acc0f3fe0366846341a18cec42e697e2bdea70905ef28cf3faf81427eb4a",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "292b5f04355a8858f438a7a0b1f990a0556b4fc56dec184e05d320002d4d599f",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n* 7.5 mg/mL, 15 mg/2 mL\n성인 : 암브록솔염산염으로서 1회 15 mg 1일 2 ∼ 3회 천천히 정맥주사한다. 심한 경우 1회 30 mg까지 증\n량할 수 있으며 생리식염주사액 또는 링거용액과 함께 점적 정맥주사할 수 있다.\n소아 : 이 약으로서 1일 체중 kg당 1.2 ∼ 1.6 mg을 천천히 정맥주사한다.\n<연령에 따른 투여량>\n5세 이상 : 1회 15 mg 1일 2 ∼ 3회\n2 ∼ 4세 : 1회 7.5 mg 1일 3회\n2세 미만 : 1회 7.5 mg 1일 2회\n호흡곤란증후군이 있는 신생아 및 조산아에서 폐표면활성제 생성 증진에는 이 약으로서 1일 체중 kg당 10\n∼ 30 mg을 4회로 분할하여 천천히 정맥주사한다.\n연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

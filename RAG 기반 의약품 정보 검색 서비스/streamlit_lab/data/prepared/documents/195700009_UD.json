@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:195700009:UD",
+  "drug_id": "mfds:195700009",
+  "scope_type": "product",
+  "title": "대한멸균생리식염수(생리식염주사액) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700009/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700009.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20190909",
+  "collected_at": "2026-10-22T04:59:29.617814+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "염화나트륨으로서 보통 20～1,000mL를 피하, 정맥, 점적 정맥주사 또는 직장에 주입한다.",
+          "raw_content": "염화나트륨으로서 보통 20～1,000mL를 피하, 정맥, 점적 정맥주사 또는 직장에 주입한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+          "raw_content": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "주사제의 용해 희석에는 적정량을 사용한다.",
+          "raw_content": "주사제의 용해 희석에는 적정량을 사용한다."
+        }
+      ]
+    }
+  ],
+  "text": "염화나트륨으로서 보통 20～1,000mL를 피하, 정맥, 점적 정맥주사 또는 직장에 주입한다.\n\n투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.\n\n주사제의 용해 희석에는 적정량을 사용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[염화나트륨으로서 보통 20～1,000mL를 피하, 정맥, 점적 정맥주사 또는 직장에 주입한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[주사제의 용해 희석에는 적정량을 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "5b3d18854924c73fb06c48bf6e9525c0f9778797c92f285223a9eaeb4539480f"
+}

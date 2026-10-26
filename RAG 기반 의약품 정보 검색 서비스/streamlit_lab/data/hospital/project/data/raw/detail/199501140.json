@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199501140",
+        "ITEM_NAME": "케포돈1그람주(세파제돈나트륨)",
+        "ENTP_NAME": "한국유니온제약(주)",
+        "ITEM_PERMIT_DATE": "19951124",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색~황백색의 가루가 충전된 무색투명의 바이알",
+        "BAR_CODE": "8806655040505,8806655040512,8806655040529",
+        "MATERIAL_NAME": "총량 : 1 바이알 중|성분명 : 세파제돈나트륨|분량 : 1|단위 : 그램|규격 : KP|성분정보 : |비고 : (역가)",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501140/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501140/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501140/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501140/II",
+        "STORAGE_METHOD": "밀봉용기 실온보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1그램/바이알[1g x 10바이알]",
+        "EDI_CODE": "665504051",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1326",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20160530",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상변경, 2016-05-30/효능효과변경, 2011-01-13/용법용량변경, 2011-01-13/사용상주의사항변경(부작용포함), 2011-01-13/효능효과변경, 2005-01-22/용법용량변경, 2005-01-22/사용상주의사항변경(부작용포함), 2005-01-22/성상변경, 2002-01-07/성상변경, 1997-04-21",
+        "TOTAL_CONTENT": "1 바이알 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M083624]세파제돈나트륨",
+        "INGR_NAME": null,
+        "ATC_CODE": "J01DB06",
+        "ITEM_ENG_NAME": "Kepodon Inj.",
+        "ENTP_ENG_NAME": "Union Korea Pharm Co. LTD.,",
+        "MAIN_INGR_ENG": "Cefazedone Sodium",
+        "BIZRNO": "6078121765",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

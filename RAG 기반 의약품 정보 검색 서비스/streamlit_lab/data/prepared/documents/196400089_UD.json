@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:196400089:UD",
+  "drug_id": "mfds:196400089",
+  "scope_type": "product",
+  "title": "보화소합원(대환,소환) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400089/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196400089.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20230116",
+  "collected_at": "2026-10-22T05:09:40.674525+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "대환 : 1회 1 ∼ 2환을 1일 3회 식후에 소량의 물과 함께 복용한다.",
+          "raw_content": "대환 : 1회 1 ∼ 2환을 1일 3회 식후에 소량의 물과 함께 복용한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소환 : 1회 8 ∼ 16환을 1일 3회 식후에 소량의 물과 함께 복용한다.",
+          "raw_content": "소환 : 1회 8 ∼ 16환을 1일 3회 식후에 소량의 물과 함께 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "대환 : 1회 1 ∼ 2환을 1일 3회 식후에 소량의 물과 함께 복용한다.\n\n소환 : 1회 8 ∼ 16환을 1일 3회 식후에 소량의 물과 함께 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대환 : 1회 1 ∼ 2환을 1일 3회 식후에 소량의 물과 함께 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소환 : 1회 8 ∼ 16환을 1일 3회 식후에 소량의 물과 함께 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "9425d494e0d392fa209c19c5009fe9aecaf38f9f0324509fb61a13ef5be99c2c"
+}

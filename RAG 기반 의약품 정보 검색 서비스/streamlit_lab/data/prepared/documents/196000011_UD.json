@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:196000011:UD",
+  "drug_id": "mfds:196000011",
+  "scope_type": "product",
+  "title": "페니라민정(클로르페니라민말레산염) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000011/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000011.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20261008",
+  "collected_at": "2026-10-22T05:03:15.209881+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "성인 : 클로르페니라민말레산염으로서 1회 2 〜 6 mg 1일 2 〜 4회 경구투여한다.",
+          "raw_content": "성인 : 클로르페니라민말레산염으로서 1회 2 &#12316; 6 mg 1일 2 &#12316; 4회 경구투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1일 24 mg을 초과해서는 안된다.",
+          "raw_content": "1일 24 mg을 초과해서는 안된다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 클로르페니라민말레산염으로서 1회 2 〜 6 mg 1일 2 〜 4회 경구투여한다.\n\n1일 24 mg을 초과해서는 안된다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 클로르페니라민말레산염으로서 1회 2 &#12316; 6 mg 1일 2 &#12316; 4회 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 24 mg을 초과해서는 안된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "62322bb6cff61c0ece85a4d3d63b9bd0b3e72373f320e8f1ad6c91005e7a6b9d"
+}

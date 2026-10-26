@@ -1,0 +1,62 @@
+{
+  "doc_id": "mfds:195700020:UD",
+  "drug_id": "mfds:195700020",
+  "scope_type": "product",
+  "title": "활명수 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700020/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700020.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220414",
+  "collected_at": "2026-10-22T05:01:35.378713+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "다음 용량을 1일 3회 식후에 복용한다.&nbsp;복용간격은 4시간 이상으로 한다.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "만15세이상 : 1회 1병 (75ml)",
+          "raw_content": "만15세이상 : 1회 1병 (75ml)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "만11세이상 - 만15세미만 : 1회 2/3병 (50ml)",
+          "raw_content": "만11세이상 - 만15세미만 : 1회 2/3병 (50ml)"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "만8세 이상-만11세 미만 : 1회 1/2병 (37.5ml)",
+          "raw_content": "만8세 이상-만11세 미만 : 1회 1/2병 (37.5ml)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "만5세 이상-만8세 미만 : 1회 1/3병 (25ml)",
+          "raw_content": "만5세 이상-만8세 미만 : 1회 1/3병 (25ml)"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "만3세 이상-만5세 미만 : 1회 1/4병 (18.75ml)",
+          "raw_content": "만3세 이상-만5세 미만 : 1회 1/4병 (18.75ml)"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "만1세 이상-만3세 미만 : 1회 1/5병 (15ml)",
+          "raw_content": "만1세 이상-만3세 미만 : 1회 1/5병 (15ml)"
+        }
+      ]
+    }
+  ],
+  "text": "다음 용량을 1일 3회 식후에 복용한다.&nbsp;복용간격은 4시간 이상으로 한다.\n\n만15세이상 : 1회 1병 (75ml)\n\n만11세이상 - 만15세미만 : 1회 2/3병 (50ml)\n\n만8세 이상-만11세 미만 : 1회 1/2병 (37.5ml)\n\n만5세 이상-만8세 미만 : 1회 1/3병 (25ml)\n\n만3세 이상-만5세 미만 : 1회 1/4병 (18.75ml)\n\n만1세 이상-만3세 미만 : 1회 1/5병 (15ml)",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"다음 용량을 1일 3회 식후에 복용한다.&amp;nbsp;복용간격은 4시간 이상으로 한다.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만15세이상 : 1회 1병 (75ml)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만11세이상 - 만15세미만 : 1회 2/3병 (50ml)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만8세 이상-만11세 미만 : 1회 1/2병 (37.5ml)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만5세 이상-만8세 미만 : 1회 1/3병 (25ml)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만3세 이상-만5세 미만 : 1회 1/4병 (18.75ml)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만1세 이상-만3세 미만 : 1회 1/5병 (15ml)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "97dcbff746f31fd971b153f02af17e8720ba84678dc581a25fa0a7926e3da05e"
+}

@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200203727",
+        "ITEM_NAME": "아세탈정(아세클로페낙)",
+        "ITEM_ENG_NAME": "Acetal Tablet (Aceclofenac)",
+        "ENTP_NAME": "동국제약(주)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "ENTP_SEQ": "19620002",
+        "ENTP_NO": "1416",
+        "ITEM_PERMIT_DATE": "20021113",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200203727",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "43",
+        "ITEM_INGR_NAME": "Aceclofenac",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OaGlNUXHeR",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "653401660",
+        "BIZRNO": "3018508241"
+      },
+      {
+        "ITEM_SEQ": "201902212",
+        "ITEM_NAME": "아세탈CR정(아세클로페낙)",
+        "ITEM_ENG_NAME": "Acetal CR Tablet (Aceclofenac)",
+        "ENTP_NAME": "동국제약(주)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "ENTP_SEQ": "19620002",
+        "ENTP_NO": "1416",
+        "ITEM_PERMIT_DATE": "20190411",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "201902212",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "508",
+        "ITEM_INGR_NAME": "Aceclofenac/Aceclofenac",
+        "ITEM_INGR_CNT": "2",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": "20240411",
+        "CANCEL_NAME": "유효기간만료",
+        "EDI_CODE": null,
+        "BIZRNO": "3018508241"
+      }
+    ]
+  }
+}

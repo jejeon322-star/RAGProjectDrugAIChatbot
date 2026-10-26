@@ -1,0 +1,98 @@
+{
+  "doc_id": "mfds:197300057:NB",
+  "drug_id": "mfds:197300057",
+  "scope_type": "product",
+  "title": "대한5%쏠비톨주사액 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300057/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300057.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20150717",
+  "collected_at": "2026-10-22T05:28:15.255203+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함).",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함)."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 저장성 탈수증 환자",
+          "raw_content": "1) 저장성 탈수증 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 유전성 과당불내증 환자 3) 이 약 및 이 약에 포함된 성분에의 과민반응 환자",
+          "raw_content": "2) 유전성 과당불내증 환자 3) 이 약 및 이 약에 포함된 성분에의 과민반응 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "요붕증 환자",
+          "raw_content": "요붕증 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "대량ㆍ급속 투여 : 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.",
+          "raw_content": "대량ㆍ급속 투여 : 전해질 상실을 일으킬 수 있으므로 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "정맥주사로만 사용한다.",
+          "raw_content": "정맥주사로만 사용한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함).\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 저장성 탈수증 환자\n\n2) 유전성 과당불내증 환자 3) 이 약 및 이 약에 포함된 성분에의 과민반응 환자\n\n3. 다음 환자에는 신중히 투여할 것.\n\n요붕증 환자\n\n4. 이상반응\n\n대량ㆍ급속 투여 : 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.\n\n5. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.\n\n6. 적용상의 주의\n\n정맥주사로만 사용한다.",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 저장성 탈수증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 유전성 과당불내증 환자 3) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[요붕증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대량ㆍ급속 투여 : 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[정맥주사로만 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "de068317a26937374401b6653578110d9e3d765d08d14606899dd050f7c3219e"
+}

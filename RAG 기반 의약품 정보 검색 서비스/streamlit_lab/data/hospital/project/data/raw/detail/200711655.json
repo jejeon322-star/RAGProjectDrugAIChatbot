@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200711655",
+        "ITEM_NAME": "에소메졸캡슐40밀리그램(에스오메프라졸스트론튬사수화물)",
+        "ENTP_NAME": "한미약품(주)",
+        "ITEM_PERMIT_DATE": "20071024",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색 내지 연한 갈색의 과립이 들어있는 상,하 진분홍색 경질캡슐제",
+        "BAR_CODE": "8806435018502,8806435018519,8806435018526,8806435018533,8806435018540,8806435018557",
+        "MATERIAL_NAME": "총량 : 1캡슐227.60밀리그램|성분명 : 에스오메프라졸스트론튬사수화물|분량 : 49.3|단위 : 밀리그램|규격 : 별첨규격(전과동)|성분정보 : 에스오메프라졸로서 40 밀리그램|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200711655/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200711655/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200711655/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1-30℃)보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30캡슐/병, 100캡슐/병",
+        "EDI_CODE": "643501850",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1337",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240327",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-03-27/사용상의 주의사항, 2023-10-04/사용상주의사항변경(부작용포함), 2023-05-14/사용상주의사항변경(부작용포함), 2019-09-12/제품명칭변경, 2019-08-12/사용상주의사항변경(부작용포함), 2017-09-24/사용상주의사항변경(부작용포함), 2017-05-20/성상변경, 2015-09-11/사용상주의사항변경(부작용포함), 2013-12-07/사용상주의사항변경(부작용포함), 2013-01-29/용법용량변경, 2013-01-29/효능효과변경, 2013-01-29/사용상주의사항변경(부작용포함), 2012-03-29/사용상주의사항변경(부작용포함), 2011-11-28/사용상주의사항변경(부작용포함), 2010-09-24/성상변경, 2007-11-20/용법용량변경, 2007-11-06",
+        "TOTAL_CONTENT": "1227.60",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M221042]에스오메프라졸스트론튬사수화물",
+        "INGR_NAME": "[M040826]히드록시프로필셀룰로오스|[M060073]미결정셀룰로오스|[M089598]캡슐|[M103075]디아세틸화모노글리세리드|[M204408]D-만니톨|[M205921]산화티탄|[M223377]히프로멜로오스프탈레이트|[M243766]오파드라이 OY-C-7000A 화이트|[M249191]탤크|[M249191]탤크",
+        "ATC_CODE": "A02BC05",
+        "ITEM_ENG_NAME": "Esomezol Cap. 40mg",
+        "ENTP_ENG_NAME": "Hanmi Pharm. Co.,Ltd.",
+        "MAIN_INGR_ENG": "Esomeprazole Strontium Tetrahydrate",
+        "BIZRNO": "1248700613",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

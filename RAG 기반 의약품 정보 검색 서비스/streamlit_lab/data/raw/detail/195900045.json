@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "195900045",
+        "ITEM_NAME": "자모",
+        "ENTP_NAME": "씨에이치디제약주식회사",
+        "ITEM_PERMIT_DATE": "19590420",
+        "CNSGN_MANUF": "정우신약(주)",
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "적갈색의 감미가 있는 연조엑스제이다.",
+        "BAR_CODE": "8806477002507,8806477002514,8806477002521,8806543024303,8806543024310,8806543024327,8806543024341,8806550066600,8806550066617,8806550066624,8806550066631,8806550066709,8806550066716,8806942060100,8806942060117,8806942060124,8806942060131,8806942060148",
+        "MATERIAL_NAME": "총량 : 1회10그램|성분명 : 마황|분량 : 0.67|단위 : 그램|규격 : KP|성분정보 : 총알칼로이드(에페드린 및 수도에페드린)로스 4.7mg|비고 : ;총량 : 1회10그램|성분명 : 인삼|분량 : 0.2|단위 : 그램|규격 : KP|성분정보 : 진센노사이드 Rb1 으로서 0.4mg|비고 : ;총량 : 1회10그램|성분명 : 원지|분량 : 0.17|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 1회10그램|성분명 : 길경|분량 : 0.3|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 1회10그램|성분명 : 구아이페네신|분량 : 0.07|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900045/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900045/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900045/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900045/II",
+        "STORAGE_METHOD": "밀폐용기",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "6포/상자",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1339",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240912",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2024-09-12/사용상주의사항변경(부작용포함), 2015-02-14/사용상주의사항변경(부작용포함), 1995-01-01/용법용량변경, 1995-01-01/효능효과변경, 1995-01-01/용법용량변경, 1992-03-25/효능효과변경, 1992-03-25/사용상주의사항변경(부작용포함), 1991-01-01/용법용량변경, 1991-01-01/효능효과변경, 1991-01-01/저장방법 및 유효기간(사용기간)변경, 1988-11-17/용법용량변경, 1988-11-17/성상변경, 1988-11-17",
+        "TOTAL_CONTENT": "110",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[기침, 가래, 천식]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 : 1회 10g]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[소아 : 1회 11-14세 7g, 8-10세 5g, 5-7세 3g]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 만 3개월 미만의 영아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용하는 동안 다음의 약을 복용(사용)하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다른 진해거담제, 감기약, 항히스타민제를 함유하는 내복약(비염용 경구제, 멀미약, 알레르기용약), 진정제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인, 양친 또는 형제 등이 두드러기, 접촉성 피부염, 알레르기성비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 지금까지 약에 의해 알레르기 증상(예 : 발열, 발진, 관절통, 가려움증 등)을 일으킨 적이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간장질환, 신장질환, 심장질환, 갑상선질환, 당뇨병, 고혈압 등이 있는 사람, 고령자, 몸이 약한 사람 또는 고열이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 의사 또는 치과의사의 치료를 받고 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 다음과 같은 기침이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약의 복용에 의해 다음의 증상이 나타난 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[발진·발적, 가려움, 구역·구토, 식욕부진, 어지러움, 불안, 떨림, 불면]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 5~6회 복용하여도 증상이 좋아지지 않을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킬 것]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에게 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 복용시에는 음주하지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손에 닿지 않는 장소에 보관할 것]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하고 될 수 있는 한 습기가 적은 서늘한 곳에(밀폐하여) 보관할 것]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M050058]구아이페네신|[M040048]길경|[M040482]원지|[M040213]인삼|[M040135]마황",
+        "INGR_NAME": "[M007131]정제수|[M203847]카르복시메틸셀룰로오스|[M207642]백당|[M223053]벤조산나트륨|[M223087]시트르산나트륨수화물|[M223090]시트르산수화물|[M254966]물연조엑스|[M279474]고과당55",
+        "ATC_CODE": "R05F",
+        "ITEM_ENG_NAME": "Jamo",
+        "ENTP_ENG_NAME": "ChunHeDang Pharm, Co, Ltd.",
+        "MAIN_INGR_ENG": "Ephedra Herb/Ginseng/Guaifenesin/Platycodon Root/Polygala Root",
+        "BIZRNO": "1308108511",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

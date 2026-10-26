@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200502898",
+        "ITEM_NAME": "올치암주1그램(세포티암염산염)",
+        "ENTP_NAME": "한올바이오파마(주)",
+        "ITEM_PERMIT_DATE": "20051216",
+        "CNSGN_MANUF": "한림제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "Type I(Vial): 흰색~엷은 황색의 결정 또는 결정성 가루가 든 바이알\nType II(Kit) : 흰색~엷은 황색의 결정 또는 결정성 가루가 든 바이알과 용해액이 든 투명한 폴리프로필렌 용기가 조립되어 있는 쓸 때 연결, 용해하여 사용하는 키트 주사제\n",
+        "BAR_CODE": "8806453026800,8806556049607,8806556049614,8806556049621,8806556049638,8806556049645",
+        "MATERIAL_NAME": "총량 : Type I(Vial): 1 바이알 중-1바이알 중 |성분명 : 세포티암염산염|분량 : 1|단위 : 그램|규격 : KP|성분정보 : |비고 : 역가;총량 : Type II(Kit) 1 바이알 중-1바이알부 + 1용해액부(100mL) 중|성분명 : 세포티암염산염|분량 : 1|단위 : 그램|규격 : KP|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502898/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502898/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502898/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502898/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1~30℃)보관\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "Type II(Kit) : 1키트 X 1,10\n",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1297",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20180725",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상변경, 2018-07-25/용법용량변경, 2018-07-25/사용상주의사항변경(부작용포함), 2018-07-25/제품명칭변경, 2016-11-10/제품명칭변경, 2008-11-01",
+        "TOTAL_CONTENT": "Type I(Vial): 1 바이알 중-1바이알 중 /Type II(Kit) 1 바이알 중-1바이알부 + 1용해액부(100mL) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235576]세포티암염산염|[M235576]세포티암염산염",
+        "INGR_NAME": "[M040426]염화나트륨|[M040534]주사용수|[M040627]건조탄산나트륨|[M040627]건조탄산나트륨",
+        "ATC_CODE": "J01DC07",
+        "ITEM_ENG_NAME": "Allthiam inj 1g",
+        "ENTP_ENG_NAME": "HANALL BIOPHARMA CO., LTD.",
+        "MAIN_INGR_ENG": "Cefotiam Hydrochloride",
+        "BIZRNO": "3068105479",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

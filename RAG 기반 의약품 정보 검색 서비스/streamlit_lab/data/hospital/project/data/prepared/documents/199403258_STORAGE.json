@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:199403258",
+  "doc_id": "mfds:199403258:STORAGE",
+  "title": "맥시덱스안연고(덱사메타손) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "f0ca6514f0fe6b85c9445496a03d0f2cd2baed59de9f5c7b9ec3efa3ea81041a",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\199403258.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:46.358975+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 기밀용기, 1~25℃보관\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 기밀용기, 1~25℃보관\n사용기간: 제조일로부터 36 개월"
+}

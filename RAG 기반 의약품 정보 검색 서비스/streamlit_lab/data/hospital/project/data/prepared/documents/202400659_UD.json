@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202400659:UD",
+  "drug_id": "mfds:202400659",
+  "scope_type": "product",
+  "title": "씨엠지암브록솔정(암브록솔염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400659/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202400659_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:05:29.303754+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 암브록솔염산염으로서 1회 30 mg 1일 3회 경구투여한다. 계속 치료시 1회 30 mg 1일 2회 투여한\n다.\n이 약은 식사와 관계없이 복용할 수 있다.\n연령, 증상에 따라 적절히 증감한다.",
+  "content_hash": "350cec8c087e895d489acd1d2b3b94f322412223fea2704a65ba45b2580b456d",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "e6851d9bdd6e618254298a492ae2525a47a6fcc03d73720ad4af4e4b4c1556a6",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 암브록솔염산염으로서 1회 30 mg 1일 3회 경구투여한다. 계속 치료시 1회 30 mg 1일 2회 투여한\n다.\n이 약은 식사와 관계없이 복용할 수 있다.\n연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

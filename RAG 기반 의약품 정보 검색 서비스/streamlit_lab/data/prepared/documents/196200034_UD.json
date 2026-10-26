@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:196200034:UD",
+  "drug_id": "mfds:196200034",
+  "scope_type": "product",
+  "title": "삐콤정 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196200034/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196200034.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260420",
+  "collected_at": "2026-10-22T05:04:08.430331+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "만 8세 이상 어린이 및 성인 1회 1~3정, 1일 1회 복용",
+          "raw_content": "만 8세 이상 어린이 및 성인 1회 1~3정, 1일 1회 복용"
+        }
+      ]
+    }
+  ],
+  "text": "만 8세 이상 어린이 및 성인 1회 1~3정, 1일 1회 복용",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[만 8세 이상 어린이 및 성인 1회 1~3정, 1일 1회 복용]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "506e160b91978bf84f9af9e4efd0c6702b68ae28f1f3015fe29fa17c68d67183"
+}

@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:196200034:EE",
+  "drug_id": "mfds:196200034",
+  "scope_type": "product",
+  "title": "삐콤정 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196200034/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196200034.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260420",
+  "collected_at": "2026-10-22T05:04:08.430331+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 다음경우의 비타민 B1, B2, B6, C의 보급",
+          "raw_content": "○ 다음경우의 비타민 B1, B2, B6, C의 보급"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "- 육체피로",
+          "raw_content": "- 육체피로"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "- 임신ㆍ수유기",
+          "raw_content": "- 임신ㆍ수유기"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "- 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+          "raw_content": "- 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시"
+        }
+      ]
+    }
+  ],
+  "text": "○ 다음경우의 비타민 B1, B2, B6, C의 보급\n\n- 육체피로\n\n- 임신ㆍ수유기\n\n- 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 다음경우의 비타민 B1, B2, B6, C의 보급]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[- 육체피로]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[- 임신ㆍ수유기]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[- 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "573a39a00dab414eea4f8accb7d8cc00fce97addd56558705ad4983b6cbdf17d"
+}

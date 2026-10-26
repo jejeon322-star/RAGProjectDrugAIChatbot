@@ -1,0 +1,1044 @@
+{
+  "source_file": "약공부★★★.pdf",
+  "source_path": "C:\\Users\\SSAFY\\Downloads\\약공부★★★.pdf",
+  "source_pages": 5,
+  "scope_basis": "사용자가 병원에서 사용하는 약의 일부를 정리한 자료라고 확인함",
+  "candidate_entry_count": 43,
+  "excluded_example_count": 20,
+  "clinical_content_status": "unverified_study_note_not_used_as_clinical_evidence",
+  "candidates": [
+    {
+      "candidate_id": "note:p1:r1",
+      "name_as_written": "록소론",
+      "search_term": "록소론",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r2",
+      "name_as_written": "쎄레민",
+      "search_term": "쎄레민",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r3",
+      "name_as_written": "아세탈",
+      "search_term": "아세탈",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r4",
+      "name_as_written": "낙소졸",
+      "search_term": "낙소졸",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r5",
+      "name_as_written": "펠루비",
+      "search_term": "펠루비",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r6",
+      "name_as_written": "토라렌",
+      "search_term": "토라렌",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198701689",
+          "product_name": "토라렌주(디클로페낙나트륨)(수출명:토페라렌주사(Toferareninjection))",
+          "company_name": "명문제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r7",
+      "name_as_written": "모사프론",
+      "search_term": "모사프론",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r8",
+      "name_as_written": "에소파졸",
+      "search_term": "에소파졸",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r9",
+      "name_as_written": "에소메졸",
+      "search_term": "에소메졸",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r10",
+      "name_as_written": "가스터",
+      "search_term": "가스터",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198600114",
+          "product_name": "동아가스터정20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r11",
+      "name_as_written": "스트렌",
+      "search_term": "스트렌",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r12",
+      "name_as_written": "스트렌투엑스",
+      "search_term": "스트렌투엑스",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r13",
+      "name_as_written": "엘리펜",
+      "search_term": "엘리펜",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r14",
+      "name_as_written": "시너젯",
+      "search_term": "시너젯",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p1:r15",
+      "name_as_written": "아니스펜",
+      "search_term": "아니스펜",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r1",
+      "name_as_written": "트로돈 IM",
+      "search_term": "트로돈",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198900630",
+          "product_name": "트로돈캡슐(트라마돌염산염)",
+          "company_name": "아주약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900633",
+          "product_name": "트로돈주사(트라마돌염산염)",
+          "company_name": "아주약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r2",
+      "name_as_written": "패치딘 IM",
+      "search_term": "패치딘",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r3",
+      "name_as_written": "조인스",
+      "search_term": "조인스",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r4",
+      "name_as_written": "세파졸린v",
+      "search_term": "세파졸린",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198300066",
+          "product_name": "종근당세파졸린주1그램(세파졸린나트륨)(수출명:씨졸주1그램,라세나졸린주1그램,오리안트주1그램)",
+          "company_name": "(주)종근당",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198300067",
+          "product_name": "종근당세파졸린주500밀리그램(세파졸린나트륨)(수출명:씨졸주500밀리그램,라세나졸린주500밀리그램)",
+          "company_name": "(주)종근당",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r5",
+      "name_as_written": "케포돈v",
+      "search_term": "케포돈",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r6",
+      "name_as_written": "세포티암v",
+      "search_term": "세포티암",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198200044",
+          "product_name": "세라도란정주1그램(세포티암염산염)",
+          "company_name": "에이치케이이노엔(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r7",
+      "name_as_written": "뉴클러캡슐",
+      "search_term": "뉴클러캡슐",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r8",
+      "name_as_written": "티라목스",
+      "search_term": "티라목스",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r9",
+      "name_as_written": "아미카신",
+      "search_term": "아미카신",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198200255",
+          "product_name": "아믹탐주사액250밀리그램(아미카신황산염)(수출명:Amikin)",
+          "company_name": "케이엠에스제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900066",
+          "product_name": "신풍아미카신황산염주사액250밀리그램(수출명:AMIKAYE Injection 250mg)",
+          "company_name": "신풍제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900080",
+          "product_name": "신풍아미카신황산염주사액500밀리그램(수출명:AMIKAYE Injection)",
+          "company_name": "신풍제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r10",
+      "name_as_written": "씨프록탄",
+      "search_term": "씨프록탄",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p2:r11",
+      "name_as_written": "씨프록주",
+      "search_term": "씨프록주",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p3:r1",
+      "name_as_written": "아모디핀정",
+      "search_term": "아모디핀정",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p3:r2",
+      "name_as_written": "다이클로짇",
+      "search_term": "다이클로짇",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p3:r3",
+      "name_as_written": "아토타틴",
+      "search_term": "아토타틴",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p3:r4",
+      "name_as_written": "로수탄",
+      "search_term": "로수탄",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r1",
+      "name_as_written": "덱사메타손",
+      "search_term": "덱사메타손",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "196300064",
+          "product_name": "부광덱사메타손정",
+          "company_name": "부광약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "197500145",
+          "product_name": "제일덱사메타손주사액(덱사메타손포스페이트이나트륨)",
+          "company_name": "(주)제일제약",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "197800388",
+          "product_name": "신일덱사메타손정",
+          "company_name": "신일제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198400277",
+          "product_name": "유한디나트륨인산덱사메타손주사액(수출명:덱사컴,유한덱사컴)",
+          "company_name": "(주)유한양행",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198902460",
+          "product_name": "페리덱스연고(덱사메타손)",
+          "company_name": "(주)녹십자",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r2",
+      "name_as_written": "가스터",
+      "search_term": "가스터",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198600114",
+          "product_name": "동아가스터정20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r3",
+      "name_as_written": "암브록솔",
+      "search_term": "암브록솔",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198800057",
+          "product_name": "암펙솔정(암브록솔염산염)",
+          "company_name": "한국휴텍스제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198800558",
+          "product_name": "암브렉트정(암브록솔염산염)",
+          "company_name": "동화약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198801976",
+          "product_name": "암브로콜정(암브록솔,클렌부테롤)",
+          "company_name": "한미약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198801980",
+          "product_name": "암브로콜시럽(암브록솔,클렌부테롤)",
+          "company_name": "한미약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900635",
+          "product_name": "앰브로주사(암브록솔염산염)",
+          "company_name": "아주약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900699",
+          "product_name": "록솔정(암브록솔염산염)",
+          "company_name": "삼아제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198901605",
+          "product_name": "영일염산암브록솔정",
+          "company_name": "영일제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198902158",
+          "product_name": "다이투스정(암브록솔염산염)",
+          "company_name": "구주제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "199000146",
+          "product_name": "동광염산암브록솔주사",
+          "company_name": "동광제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r4",
+      "name_as_written": "트리넥삼산주",
+      "search_term": "트리넥삼산주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r5",
+      "name_as_written": "프랙타주",
+      "search_term": "프랙타주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r6",
+      "name_as_written": "삐콤헥사주",
+      "search_term": "삐콤헥사주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198700423",
+          "product_name": "삐콤헥사주(수출명:에너비트주)",
+          "company_name": "(주)유한양행",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r7",
+      "name_as_written": "푸락스주",
+      "search_term": "푸락스주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r8",
+      "name_as_written": "아르믹스",
+      "search_term": "아르믹스",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r9",
+      "name_as_written": "안티라제",
+      "search_term": "안티라제",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r10",
+      "name_as_written": "세카론정",
+      "search_term": "세카론정",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p4:r11",
+      "name_as_written": "마그밀정",
+      "search_term": "마그밀정",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "197400246",
+          "product_name": "마그밀정(수산화마그네슘)",
+          "company_name": "삼남제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p5:r1",
+      "name_as_written": "비카페롤",
+      "search_term": "비카페롤",
+      "source_file": "약공부★★★.pdf",
+      "page": 5,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    },
+    {
+      "candidate_id": "note:p5:r2",
+      "name_as_written": "판토마그",
+      "search_term": "판토마그",
+      "source_file": "약공부★★★.pdf",
+      "page": 5,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음"
+    }
+  ],
+  "excluded_examples": [
+    {
+      "name_as_written": "딜라트렌드",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "테놀민",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "켈론",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "알말",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "프라놀",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "렌티블록",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "미케란",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "콩코르",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "니카디핀",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "노바스크",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "애니디핀",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "타나트릴",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "카프릴",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "유니바스크",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "제스트릴",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "디오반",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "코자",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "프리토",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "올메텍",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    },
+    {
+      "name_as_written": "라식스",
+      "page": 3,
+      "reason": "예시 또는 병동비치약 외 예로 표시"
+    }
+  ]
+}

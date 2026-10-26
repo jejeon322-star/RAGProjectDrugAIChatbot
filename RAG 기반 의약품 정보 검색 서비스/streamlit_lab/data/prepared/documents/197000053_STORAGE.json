@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197000053",
+  "doc_id": "mfds:197000053:STORAGE",
+  "title": "액티피드정 — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "413cd7915152c16f7db1eec0bc096cdcad8d7963162cff789348aa3e1c8e53ff",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000053.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:19:00.432391+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 36 개월"
+}

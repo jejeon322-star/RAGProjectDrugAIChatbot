@@ -1,0 +1,948 @@
+{
+  "input_files": 233,
+  "document_count": 932,
+  "table_count": 0,
+  "errors": [],
+  "missing_fields": [
+    {
+      "drug_id": "mfds:196300064",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:197400246",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:197500145",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:197800388",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198200044",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198200255",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198300066",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198300067",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198400277",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198600114",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198700423",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198701689",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198800057",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198800558",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198801976",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198801980",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198900066",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198900080",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198900630",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198900633",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198900635",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198900699",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198901605",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198902158",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:198902460",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199000146",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199102030",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199102276",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199200235",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199200930",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199202915",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199202953",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199203486",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199300458",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199300554",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199301045",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199301170",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199301171",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199301549",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199302020",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199302027",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199302175",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199302366",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199400026",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199400028",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199400300",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199400631",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199400632",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199401023",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199401101",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199401114",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199401115",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199401133",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199401315",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199403242",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199403258",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199501140",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199501221",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199501222",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199602021",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199602022",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199602099",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199602639",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199602981",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199700728",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199702182",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199702410",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199802171",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199804331",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199900254",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199900533",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:199903371",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200004878",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200100163",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200100635",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101381",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101382",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101387",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101401",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101403",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101425",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200101600",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200109233",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200200155",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200200253",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200200520",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200200559",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200201383",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200201703",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200201870",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200202717",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200203727",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200300467",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200300491",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200301172",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200302530",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200302538",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200308626",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200402487",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200402637",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200403164",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200502066",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200502890",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200502898",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200503017",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200600297",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200600300",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200600438",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200606318",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200701241",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200701272",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200702761",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200704590",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200705625",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200705628",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200709505",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200710958",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200711655",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200713519",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200801320",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200801321",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200804359",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200804771",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200805214",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200805215",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200805219",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200805814",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200807573",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200811665",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200900740",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200902190",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200902585",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:200905591",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201001013",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201001929",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201002333",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201002804",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201003518",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201003605",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201007787",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201100121",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201101486",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201102116",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201102117",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201111067",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201206250",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201209714",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201301497",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201304742",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201306118",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201307038",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201307929",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201308928",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201309439",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201400595",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201401232",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201401482",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201401943",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201402994",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201403089",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201403114",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201403256",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201403938",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201404434",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201404435",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201404537",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201405014",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201405094",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201405483",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201500900",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201501350",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201502564",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201502807",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201502964",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201503051",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201503482",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201503865",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201600826",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201600827",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201604659",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201606049",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201606050",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201606051",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201606789",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201700254",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201707893",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201802763",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201802764",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201803962",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201803963",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201804136",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201804137",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201804678",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201804926",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201900956",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201900957",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201901372",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201903376",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:201903377",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202002271",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202003143",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202004515",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202006759",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202006760",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202104003",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202104053",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202104060",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202104498",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202105351",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202107076",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202201119",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202202321",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202203264",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202203716",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202203949",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202301568",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202302911",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202303397",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202400158",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202400659",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601658",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601755",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601773",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601774",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601785",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601824",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601853",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601856",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601857",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601862",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601905",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202601906",
+      "field": "PN_DOC_DATA"
+    },
+    {
+      "drug_id": "mfds:202602127",
+      "field": "PN_DOC_DATA"
+    }
+  ],
+  "notes": [
+    "표 검색용 텍스트는 간략 표현입니다. 병합 셀 의미 확인에는 raw_content 원문을 사용하세요.",
+    "XML의 제형·함량·적용 조건을 삭제하지 않았습니다. 제품별 적용 범위는 검색·답변 단계에서 확인해야 합니다.",
+    "CHANGE_DATE는 API 레코드 변경일로 보존했으며 개별 문서 개정일로 간주하지 않습니다.",
+    "API 누락 본문 중 공식 PDF로 보완한 문서는 미확보 목록에서 제거했습니다."
+  ],
+  "product_count": 233,
+  "official_pdf_documents": 696
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "source_name": "약공부★★★.pdf",
+    "source_role": "name_discovery_only",
+    "scope_basis": "사용자 확인: 병원에서 쓰는 약의 일부",
+    "clinical_evidence": false,
+    "reuse_note": "사용자가 제공한 자료. 로컬 프로젝트 내 이름 식별용으로 사용하며 별도 공개 배포하지 않음"
+  },
+  {
+    "source_name": "식품의약품안전처_의약품 제품 허가정보",
+    "dataset_url": "https://www.data.go.kr/data/15095677/openapi.do",
+    "license_as_listed_on_portal": "이용허락범위 제한 없음",
+    "license_checked_at": "2026-10-23",
+    "clinical_evidence": true,
+    "linked_documents": "각 품목의 공식 EE/UD/NB PDF. 원본·해시·수집일·주소·페이지 추출 결과 별도 보존",
+    "review_note": "자동 추출이며 임상 검토 완료를 의미하지 않음"
+  }
+]

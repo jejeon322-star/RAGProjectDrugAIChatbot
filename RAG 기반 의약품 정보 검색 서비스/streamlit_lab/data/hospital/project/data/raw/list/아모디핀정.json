@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200402637",
+        "ITEM_NAME": "아모디핀정5밀리그램(암로디핀캄실산염)",
+        "ITEM_ENG_NAME": "Amodipin Tab. 5mg",
+        "ENTP_NAME": "한미약품(주)",
+        "ENTP_ENG_NAME": "Hanmi Pharm. Co.,Ltd.",
+        "ENTP_SEQ": "19570027",
+        "ENTP_NO": "1337",
+        "ITEM_PERMIT_DATE": "20040608",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200402637",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02140]혈압강하제",
+        "PRDUCT_PRMISN_NO": "262",
+        "ITEM_INGR_NAME": "Amlodipine Camsylate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1Or51Qm62xf",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "643501600",
+        "BIZRNO": "1248700613"
+      },
+      {
+        "ITEM_SEQ": "202002271",
+        "ITEM_NAME": "아모디핀정2.5밀리그램(암로디핀캄실산염)",
+        "ITEM_ENG_NAME": "Amodipin Tab. 2.5mg",
+        "ENTP_NAME": "한미약품(주)",
+        "ENTP_ENG_NAME": "Hanmi Pharm. Co.,Ltd.",
+        "ENTP_SEQ": "19570027",
+        "ENTP_NO": "1337",
+        "ITEM_PERMIT_DATE": "20200331",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "202002271",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02140]혈압강하제",
+        "PRDUCT_PRMISN_NO": "5256",
+        "ITEM_INGR_NAME": "Amlodipine Camsylate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OpUNcKXiju",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "643508230",
+        "BIZRNO": "1248700613"
+      }
+    ]
+  }
+}

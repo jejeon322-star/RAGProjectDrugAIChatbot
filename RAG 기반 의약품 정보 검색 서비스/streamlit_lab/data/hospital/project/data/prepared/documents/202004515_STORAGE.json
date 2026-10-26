@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:202004515",
+  "doc_id": "mfds:202004515:STORAGE",
+  "title": "이바나파연고(덱사메타손) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "8c516a854f8e26309fa327b87d3e20b781fb50a18c40f67741e1a94f3506d854",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\202004515.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:54.980060+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 36개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 36개월"
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199300458",
+        "ITEM_NAME": "일동암브록솔주사액(암브록솔염산염)",
+        "ENTP_NAME": "일동제약(주)",
+        "ITEM_PERMIT_DATE": "19930825",
+        "CNSGN_MANUF": "(주)휴온스",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색의 맑은 액이 든 갈색 앰플 주사제",
+        "BAR_CODE": "8806429017603,8806429017610,8806429017627,8806429017634",
+        "MATERIAL_NAME": "총량 : 1mL 중|성분명 : 암브록솔염산염|분량 : 7.5|단위 : 밀리그램|규격 : EP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199300458/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199300458/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199300458/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광밀봉용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "50앰플/상자[(2mL/앰플)]",
+        "EDI_CODE": "642901761",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1293",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20201119",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2020-11-19/용법용량변경, 2020-11-19/저장방법 및 유효기간(사용기간)변경, 2016-09-27/사용상주의사항변경(부작용포함), 2015-12-17/용법용량변경, 2015-12-17/효능효과변경, 2015-12-17/사용상주의사항변경(부작용포함), 2013-12-14/용법용량변경, 2013-12-14/용법용량변경, 2012-11-21/제품명칭변경, 2009-12-28/사용상주의사항변경(부작용포함), 2006-09-08/사용상주의사항변경(부작용포함), 2002-07-25/사용상주의사항변경(부작용포함), 1998-09-25/사용상주의사항변경(부작용포함), 1996-04-10/용법용량변경, 1996-04-10/효능효과변경, 1996-04-10/성상변경, 1994-01-22",
+        "TOTAL_CONTENT": "1mL 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M233843]암브록솔염산염",
+        "INGR_NAME": "[M040426]염화나트륨|[M040534]주사용수|[M223090]시트르산수화물|[M223368]인산수소나트륨수화물",
+        "ATC_CODE": "R05CB06",
+        "ITEM_ENG_NAME": "Ildong Ambroxol Injection(Ambroxol HCl)",
+        "ENTP_ENG_NAME": "Ildong Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Ambroxol Hydrochloride",
+        "BIZRNO": "6828500435",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

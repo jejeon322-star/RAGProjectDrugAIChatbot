@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:198300066",
+  "doc_id": "mfds:198300066:STORAGE",
+  "title": "종근당세파졸린주1그램(세파졸린나트륨)(수출명:씨졸주1그램,라세나졸린주1그램,오리안트주1그램) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "08962b9d5d6061ec51f4cc437d6e09f01d243d3eab604ab6560588779c2b02c6",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\198300066.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:53:53.698362+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 24 개월"
+}

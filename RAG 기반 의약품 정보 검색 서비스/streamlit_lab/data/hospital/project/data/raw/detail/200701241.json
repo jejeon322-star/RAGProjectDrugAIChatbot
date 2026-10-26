@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200701241",
+        "ITEM_NAME": "세포챰주0.25그램(세포티암염산염)(수출명: 케미스포린정주용0.25그램)",
+        "ENTP_NAME": "(주)보령",
+        "ITEM_PERMIT_DATE": "20070130",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색-엷은 황색의 결정 또는 결정성 가루가 든 주사용 바이알제",
+        "BAR_CODE": "8806419025304,8806419025311,8806419025328,8806419025335,8806419025342",
+        "MATERIAL_NAME": "총량 : 1 바이알 중|성분명 : 세포티암염산염|분량 : 250.0|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200701241/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200701241/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200701241/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200701241/II",
+        "STORAGE_METHOD": "밀봉용기, 냉암소보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1바이알, 10바이알",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1689",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20110125",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명칭변경, 2011-01-25",
+        "TOTAL_CONTENT": "1 바이알 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235576]세포티암염산염",
+        "INGR_NAME": "[M040627]건조탄산나트륨",
+        "ATC_CODE": "J01DC07",
+        "ITEM_ENG_NAME": "Chemisporine IV Inj. 0.25mg",
+        "ENTP_ENG_NAME": "Boryung Co., Ltd.",
+        "MAIN_INGR_ENG": "Cefotiam Hydrochloride",
+        "BIZRNO": "2088100281",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

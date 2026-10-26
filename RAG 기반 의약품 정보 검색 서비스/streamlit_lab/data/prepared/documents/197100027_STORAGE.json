@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197100027",
+  "doc_id": "mfds:197100027:STORAGE",
+  "title": "대한디-만니톨주사액(25%) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "b61f2ab4f33331fb3fcd2074e68dfffd20570ebd6bf8dfbc19a53f157d5cb787",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100027.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:23:45.536179+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 실온(1~30℃)보관\n\n사용기간: 제조일로부터 36 개월,제조일로부터 18 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 실온(1~30℃)보관\n\n사용기간: 제조일로부터 36 개월,제조일로부터 18 개월"
+}

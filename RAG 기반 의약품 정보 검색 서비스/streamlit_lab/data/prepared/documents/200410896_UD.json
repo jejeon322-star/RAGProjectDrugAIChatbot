@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:200410896:UD",
+  "drug_id": "mfds:200410896",
+  "scope_type": "product",
+  "title": "러츠날캡슐(탐스로신염산염) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200410896/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\200410896.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20241029",
+  "collected_at": null,
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 탐스로신염산염으로서 1일 1회 0.2 mg을 식후에 경구투여한다.",
+          "raw_content": "성인 : 탐스로신염산염으로서 1일 1회 0.2 mg을 식후에 경구투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "이 약을 통째로 삼켜야 하며 부수거나 씹으면 안된다.",
+          "raw_content": "이 약을 통째로 삼켜야 하며 부수거나 씹으면 안된다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "증상에 따라 적절히 증감한다.",
+          "raw_content": "증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 탐스로신염산염으로서 1일 1회 0.2 mg을 식후에 경구투여한다.\n\n이 약을 통째로 삼켜야 하며 부수거나 씹으면 안된다.\n\n증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 탐스로신염산염으로서 1일 1회 0.2 mg을 식후에 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약을 통째로 삼켜야 하며 부수거나 씹으면 안된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "5940ad01d7adcef58e7a39e746b0c7d317cbf3d641655d740bf25764c4357958"
+}

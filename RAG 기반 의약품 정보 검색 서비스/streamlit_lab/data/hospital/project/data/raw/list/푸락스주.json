@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "199702410",
+        "ITEM_NAME": "푸락스주(프리디놀메실산염)",
+        "ITEM_ENG_NAME": "Purax Inj.",
+        "ENTP_NAME": "하나제약(주)",
+        "ENTP_ENG_NAME": "Hana Pharm. Co., Ltd.",
+        "ENTP_SEQ": "19580012",
+        "ENTP_NO": "1371",
+        "ITEM_PERMIT_DATE": "19970527",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199702410",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01220]골격근이완제",
+        "PRDUCT_PRMISN_NO": "88",
+        "ITEM_INGR_NAME": "Pridinol Mesylate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "657802161",
+        "BIZRNO": "1248137632"
+      }
+    ]
+  }
+}

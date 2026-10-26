@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202203949:UD",
+  "drug_id": "mfds:202203949",
+  "scope_type": "product",
+  "title": "덱사하이정4밀리그램(덱사메타손) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203949/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202203949_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:05:17.118281+00:00",
+  "text": "[원문 1쪽]\n용법용량\n덱사메타손으로서 1일 1회 4 mg을 경구투여한다. 이 약은 조합 또는 분할 투여에 대한 안전성‧유효성은 확\n립되지 않았다.",
+  "content_hash": "5bd26ee3d8997c2825af7824116d1603b5f8d87a48f9a6e20ebe093a9a933c44",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "50795309b16fcc209f694c6b740b4a5881321b5ff2f0df204fac0393a611a267",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n덱사메타손으로서 1일 1회 4 mg을 경구투여한다. 이 약은 조합 또는 분할 투여에 대한 안전성‧유효성은 확\n립되지 않았다."
+        }
+      ]
+    }
+  ]
+}

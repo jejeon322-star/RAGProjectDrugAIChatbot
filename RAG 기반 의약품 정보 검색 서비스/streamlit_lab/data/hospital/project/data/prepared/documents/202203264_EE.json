@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202203264:EE",
+  "drug_id": "mfds:202203264",
+  "scope_type": "product",
+  "title": "가스터주사액20밀리그램(파모티딘) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203264/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202203264_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:05:10.957006+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한)\n2. 졸링거-엘리슨증후군\n3. 신체적 스트레스(대수술후, 중증의 뇌혈관장해ㆍ 두부외상ㆍ다장기부전ㆍ중증의 화상)에 의한 상부소화관\n출혈의 억제\n4. 마취전 투약",
+  "content_hash": "81290c3b62eaac1d848ce78cff447dd7cd2b5c90e3b9b2445779ddf7be00a8ee",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "822dc7e1795dff22446a6d4ac09992641c502940255d510ca73f50fd87e075ff",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한)\n2. 졸링거-엘리슨증후군\n3. 신체적 스트레스(대수술후, 중증의 뇌혈관장해ㆍ 두부외상ㆍ다장기부전ㆍ중증의 화상)에 의한 상부소화관\n출혈의 억제\n4. 마취전 투약"
+        }
+      ]
+    }
+  ]
+}

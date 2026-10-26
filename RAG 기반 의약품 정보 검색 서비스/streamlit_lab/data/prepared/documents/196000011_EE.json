@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:196000011:EE",
+  "drug_id": "mfds:196000011",
+  "scope_type": "product",
+  "title": "페니라민정(클로르페니라민말레산염) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000011/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000011.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20261008",
+  "collected_at": "2026-10-22T05:03:15.209881+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기",
+          "raw_content": "고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기"
+        }
+      ]
+    }
+  ],
+  "text": "고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "66ce87852b8b7529e8061f60d6744cacf0a6c701d12a7d3371eac9c1c76f6481"
+}

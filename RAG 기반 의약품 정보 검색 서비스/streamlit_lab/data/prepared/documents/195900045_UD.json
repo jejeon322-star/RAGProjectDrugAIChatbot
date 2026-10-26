@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:195900045:UD",
+  "drug_id": "mfds:195900045",
+  "scope_type": "product",
+  "title": "자모 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900045/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195900045.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20240912",
+  "collected_at": "2026-10-22T05:02:54.702134+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 1회 10g",
+          "raw_content": "성인 : 1회 10g"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소아 : 1회 11-14세 7g, 8-10세 5g, 5-7세 3g",
+          "raw_content": "소아 : 1회 11-14세 7g, 8-10세 5g, 5-7세 3g"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1일 3회 식후에 복용한다.",
+          "raw_content": "1일 3회 식후에 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 1회 10g\n\n소아 : 1회 11-14세 7g, 8-10세 5g, 5-7세 3g\n\n1일 3회 식후에 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 : 1회 10g]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[소아 : 1회 11-14세 7g, 8-10세 5g, 5-7세 3g]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "2182bfbfce1a89942d4b3c4ad70c1713710275c2debecdc0fba260aca1894635"
+}

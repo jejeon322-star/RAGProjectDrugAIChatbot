@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:196300001",
+  "doc_id": "mfds:196300001:STORAGE",
+  "title": "디고신정(디곡신) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "fba63f0c5a0056d997169db423faee06145cc011ba47fc7b4bc7f53e3c947ab9",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196300001.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:04:40.323745+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광기밀용기, 실온보존(1∼30℃)\n사용기간: 전과 동일"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광기밀용기, 실온보존(1∼30℃)\n사용기간: 전과 동일"
+}

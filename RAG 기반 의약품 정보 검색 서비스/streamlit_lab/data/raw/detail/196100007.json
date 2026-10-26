@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196100007",
+        "ITEM_NAME": "중외주사용수",
+        "ENTP_NAME": "제이더블유중외제약(주)",
+        "ITEM_PERMIT_DATE": "19610802",
+        "CNSGN_MANUF": "제이더블유생명과학(주), 아주약품(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "폴리프로필렌, 다층필름 플라스틱용기 또는 유리용기에 든 무색 투명한 액.",
+        "BAR_CODE": "8806449033706,8806449033713,8806449033720,8806449033805,8806449033812,8806449033829,8806449033836,8806449127900,8806449128006,8806449131600,8806449131617,8806449131624,8806449152001,8806449152018,8806449152100,8806449152117",
+        "MATERIAL_NAME": "총량 : 1000밀리리터중|성분명 : 주사용수|분량 : 1000|단위 : 밀리리터|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100007/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100007/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100007/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기",
+        "VALID_TERM": "제조일로부터 60 개월,제조일로부터 18 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1mL/앰플, 20mL/앰플, 400mL/백, 800mL/백, 1000mL/백",
+        "EDI_CODE": "644903371,644903382",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1302",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20191007",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 유효기간(사용기간)변경, 2019-10-07/성상변경, 2019-10-07/사용상주의사항변경(부작용포함), 2002-07-24/저장방법 및 유효기간(사용기간)변경, 1998-10-12/성상변경, 1998-10-12/저장방법 및 유효기간(사용기간)변경, 1995-07-01/제품명칭변경, 1995-07-01/성상변경, 1991-05-10/사용상주의사항변경(부작용포함), 1987-01-07/용법용량변경, 1987-01-07/저장방법 및 유효기간(사용기간)변경, 1986-11-01/성상변경, 1977-08-24/제품명칭변경, 1973-12-01",
+        "TOTAL_CONTENT": "1000밀리리터중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[각종 주사제 용제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[용해제로 적량을 사용한다]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[본품 자체를 주사하지 마십시오.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[확대하지 않고 쉽게 알아볼 수 있는 혼탁물이나 불용성물질이 있으면 사용하지 마십시오]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[경고]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[“앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것”]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040534]주사용수",
+        "INGR_NAME": null,
+        "ATC_CODE": "V07AB",
+        "ITEM_ENG_NAME": "Choongwae Water for Injection",
+        "ENTP_ENG_NAME": "JW Pharmaceutical",
+        "MAIN_INGR_ENG": "Water For Injection",
+        "BIZRNO": "1188102477",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

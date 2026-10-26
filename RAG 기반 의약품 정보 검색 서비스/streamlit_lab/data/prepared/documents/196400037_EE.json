@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:196400037:EE",
+  "drug_id": "mfds:196400037",
+  "scope_type": "product",
+  "title": "라식스정(푸로세미드) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400037/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196400037.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20221221",
+  "collected_at": "2026-10-22T05:09:09.534442+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(경구 : 정제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 말초혈관성부종",
+          "raw_content": "고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 말초혈관성부종"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(주사제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종",
+          "raw_content": "고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종"
+        }
+      ]
+    }
+  ],
+  "text": "(경구 : 정제)\n\n고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 말초혈관성부종\n\n(주사제)\n\n고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 말초혈관성부종]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(주사제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "e6887c5c19484c6bdcd6cdf30e9d8db5b702124ec168b4e266dac1c4c6592039"
+}

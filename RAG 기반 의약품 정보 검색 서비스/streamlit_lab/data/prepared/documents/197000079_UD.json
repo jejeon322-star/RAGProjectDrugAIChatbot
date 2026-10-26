@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:197000079:UD",
+  "drug_id": "mfds:197000079",
+  "scope_type": "product",
+  "title": "에나폰정10밀리그램(아미트리프틸린염산염) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000079/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000079.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250811",
+  "collected_at": "2026-10-22T05:19:56.627287+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 성인 : 염산아미트리프틸린으로서 1일 30-75㎎을 2-3회 분할 경구투여하고 필요시 1일 150㎎까지 점차적으로 증량한다. 드물게 1일 300㎎까지 증량할 수 있다.",
+          "raw_content": "○ 성인 : 염산아미트리프틸린으로서 1일 30-75㎎을 2-3회 분할 경구투여하고 필요시 1일 150㎎까지 점차적으로 증량한다. 드물게 1일 300㎎까지 증량할 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "○ 야뇨증에는 1일 10-30㎎을 취침전에 투여한다.",
+          "raw_content": "○ 야뇨증에는 1일 10-30㎎을 취침전에 투여한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "○ 성인 : 염산아미트리프틸린으로서 1일 30-75㎎을 2-3회 분할 경구투여하고 필요시 1일 150㎎까지 점차적으로 증량한다. 드물게 1일 300㎎까지 증량할 수 있다.\n\n○ 야뇨증에는 1일 10-30㎎을 취침전에 투여한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 성인 : 염산아미트리프틸린으로서 1일 30-75㎎을 2-3회 분할 경구투여하고 필요시 1일 150㎎까지 점차적으로 증량한다. 드물게 1일 300㎎까지 증량할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 야뇨증에는 1일 10-30㎎을 취침전에 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "a81baa9465d6e58c630b6f351acd42b2e69b0bab9a15b1bc1350c00df12283b5"
+}

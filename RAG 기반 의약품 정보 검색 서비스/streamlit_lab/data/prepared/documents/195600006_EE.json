@@ -1,0 +1,35 @@
+{
+  "doc_id": "mfds:195600006:EE",
+  "drug_id": "mfds:195600006",
+  "scope_type": "product",
+  "title": "중외50%포도당주사액 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195600006/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195600006.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260323",
+  "collected_at": "2026-10-22T04:59:05.865433+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 심질환(G,I,K요법) 그 외 수분, 에너지 보급",
+      "paragraphs": []
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 약물·독물 중독",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급\n\n2. 심질환(G,I,K요법) 그 외 수분, 에너지 보급\n\n3. 약물·독물 중독",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급\" />\r\n    <ARTICLE title=\"2. 심질환(G,I,K요법) 그 외 수분, 에너지 보급\" />\r\n    <ARTICLE title=\"3. 약물·독물 중독\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "0eda84c3b22de39e94a190921c370c89d37d2dfd2fb046350694421115584acf"
+}

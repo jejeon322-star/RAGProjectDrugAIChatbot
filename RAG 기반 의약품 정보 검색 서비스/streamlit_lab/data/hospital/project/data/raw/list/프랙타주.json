@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200701919",
+        "ITEM_NAME": "프랙타주",
+        "ITEM_ENG_NAME": "Practar inj.",
+        "ENTP_NAME": "이연제약(주)",
+        "ENTP_ENG_NAME": "REYON PHARMACEUTICAL CO.,LTD",
+        "ENTP_SEQ": "19550001",
+        "ENTP_NO": "1298",
+        "ITEM_PERMIT_DATE": "20070213",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200701919",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[04900]기타의 조직세포의 기능용의약품",
+        "PRDUCT_PRMISN_NO": "278",
+        "ITEM_INGR_NAME": "Aconitum Tincture D2/Arnica Tincture D2/Belladonna Tincture D2/Bellis Perennis Tincture D2/Calendula Tincture D2/Chamomilla Tincture D3/Echinacea Angustifolia Tincture D2/Echinacea Purpurea Tincture/Hamamelis Tincture D1/Hepar Sulfuris D3/Hypericum Tincture D2/Millefolium Tincture D3/Symphytum Tincture D6",
+        "ITEM_INGR_CNT": "13",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": "20250618",
+        "CANCEL_NAME": "취하",
+        "EDI_CODE": null,
+        "BIZRNO": "3018505394"
+      }
+    ]
+  }
+}

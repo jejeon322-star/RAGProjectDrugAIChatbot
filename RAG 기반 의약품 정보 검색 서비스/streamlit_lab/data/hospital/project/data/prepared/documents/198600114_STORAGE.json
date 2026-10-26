@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:198600114",
+  "doc_id": "mfds:198600114:STORAGE",
+  "title": "동아가스터정20밀리그램(파모티딘) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "c5ba9460a71be2e5c0623c5332a88a7995b1808196d279ff875414f4eee40040",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\198600114.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:53:43.793104+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀폐용기, 실온보존\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀폐용기, 실온보존\n사용기간: 제조일로부터 36 개월"
+}

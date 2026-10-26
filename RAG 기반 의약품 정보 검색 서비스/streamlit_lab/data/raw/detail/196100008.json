@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196100008",
+        "ITEM_NAME": "중외생리식염주사액(수출명: 0.9% Sodium Chloride Inj.)",
+        "ENTP_NAME": "제이더블유중외제약(주)",
+        "ITEM_PERMIT_DATE": "19610802",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "폴리프로필렌에 든 무색 투명한 액.",
+        "BAR_CODE": "8806449026302,8806449026319,8806449026326,8806449026333,8806449026401,8806449026418,8806449026425,8806449026432,8806449026449,8806449026456,8806449026500,8806449026517,8806449026524,8806449026609,8806449026616,8806449026623,8806449026630,8806449026647,8806449026708,8806449026715,8806449026722,8806449026739,8806449026807,8806449026906,8806449026913,8806449026920,8806449027002",
+        "MATERIAL_NAME": "총량 : 1000밀리리터 중|성분명 : 염화나트륨|분량 : 9|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100008/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100008/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100008/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "20mL/A X 50",
+        "EDI_CODE": "644902691",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1302",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20210927",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상, 2021-09-27/성상변경, 2019-07-30/제품명칭변경, 2007-03-15/효능효과변경, 2007-02-03/용법용량변경, 2007-02-03/사용상주의사항변경(부작용포함), 2007-02-03/사용상주의사항변경(부작용포함), 2005-09-01/사용상주의사항변경(부작용포함), 2002-07-24/저장방법 및 유효기간(사용기간)변경, 1998-08-20/저장방법 및 유효기간(사용기간)변경, 1998-03-30/저장방법 및 유효기간(사용기간)변경, 1998-02-28/저장방법 및 유효기간(사용기간)변경, 1997-02-26/성상변경, 1997-02-26/저장방법 및 유효기간(사용기간)변경, 1995-07-01/성상변경, 1991-05-10/저장방법 및 유효기간(사용기간)변경, 1986-11-01/효능효과변경, 1980-03-27/용법용량변경, 1980-03-27/사용상주의사항변경(부작용포함), 1980-03-27/제품명칭변경, 1977-08-27/제품명칭변경, 1973-12-01",
+        "TOTAL_CONTENT": "1000밀리리터 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2. 주사제의 용해 희석제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[염화나트륨으로서 보통 20~1,000mL를 피하, 정맥, 점적 정맥주사 또는 직장에 주입한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[주사제의 용해 희석에는 적정량을 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리 파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 고나트륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수분과다상태 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 부종과 복수를 동반한 간경화 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 심장&#x119e;순환기계기능장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 신장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 저단백혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 저나트륨혈증(120mmol/L 미만) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 저칼륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고염소혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 말초 또는 폐부종 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 자간전증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 알도스테론증 또는 나트륨 배설과 관련된 상태나 치료(코르티코스테로이드 또는 코르티코트로핀)중인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 소아 및 고령자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 대량&#x119e;급속투여에 의해 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 투여기술과 관련하여 발열, 주사부위의 감염, 국소통증 또는 반응, 정맥자극, 주사부 위로부터 이르는 정맥혈전증 또는 정맥염, 혈관밖유출, 과다혈량이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이상반응이 나타나면 투여의 중단, 환자의 평가, 적절한 처치를 실시하고 필요하다면 검사를 위해 잔여액을 남겨둔다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적 평가는 체액평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 의약품의 용기는 가소제로 Di-(2-EthylHexyl)Phthalate(DEHP)를 사용한 PVC 재질로서 DEHP는 어린 동물을 이용한 시험에서 수컷 생식기의 발달 및 정자형성에 영향을 미친다는 보고가 있습니다. 이러한 PVC 용기의 경우 DEHP가 극미량 용출될수 있으나 DEHP에 노출되어 나타나는 위험성은 없거나 거의 없습니다. 따라서 이의약품을 사용하지 않아서 발생할 수 있는 위험성은 DEHP에 의하여 우려되는 위험성보다 훨씬 크기 때문에 사용을 기피할 필요는 없습니다.(DEHP를 사용한 PVC재질의 용기에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고령자는 일반적으로 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 조제시 : 주사제의 용해&#x119e;희석액으로서 사용하는 경우에 적합성을 확인한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 투여전]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 실질적인 색변화, 침전물, 복합적인 불용해, 결정형성 여부를 검사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 투여전에 감염에 대한 처치를 한다(환자의 피부나 기구 소독).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(4) 개봉 또는 다른 약의 첨가후 즉시 사용하고, 잔액은 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 투여시 : 천천히 주입한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040426]염화나트륨",
+        "INGR_NAME": "[M040534]주사용수",
+        "ATC_CODE": "B05XA03",
+        "ITEM_ENG_NAME": "Choongwae Normal Saline Inj.",
+        "ENTP_ENG_NAME": "JW Pharmaceutical",
+        "MAIN_INGR_ENG": "Sodium Chloride",
+        "BIZRNO": "1188102477",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

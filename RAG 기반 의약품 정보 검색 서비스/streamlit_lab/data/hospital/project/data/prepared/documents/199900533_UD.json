@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199900533:UD",
+  "drug_id": "mfds:199900533",
+  "scope_type": "product",
+  "title": "유한삐콤헥사주사(수출용) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900533/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199900533_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:51.245148+00:00",
+  "text": "[원문 1쪽]\n용법용량\n1회 1앰플(2mL)을 근주 또는 정주한다",
+  "content_hash": "def7cebafbeaa76198ca53598d48783d6214349e31536e8fb3420f4bdfe31511",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "cfaf892f8fb0b3fbbb4333b3ca74e7453361b06d431e254fc9e4548153110997",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n1회 1앰플(2mL)을 근주 또는 정주한다"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197200167:EE",
+  "drug_id": "mfds:197200167",
+  "scope_type": "product",
+  "title": "유니파스(수출용) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200167/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200167.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20201223",
+  "collected_at": "2026-10-22T05:27:21.998100+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "진통·소염 : 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 신경통, 류마티통",
+          "raw_content": "진통·소염 : 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 신경통, 류마티통"
+        }
+      ]
+    }
+  ],
+  "text": "진통·소염 : 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 신경통, 류마티통",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[진통·소염 : 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 신경통, 류마티통]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "eefc51e4a9819786a728016205325fe96b6bc985e61739b968626285e389e529"
+}

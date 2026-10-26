@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196000011",
+        "ITEM_NAME": "페니라민정(클로르페니라민말레산염)",
+        "ENTP_NAME": "(주)유한양행",
+        "ITEM_PERMIT_DATE": "19601010",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "미황색의 원형 정제",
+        "BAR_CODE": "8806421025705,8806421025712,8806421025729",
+        "MATERIAL_NAME": "총량 : 1정(약 95mg) 중|성분명 : 클로르페니라민말레산염|분량 : 2.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000011/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000011/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000011/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "실온, 건소, 밀폐용기,",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1000정/병",
+        "EDI_CODE": "642102570",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1329",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20261008",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2026-10-08/사용상주의사항변경(부작용포함), 2019-08-26/효능효과변경, 2019-08-26/사용상주의사항변경(부작용포함), 2017-01-12/용법용량변경, 2017-01-12/효능효과변경, 2017-01-12/제품명칭변경, 2008-03-31/사용상주의사항변경(부작용포함), 1999-01-01/용법용량변경, 1999-01-01/효능효과변경, 1999-01-01/사용상주의사항변경(부작용포함), 1990-08-24/제품명칭변경, 1990-08-24/저장방법 및 유효기간(사용기간)변경, 1986-10-30/저장방법 및 유효기간(사용기간)변경, 1985-12-31/사용상주의사항변경(부작용포함), 1977-10-13/용법용량변경, 1977-10-13/효능효과변경, 1977-10-13/제품명칭변경, 1977-10-13",
+        "TOTAL_CONTENT": "1정(약 95mg) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 클로르페니라민말레산염으로서 1회 2 &#12316; 6 mg 1일 2 &#12316; 4회 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 24 mg을 초과해서는 안된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 또는 유사 화합물에 과민반응 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 녹내장 환자(항콜린 작용에 의해 안(눈)압이 상승되어 녹내장이 악화될 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전립선비대 등 하부요로폐색(닫혀서 막힘)성 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 미숙아 및 신생아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) MAO 억제제 투여중인 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용(사용)하는 동안 다음의 행위를 하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람은 이 약을 복용(사용)하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 3세 미만 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 임부 및 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 고령자(노인)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 안내압(눈내부 압력)상승 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 갑상샘기능항진 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 협착(좁아짐)성소화성궤양 또는 유문십이지장 폐색(닫혀서 막힘) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 순환계질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 고혈압 등 심혈관계 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 기관지염, 기관지확장증 및 천식환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 뇌전증&nbsp;환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 간질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 뇌졸중 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[13) 중증(심한 증상) 관상동맥(심장동맥)부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[14) 발작 병력을 가진 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등의 쇼크 현상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 경련, 착란 등의 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 재생불량성빈혈, 무과립구증 등의 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 발진, 햇빛 노출시 피부 과민반응, 박리(벗겨짐)성 피부염, 두드러기, 연축(뒤당김/수축), 근허약, 협조불능 등의 과민반응이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 진정, 졸음, 신경과민, 두통, 초조감, 복시(겹보임), 불면, 어지럼, 이명(귀울림), 전정장애(평형기능장애), 다행증(이상행복감), 정서불안, 히스테리, 진전(떨림), 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감 등의 정신신경계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 구갈(목마름), 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통(배아픔), 변비, 설사 등의 소화기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 빈뇨, 배뇨(소변을 눔)곤란, 요폐(소변축적), 요저류(고임) 등의 비뇨기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 저혈압, 심계항진(두근거림), 빈맥(빠른맥), 부정맥, 기외수축(조기수축), 간염, 황달, 미약맥(주사제에 한함) 등의 순환기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 코 또는 기도의 건조, 기관분비액의 점성화, 천명(숨을 쌕쌕거림), 코막힘 등의 호흡기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 용혈성(적혈구 파괴성)빈혈, 혈소판감소 등의 혈액 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 간기능 장애가 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 주사부위에 일시적인 자극, 작열감(화끈감)이 나타나는 경우(주사제에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[13) 오한(춥고 떨리는 증상), 발한(땀이 남)이상, 흉통(가슴통증), 피로감, 월경이상 등의 이상이 나타나는 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 기타 이 약의 복용시 주의할 사항.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 알코올, 중추신경억제제 병용(함께 복용) 시 졸음을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 클로르페니라민은 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 클로르페니라민의 치사량은 체중 kg당 25 ∼ 50 mg이다. 증상으로는 진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이때에는 토근시럽을 이용해 구토를 유발시키거나 위세척을 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용(잘못 사용)에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223211]클로르페니라민말레산염",
+        "INGR_NAME": "[M040450]옥수수전분|[M223364]스테아르산마그네슘|[M223367]유당수화물|[M223369]인산수소칼슘수화물|[M239948]탈크|[M240300]황색4호",
+        "ATC_CODE": "R06AB04",
+        "ITEM_ENG_NAME": "Peniramin Tablet",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "MAIN_INGR_ENG": "Chlorpheniramine Maleate",
+        "BIZRNO": "1188100601",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

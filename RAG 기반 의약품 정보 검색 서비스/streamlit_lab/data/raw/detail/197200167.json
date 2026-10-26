@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197200167",
+        "ITEM_NAME": "유니파스(수출용)",
+        "ENTP_NAME": "신신제약(주)",
+        "ITEM_PERMIT_DATE": "19721115",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "이 약의 고면은 적갈색이며 방향성이 있는 경고제이다.\r\n\r\n",
+        "BAR_CODE": "8806438006902,8806438006919,8806438011203,8806438011210,8806438011227",
+        "MATERIAL_NAME": "총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(1)|성분명 : L-멘톨|분량 : 29.89|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(1)|성분명 : 살리실산메틸|분량 : 23.36|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(1)|성분명 : d-캄파|분량 : 17.08|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(1)|성분명 : 티몰|분량 : 0.85|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(1)|성분명 : 용뇌|분량 : 1.28|단위 : 밀리그램|규격 : 생규|성분정보 : (이소보르네올 및 놀보르네올로서 1.20mg)|비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(2)|성분명 : L-멘톨|분량 : 245.00|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(2)|성분명 : 살리실산메틸|분량 : 191.50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(2)|성분명 : d-캄파|분량 : 140.00|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(2)|성분명 : 티몰|분량 : 7.00|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : (1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(2)|성분명 : 용뇌|분량 : 10.05|단위 : 밀리그램|규격 : 생규|성분정보 : (이소보르네올 및 놀보르네올로서 9.90mg)|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200167/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200167/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200167/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200167/II",
+        "STORAGE_METHOD": "밀폐용기,건냉암소보관\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1매 (4.1x6.2㎠) : 10매 / 1포\n",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1332",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20201223",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명칭변경, 2020-12-23/성상변경, 2014-05-21/사용상주의사항변경(부작용포함), 1989-11-07/제품명칭변경, 1989-02-22/사용상주의사항변경(부작용포함), 1988-03-11/효능효과변경, 1988-03-11/제품명칭변경, 1988-03-11/사용상주의사항변경(부작용포함), 1986-01-01/용법용량변경, 1986-01-01/효능효과변경, 1986-01-01/제품명칭변경, 1985-09-21/저장방법 및 유효기간(사용기간)변경, 1983-07-16/제품명칭변경, 1979-09-13/저장방법 및 유효기간(사용기간)변경, 1979-04-25/성상변경, 1977-11-03",
+        "TOTAL_CONTENT": "(1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(1)/(1) 1매 (4.1×6.2 ㎠, 약 491.81㎎)중\n\n(2) 1매 (16.8×12.4㎠, 약 4030.44㎎)중-(2)",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[진통·소염 : 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 신경통, 류마티통]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[1일 1-2회 환부에 붙인다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 금기 : 30개월이하의 유아\" />\r\n    <ARTICLE title=\"2. 다음의 부위에는 사용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 눈주위, 점막 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 습윤, 옻등에 의한 피부염, 상처부위]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 사람은 사용전에 약사 또는 의사와 상의 할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 약이나 화장품등에 의한 알레르기 증상(발진, 발적, 가려움증, 옻등에 의한 피부염등) 이 나타난적이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 습윤이나 진무름이 심한 사람.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 의사의 치료를 받고 있는 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 사용할 때 다음에 주의 할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법,용량은 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에 사용할 경우에는 경련을 유발할 수 있으므로 신중히 투여할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 눈에 들어가지 않도록 주의할 것. 만일 눈에 들어간 경우는 홀로 씻을것. 증상이 심한 경우에는 안과의사의 치료를 받을 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약은 외용으로만 사용하고 내복하지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 사용중 사용후에는 다음에 주의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약의 사용으로 인해 발진, 발적(종창), 가려움등의 증상이 나타나는 경우에는 사용을 중지하고 약사 또는 의사와 상의 할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수일간 사용하여도 증상이 개선되지 않을 경우에는 사용을 중지하고 약사 또는 의사와 상의할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 보존 및 취급상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 손이 닿지 않는 곳에 보존할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사 일광을 피하고 될 수 있는대로 습기가 적고 서늘한 곳에 밀전하여 보존할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용을 막고 품질을 유지하기 위해 다른 용기에 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M203279]살리실산메틸|[M204418]d-캄파|[M223254]티몰|[M051197]용뇌|[M279284]L-멘톨|[M051197]용뇌|[M223254]티몰|[M204418]d-캄파|[M203279]살리실산메틸|[M279284]L-멘톨",
+        "INGR_NAME": "[M060287]텔핀레진(퀸톤)|[M060287]텔핀레진(퀸톤)|[M071211]천연고무|[M071211]천연고무|[M071554]폴리부텐|[M071554]폴리부텐|[M071743]훽티이스|[M071743]훽티이스|[M082118]린트포|[M082118]린트포|[M083542]부틸히드록시톨루엔|[M083542]부틸히드록시톨루엔|[M084628]박리지|[M084628]박리지|[M094433]글리세릴로지네이트|[M094433]글리세릴로지네이트|[M096816]페릭옥사이드|[M096816]페릭옥사이드|[M096997]폴리이소부틸렌|[M096997]폴리이소부틸렌|[M099839]산화아연|[M099839]산화아연|[M209195]텔핀레진(YS레진)|[M209195]텔핀레진(YS레진)",
+        "ATC_CODE": "M02AC",
+        "ITEM_ENG_NAME": "Uni Pas",
+        "ENTP_ENG_NAME": "SINSIN Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Bomeolum/D-Camphor/L-Menthol/Methyl Salicylate/Thymol",
+        "BIZRNO": "1188104136",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

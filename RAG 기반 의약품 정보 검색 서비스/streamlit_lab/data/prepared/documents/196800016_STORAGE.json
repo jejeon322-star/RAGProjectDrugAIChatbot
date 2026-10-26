@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:196800016",
+  "doc_id": "mfds:196800016:STORAGE",
+  "title": "중외15%만니톨주사액 — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "e53410e98cfdda084ae81fbad403afd12bdd42baadd164f8c13f881f813cc072",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196800016.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:14:05.957001+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 사용기간: 폴리프로필렌, 다층필름 플라스틱용기(제조일로부터 18개월), 유리용기(제조일로 부터 3년)\n\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 사용기간: 폴리프로필렌, 다층필름 플라스틱용기(제조일로부터 18개월), 유리용기(제조일로 부터 3년)\n\n사용기간: 제조일로부터 36 개월"
+}

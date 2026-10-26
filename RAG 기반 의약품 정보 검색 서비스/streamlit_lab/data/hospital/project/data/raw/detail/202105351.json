@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202105351",
+        "ITEM_NAME": "팜뮤코정(암브록솔염산염)",
+        "ENTP_NAME": "(주)유앤생명과학",
+        "ITEM_PERMIT_DATE": "20210714",
+        "CNSGN_MANUF": "(주)한국파비스제약",
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "흰색의 원형 정제",
+        "BAR_CODE": "8800588012103,8800588012110",
+        "MATERIAL_NAME": "총량 : 1정240밀리그램|성분명 : 암브록솔염산염|분량 : 30.0|단위 : 밀리그램|규격 : BP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202105351/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202105351/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202105351/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "20정/상자[((10정/피티피)*2)]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "379",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": null,
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "",
+        "TOTAL_CONTENT": "1240",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M233843]암브록솔염산염",
+        "INGR_NAME": "[M040450]옥수수전분|[M089671]포비돈|[M243429]카르복시메틸셀룰로오스칼슘|[M244534]스테아르산마그네슘|[M254581]유당수화물",
+        "ATC_CODE": "R05CB06",
+        "ITEM_ENG_NAME": "Pharmmuco Tab.",
+        "ENTP_ENG_NAME": "Yu&life sciences",
+        "MAIN_INGR_ENG": "Ambroxol Hydrochloride",
+        "BIZRNO": "8498700314",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

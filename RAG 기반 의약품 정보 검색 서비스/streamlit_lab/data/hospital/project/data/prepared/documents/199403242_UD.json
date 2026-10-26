@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199403242:UD",
+  "drug_id": "mfds:199403242",
+  "scope_type": "product",
+  "title": "맥시덱스점안액(덱사메타손) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403242/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199403242_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:05.781210+00:00",
+  "text": "[원문 1쪽]\n용법용량\n(안연고)\n1일 1-3회 소량을 도포한다. 증상이 개선되면 수일간에 걸쳐 점차로 감량하여 1일 1회 사용한다. 증상에 따\n라 적절히 증감한다.\n(점안액)\n1일 3-4회 1회 1-2방울 점안한다. 중증인 경우에는 1시간마다 1-2방울 점안하고 증상이 개선되면 감량한다.\n증상에 따라 적절히 증감한다.",
+  "content_hash": "5d48375740c8489832d93c43fbdd1a5e65ecf797a305912c547b44ae359bb409",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "520c1cbd82b9881980cc610043ac34556835d7157e6f33b6958fb37ad64599e0",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n(안연고)\n1일 1-3회 소량을 도포한다. 증상이 개선되면 수일간에 걸쳐 점차로 감량하여 1일 1회 사용한다. 증상에 따\n라 적절히 증감한다.\n(점안액)\n1일 3-4회 1회 1-2방울 점안한다. 중증인 경우에는 1시간마다 1-2방울 점안하고 증상이 개선되면 감량한다.\n증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "199401133",
+        "ITEM_NAME": "세카론정(아플로쿠알론)",
+        "ITEM_ENG_NAME": "Sekaron Tab.",
+        "ENTP_NAME": "삼진제약(주)",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "ENTP_SEQ": "19560011",
+        "ENTP_NO": "1324",
+        "ITEM_PERMIT_DATE": "19941012",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199401133",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01190]기타의 중추신경용약",
+        "PRDUCT_PRMISN_NO": "129",
+        "ITEM_INGR_NAME": "Afloqualone",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/151369816808500038",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "647801200",
+        "BIZRNO": "1248531621"
+      }
+    ]
+  }
+}

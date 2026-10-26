@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200402487:UD",
+  "drug_id": "mfds:200402487",
+  "scope_type": "product",
+  "title": "록소론정(록소프로펜나트륨수화물) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402487/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200402487_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:00:03.515372+00:00",
+  "text": "[원문 1쪽]\n용법용량\n1. 효능 ㆍ효과 1, 2의 경우\n○ 성인 : 록소프로펜나트륨(무수물)으로서 1회 60 mg을 1일 3회 경구투여한다. 1회 요법시에는 1회\n60∼120 mg을 경구투여한다.\n2. 효능 ㆍ효과 3의 경우\n○ 성인 : 록소프로펜나트륨(무수물)으로서 1회 60 mg을 경구투여한다. 원칙적으로 1일 2회, 1일 최대\n180 mg까지 투여할 수 있다.\n공복시에는 복용을 피하는 것이 바람직하다.\n증상에 따라 적절히 증감한다.",
+  "content_hash": "39c2f0e05e0519c6a65acf5b64ffe92ae6d91f13cd232a9c3c0f6c99a0c1b842",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "f851fefbdd3add7aa1783aad6d8378e68543cca608072fbaf664ecc24ff8b895",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n1. 효능 ㆍ효과 1, 2의 경우\n○ 성인 : 록소프로펜나트륨(무수물)으로서 1회 60 mg을 1일 3회 경구투여한다. 1회 요법시에는 1회\n60∼120 mg을 경구투여한다.\n2. 효능 ㆍ효과 3의 경우\n○ 성인 : 록소프로펜나트륨(무수물)으로서 1회 60 mg을 경구투여한다. 원칙적으로 1일 2회, 1일 최대\n180 mg까지 투여할 수 있다.\n공복시에는 복용을 피하는 것이 바람직하다.\n증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

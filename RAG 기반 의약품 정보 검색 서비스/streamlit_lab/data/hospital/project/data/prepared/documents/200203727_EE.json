@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200203727:EE",
+  "drug_id": "mfds:200203727",
+  "scope_type": "product",
+  "title": "아세탈정(아세클로페낙) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200203727/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200203727_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:59:45.020046+00:00",
+  "text": "[원문 1쪽]\n효능효과\n류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 치통, 외상 후 생기는 염\n증, 요통, 좌골통, 비관절성 류머티즘으로 인한 통증",
+  "content_hash": "80b4918c273dcef74956d3aa1a09515ffa67afe98f02d9bc515e1c7bac9a6788",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "4c1a5ba23c3cbd4e18c6d7808f240a597d1eb41160bce21f5099200bfb6f4c57",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 치통, 외상 후 생기는 염\n증, 요통, 좌골통, 비관절성 류머티즘으로 인한 통증"
+        }
+      ]
+    }
+  ]
+}

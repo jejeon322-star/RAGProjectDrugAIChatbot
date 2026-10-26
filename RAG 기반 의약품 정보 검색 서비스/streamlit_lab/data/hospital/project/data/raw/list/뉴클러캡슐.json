@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200301172",
+        "ITEM_NAME": "뉴클러캡슐(세파클러수화물)",
+        "ITEM_ENG_NAME": "Nuclur Cap.",
+        "ENTP_NAME": "한국유니온제약(주)",
+        "ENTP_ENG_NAME": "Union Korea Pharm Co. LTD.,",
+        "ENTP_SEQ": "19560010",
+        "ENTP_NO": "1326",
+        "ITEM_PERMIT_DATE": "20030828",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200301172",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06180]주로 그람양성, 음성균에 작용하는 것",
+        "PRDUCT_PRMISN_NO": "272",
+        "ITEM_INGR_NAME": "Cefaclor Hydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/147427999269900157",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "665500370",
+        "BIZRNO": "6078121765"
+      }
+    ]
+  }
+}

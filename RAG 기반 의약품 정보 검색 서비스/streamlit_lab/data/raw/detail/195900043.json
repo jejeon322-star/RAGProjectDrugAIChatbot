@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "195900043",
+        "ITEM_NAME": "아네모정",
+        "ENTP_NAME": "삼진제약(주)",
+        "ITEM_PERMIT_DATE": "19590113",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "백색의 원형필름제피정",
+        "BAR_CODE": "8806478014509,8806478014516,8806478014523,8806478014530,8806478014547,8806478014561",
+        "MATERIAL_NAME": "총량 : 1정467.4밀리그램|성분명 : 건조수산화알루미늄겔|분량 : 90|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정467.4밀리그램|성분명 : 탄산수소나트륨|분량 : 90|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정467.4밀리그램|성분명 : 침강탄산칼슘|분량 : 40|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정467.4밀리그램|성분명 : 탄산마그네슘|분량 : 25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정467.4밀리그램|성분명 : 스코폴리아엑스10배산|분량 : 37.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900043/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900043/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900043/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1000정/병,20정/상자[(10정/PTP×2)]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1324",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20141107",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2014-11-07/용법용량변경, 2014-11-07/효능효과변경, 2014-11-07/효능효과변경, 2010-06-20/용법용량변경, 2010-06-20/사용상주의사항변경(부작용포함), 2010-06-20/사용상주의사항변경(부작용포함), 1995-04-17/용법용량변경, 1995-04-17/효능효과변경, 1995-04-17/사용상주의사항변경(부작용포함), 1994-01-01/용법용량변경, 1994-01-01/효능효과변경, 1994-01-01/성상변경, 1993-04-27/성상변경, 1985-11-27/효능효과변경, 1985-11-27/용법용량변경, 1985-11-27/저장방법 및 유효기간(사용기간)변경, 1985-11-27/사용상주의사항변경(부작용포함), 1985-11-27/저장방법 및 유효기간(사용기간)변경, 1980-03-10/용법용량변경, 1974-12-11/효능효과변경, 1974-12-11",
+        "TOTAL_CONTENT": "1467.4",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 1회 2정 1일 3회 식간(식사와 식사때 사이) 및 취침시에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 투석요법을 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수유부(모유로 이행해서 젖먹이의 맥박이 빨라질 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 만 7세 이하의 어린이]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약은 유당(젖당)을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsortion) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 위장진통ㆍ진경제]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 테트라사이클린계 항생제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 투여함으로써 알레르기 증상(발진, 충혈되어 붉어짐, 가려움 등)이 나타나는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 신장장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 본인 또는 가족이 알레르기 체질인 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 임부 또는 임신하고 있을 가능성이 있는 여성]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 다른 약물을 복용하고 있는 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 사람(경우) 이 약의 복용을 즉각 중지하고 의사,치과의사,약사와 상의할 것. 상담시 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 복용함으로써 알레르기 증상(발진, 충혈되어 붉어짐, 가려움 등)이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약을 복용하는 동안 드물게 입이 마르는 증상이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약을 복용하는 동안 변비 또는 설사의 증상이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 2주정도 투여하여도 증상의 개선이 없을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5.기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 나트륨 제한 식이를 하는 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손에 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하고 될 수 있는 한 습기가 적은 서늘한 곳에 밀폐하여 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M099577]스코폴리아엑스10배산|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M040631]탄산수소나트륨|[M040308]건조수산화알루미늄겔",
+        "INGR_NAME": "[M040826]히드록시프로필셀룰로오스|[M060073]미결정셀룰로오스|[M085786]전분글리콜산나트륨|[M102730]히프로멜로오스2910|[M204045]포비돈K30|[M205921]산화티탄|[M209359]폴리에틸렌글리콜6000|[M223367]유당수화물|[M223556]스테아르산마그네슘|[M249191]탤크",
+        "ATC_CODE": "A02AH",
+        "ITEM_ENG_NAME": "Anemo Tab.",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "MAIN_INGR_ENG": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate/Precipitated Calcium Carbonate/Scopolia Extract Powder 10%/Sodium Bicarbonate",
+        "BIZRNO": "1248531621",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

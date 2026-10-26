@@ -1,0 +1,92 @@
+{
+  "doc_id": "mfds:197200484:UD",
+  "drug_id": "mfds:197200484",
+  "scope_type": "product",
+  "title": "맥페란정(메토클로프라미드) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200484/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200484.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20140103",
+  "collected_at": "2026-10-22T05:27:51.179510+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "비록 구토 또는 용량 거부가 있었더라도, 투여간격은 적어도 6시간 이상이 권장된다.",
+          "raw_content": "비록 구토 또는 용량 거부가 있었더라도, 투여간격은 적어도 6시간 이상이 권장된다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(경구)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1. 성인 : 염산메토클로프라미드로서 1일 10-30mg(메토클로프라미드로서 7.7-25.4mg)을 2-3회 분할하여 식전에 경구투여한다. 일일최대권장용량은 30mg 또는 체중 kg 당 0.5mg이며, 최대 권장 치료기간은 5일이다.",
+          "raw_content": "1. 성인 : 염산메토클로프라미드로서 1일 10-30mg(메토클로프라미드로서 7.7-25.4mg)을 2-3회 분할하여 식전에 경구투여한다. 일일최대권장용량은 30mg 또는 체중 kg 당 0.5mg이며, 최대 권장 치료기간은 5일이다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2. 소아 : 권장용량은 체중 kg 당 0.1～0.15mg이며, 일일 3회까지 반복하여 투여한다. 24시간 내 최대용량은 체중 kg당 0.5mg이다.",
+          "raw_content": "2. 소아 : 권장용량은 체중 kg 당 0.1～0.15mg이며, 일일 3회까지 반복하여 투여한다. 24시간 내 최대용량은 체중 kg당 0.5mg이다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "(용량표)",
+          "raw_content": "(용량표)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "table",
+          "text": "|\n연령\n|\n체중\n|\n1회투여량\n|\n투여빈도\n|\n1-3세\n|\n10-14kg\n|\n1mg\n|\n일일 3회까지\n|\n3-5세\n|\n15-19kg\n|\n2mg\n|\n일일 3회까지\n|\n5-9세\n|\n20-29kg\n|\n2.5mg\n|\n일일 3회까지\n|\n9-18세\n|\n30-60kg\n|\n5mg\n|\n일일 3회까지\n|\n15-18세\n|\n60kg 초과\n|\n10mg\n|\n일일 3회까지",
+          "raw_content": "<tbody> \n <tr> \n  <td> <p>연령</p> </td> \n  <td> <p>체중</p> </td> \n  <td> <p>1회투여량</p> </td> \n  <td> <p>투여빈도</p> </td> \n </tr> \n <tr> \n  <td> <p>1-3세</p> </td> \n  <td> <p>10-14kg</p> </td> \n  <td> <p>1mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>3-5세</p> </td> \n  <td> <p>15-19kg</p> </td> \n  <td> <p>2mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>5-9세</p> </td> \n  <td> <p>20-29kg</p> </td> \n  <td> <p>2.5mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>9-18세</p> </td> \n  <td> <p>30-60kg</p> </td> \n  <td> <p>5mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>15-18세</p> </td> \n  <td> <p>60kg 초과</p> </td> \n  <td> <p>10mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n</tbody>"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "항암화학요법 후 지연된 구역ㆍ구토 예방에 대한 최대치료기간은 5일이다.",
+          "raw_content": "항암화학요법 후 지연된 구역ㆍ구토 예방에 대한 최대치료기간은 5일이다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "이 약은 1세 미만 소아에게 금기이다.",
+          "raw_content": "이 약은 1세 미만 소아에게 금기이다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "3. 노인 : 신장 및 간 기능, 전체적인 쇠약도에 근거하여 용량감소를 고려해야 한다.",
+          "raw_content": "3. 노인 : 신장 및 간 기능, 전체적인 쇠약도에 근거하여 용량감소를 고려해야 한다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "4. 신장애 환자: 말기 신장질환자(크레아티닌 청소율 ≤ 15ml/min)는 일일 용량을 75%까지 감소해야 한다. 중등도에서 중증 신장애 환자(크레아티닌 청소율 15～60 ml/min)는 용량을 50%까지 감소해야 한다.",
+          "raw_content": "4. 신장애 환자: 말기 신장질환자(크레아티닌 청소율 ≤ 15ml/min)는 일일 용량을 75%까지 감소해야 한다. 중등도에서 중증 신장애 환자(크레아티닌 청소율 15～60 ml/min)는 용량을 50%까지 감소해야 한다."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "5. 간장애 환자 : 중증 간장애 환자는 용량을 50%까지 감소해야 한다.",
+          "raw_content": "5. 간장애 환자 : 중증 간장애 환자는 용량을 50%까지 감소해야 한다."
+        }
+      ]
+    }
+  ],
+  "text": "비록 구토 또는 용량 거부가 있었더라도, 투여간격은 적어도 6시간 이상이 권장된다.\n\n(경구)\n\n1. 성인 : 염산메토클로프라미드로서 1일 10-30mg(메토클로프라미드로서 7.7-25.4mg)을 2-3회 분할하여 식전에 경구투여한다. 일일최대권장용량은 30mg 또는 체중 kg 당 0.5mg이며, 최대 권장 치료기간은 5일이다.\n\n2. 소아 : 권장용량은 체중 kg 당 0.1～0.15mg이며, 일일 3회까지 반복하여 투여한다. 24시간 내 최대용량은 체중 kg당 0.5mg이다.\n\n(용량표)\n\n|\n연령\n|\n체중\n|\n1회투여량\n|\n투여빈도\n|\n1-3세\n|\n10-14kg\n|\n1mg\n|\n일일 3회까지\n|\n3-5세\n|\n15-19kg\n|\n2mg\n|\n일일 3회까지\n|\n5-9세\n|\n20-29kg\n|\n2.5mg\n|\n일일 3회까지\n|\n9-18세\n|\n30-60kg\n|\n5mg\n|\n일일 3회까지\n|\n15-18세\n|\n60kg 초과\n|\n10mg\n|\n일일 3회까지\n\n항암화학요법 후 지연된 구역ㆍ구토 예방에 대한 최대치료기간은 5일이다.\n\n이 약은 1세 미만 소아에게 금기이다.\n\n3. 노인 : 신장 및 간 기능, 전체적인 쇠약도에 근거하여 용량감소를 고려해야 한다.\n\n4. 신장애 환자: 말기 신장질환자(크레아티닌 청소율 ≤ 15ml/min)는 일일 용량을 75%까지 감소해야 한다. 중등도에서 중증 신장애 환자(크레아티닌 청소율 15～60 ml/min)는 용량을 50%까지 감소해야 한다.\n\n5. 간장애 환자 : 중증 간장애 환자는 용량을 50%까지 감소해야 한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[비록 구토 또는 용량 거부가 있었더라도, 투여간격은 적어도 6시간 이상이 권장된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(경구)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[1. 성인 : 염산메토클로프라미드로서 1일 10-30mg(메토클로프라미드로서 7.7-25.4mg)을 2-3회 분할하여 식전에 경구투여한다. 일일최대권장용량은 30mg 또는 체중 kg 당 0.5mg이며, 최대 권장 치료기간은 5일이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[2. 소아 : 권장용량은 체중 kg 당 0.1～0.15mg이며, 일일 3회까지 반복하여 투여한다. 24시간 내 최대용량은 체중 kg당 0.5mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(용량표)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"table\" textIndent=\"\" marginLeft=\"\"><![CDATA[<tbody> \n <tr> \n  <td> <p>연령</p> </td> \n  <td> <p>체중</p> </td> \n  <td> <p>1회투여량</p> </td> \n  <td> <p>투여빈도</p> </td> \n </tr> \n <tr> \n  <td> <p>1-3세</p> </td> \n  <td> <p>10-14kg</p> </td> \n  <td> <p>1mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>3-5세</p> </td> \n  <td> <p>15-19kg</p> </td> \n  <td> <p>2mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>5-9세</p> </td> \n  <td> <p>20-29kg</p> </td> \n  <td> <p>2.5mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>9-18세</p> </td> \n  <td> <p>30-60kg</p> </td> \n  <td> <p>5mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n <tr> \n  <td> <p>15-18세</p> </td> \n  <td> <p>60kg 초과</p> </td> \n  <td> <p>10mg</p> </td> \n  <td> <p>일일 3회까지</p> </td> \n </tr> \n</tbody>]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[항암화학요법 후 지연된 구역ㆍ구토 예방에 대한 최대치료기간은 5일이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약은 1세 미만 소아에게 금기이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[3. 노인 : 신장 및 간 기능, 전체적인 쇠약도에 근거하여 용량감소를 고려해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[4. 신장애 환자: 말기 신장질환자(크레아티닌 청소율 ≤ 15ml/min)는 일일 용량을 75%까지 감소해야 한다. 중등도에서 중증 신장애 환자(크레아티닌 청소율 15～60 ml/min)는 용량을 50%까지 감소해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[5. 간장애 환자 : 중증 간장애 환자는 용량을 50%까지 감소해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "c4824c97a553a220661c0cd8e5900ad05bfb5161b266f6d9ff5fdf75d2efbca7"
+}

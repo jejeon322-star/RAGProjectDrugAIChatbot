@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199702410:EE",
+  "drug_id": "mfds:199702410",
+  "scope_type": "product",
+  "title": "푸락스주(프리디놀메실산염) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199702410/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199702410_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:37.680901+00:00",
+  "text": "[원문 1쪽]\n효능효과\n근골격계 질환에 수반하는 동통성 연축 : 요배통증 경견완 증후군 견관절 주위염 변형성 척추증",
+  "content_hash": "d3ce51e74a128c933b100b56904c119c258fa6b4597dc7d145a9569ed007cd45",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "af74aef0a909765d2ed93642eaca5dab7a1a4c218c7692218e23361ff3bb1989",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n근골격계 질환에 수반하는 동통성 연축 : 요배통증 경견완 증후군 견관절 주위염 변형성 척추증"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:196600063:UD",
+  "drug_id": "mfds:196600063",
+  "scope_type": "product",
+  "title": "원비디 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196600063/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196600063.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20140107",
+  "collected_at": "2026-10-22T05:13:09.238050+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "15세 이상 성인 : 1회 1병, 1일 1～2회 복용한다.",
+          "raw_content": "15세 이상 성인 : 1회 1병, 1일 1～2회 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "15세 이상 성인 : 1회 1병, 1일 1～2회 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[15세 이상 성인 : 1회 1병, 1일 1～2회 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "2c627be522cd6b6965a4a5fd8c9ddb0b9fb09ea27def4c959abe421f0526736f"
+}

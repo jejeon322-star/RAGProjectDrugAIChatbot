@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202601755",
+        "ITEM_NAME": "펠루다정30밀리그램(펠루비프로펜)",
+        "ENTP_NAME": "(주)다산제약",
+        "ITEM_PERMIT_DATE": "20260622",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "연한 노란색의 원형정제",
+        "BAR_CODE": "8806786023705,8806786023712,8806786023729",
+        "MATERIAL_NAME": "총량 : 1정110.00밀리그램|성분명 : 펠루비프로펜|분량 : 30.00|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601755/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601755/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601755/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기, 실온보관(1-30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,300정/병",
+        "EDI_CODE": "678602370",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "2243",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260714",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명, 2026-07-14/사용상의 주의사항, 2026-07-14",
+        "TOTAL_CONTENT": "1110.00",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M210533]펠루비프로펜",
+        "INGR_NAME": "[M070613]산화철|[M102967]히프로멜로오스|[M218253]저치환도히드록시프로필셀룰로오스(LH-11)|[M243496]D-만니톨|[M244534]스테아르산마그네슘|[M245060]콜로이드성이산화규소|[M245108]미결정셀룰로오스|[M260233]저치환도히드록시프로필셀룰로오스(LH-21)",
+        "ATC_CODE": "M01AE20",
+        "ITEM_ENG_NAME": "PELUDA Tab. 30mg",
+        "ENTP_ENG_NAME": "Dasan Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Pelubiprofen",
+        "BIZRNO": "1058184395",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

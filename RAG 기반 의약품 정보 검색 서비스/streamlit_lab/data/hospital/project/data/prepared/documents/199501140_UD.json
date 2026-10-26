@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199501140:UD",
+  "drug_id": "mfds:199501140",
+  "scope_type": "product",
+  "title": "케포돈1그람주(세파제돈나트륨) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501140/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199501140_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:11.474496+00:00",
+  "text": "[원문 1쪽]\n용법용량\n1. 성인\n세파제돈나트륨으로서 그람양성균에 의한 감염증의 경우 1일 1~2g(역가)을 2~3회 분할 정맥주사하고 그람\n음성균에 의한 감염증의 경우 1일 3~4g(역가)을 2~3회 분할 투여한다.\n생명을 위협하는 감염증 및 중등도 감수성균에 의한 감염증의 경우에는 1일 6g(역가)까지 증량할 수 있다.\n2. 신기능손상 환자: 투여량 및 투여간격은 신손상의 정도(특히 간손상인 경우)에 따라 결정된다.\n주사액의 조제: 정맥주사 시는 이 약 1g(역가)을 주사용수 5mL에 녹여 2~3분간에 걸쳐 천천히 주사한다.\n용해 후 가능한 한 6시간 이내에 사용하는 것이 바람직하나 실온에서 24시간 보관 시 역가의 변화는 없다.",
+  "content_hash": "c7a2e7a08f132752d89f6cdd29c00f0b815d28b8aa03479a0ec08f46d12a004f",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "b5a1bc0dc05284072e94cfaca040164c136886ba92edb01adb38acc4a9f84038",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n1. 성인\n세파제돈나트륨으로서 그람양성균에 의한 감염증의 경우 1일 1~2g(역가)을 2~3회 분할 정맥주사하고 그람\n음성균에 의한 감염증의 경우 1일 3~4g(역가)을 2~3회 분할 투여한다.\n생명을 위협하는 감염증 및 중등도 감수성균에 의한 감염증의 경우에는 1일 6g(역가)까지 증량할 수 있다.\n2. 신기능손상 환자: 투여량 및 투여간격은 신손상의 정도(특히 간손상인 경우)에 따라 결정된다.\n주사액의 조제: 정맥주사 시는 이 약 1g(역가)을 주사용수 5mL에 녹여 2~3분간에 걸쳐 천천히 주사한다.\n용해 후 가능한 한 6시간 이내에 사용하는 것이 바람직하나 실온에서 24시간 보관 시 역가의 변화는 없다."
+        }
+      ]
+    }
+  ]
+}

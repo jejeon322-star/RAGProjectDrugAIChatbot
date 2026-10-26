@@ -1,0 +1,278 @@
+{
+  "doc_id": "mfds:197000191:NB",
+  "drug_id": "mfds:197000191",
+  "scope_type": "product",
+  "title": "휴온스3%염화칼슘주사액(수출용) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000191/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000191.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210604",
+  "collected_at": "2026-10-22T05:22:07.116749+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 앰플주사제는 용기 절단시 유리파편이 혼합되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함)",
+          "raw_content": "1) 앰플주사제는 용기 절단시 유리파편이 혼합되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 정맥 칼슘 함유 제제와 세프트리악손을 혼합하여 사용할 때, 세프트리악손-칼슘 침전을 일으킬 수 있다. 따라서, 세프트리악손과 이 약을 포함한 정맥 칼슘 함유 제제를 동일한 주입용 기구를 사용하여 동시에 투여해서는 안된다. 연속주입을 위해 동일한 주입선을 사용해야하는 경우, 주입선을 주입 전/후 적절한 용액으로 철저히 씻어낸다.",
+          "raw_content": "2) 정맥 칼슘 함유 제제와 세프트리악손을 혼합하여 사용할 때, 세프트리악손-칼슘 침전을 일으킬 수 있다. 따라서, 세프트리악손과 이 약을 포함한 정맥 칼슘 함유 제제를 동일한 주입용 기구를 사용하여 동시에 투여해서는 안된다. 연속주입을 위해 동일한 주입선을 사용해야하는 경우, 주입선을 주입 전/후 적절한 용액으로 철저히 씻어낸다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 강심배당체를 투여중인 환자",
+          "raw_content": "1) 강심배당체를 투여중인 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 고칼슘혈증ㆍ신결석증의 병력이 있는 고칼슘뇨증 환자",
+          "raw_content": "2) 고칼슘혈증ㆍ신결석증의 병력이 있는 고칼슘뇨증 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 유육종증(sarcoidosis), 신질환이 있는 환자",
+          "raw_content": "3) 유육종증(sarcoidosis), 신질환이 있는 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 신결석 환자",
+          "raw_content": "4) 신결석 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 저단백혈증 환자",
+          "raw_content": "5) 저단백혈증 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 중증의 신부전 환자",
+          "raw_content": "6) 중증의 신부전 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 심부전 환자",
+          "raw_content": "7) 심부전 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 이 약 및 이 약에 포함된 성분에의 과민반응 환자",
+          "raw_content": "8) 이 약 및 이 약에 포함된 성분에의 과민반응 환자"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 신생아(≤28일)에서는 다른 칼슘 함유 제품과 마찬가지로 별도의 주입선을 사용하는 경우라도, 세프트리악손과 이 약을 병용하여 사용하지 말 것 (신생아의 혈액에 치명적인 세프트리악손 칼슘 염의 침전 위험)",
+          "raw_content": "9) 신생아(≤28일)에서는 다른 칼슘 함유 제품과 마찬가지로 별도의 주입선을 사용하는 경우라도, 세프트리악손과 이 약을 병용하여 사용하지 말 것 (신생아의 혈액에 치명적인 세프트리악손 칼슘 염의 침전 위험)"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 활성형 비타민 D제제를 복용하고 있는 환자",
+          "raw_content": "1) 활성형 비타민 D제제를 복용하고 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 갑상선 기능항진증 환자",
+          "raw_content": "2) 갑상선 기능항진증 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 소화기계 : 식욕부진, 구역 및 구토, 변비, 위통 등의 증상이 나타날 수 있다.",
+          "raw_content": "1) 소화기계 : 식욕부진, 구역 및 구토, 변비, 위통 등의 증상이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 순환기계 : 말초혈관이완 및 혈압강하, 심박동불규칙 등이 나타날 수 있다.",
+          "raw_content": "2) 순환기계 : 말초혈관이완 및 혈압강하, 심박동불규칙 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 혈액계 : 산성화제이므로 산증을 일으킬 수 있다.",
+          "raw_content": "3) 혈액계 : 산성화제이므로 산증을 일으킬 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 과량투여 : 골격근 이완, 식욕부진, 체중감소, 근육통, 관절통, 변비 및 결석, 고나트륨혈증, 울혈성심부전, 부종 등을 일으킬 수 있다.",
+          "raw_content": "4) 과량투여 : 골격근 이완, 식욕부진, 체중감소, 근육통, 관절통, 변비 및 결석, 고나트륨혈증, 울혈성심부전, 부종 등을 일으킬 수 있다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 기타 : 권태, 홍조, 졸음, 땀, 심계항진, 발한, 피부발진 등이 나타날 수 있다.",
+          "raw_content": "5) 기타 : 권태, 홍조, 졸음, 땀, 심계항진, 발한, 피부발진 등이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "장기 또는 소아투여시 정기적으로 혈중 및 요중 칼슘치를 검사하며 고칼슘혈증이 나타난 경우에는 투여를 중지한다.",
+          "raw_content": "장기 또는 소아투여시 정기적으로 혈중 및 요중 칼슘치를 검사하며 고칼슘혈증이 나타난 경우에는 투여를 중지한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 강심배당체(메틸디곡신, 디곡신, 디기톡신 등)와 병용투여시 강심배당체의 작용을 증강하고 서맥, 심실성기외수축, 방실블록 등의 중독증상을 유발할 수 있으므로 병용투여하지 않는다.",
+          "raw_content": "1) 강심배당체(메틸디곡신, 디곡신, 디기톡신 등)와 병용투여시 강심배당체의 작용을 증강하고 서맥, 심실성기외수축, 방실블록 등의 중독증상을 유발할 수 있으므로 병용투여하지 않는다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 비탈분극성근이완제(튜보큐라린, 판쿠로니움, 베쿠로니움)와 병용투여시 이들 약물의 근이완작용이 감소될 수 있으므로 주의한다.",
+          "raw_content": "2) 비탈분극성근이완제(튜보큐라린, 판쿠로니움, 베쿠로니움)와 병용투여시 이들 약물의 근이완작용이 감소될 수 있으므로 주의한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 테트라사이클린의 효과를 반감시키므로 병용투여하지 않는다.",
+          "raw_content": "3) 테트라사이클린의 효과를 반감시키므로 병용투여하지 않는다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 자궁수축제의 작용을 증강할 수 있으므로 병용하지 않는다.",
+          "raw_content": "4) 자궁수축제의 작용을 증강할 수 있으므로 병용하지 않는다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 항알도스테론제, 트리암테렌과 병용투여시 고칼륨혈증을 일으킬 수 있으므로 주의한다.",
+          "raw_content": "5) 항알도스테론제, 트리암테렌과 병용투여시 고칼륨혈증을 일으킬 수 있으므로 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 임부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "임부의 투여에 대해 알려진 것이 없으므로, 반드시 필요한 경우에만 투여한다.",
+          "raw_content": "임부의 투여에 대해 알려진 것이 없으므로, 반드시 필요한 경우에만 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정맥주사에만 사용하며 주사시 혈관밖으로 주사액이 누출되지 않도록 주의한다(특히 신생아 또는 영ㆍ유아).",
+          "raw_content": "1) 정맥주사에만 사용하며 주사시 혈관밖으로 주사액이 누출되지 않도록 주의한다(특히 신생아 또는 영ㆍ유아)."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 급속히 정맥주사하는 경우 심장성 실신 의 증상이 나타날 수 있으므로 천천히 주사한다.",
+          "raw_content": "2) 급속히 정맥주사하는 경우 심장성 실신 의 증상이 나타날 수 있으므로 천천히 주사한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 정맥내 주사에 의해서 심계항진, 서맥, 혈압변동, 열감, 홍조, 발한 등이 나타날 수 있다.",
+          "raw_content": "3) 정맥내 주사에 의해서 심계항진, 서맥, 혈압변동, 열감, 홍조, 발한 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 탄산, 구연산, 수산, 인산, 황산, 주석산의 염류, 은염, 연(鉛)염, 세프트리악손등 여러 가지 성분과 혼합할 경우 침전이 생기므로 혼합하지 않는다.",
+          "raw_content": "4) 탄산, 구연산, 수산, 인산, 황산, 주석산의 염류, 은염, 연(鉛)염, 세프트리악손등 여러 가지 성분과 혼합할 경우 침전이 생기므로 혼합하지 않는다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 에탄올에 의해서 침전이 생기므로, 에탄올로 소독한 주사기는 사용하지 않는다.",
+          "raw_content": "5) 에탄올에 의해서 침전이 생기므로, 에탄올로 소독한 주사기는 사용하지 않는다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 투여전 : 한냉기에는 체온정도로 따뜻하게 하여 사용한다. 개봉직후 바로 사용하고, 잔액은 사용하지 않는다.",
+          "raw_content": "6) 투여전 : 한냉기에는 체온정도로 따뜻하게 하여 사용한다. 개봉직후 바로 사용하고, 잔액은 사용하지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "heading": "10. 보관 및 취급상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "소아의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "소아의 손이 닿지 않는 곳에 보관한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n1) 앰플주사제는 용기 절단시 유리파편이 혼합되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함)\n\n2) 정맥 칼슘 함유 제제와 세프트리악손을 혼합하여 사용할 때, 세프트리악손-칼슘 침전을 일으킬 수 있다. 따라서, 세프트리악손과 이 약을 포함한 정맥 칼슘 함유 제제를 동일한 주입용 기구를 사용하여 동시에 투여해서는 안된다. 연속주입을 위해 동일한 주입선을 사용해야하는 경우, 주입선을 주입 전/후 적절한 용액으로 철저히 씻어낸다.\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 강심배당체를 투여중인 환자\n\n2) 고칼슘혈증ㆍ신결석증의 병력이 있는 고칼슘뇨증 환자\n\n3) 유육종증(sarcoidosis), 신질환이 있는 환자\n\n4) 신결석 환자\n\n5) 저단백혈증 환자\n\n6) 중증의 신부전 환자\n\n7) 심부전 환자\n\n8) 이 약 및 이 약에 포함된 성분에의 과민반응 환자\n\n9) 신생아(≤28일)에서는 다른 칼슘 함유 제품과 마찬가지로 별도의 주입선을 사용하는 경우라도, 세프트리악손과 이 약을 병용하여 사용하지 말 것 (신생아의 혈액에 치명적인 세프트리악손 칼슘 염의 침전 위험)\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 활성형 비타민 D제제를 복용하고 있는 환자\n\n2) 갑상선 기능항진증 환자\n\n4. 이상반응\n\n1) 소화기계 : 식욕부진, 구역 및 구토, 변비, 위통 등의 증상이 나타날 수 있다.\n\n2) 순환기계 : 말초혈관이완 및 혈압강하, 심박동불규칙 등이 나타날 수 있다.\n\n3) 혈액계 : 산성화제이므로 산증을 일으킬 수 있다.\n\n4) 과량투여 : 골격근 이완, 식욕부진, 체중감소, 근육통, 관절통, 변비 및 결석, 고나트륨혈증, 울혈성심부전, 부종 등을 일으킬 수 있다.\n\n5) 기타 : 권태, 홍조, 졸음, 땀, 심계항진, 발한, 피부발진 등이 나타날 수 있다.\n\n5. 일반적 주의\n\n장기 또는 소아투여시 정기적으로 혈중 및 요중 칼슘치를 검사하며 고칼슘혈증이 나타난 경우에는 투여를 중지한다.\n\n6. 상호작용\n\n1) 강심배당체(메틸디곡신, 디곡신, 디기톡신 등)와 병용투여시 강심배당체의 작용을 증강하고 서맥, 심실성기외수축, 방실블록 등의 중독증상을 유발할 수 있으므로 병용투여하지 않는다.\n\n2) 비탈분극성근이완제(튜보큐라린, 판쿠로니움, 베쿠로니움)와 병용투여시 이들 약물의 근이완작용이 감소될 수 있으므로 주의한다.\n\n3) 테트라사이클린의 효과를 반감시키므로 병용투여하지 않는다.\n\n4) 자궁수축제의 작용을 증강할 수 있으므로 병용하지 않는다.\n\n5) 항알도스테론제, 트리암테렌과 병용투여시 고칼륨혈증을 일으킬 수 있으므로 주의한다.\n\n7. 임부에 대한 투여\n\n임부의 투여에 대해 알려진 것이 없으므로, 반드시 필요한 경우에만 투여한다.\n\n8. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.\n\n9. 적용상의 주의\n\n1) 정맥주사에만 사용하며 주사시 혈관밖으로 주사액이 누출되지 않도록 주의한다(특히 신생아 또는 영ㆍ유아).\n\n2) 급속히 정맥주사하는 경우 심장성 실신 의 증상이 나타날 수 있으므로 천천히 주사한다.\n\n3) 정맥내 주사에 의해서 심계항진, 서맥, 혈압변동, 열감, 홍조, 발한 등이 나타날 수 있다.\n\n4) 탄산, 구연산, 수산, 인산, 황산, 주석산의 염류, 은염, 연(鉛)염, 세프트리악손등 여러 가지 성분과 혼합할 경우 침전이 생기므로 혼합하지 않는다.\n\n5) 에탄올에 의해서 침전이 생기므로, 에탄올로 소독한 주사기는 사용하지 않는다.\n\n6) 투여전 : 한냉기에는 체온정도로 따뜻하게 하여 사용한다. 개봉직후 바로 사용하고, 잔액은 사용하지 않는다.\n\n10. 보관 및 취급상의 주의사항\n\n소아의 손이 닿지 않는 곳에 보관한다.",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 앰플주사제는 용기 절단시 유리파편이 혼합되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 정맥 칼슘 함유 제제와 세프트리악손을 혼합하여 사용할 때, 세프트리악손-칼슘 침전을 일으킬 수 있다. 따라서, 세프트리악손과 이 약을 포함한 정맥 칼슘 함유 제제를 동일한 주입용 기구를 사용하여 동시에 투여해서는 안된다. 연속주입을 위해 동일한 주입선을 사용해야하는 경우, 주입선을 주입 전/후 적절한 용액으로 철저히 씻어낸다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 강심배당체를 투여중인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고칼슘혈증ㆍ신결석증의 병력이 있는 고칼슘뇨증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 유육종증(sarcoidosis), 신질환이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 신결석 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 저단백혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 중증의 신부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 심부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 신생아(≤28일)에서는 다른 칼슘 함유 제품과 마찬가지로 별도의 주입선을 사용하는 경우라도, 세프트리악손과 이 약을 병용하여 사용하지 말 것 (신생아의 혈액에 치명적인 세프트리악손 칼슘 염의 침전 위험)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 활성형 비타민 D제제를 복용하고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 갑상선 기능항진증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 식욕부진, 구역 및 구토, 변비, 위통 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 순환기계 : 말초혈관이완 및 혈압강하, 심박동불규칙 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액계 : 산성화제이므로 산증을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 과량투여 : 골격근 이완, 식욕부진, 체중감소, 근육통, 관절통, 변비 및 결석, 고나트륨혈증, 울혈성심부전, 부종 등을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 기타 : 권태, 홍조, 졸음, 땀, 심계항진, 발한, 피부발진 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[장기 또는 소아투여시 정기적으로 혈중 및 요중 칼슘치를 검사하며 고칼슘혈증이 나타난 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 강심배당체(메틸디곡신, 디곡신, 디기톡신 등)와 병용투여시 강심배당체의 작용을 증강하고 서맥, 심실성기외수축, 방실블록 등의 중독증상을 유발할 수 있으므로 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 비탈분극성근이완제(튜보큐라린, 판쿠로니움, 베쿠로니움)와 병용투여시 이들 약물의 근이완작용이 감소될 수 있으므로 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 테트라사이클린의 효과를 반감시키므로 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 자궁수축제의 작용을 증강할 수 있으므로 병용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 항알도스테론제, 트리암테렌과 병용투여시 고칼륨혈증을 일으킬 수 있으므로 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부의 투여에 대해 알려진 것이 없으므로, 반드시 필요한 경우에만 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정맥주사에만 사용하며 주사시 혈관밖으로 주사액이 누출되지 않도록 주의한다(특히 신생아 또는 영ㆍ유아).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 급속히 정맥주사하는 경우 심장성 실신 의 증상이 나타날 수 있으므로 천천히 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 정맥내 주사에 의해서 심계항진, 서맥, 혈압변동, 열감, 홍조, 발한 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 탄산, 구연산, 수산, 인산, 황산, 주석산의 염류, 은염, 연(鉛)염, 세프트리악손등 여러 가지 성분과 혼합할 경우 침전이 생기므로 혼합하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 에탄올에 의해서 침전이 생기므로, 에탄올로 소독한 주사기는 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 투여전 : 한냉기에는 체온정도로 따뜻하게 하여 사용한다. 개봉직후 바로 사용하고, 잔액은 사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "0ef8ce7e70841f7d60df87d5a09b49f78327e6c2ec81dda36065006c7e8617ca"
+}

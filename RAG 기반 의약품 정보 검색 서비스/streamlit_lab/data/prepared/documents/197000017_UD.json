@@ -1,0 +1,45 @@
+{
+  "doc_id": "mfds:197000017:UD",
+  "drug_id": "mfds:197000017",
+  "scope_type": "product",
+  "title": "중외염화칼륨주사액(150㎎/㎖) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000017/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000017.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20230613",
+  "collected_at": "2026-10-22T05:17:33.892520+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 치료용량 : 염화칼륨으로서 보통 성인 1일 1,200～3,000mg을 적절히 나누어 복용한다.",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 예방용량 : 이뇨제 투여환자의 경우 이 약으로서 1일 1회 600mg을 복용한다.",
+      "paragraphs": []
+    },
+    {
+      "article_index": 3,
+      "heading": "식사직후에 복용하되 씹거나 부수어 복용하지 않도록 한다.",
+      "paragraphs": []
+    },
+    {
+      "article_index": 4,
+      "heading": "염화칼륨으로서 보통 성인 0.5～3g을 링거액, 포도당 주사액 또는 생리식염 주사액 등에 희석해 농도를 0.3%(칼륨으로서 40 mEq) 이하로 하여 분당 8mL 이하의 속도로 4시간 이상에 걸쳐 점적 정맥주사한다. 1일량은 이 약으로서 7.5g(칼륨으로서 100 mEq) 이하로 한다.",
+      "paragraphs": []
+    },
+    {
+      "article_index": 5,
+      "heading": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 치료용량 : 염화칼륨으로서 보통 성인 1일 1,200～3,000mg을 적절히 나누어 복용한다.\n\n2. 예방용량 : 이뇨제 투여환자의 경우 이 약으로서 1일 1회 600mg을 복용한다.\n\n식사직후에 복용하되 씹거나 부수어 복용하지 않도록 한다.\n\n염화칼륨으로서 보통 성인 0.5～3g을 링거액, 포도당 주사액 또는 생리식염 주사액 등에 희석해 농도를 0.3%(칼륨으로서 40 mEq) 이하로 하여 분당 8mL 이하의 속도로 4시간 이상에 걸쳐 점적 정맥주사한다. 1일량은 이 약으로서 7.5g(칼륨으로서 100 mEq) 이하로 한다.\n\n투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"(정제)\">\r\n    <ARTICLE title=\"1. 치료용량 : 염화칼륨으로서 보통 성인 1일 1,200～3,000mg을 적절히 나누어 복용한다.\" />\r\n    <ARTICLE title=\"2. 예방용량 : 이뇨제 투여환자의 경우 이 약으로서 1일 1회 600mg을 복용한다.\" />\r\n    <ARTICLE title=\"식사직후에 복용하되 씹거나 부수어 복용하지 않도록 한다.\" />\r\n  </SECTION>\r\n  <SECTION title=\"(주사제)\">\r\n    <ARTICLE title=\"염화칼륨으로서 보통 성인 0.5～3g을 링거액, 포도당 주사액 또는 생리식염 주사액 등에 희석해 농도를 0.3%(칼륨으로서 40 mEq) 이하로 하여 분당 8mL 이하의 속도로 4시간 이상에 걸쳐 점적 정맥주사한다. 1일량은 이 약으로서 7.5g(칼륨으로서 100 mEq) 이하로 한다.\" />\r\n    <ARTICLE title=\"투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "c5937c597a369ef014a0eb19edb1c8baae5d95b58b4f1c039c0d0e2207d8926e"
+}

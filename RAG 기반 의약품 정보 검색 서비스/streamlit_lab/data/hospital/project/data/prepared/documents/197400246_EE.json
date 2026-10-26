@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:197400246:EE",
+  "drug_id": "mfds:197400246",
+  "scope_type": "product",
+  "title": "마그밀정(수산화마그네슘) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197400246/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\197400246_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:55:46.410752+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 주효능 효과\n1) 다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다\n2) 변비증",
+  "content_hash": "0e05e7c59ddbd32d2fced3c9ccbf633a00044955649ee12af20d66e772139a22",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "5f9d5a043a9a9b076cde5422ea59382f11df926d936ffb2e83bd67c14e392a38",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 주효능 효과\n1) 다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다\n2) 변비증"
+        }
+      ]
+    }
+  ]
+}

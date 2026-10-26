@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197100081",
+        "ITEM_NAME": "키모랄에스정",
+        "ENTP_NAME": "(주)에이프로젠바이오로직스",
+        "ITEM_PERMIT_DATE": "19710506",
+        "CNSGN_MANUF": "한국프라임제약(주), (주)노바엠헬스케어",
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "내수용 : 연녹색의 원형 장용성 필름코팅정, 수출용 : 적색의 원형 장용성 필름코팅정\n",
+        "BAR_CODE": "8806452042603,8806452042610,8806452042627,8806452042634,8806452042641,8806518040109,8806518040116,8806518040123,8806518040130,8806518040147",
+        "MATERIAL_NAME": "총량 : 내수용 : 1 정 (291.0 밀리그램) 중|성분명 : 결정트립신|분량 : 1.0|단위 : 밀리그램|규격 : USP|성분정보 : 2,500(USP 트립신 단위)|비고 : ;총량 : 내수용 : 1 정 (291.0 밀리그램) 중|성분명 : 브로멜라인|분량 : 40.0|단위 : 밀리그램|규격 : KP|성분정보 : 20,000(브로멜라인 단위)|비고 : ;총량 : 수출용 : 1 정 (271 밀리그램) 중|성분명 : 브로멜라인|분량 : 40|단위 : 밀리그램|규격 : KP|성분정보 : 20,000(브로멜라인단위)|비고 : ;총량 : 수출용 : 1 정 (271 밀리그램) 중|성분명 : 결정트립신|분량 : 1|단위 : 밀리그램|규격 : USP|성분정보 : 2,500(USP 트립신단위)|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100081/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100081/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100081/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관 ",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "(내수용) 10정/상자(10정/PTPx1)\n(수출용) 100정/상자(10정/PTPx10)",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1386",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20210629",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2021-06-29/성상, 2021-06-29/성상변경, 2020-03-10/성상변경, 2013-07-09/제품명칭변경, 2013-07-09/저장방법 및 유효기간(사용기간)변경, 2012-07-25/저장방법 및 유효기간(사용기간)변경, 2011-04-21/성상변경, 2009-05-14/성상변경, 2008-01-10/제품명칭변경, 2007-06-11/제품명칭변경, 2007-03-21/제품명칭변경, 2006-02-17/사용상주의사항변경(부작용포함), 2005-07-23/용법용량변경, 2005-07-23/효능효과변경, 2005-07-23/효능효과변경, 1989-10-25/용법용량변경, 1989-10-25/사용상주의사항변경(부작용포함), 1989-10-25/저장방법 및 유효기간(사용기간)변경, 1986-10-23/성상변경, 1977-10-13/효능효과변경, 1975-09-12",
+        "TOTAL_CONTENT": "내수용 : 1 정 (291.0 밀리그램) 중/수출용 : 1 정 (271 밀리그램) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 유즙울체]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투여하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 혈액응고이상 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심한 간장애 또는 신장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 임부 및 임신하고 있을 가능성이 있는 여성(임신중 투여에 관한 안전성이 확립되어 있지 않으므로 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 항응고제를 투여하고 있는 환자(병용투여에 의해, 항응고제의 작용이 증강될 수 있으므로 관찰을 충분히 하고 신중히 투여한다.)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과민반응 : 발진, 발적(충혈되어 붉어짐) 등이 나타날 수 있으므로 이러한 증상이 나타나는 경우에는 투여를 중지하고 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소화기계 : 설사, 변비, 때때로 식욕부진, 배가 거북함, 구역, 구토 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈액계 : 드물게 코피, 혈액가래 등의 출혈 경향이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 기타 이 약의 복용 시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[정해진 용법·용량을 잘 지킬 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손에 닿지 않는 장소에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M051649]결정트립신|[M095415]브로멜라인|[M095415]브로멜라인|[M051649]결정트립신",
+        "INGR_NAME": "[M040450]옥수수전분|[M051756]포비돈|[M060073]미결정셀룰로오스|[M060073]미결정셀룰로오스|[M060502]적색3호|[M060512]황색5호|[M080518]저치환도히드록시프로필셀룰로오스|[M081161]크로스포비돈|[M082089]디아세틸레이티드모노글리세리드|[M205921]산화티탄|[M209359]폴리에틸렌글리콜6000|[M223367]유당수화물|[M223367]유당수화물|[M223377]히프로멜로오스프탈레이트|[M223556]스테아르산마그네슘|[M223556]스테아르산마그네슘|[M245060]콜로이드성이산화규소|[M249191]탤크|[M249191]탤크|[M270790]탭쉴드흰색(11W401)|[M281016]탭쉴드 녹색 319G726",
+        "ATC_CODE": "M09AB52",
+        "ITEM_ENG_NAME": "Kimoral-S Tab.",
+        "ENTP_ENG_NAME": "Aprogen Biologics Inc.",
+        "MAIN_INGR_ENG": "Bromelain/Crystallized Trypsin",
+        "BIZRNO": "2188100518",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "201804926",
+        "ITEM_NAME": "씨프록주(시프로플록사신)",
+        "ITEM_ENG_NAME": "Ciproc Inj.",
+        "ENTP_NAME": "(주)넥스팜코리아",
+        "ENTP_ENG_NAME": "nexpharm korea",
+        "ENTP_SEQ": "19960030",
+        "ENTP_NO": "1957",
+        "ITEM_PERMIT_DATE": "20181205",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "201804926",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06290]기타의 화학요법제",
+        "PRDUCT_PRMISN_NO": "5162",
+        "ITEM_INGR_NAME": "Ciprofloxacin",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "662504072,662504073",
+        "BIZRNO": "3018125427"
+      }
+    ]
+  }
+}

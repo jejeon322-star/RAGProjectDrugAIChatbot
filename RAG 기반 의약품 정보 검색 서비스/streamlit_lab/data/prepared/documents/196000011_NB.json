@@ -1,0 +1,284 @@
+{
+  "doc_id": "mfds:196000011:NB",
+  "drug_id": "mfds:196000011",
+  "scope_type": "product",
+  "title": "페니라민정(클로르페니라민말레산염) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000011/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000011.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20261008",
+  "collected_at": "2026-10-22T05:03:15.209881+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음과 같은 사람은 이 약을 복용하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약 또는 유사 화합물에 과민반응 병력이 있는 환자",
+          "raw_content": "1) 이 약 또는 유사 화합물에 과민반응 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 녹내장 환자(항콜린 작용에 의해 안(눈)압이 상승되어 녹내장이 악화될 수 있다)",
+          "raw_content": "2) 녹내장 환자(항콜린 작용에 의해 안(눈)압이 상승되어 녹내장이 악화될 수 있다)"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 전립선비대 등 하부요로폐색(닫혀서 막힘)성 질환 환자",
+          "raw_content": "3) 전립선비대 등 하부요로폐색(닫혀서 막힘)성 질환 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 미숙아 및 신생아",
+          "raw_content": "4) 미숙아 및 신생아"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) MAO 억제제 투여중인 환자",
+          "raw_content": "5) MAO 억제제 투여중인 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 이 약을 복용(사용)하는 동안 다음의 행위를 하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.",
+          "raw_content": "졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음과 같은 사람은 이 약을 복용(사용)하기 전에 의사, 치과의사, 약사와 상의할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 3세 미만 유아",
+          "raw_content": "1) 3세 미만 유아"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 임부 및 수유부",
+          "raw_content": "2) 임부 및 수유부"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 고령자(노인)",
+          "raw_content": "3) 고령자(노인)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 안내압(눈내부 압력)상승 환자",
+          "raw_content": "4) 안내압(눈내부 압력)상승 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 갑상샘기능항진 환자",
+          "raw_content": "5) 갑상샘기능항진 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 협착(좁아짐)성소화성궤양 또는 유문십이지장 폐색(닫혀서 막힘) 환자",
+          "raw_content": "6) 협착(좁아짐)성소화성궤양 또는 유문십이지장 폐색(닫혀서 막힘) 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 순환계질환 환자",
+          "raw_content": "7) 순환계질환 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 고혈압 등 심혈관계 질환 환자",
+          "raw_content": "8) 고혈압 등 심혈관계 질환 환자"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 기관지염, 기관지확장증 및 천식환자",
+          "raw_content": "9) 기관지염, 기관지확장증 및 천식환자"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 뇌전증 환자",
+          "raw_content": "10) 뇌전증&nbsp;환자"
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "11) 간질환 환자",
+          "raw_content": "11) 간질환 환자"
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "p",
+          "text": "12) 뇌졸중 병력이 있는 환자",
+          "raw_content": "12) 뇌졸중 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 13,
+          "kind": "p",
+          "text": "13) 중증(심한 증상) 관상동맥(심장동맥)부전 환자",
+          "raw_content": "13) 중증(심한 증상) 관상동맥(심장동맥)부전 환자"
+        },
+        {
+          "paragraph_index": 14,
+          "kind": "p",
+          "text": "14) 발작 병력을 가진 환자",
+          "raw_content": "14) 발작 병력을 가진 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한한 이 첨부문서를 소지할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등의 쇼크 현상이 나타나는 경우",
+          "raw_content": "1) 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등의 쇼크 현상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 경련, 착란 등의 이상이 나타나는 경우",
+          "raw_content": "2) 경련, 착란 등의 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 재생불량성빈혈, 무과립구증 등의 이상이 나타나는 경우",
+          "raw_content": "3) 재생불량성빈혈, 무과립구증 등의 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 발진, 햇빛 노출시 피부 과민반응, 박리(벗겨짐)성 피부염, 두드러기, 연축(뒤당김/수축), 근허약, 협조불능 등의 과민반응이 나타나는 경우",
+          "raw_content": "4) 발진, 햇빛 노출시 피부 과민반응, 박리(벗겨짐)성 피부염, 두드러기, 연축(뒤당김/수축), 근허약, 협조불능 등의 과민반응이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 진정, 졸음, 신경과민, 두통, 초조감, 복시(겹보임), 불면, 어지럼, 이명(귀울림), 전정장애(평형기능장애), 다행증(이상행복감), 정서불안, 히스테리, 진전(떨림), 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감 등의 정신신경계 이상이 나타나는 경우",
+          "raw_content": "5) 진정, 졸음, 신경과민, 두통, 초조감, 복시(겹보임), 불면, 어지럼, 이명(귀울림), 전정장애(평형기능장애), 다행증(이상행복감), 정서불안, 히스테리, 진전(떨림), 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감 등의 정신신경계 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 구갈(목마름), 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통(배아픔), 변비, 설사 등의 소화기계 이상이 나타나는 경우",
+          "raw_content": "6) 구갈(목마름), 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통(배아픔), 변비, 설사 등의 소화기계 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 빈뇨, 배뇨(소변을 눔)곤란, 요폐(소변축적), 요저류(고임) 등의 비뇨기계 이상이 나타나는 경우",
+          "raw_content": "7) 빈뇨, 배뇨(소변을 눔)곤란, 요폐(소변축적), 요저류(고임) 등의 비뇨기계 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 저혈압, 심계항진(두근거림), 빈맥(빠른맥), 부정맥, 기외수축(조기수축), 간염, 황달, 미약맥(주사제에 한함) 등의 순환기계 이상이 나타나는 경우",
+          "raw_content": "8) 저혈압, 심계항진(두근거림), 빈맥(빠른맥), 부정맥, 기외수축(조기수축), 간염, 황달, 미약맥(주사제에 한함) 등의 순환기계 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 코 또는 기도의 건조, 기관분비액의 점성화, 천명(숨을 쌕쌕거림), 코막힘 등의 호흡기계 이상이 나타나는 경우",
+          "raw_content": "9) 코 또는 기도의 건조, 기관분비액의 점성화, 천명(숨을 쌕쌕거림), 코막힘 등의 호흡기계 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 용혈성(적혈구 파괴성)빈혈, 혈소판감소 등의 혈액 이상이 나타나는 경우",
+          "raw_content": "10) 용혈성(적혈구 파괴성)빈혈, 혈소판감소 등의 혈액 이상이 나타나는 경우"
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "11) 간기능 장애가 나타나는 경우",
+          "raw_content": "11) 간기능 장애가 나타나는 경우"
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "p",
+          "text": "12) 주사부위에 일시적인 자극, 작열감(화끈감)이 나타나는 경우(주사제에 한함)",
+          "raw_content": "12) 주사부위에 일시적인 자극, 작열감(화끈감)이 나타나는 경우(주사제에 한함)"
+        },
+        {
+          "paragraph_index": 13,
+          "kind": "p",
+          "text": "13) 오한(춥고 떨리는 증상), 발한(땀이 남)이상, 흉통(가슴통증), 피로감, 월경이상 등의 이상이 나타나는 경우",
+          "raw_content": "13) 오한(춥고 떨리는 증상), 발한(땀이 남)이상, 흉통(가슴통증), 피로감, 월경이상 등의 이상이 나타나는 경우"
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 기타 이 약의 복용시 주의할 사항.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 알코올, 중추신경억제제 병용(함께 복용) 시 졸음을 유발할 수 있다.",
+          "raw_content": "1) 알코올, 중추신경억제제 병용(함께 복용) 시 졸음을 유발할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 클로르페니라민은 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.",
+          "raw_content": "2) 클로르페니라민은 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 클로르페니라민의 치사량은 체중 kg당 25 ∼ 50 mg이다. 증상으로는 진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이때에는 토근시럽을 이용해 구토를 유발시키거나 위세척을 한다.",
+          "raw_content": "3) 클로르페니라민의 치사량은 체중 kg당 25 ∼ 50 mg이다. 증상으로는 진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이때에는 토근시럽을 이용해 구토를 유발시키거나 위세척을 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관할 것.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관할 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용(잘못 사용)에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.",
+          "raw_content": "2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용(잘못 사용)에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음과 같은 사람은 이 약을 복용하지 말 것.\n\n1) 이 약 또는 유사 화합물에 과민반응 병력이 있는 환자\n\n2) 녹내장 환자(항콜린 작용에 의해 안(눈)압이 상승되어 녹내장이 악화될 수 있다)\n\n3) 전립선비대 등 하부요로폐색(닫혀서 막힘)성 질환 환자\n\n4) 미숙아 및 신생아\n\n5) MAO 억제제 투여중인 환자\n\n2. 이 약을 복용(사용)하는 동안 다음의 행위를 하지 말 것.\n\n졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.\n\n3. 다음과 같은 사람은 이 약을 복용(사용)하기 전에 의사, 치과의사, 약사와 상의할 것.\n\n1) 3세 미만 유아\n\n2) 임부 및 수유부\n\n3) 고령자(노인)\n\n4) 안내압(눈내부 압력)상승 환자\n\n5) 갑상샘기능항진 환자\n\n6) 협착(좁아짐)성소화성궤양 또는 유문십이지장 폐색(닫혀서 막힘) 환자\n\n7) 순환계질환 환자\n\n8) 고혈압 등 심혈관계 질환 환자\n\n9) 기관지염, 기관지확장증 및 천식환자\n\n10) 뇌전증 환자\n\n11) 간질환 환자\n\n12) 뇌졸중 병력이 있는 환자\n\n13) 중증(심한 증상) 관상동맥(심장동맥)부전 환자\n\n14) 발작 병력을 가진 환자\n\n4. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한한 이 첨부문서를 소지할 것.\n\n1) 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등의 쇼크 현상이 나타나는 경우\n\n2) 경련, 착란 등의 이상이 나타나는 경우\n\n3) 재생불량성빈혈, 무과립구증 등의 이상이 나타나는 경우\n\n4) 발진, 햇빛 노출시 피부 과민반응, 박리(벗겨짐)성 피부염, 두드러기, 연축(뒤당김/수축), 근허약, 협조불능 등의 과민반응이 나타나는 경우\n\n5) 진정, 졸음, 신경과민, 두통, 초조감, 복시(겹보임), 불면, 어지럼, 이명(귀울림), 전정장애(평형기능장애), 다행증(이상행복감), 정서불안, 히스테리, 진전(떨림), 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감 등의 정신신경계 이상이 나타나는 경우\n\n6) 구갈(목마름), 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통(배아픔), 변비, 설사 등의 소화기계 이상이 나타나는 경우\n\n7) 빈뇨, 배뇨(소변을 눔)곤란, 요폐(소변축적), 요저류(고임) 등의 비뇨기계 이상이 나타나는 경우\n\n8) 저혈압, 심계항진(두근거림), 빈맥(빠른맥), 부정맥, 기외수축(조기수축), 간염, 황달, 미약맥(주사제에 한함) 등의 순환기계 이상이 나타나는 경우\n\n9) 코 또는 기도의 건조, 기관분비액의 점성화, 천명(숨을 쌕쌕거림), 코막힘 등의 호흡기계 이상이 나타나는 경우\n\n10) 용혈성(적혈구 파괴성)빈혈, 혈소판감소 등의 혈액 이상이 나타나는 경우\n\n11) 간기능 장애가 나타나는 경우\n\n12) 주사부위에 일시적인 자극, 작열감(화끈감)이 나타나는 경우(주사제에 한함)\n\n13) 오한(춥고 떨리는 증상), 발한(땀이 남)이상, 흉통(가슴통증), 피로감, 월경이상 등의 이상이 나타나는 경우\n\n5. 기타 이 약의 복용시 주의할 사항.\n\n1) 알코올, 중추신경억제제 병용(함께 복용) 시 졸음을 유발할 수 있다.\n\n2) 클로르페니라민은 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.\n\n3) 클로르페니라민의 치사량은 체중 kg당 25 ∼ 50 mg이다. 증상으로는 진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이때에는 토근시럽을 이용해 구토를 유발시키거나 위세척을 한다.\n\n6. 저장상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관할 것.\n\n2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용(잘못 사용)에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 또는 유사 화합물에 과민반응 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 녹내장 환자(항콜린 작용에 의해 안(눈)압이 상승되어 녹내장이 악화될 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전립선비대 등 하부요로폐색(닫혀서 막힘)성 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 미숙아 및 신생아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) MAO 억제제 투여중인 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용(사용)하는 동안 다음의 행위를 하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람은 이 약을 복용(사용)하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 3세 미만 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 임부 및 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 고령자(노인)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 안내압(눈내부 압력)상승 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 갑상샘기능항진 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 협착(좁아짐)성소화성궤양 또는 유문십이지장 폐색(닫혀서 막힘) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 순환계질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 고혈압 등 심혈관계 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 기관지염, 기관지확장증 및 천식환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 뇌전증&nbsp;환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 간질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 뇌졸중 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[13) 중증(심한 증상) 관상동맥(심장동맥)부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[14) 발작 병력을 가진 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등의 쇼크 현상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 경련, 착란 등의 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 재생불량성빈혈, 무과립구증 등의 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 발진, 햇빛 노출시 피부 과민반응, 박리(벗겨짐)성 피부염, 두드러기, 연축(뒤당김/수축), 근허약, 협조불능 등의 과민반응이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 진정, 졸음, 신경과민, 두통, 초조감, 복시(겹보임), 불면, 어지럼, 이명(귀울림), 전정장애(평형기능장애), 다행증(이상행복감), 정서불안, 히스테리, 진전(떨림), 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감 등의 정신신경계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 구갈(목마름), 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통(배아픔), 변비, 설사 등의 소화기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 빈뇨, 배뇨(소변을 눔)곤란, 요폐(소변축적), 요저류(고임) 등의 비뇨기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 저혈압, 심계항진(두근거림), 빈맥(빠른맥), 부정맥, 기외수축(조기수축), 간염, 황달, 미약맥(주사제에 한함) 등의 순환기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 코 또는 기도의 건조, 기관분비액의 점성화, 천명(숨을 쌕쌕거림), 코막힘 등의 호흡기계 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 용혈성(적혈구 파괴성)빈혈, 혈소판감소 등의 혈액 이상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 간기능 장애가 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 주사부위에 일시적인 자극, 작열감(화끈감)이 나타나는 경우(주사제에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[13) 오한(춥고 떨리는 증상), 발한(땀이 남)이상, 흉통(가슴통증), 피로감, 월경이상 등의 이상이 나타나는 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 기타 이 약의 복용시 주의할 사항.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 알코올, 중추신경억제제 병용(함께 복용) 시 졸음을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 클로르페니라민은 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 클로르페니라민의 치사량은 체중 kg당 25 ∼ 50 mg이다. 증상으로는 진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이때에는 토근시럽을 이용해 구토를 유발시키거나 위세척을 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용(잘못 사용)에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "38b90a258e75db53c1c0ab822daaec7e0292fd7ad8364fe87e1c3d7d6c53da60"
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199900533",
+        "ITEM_NAME": "유한삐콤헥사주사(수출용)",
+        "ENTP_NAME": "(주)유한양행",
+        "ITEM_PERMIT_DATE": "19990811",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "형광이 있는 황색의 액체가 충진된 갈색 앰플",
+        "BAR_CODE": "8806421015508,8806421015515,8806421015522",
+        "MATERIAL_NAME": "총량 : 1앰플(2ml)당|성분명 : 티아민염산염|분량 : 10|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : ;총량 : 1앰플(2ml)당|성분명 : 리보플라빈포스페이트나트륨|분량 : 5.47|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : ;총량 : 1앰플(2ml)당|성분명 : 피리독신염산염|분량 : 5|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : ;총량 : 1앰플(2ml)당|성분명 : 니코틴산아미드|분량 : 40|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : ;총량 : 1앰플(2ml)당|성분명 : 덱스판테놀|분량 : 5.17|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : ;총량 : 1앰플(2ml)당|성분명 : 비오틴|분량 : 0.5|단위 : 밀리그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900533/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900533/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900533/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900533/II",
+        "STORAGE_METHOD": "냉소(15℃이하) 차광보관, 밀봉용기",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "자사포장단위",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1329",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": null,
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "",
+        "TOTAL_CONTENT": "1앰플(2ml)당",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040064]니코틴산아미드|[M050704]비오틴|[M082390]덱스판테놀|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염",
+        "INGR_NAME": "[M040220]벤질알코올|[M040534]주사용수",
+        "ATC_CODE": "A11EA",
+        "ITEM_ENG_NAME": "Yuhan Beecom Hexa Injection",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "MAIN_INGR_ENG": "Biotin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+        "BIZRNO": "1188100601",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

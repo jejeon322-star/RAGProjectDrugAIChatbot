@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199403242:EE",
+  "drug_id": "mfds:199403242",
+  "scope_type": "product",
+  "title": "맥시덱스점안액(덱사메타손) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403242/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199403242_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:02.806437+00:00",
+  "text": "[원문 1쪽]\n효능효과\n(점안액)\n결막염, 표재성 점상ㆍ대상포진성 각막염, 홍채염, 모양체염, 포도막염, 방사능열 및 화상 또는 이물 침입\n에 의한 각막손상\n(안연고)\n결막염, 안검염, 각막염, 포도막염",
+  "content_hash": "a3df4419f35be813f93850b7b203dbfa16ef33c33bf898105c696191540c9a3f",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "0cc714e30026ca80d4f28edc1e3544a345ed2e45b9a70fc0583c67c4b8d99d71",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n(점안액)\n결막염, 표재성 점상ㆍ대상포진성 각막염, 홍채염, 모양체염, 포도막염, 방사능열 및 화상 또는 이물 침입\n에 의한 각막손상\n(안연고)\n결막염, 안검염, 각막염, 포도막염"
+        }
+      ]
+    }
+  ]
+}

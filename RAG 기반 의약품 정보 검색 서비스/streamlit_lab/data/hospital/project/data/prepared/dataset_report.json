@@ -1,0 +1,19 @@
+{
+  "products": 233,
+  "warnings": [],
+  "documents": 932,
+  "chunks": 3046,
+  "table_sections_held_for_review": 75,
+  "embedding_called": false,
+  "vector_index_created": false,
+  "notes": [
+    "성분·함량은 원문 구분자로 파싱했으며 단위 환산은 하지 않았습니다.",
+    "제형·방출 특성·투여 경로는 자동 확정하지 않았습니다.",
+    "긴 절의 조건이 청크 밖에 있을 수 있어 최종 근거는 article_text와 함께 검증해야 합니다.",
+    "표를 포함한 절은 구조 검증 전 자동 답변용 검색에서 제외해야 합니다."
+  ],
+  "products_with_classification": 233,
+  "products_with_parsed_ingredients": 233,
+  "chunks_pending_context_validation": 249,
+  "official_pdf_documents": 696
+}

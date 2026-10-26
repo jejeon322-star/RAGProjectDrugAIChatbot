@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:196000001:UD",
+  "drug_id": "mfds:196000001",
+  "scope_type": "product",
+  "title": "테라싸이클린캅셀250밀리그람(염산테트라싸이클린) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000001/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000001.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20251211",
+  "collected_at": "2026-10-22T05:02:55.826677+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 성인 : 테트라사이클린염산염으로서 1일 1 g(역가)을 4회 분할 투여한다.",
+          "raw_content": "○ 성인 : 테트라사이클린염산염으로서 1일 1 g(역가)을 4회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 12세 이상의 소아 : 1일 체중 kg당 25 ～ 50 mg(역가)을 4회 분할 투여한다.",
+          "raw_content": "○ 12세 이상의 소아 : 1일 체중 kg당 25 ～ 50 mg(역가)을 4회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "성인용량을 초과해서는 안 된다. 이 약은 증세가 가라앉고 열이 내린 후에도 24 ～ 48시간은 더 투여하여야 한다. 식품, 유류, 유제품은 이 약의 흡수를 방해하므로 이 약은 식전 1시간 또는 식후 2시간에 투여하여야 한다. 연쇄구균감염증에는 류마티스열이나 사구체신염의 발현을 방지하기 위하여 적어도 10일간 투여를 계속한다.",
+          "raw_content": "성인용량을 초과해서는 안 된다. 이 약은 증세가 가라앉고 열이 내린 후에도 24 ～ 48시간은 더 투여하여야 한다. 식품, 유류, 유제품은 이 약의 흡수를 방해하므로 이 약은 식전 1시간 또는 식후 2시간에 투여하여야 한다. 연쇄구균감염증에는 류마티스열이나 사구체신염의 발현을 방지하기 위하여 적어도 10일간 투여를 계속한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "○ 성인 : 테트라사이클린염산염으로서 1일 1 g(역가)을 4회 분할 투여한다.\n\n○ 12세 이상의 소아 : 1일 체중 kg당 25 ～ 50 mg(역가)을 4회 분할 투여한다.\n\n성인용량을 초과해서는 안 된다. 이 약은 증세가 가라앉고 열이 내린 후에도 24 ～ 48시간은 더 투여하여야 한다. 식품, 유류, 유제품은 이 약의 흡수를 방해하므로 이 약은 식전 1시간 또는 식후 2시간에 투여하여야 한다. 연쇄구균감염증에는 류마티스열이나 사구체신염의 발현을 방지하기 위하여 적어도 10일간 투여를 계속한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 성인 : 테트라사이클린염산염으로서 1일 1 g(역가)을 4회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 12세 이상의 소아 : 1일 체중 kg당 25 ～ 50 mg(역가)을 4회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인용량을 초과해서는 안 된다. 이 약은 증세가 가라앉고 열이 내린 후에도 24 ～ 48시간은 더 투여하여야 한다. 식품, 유류, 유제품은 이 약의 흡수를 방해하므로 이 약은 식전 1시간 또는 식후 2시간에 투여하여야 한다. 연쇄구균감염증에는 류마티스열이나 사구체신염의 발현을 방지하기 위하여 적어도 10일간 투여를 계속한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "35926a7c4ec95338d1e054de378d6706135209dcafbe6774de15ffdb7846e5fe"
+}

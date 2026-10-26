@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199401315:UD",
+  "drug_id": "mfds:199401315",
+  "scope_type": "product",
+  "title": "오스틴암브록솔염산염정 — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199401315/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199401315_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:02.878045+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 암브록솔염산염으로서 1회 30 mg 1일 3회 복용한다. 계속 치료시 1회 30 mg 1일 2회 복용한다.\n이 약은 식사와 관계없이 복용할 수 있다.",
+  "content_hash": "aa26aefc8b43bb6f3a2966d9d661fe55391682f8fde9f3023e01ecf3958da4fd",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "478557d70adb6237ac14286cc286c4f152dd5e4edfe95efa4e7754a9b2ee1c55",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 암브록솔염산염으로서 1회 30 mg 1일 3회 복용한다. 계속 치료시 1회 30 mg 1일 2회 복용한다.\n이 약은 식사와 관계없이 복용할 수 있다."
+        }
+      ]
+    }
+  ]
+}

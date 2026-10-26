@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197200483:UD",
+  "drug_id": "mfds:197200483",
+  "scope_type": "product",
+  "title": "뇌선 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200483/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200483.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20251110",
+  "collected_at": "2026-10-22T05:27:39.565607+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 1회 1포,1일 3회를 한도로 하고 공복시를 피하여 복용한다. 복용간격은 4시간 이상으로 한다.",
+          "raw_content": "성인 1회 1포,1일 3회를 한도로 하고 공복시를 피하여 복용한다. 복용간격은 4시간 이상으로 한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 1회 1포,1일 3회를 한도로 하고 공복시를 피하여 복용한다. 복용간격은 4시간 이상으로 한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 1회 1포,1일 3회를 한도로 하고 공복시를 피하여 복용한다. 복용간격은 4시간 이상으로 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "a70869b5bfaf81b3575fac353d4d97eb60e668be6bb658769aa6989c77b64292"
+}

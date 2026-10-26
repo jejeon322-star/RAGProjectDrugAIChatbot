@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202003143",
+        "ITEM_NAME": "모사프론에스알서방정15밀리그램(모사프리드시트르산염수화물)",
+        "ENTP_NAME": "동국제약(주)",
+        "ITEM_PERMIT_DATE": "20200428",
+        "CNSGN_MANUF": "(주)대웅제약",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "분홍색의 장방형 서방성 필름코팅정제",
+        "BAR_CODE": "8806534045409,8806534045416,8806534045423",
+        "MATERIAL_NAME": "총량 : 1정342밀리그램-서방부|성분명 : 모사프리드시트르산염수화물|분량 : 11.65|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : ;총량 : 1정342밀리그램-속방부|성분명 : 모사프리드시트르산염수화물|분량 : 4.23|단위 : 밀리그램|규격 : JP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202003143/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202003143/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202003143/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,300정/병",
+        "EDI_CODE": "653404540",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1416",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20220906",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 사용(유효)기간, 2022-09-06/사용상주의사항변경(부작용포함), 2021-08-10",
+        "TOTAL_CONTENT": "1342-서방부/1342-속방부/1342",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M234050]모사프리드시트르산염수화물|[M234050]모사프리드시트르산염수화물",
+        "INGR_NAME": "[M040450]옥수수전분|[M102967]히프로멜로오스|[M102967]히프로멜로오스|[M243259]스테아르산마그네슘|[M243259]스테아르산마그네슘|[M244405]카르나우바납|[M244529]저치환도히드록시프로필셀룰로오스|[M244993]경질무수규산|[M244993]경질무수규산|[M245108]미결정셀룰로오스|[M249539]히드록시프로필셀룰로오스|[M249539]히드록시프로필셀룰로오스|[M254581]유당수화물|[M254581]유당수화물|[M278557]오파드라이 03F640045 분홍색",
+        "ATC_CODE": "A03FA09",
+        "ITEM_ENG_NAME": "Mosapron SR Tablet 15mg (Mosapride Citrate Hydrate)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Mosapride Citrate Dihydrate",
+        "BIZRNO": "3018508241",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

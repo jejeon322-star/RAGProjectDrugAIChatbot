@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:196300064",
+  "doc_id": "mfds:196300064:STORAGE",
+  "title": "부광덱사메타손정 — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "847a7d72947fa0935589f86a0cbdf77eb8a65b4d9077e748905cb730e497cfca",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\196300064.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:37.357646+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 기밀용기\n사용기간: 제조일로부터 60 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 기밀용기\n사용기간: 제조일로부터 60 개월"
+}

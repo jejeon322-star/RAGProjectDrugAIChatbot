@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200502890",
+        "ITEM_NAME": "네오덱스안연고(덱사메타손,네오마이신황산염,폴리믹신B황산염)",
+        "ENTP_NAME": "한림제약(주)",
+        "ITEM_PERMIT_DATE": "20050713",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색 또는 미황색의 안연고\r\n",
+        "BAR_CODE": "8806453000503,8806453000510,8806453000527,8806453000534",
+        "MATERIAL_NAME": "총량 : 이 약 1g 중|성분명 : 덱사메타손|분량 : 0.001|단위 : 그램|규격 : JP|성분정보 : |비고 : ;총량 : 이 약 1g 중|성분명 : 네오마이신황산염|분량 : 0.0035|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 이 약 1g 중|성분명 : 폴리믹신B황산염|분량 : 6000|단위 : 아이.유|규격 : EP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502890/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502890/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502890/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502890/II",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "5g/튜브",
+        "EDI_CODE": "645300053",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1496",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20221109",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명, 2022-11-09/사용상주의사항변경(부작용포함), 2018-07-18/효능효과변경, 2008-11-01",
+        "TOTAL_CONTENT": "이 약 1g 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040080]덱사메타손|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+        "INGR_NAME": "[M040118]정제라놀린|[M040676]유동파라핀|[M088336]백색바셀린",
+        "ATC_CODE": "S01CA01",
+        "ITEM_ENG_NAME": "Neodex Eye Ointment(Dexamethasone, Neomycin Sulfate, Polymyxin B Sulfate)",
+        "ENTP_ENG_NAME": "Hanlim Pharm. Co., Ltd",
+        "MAIN_INGR_ENG": "Dexamethasone/Neomycin Sulfate/Polymyxin B Sulfate",
+        "BIZRNO": "1358102638",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

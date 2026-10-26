@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198600114:EE",
+  "drug_id": "mfds:198600114",
+  "scope_type": "product",
+  "title": "동아가스터정20밀리그램(파모티딘) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600114/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198600114_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:02.160972+00:00",
+  "text": "[원문 1쪽]\n효능효과\n(경구)\n1. 주효능 효과\n.\n위십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 역류성\n식도염, 졸링거-엘리슨증후군,\n다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염,만성위염의 급성악화기\n(주사제)\n1. 주효능 효과\n상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 졸링거-엘리슨증후군, 마취전 투약",
+  "content_hash": "b6dbab6266051907456063c89199cfa00beb4951b290b98ef64338a4deb38c04",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "fcf3e4c3ab994848f46e4edaa7e2b1f147306a3c429342af342eb96e570a7659",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n(경구)\n1. 주효능 효과\n.\n위십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 역류성\n식도염, 졸링거-엘리슨증후군,\n다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염,만성위염의 급성악화기\n(주사제)\n1. 주효능 효과\n상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 졸링거-엘리슨증후군, 마취전 투약"
+        }
+      ]
+    }
+  ]
+}

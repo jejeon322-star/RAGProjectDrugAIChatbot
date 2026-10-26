@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:196000011",
+  "doc_id": "mfds:196000011:STORAGE",
+  "title": "페니라민정(클로르페니라민말레산염) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "92f07ced5d955f073c1e20fad691182f996b872e9fb9d025adda08a01be74a4e",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000011.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:03:15.209881+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 실온, 건소, 밀폐용기,\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 실온, 건소, 밀폐용기,\n사용기간: 제조일로부터 36 개월"
+}

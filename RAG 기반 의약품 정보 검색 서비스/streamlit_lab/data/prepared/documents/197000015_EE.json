@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:197000015:EE",
+  "drug_id": "mfds:197000015",
+  "scope_type": "product",
+  "title": "에스.디1-3주 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000015/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000015.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210906",
+  "collected_at": "2026-10-22T05:16:32.384920+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급",
+          "raw_content": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "○ 에너지 보급",
+          "raw_content": "○ 에너지 보급"
+        }
+      ]
+    }
+  ],
+  "text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급\n\n○ 에너지 보급",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 에너지 보급]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "e64b1abcadd57086d190856f038a7a2b15c45aa461c161f9fc632eb32419c230"
+}

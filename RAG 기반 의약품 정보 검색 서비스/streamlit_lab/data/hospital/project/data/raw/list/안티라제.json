@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200502066",
+        "ITEM_NAME": "안티라제정(수출명: Strikase)",
+        "ITEM_ENG_NAME": "Antirase Tab.",
+        "ENTP_NAME": "(주)한국비엠아이",
+        "ENTP_ENG_NAME": "BMI KOREA",
+        "ENTP_SEQ": "19600009",
+        "ENTP_NO": "1395",
+        "ITEM_PERMIT_DATE": "20050826",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200502066",
+        "SPCLTY_PBLC": "일반의약품",
+        "PRDUCT_TYPE": "[03950]효소제제",
+        "PRDUCT_PRMISN_NO": "5010",
+        "ITEM_INGR_NAME": "Bromelain/Crystallized Trypsin",
+        "ITEM_INGR_CNT": "2",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1Pvn3im1gDg",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": null,
+        "BIZRNO": "1248636434"
+      }
+    ]
+  }
+}

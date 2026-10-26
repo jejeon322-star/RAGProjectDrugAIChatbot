@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202302911",
+        "ITEM_NAME": "토베손점안액(토브라마이신,덱사메타손)(수출용)",
+        "ENTP_NAME": "대우제약(주)",
+        "ITEM_PERMIT_DATE": "20231013",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "투명 플라스틱 용기에 든 흰색의 현탁성 점안액",
+        "BAR_CODE": "8806496063107,8806496063114,8806496063121",
+        "MATERIAL_NAME": "총량 : 1밀리리터|성분명 : 토브라마이신|분량 : 3.0|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : 역가;총량 : 1밀리리터|성분명 : 덱사메타손|분량 : 1.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : 미분화",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202302911/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202302911/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202302911/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202302911/II",
+        "STORAGE_METHOD": "기밀용기, 실온보관(1~30℃)",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "5밀리리터/병,6밀리리터/병",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1526",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": null,
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "",
+        "TOTAL_CONTENT": "1",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M020144]토브라마이신|[M040080]덱사메타손",
+        "INGR_NAME": "[M040426]염화나트륨|[M040534]주사용수|[M051960]황산|[M070004]수산화나트륨|[M081804]티록사폴|[M204043]포비돈K25|[M223048]벤잘코늄염화물|[M257776]무수황산나트륨|[M259428]에데트산나트륨수화물",
+        "ATC_CODE": "S01CA01",
+        "ITEM_ENG_NAME": "Tobeson Eye drops",
+        "ENTP_ENG_NAME": "daewoopharm",
+        "MAIN_INGR_ENG": "Dexamethasone/Tobramycin",
+        "BIZRNO": "6038109769",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

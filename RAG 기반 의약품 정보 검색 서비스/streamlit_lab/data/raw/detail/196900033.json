@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196900033",
+        "ITEM_NAME": "대한아트로핀황산염주사액",
+        "ENTP_NAME": "대한약품공업(주)",
+        "ITEM_PERMIT_DATE": "19690528",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색투명한 액을 앰플에 충진한 것",
+        "BAR_CODE": "8806451011105,8806451011112,8806451011129,8806451011136,8806451011143,8806451011204,8806451011211,8806451011228",
+        "MATERIAL_NAME": "총량 : 1밀리리터 중|성분명 : 아트로핀황산염수화물|분량 : 0.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900033/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900033/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900033/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광밀봉용기, 실온(1-30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "50앰플/상자[(1mL/앰플x50)]",
+        "EDI_CODE": "645101113",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1303",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20150327",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "용법용량변경, 2015-03-27/저장방법 및 유효기간(사용기간)변경, 2014-07-15/제품명칭변경, 2011-03-14/사용상주의사항변경(부작용포함), 1998-01-01/용법용량변경, 1998-01-01/효능효과변경, 1998-01-01/효능효과변경, 1988-08-22/저장방법 및 유효기간(사용기간)변경, 1985-07-02/사용상주의사항변경(부작용포함), 1981-05-01/저장방법 및 유효기간(사용기간)변경, 1981-05-01/용법용량변경, 1981-05-01/효능효과변경, 1981-05-01/성상변경, 1981-05-01",
+        "TOTAL_CONTENT": "1밀리리터 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[위장관의 경련성 동통, 담관·요관의 산통, 경련성 변비, 위ㆍ십이지장궤양에서의 분비 및 운동 항진, 방실전도장애, 미주신경성 서맥, 마취전투약, 유기인 살충제ㆍ부교감신경흥분제 중독]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"○ 성인\" />\r\n    <ARTICLE title=\"1. 아트로핀황산염수화물로서 1회 0.5㎎을 피하 또는 근육주사한다. 경우에 따라 정맥주사할 수 있다.\" />\r\n    <ARTICLE title=\"2. 유기인 살충제 중독\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 경증 : 아트로핀황산염수화물로서 0.5-1㎎을 피하주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 중등증 : 이 약으로서 1-2㎎을 피하 또는 근육주사하고 필요시 20-30분 간격으로 반복주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중증 : 이 약으로서 2-4㎎을 정맥주사하고 증상에 따라 아트로핀의 포화 징후가 나타날 때까지 반복주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1.&amp;nbsp;경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 전립선비대에 의한 배뇨장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 마비성 장폐쇄 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약에 과민증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 천식 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 전립선비대 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 울혈성 심부전 등 중증의 심질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 궤양성 대장염 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 갑상선기능항진증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고온 환경에 있는 자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 40세 이상의 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 눈 : 동공확대, 조절장애, 녹내장, 시야몽롱 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 정신신경계 : 두통, 두중, 기명(記銘)장애, 어지러움 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소화기계 : 구갈, 구역, 구토, 삼킴곤란, 변비 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 호흡&#x2022;순환기계 : 심계항진, 호흡장애 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 과민증 : 발진 등이 나타나는 경우에는 투여를 중지한다. 쇽, 아나필락시양 증상이 나 타날 수 있으므로, 관찰을 충분히 하고, 빈맥, 전신홍조, 발한, 안면부종 등이 나타 나는 경우에는 투여를 중지하고, 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 비뇨기계 : 배뇨장애가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 기타 : 안면홍조가 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[시조절장애, 동공확대 등이 나타날 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험이 수반되는 기계 조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 페노치아진계 약물, 삼환계 항우울약, 항히스타민제, 이소니아지드 등 항콜린 작용을 가지는 약물과 병용시 이 약의 작용이 증강될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO 저해제와 병용시 항콜린 작용이 증강될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 강심배당체(디기톡신 등)와 병용시 강심배당체의 독성이 증강될 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 합성콜린에스테르, 항콜린에스테라제, 콜린양 작용의 알칼로이드와 이 약은 길항한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 태아에 빈맥 등이 나타날 수 있으므로 임부 또는 임신하고 있을 가능성이 있는 부인에 는 투여하지 않는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 신생아에 빈맥 등이 나타날 수 있으므로 수유중의 부인에는 투여하지 않는 것이 바람 직하다. 또한 유즙분비가 억제될 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아에 대한 안전성이 확립되어 있지 않다(사용경험이 없다.).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자에는 항콜린 작용에 의한 녹내장, 기명장애, 구갈, 배뇨곤란, 변비 등이 나타나기 쉬우므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[피하&#x2022;근육주사시 동물실험(토끼)에서 충혈, 출혈, 변성 등의 국소장애가 나타났으므로 피 하 또는 근육주사시 조직&#x2022;신경 등에 영향을 주지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223111]아트로핀황산염수화물",
+        "INGR_NAME": "[M040426]염화나트륨|[M040534]주사용수",
+        "ATC_CODE": "A03BA01",
+        "ITEM_ENG_NAME": "Dai Han Atropine Sulfate Injection",
+        "ENTP_ENG_NAME": "DAI HAN PHARM CO., LTD.",
+        "MAIN_INGR_ENG": "Atropine Sulfate Hydrate",
+        "BIZRNO": "1348500111",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

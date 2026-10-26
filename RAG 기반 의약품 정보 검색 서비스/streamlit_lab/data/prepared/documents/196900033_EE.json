@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:196900033:EE",
+  "drug_id": "mfds:196900033",
+  "scope_type": "product",
+  "title": "대한아트로핀황산염주사액 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900033/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900033.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20150327",
+  "collected_at": "2026-10-22T05:16:28.068776+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "위장관의 경련성 동통, 담관·요관의 산통, 경련성 변비, 위ㆍ십이지장궤양에서의 분비 및 운동 항진, 방실전도장애, 미주신경성 서맥, 마취전투약, 유기인 살충제ㆍ부교감신경흥분제 중독",
+          "raw_content": "위장관의 경련성 동통, 담관·요관의 산통, 경련성 변비, 위ㆍ십이지장궤양에서의 분비 및 운동 항진, 방실전도장애, 미주신경성 서맥, 마취전투약, 유기인 살충제ㆍ부교감신경흥분제 중독"
+        }
+      ]
+    }
+  ],
+  "text": "위장관의 경련성 동통, 담관·요관의 산통, 경련성 변비, 위ㆍ십이지장궤양에서의 분비 및 운동 항진, 방실전도장애, 미주신경성 서맥, 마취전투약, 유기인 살충제ㆍ부교감신경흥분제 중독",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[위장관의 경련성 동통, 담관·요관의 산통, 경련성 변비, 위ㆍ십이지장궤양에서의 분비 및 운동 항진, 방실전도장애, 미주신경성 서맥, 마취전투약, 유기인 살충제ㆍ부교감신경흥분제 중독]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "f085f3824c1da9a2099d5a6a030034498b340ce59be7334dc34645e8876c8422"
+}

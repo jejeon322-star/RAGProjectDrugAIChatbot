@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197000040",
+        "ITEM_NAME": "대웅우루사연질캡슐",
+        "ENTP_NAME": "(주)대웅제약",
+        "ITEM_PERMIT_DATE": "19700514",
+        "CNSGN_MANUF": "코스맥스파마(주)",
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "이 약은 전면:황록색, 후면:암록색의 장방형연질캅셀제로서 내용물은 황색이다.",
+        "BAR_CODE": "8806416008409,8806416008416,8806416008423,8806416008430,8806416008447,8806416008454,8806416008461,8806416008478,8806416008485,8806416008492,8806416026915,8806416026922,8806416026939,8806416026946,8806416026953,8806416026960,8806416026977,8806416026984,8806416026991",
+        "MATERIAL_NAME": "총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제1법]내수용1,[제2법]내수용2|성분명 : 우르소데옥시콜산|분량 : 50|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제1법]내수용1,[제2법]내수용2|성분명 : 티아민질산염|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제1법]내수용1,[제2법]내수용2|성분명 : 리보플라빈|분량 : 5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용1|성분명 : 우르소데옥시콜산|분량 : 50|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용1|성분명 : 티아민질산염|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용1|성분명 : 리보플라빈|분량 : 5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용2|성분명 : 우르소데옥시콜산|분량 : 50|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용2|성분명 : 티아민질산염|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용2|성분명 : 리보플라빈|분량 : 5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000040/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000040/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000040/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000040/II",
+        "STORAGE_METHOD": "밀폐용기",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "병포장 - 30캡슐/병,병포장 - 120캡슐/병,병포장 - 330캡슐/병,병포장 - 360캡슐/상자[((30캡슐/병)+(330캡슐/병))],PTP포장 - 10캡슐/상자[(10캡슐/PTP)],PTP포장 - 60캡슐/상자[((10캡슐/PTP)x6)],PTP포장 - 200캡슐/세트[((10캡슐/PTP)x20)],PTP포장 - 360캡슐/상자[((60캡슐/상자)x6)]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1289",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20231208",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2023-12-08/사용상주의사항변경(부작용포함), 2019-08-01/사용상주의사항변경(부작용포함), 2018-12-11/사용상주의사항변경(부작용포함), 2017-09-16/용법용량변경, 2017-09-16/효능효과변경, 2017-09-16/사용상주의사항변경(부작용포함), 2012-06-09/제품명칭변경, 2010-01-19/제품명칭변경, 2009-11-17/제품명칭변경, 2009-01-09/제품명칭변경, 2006-05-30/제품명칭변경, 2006-05-29/사용상주의사항변경(부작용포함), 2004-05-13/용법용량변경, 2004-05-13/저장방법 및 유효기간(사용기간)변경, 1999-02-11/용법용량변경, 1991-10-11/사용상주의사항변경(부작용포함), 1990-09-22/사용상주의사항변경(부작용포함), 1989-10-12/효능효과변경, 1989-10-12/사용상주의사항변경(부작용포함), 1988-01-01/용법용량변경, 1988-01-01/효능효과변경, 1988-01-01/성상변경, 1987-03-16/효능효과변경, 1986-03-31/용법용량변경, 1986-03-31/사용상주의사항변경(부작용포함), 1986-03-31/저장방법 및 유효기간(사용기간)변경, 1984-03-19/제품명칭변경, 1981-02-16/용법용량변경, 1979-07-20/성상변경, 1977-04-15/저장방법 및 유효기간(사용기간)변경, 1970-05-14",
+        "TOTAL_CONTENT": "1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제1법]내수용1,[제2법]내수용2/1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용1/1. 내수용 - 1캡슐 (480mg) 중, 2. 수출용1 - 1캡슐(820mg) 중, 3. 수출용2 - 1캡슐 (595mg)-[제3법]수출용2",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 만성 간질환의 간기능 개선]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 간기능 장애에 의한 다음 증상의 개선 : 육체피로, 전신권태]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(캡슐제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1캡슐, 1일 3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(정제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1정, 1일 3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(겔제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1포, 1일 3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(액제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1병, 1일 3회 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 심한 담도 폐쇄 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 전격성 간염 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약 또는 이 약의 구성성분에 과민반응이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 소아(동물실험에서 태자독성이 보고되어 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 크론병과 같은 대장 및 소장염 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 방사선비투과성 석회화된 담석 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 비기능성 담낭(쓸개)환자, 급성 담낭(쓸개)염 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 신질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 소화성궤양(급성 위ㆍ십이지장 궤양) 환자(점막자극작용이 있으므로, 증상을 악화시킬 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11)대두유에&nbsp; 과민하거나 알레르기 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12)콩 또는 땅콩에 과민증이 있는 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 다음 의약품의 작용이 증강될 위험성이 있다 : 경구용 당뇨병용제(톨부타미드)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 다음의 약물은 이 약의 흡수를 방해한다 : 콜레스티라민, 콜레스티폴, 약용탄, 마그네슘 및 수산화알루미늄을 함유하는 제산제]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간에서 콜레스테롤 분비를 증가시키는 약물(예 : 에스트로겐 함유 경구용 피임제, 클로피브레이트와 같이&nbsp;지질감소약물): 콜레스테롤성 담석형성을 촉진하기 때문에 이 약의 작용을 약화시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 간에 손상을 주는 약물과 병용(함께 복용(사용))을 피한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 심한 췌장(이자)질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 담석증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3)고지단백혈증, 당뇨병성고지질혈증 및 췌장염 등 지방대사 이상 환자 또는 지질성 유제를 신중히 투여해야 하는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4)이 약은 황색4호(타르트라진), 황색5호(선셋옐로우 FCF, Sunset Yellow FCF)를 함유하고 있으므로 이성분에 과민하거나 알레르기 병령이 있는 환자에는 신중히 투여하십시오.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한 한 이 첨부 문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 설사, 구역, 구토, 배 아픔, 변비, 가슴앓이, 위부불쾌감 등의 증상이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 과민반응 : 가려움, 발진 등이 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 기타 : 전신권태감, 어지럼, 담석의 석회화, 간효소치의 증가(ALT, ALP, AST, γ-GT), 백혈구 감소가 나타나는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 간질성 폐렴 : 발열, 기침, 호흡곤란, 흉부 X선 이상을 동반한 간질성 폐렴이 나타나는 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 기타 이 약의 복용 시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 복용으로 이상반응이 나타나는 경우에는 투여를 중지하고 의사, 치과의사, 약사와 상의할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3)지방과부하로 특별한 위험이 예상되는 환자에게 이 약을 투여할 때 혈장지질치를 점검할 것을 권장한다. 이 점검을 통해 지방의 체외배설이 불충분하다고 판단될 경우에는 이 약의 투여를 적절히 조절한다. 환자가 다른 정주용 지질제를 동시에 투여받고 있다면 이 약 중의 부형제로 혼재되어 있는 지질의 양을 고려하여 그 지질제의 투여량을 감소해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품의 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040133]리보플라빈|[M223262]티아민질산염|[M223167]우르소데옥시콜산|[M040133]리보플라빈|[M223262]티아민질산염|[M223167]우르소데옥시콜산|[M040133]리보플라빈|[M223262]티아민질산염|[M223167]우르소데옥시콜산",
+        "INGR_NAME": "[M040044]농글리세린|[M040044]농글리세린|[M040044]농글리세린|[M040531]젤라틴|[M040531]젤라틴|[M040531]젤라틴|[M040600]콩기름|[M040600]콩기름|[M040600]콩기름|[M040791]황납|[M040791]황납|[M040791]황납|[M060511]황색4호|[M060511]황색4호|[M060511]황색4호|[M060512]황색5호|[M060512]황색5호|[M060512]황색5호|[M060515]청색1호|[M060515]청색1호|[M060515]청색1호|[M080233]에칠바닐린|[M080233]에칠바닐린|[M080233]에칠바닐린|[M085046]프로필파라벤|[M085046]프로필파라벤|[M205921]산화티탄|[M205921]산화티탄|[M205921]산화티탄|[M255158]메틸파라벤|[M255158]메틸파라벤",
+        "ATC_CODE": "A05AA",
+        "ITEM_ENG_NAME": "URSA Soft Cap DaeWoong",
+        "ENTP_ENG_NAME": "Daewoong Pharmaceuticals",
+        "MAIN_INGR_ENG": "Riboflavin/Thiamine Nitrate/Ursodeoxycholic Acid",
+        "BIZRNO": "1248601143",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

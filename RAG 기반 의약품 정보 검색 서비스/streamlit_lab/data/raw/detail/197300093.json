@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197300093",
+        "ITEM_NAME": "제일 멸균주사용수",
+        "ENTP_NAME": "(주)제일제약",
+        "ITEM_PERMIT_DATE": "19731229",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색투명한 액이 무색투명한 주사제용 유리용기 또는 플라스틱제(폴리프로필렌제 또는 폴리에칠렌제) 수성주사제 용기에 든 액체",
+        "BAR_CODE": "8806505007900,8806505007917,8806505007924,8806505007931,8806505007948,8806505008105,8806505008112,8806505008129,8806505008136,8806505008143,8806505014502,8806505014519,8806505014526",
+        "MATERIAL_NAME": "총량 : 1mL 중|성분명 : 주사용수|분량 : 1|단위 : 밀리리터|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300093/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300093/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300093/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300093/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1∼30℃)보관,",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "50앰플/상자(5밀리리터/앰플*50), 50앰플/상자(10밀리리터/앰플*50), 50앰플/상자(20밀리리터/앰플*50), 50플라스틱제 수성주사제 용기/상자(20밀리리터/플라스틱제 수성주사제 용기*50)",
+        "EDI_CODE": "650500813",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1333",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20211207",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상, 2021-12-07/제품명칭변경, 2008-04-10/저장방법 및 유효기간(사용기간)변경, 2008-04-10/저장방법 및 유효기간(사용기간)변경, 1986-01-22",
+        "TOTAL_CONTENT": "1mL 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[각종 주사제의 용제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[용해제로 적량을 사용한다]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1.경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것. (앰플주사제)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 본품 자체를 주사하지 말것.\" />\r\n    <ARTICLE title=\"3. 확대하지 않고 쉽게 알아볼 수 있는 혼탁물이나 불용성 물질이 있으면 사용하지 말 것.\" />\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040534]주사용수",
+        "INGR_NAME": null,
+        "ATC_CODE": "V07AB",
+        "ITEM_ENG_NAME": "Water for Injection Jeil",
+        "ENTP_ENG_NAME": "Jeil Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Water For Injection",
+        "BIZRNO": "5148126323",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

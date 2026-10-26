@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:195700015:EE",
+  "drug_id": "mfds:195700015",
+  "scope_type": "product",
+  "title": "안나카주사액20%(제일벤조산나트륨카페인주)(수출용) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700015/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700015.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20180917",
+  "collected_at": "2026-10-22T05:00:19.422556+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 척추천자에 의한 두통",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 알코올 또는 모르핀 중독에 의한 호흡억제시 호흡흥분 보조제",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 척추천자에 의한 두통\n\n2. 알코올 또는 모르핀 중독에 의한 호흡억제시 호흡흥분 보조제",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 척추천자에 의한 두통\" />\r\n    <ARTICLE title=\"2. 알코올 또는 모르핀 중독에 의한 호흡억제시 호흡흥분 보조제\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "5ffddea0ea3ed49148243cdbec86daceba10d8c09fd597fe936df5b3e8f381a0"
+}

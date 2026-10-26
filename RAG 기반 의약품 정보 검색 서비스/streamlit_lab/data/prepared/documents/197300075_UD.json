@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:197300075:UD",
+  "drug_id": "mfds:197300075",
+  "scope_type": "product",
+  "title": "성광관장약 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300075/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300075.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20200618",
+  "collected_at": "2026-10-22T05:28:40.312741+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 농글리세린으로서 1회 15g(30ml)을 항문내 주입한다.",
+          "raw_content": "성인 : 농글리세린으로서 1회 15g(30ml)을 항문내 주입한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소아 : 6-11세 1회 10g(20ml), 1-5세 1회 5g(10ml),",
+          "raw_content": "소아 : 6-11세 1회 10g(20ml), 1-5세 1회 5g(10ml),"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1세 미만 1회 2.5g(5ml)을 항문내 주입한다.",
+          "raw_content": "1세 미만 1회 2.5g(5ml)을 항문내 주입한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 농글리세린으로서 1회 15g(30ml)을 항문내 주입한다.\n\n소아 : 6-11세 1회 10g(20ml), 1-5세 1회 5g(10ml),\n\n1세 미만 1회 2.5g(5ml)을 항문내 주입한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 : 농글리세린으로서 1회 15g(30ml)을 항문내 주입한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[소아 : 6-11세 1회 10g(20ml), 1-5세 1회 5g(10ml),]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[1세 미만 1회 2.5g(5ml)을 항문내 주입한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "6477dcbe77b9ea66fedd717452cd9b20c655ec976b8218f28fa73e3e35f660fe"
+}

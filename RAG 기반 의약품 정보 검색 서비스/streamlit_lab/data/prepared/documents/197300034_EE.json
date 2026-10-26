@@ -1,0 +1,74 @@
+{
+  "doc_id": "mfds:197300034:EE",
+  "drug_id": "mfds:197300034",
+  "scope_type": "product",
+  "title": "중외헤파린주(헤파린나트륨) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300034/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300034.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20221221",
+  "collected_at": "2026-10-22T05:28:13.816880+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 혈전증의 예방",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 수술 후 혈전증 및 폐색전증의 예방 및 치료",
+      "paragraphs": []
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 색전성 심방세동의 예방 및 치료",
+      "paragraphs": []
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 급성 및 만성 응고이상증의 진단 및 치료",
+      "paragraphs": []
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 혈관 및 심장수술시 혈액응고 예방",
+      "paragraphs": []
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 뇌일혈로 인한 뇌혈전증의 예방",
+      "paragraphs": []
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 기타",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 수혈, 체외순환, 투석 시 또는 실험실에서의 혈액응고 방지",
+          "raw_content": "1) 수혈, 체외순환, 투석 시 또는 실험실에서의 혈액응고 방지"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 관상동맥폐색증(급성 심근경색 수반시)",
+          "raw_content": "2) 관상동맥폐색증(급성 심근경색 수반시)"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 말초혈관색전증",
+          "raw_content": "3) 말초혈관색전증"
+        }
+      ]
+    }
+  ],
+  "text": "1. 혈전증의 예방\n\n2. 수술 후 혈전증 및 폐색전증의 예방 및 치료\n\n3. 색전성 심방세동의 예방 및 치료\n\n4. 급성 및 만성 응고이상증의 진단 및 치료\n\n5. 혈관 및 심장수술시 혈액응고 예방\n\n6. 뇌일혈로 인한 뇌혈전증의 예방\n\n7. 기타\n\n1) 수혈, 체외순환, 투석 시 또는 실험실에서의 혈액응고 방지\n\n2) 관상동맥폐색증(급성 심근경색 수반시)\n\n3) 말초혈관색전증",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 혈전증의 예방\" />\r\n    <ARTICLE title=\"2. 수술 후 혈전증 및 폐색전증의 예방 및 치료\" />\r\n    <ARTICLE title=\"3. 색전성 심방세동의 예방 및 치료\" />\r\n    <ARTICLE title=\"4. 급성 및 만성 응고이상증의 진단 및 치료\" />\r\n    <ARTICLE title=\"5. 혈관 및 심장수술시 혈액응고 예방\" />\r\n    <ARTICLE title=\"6. 뇌일혈로 인한 뇌혈전증의 예방\" />\r\n    <ARTICLE title=\"7. 기타\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 수혈, 체외순환, 투석 시 또는 실험실에서의 혈액응고 방지]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 관상동맥폐색증(급성 심근경색 수반시)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 말초혈관색전증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "b4014ebf19b3de6332cffacdc83c3ddc3f23fb42d65a363bbf52c08175df463b"
+}

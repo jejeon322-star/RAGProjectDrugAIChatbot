@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202104003:UD",
+  "drug_id": "mfds:202104003",
+  "scope_type": "product",
+  "title": "펠루비에스정(펠루비프로펜트로메타민) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104003/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202104003_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:46.373382+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 1회 1정(펠루비프로펜으로서 25mg), 1일 3회 식후 경구 투여한다.",
+  "content_hash": "ca431043a0c29826a0e5c1a0e35cf8e03c513a4c578552ccc51a03616561ddc4",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "690b5a2f8cf5c1b346c5f6fcc6a551c8d7278d73977eedb675a7cb464fb69b3c",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 1회 1정(펠루비프로펜으로서 25mg), 1일 3회 식후 경구 투여한다."
+        }
+      ]
+    }
+  ]
+}

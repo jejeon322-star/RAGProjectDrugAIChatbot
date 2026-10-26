@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:196700061:EE",
+  "drug_id": "mfds:196700061",
+  "scope_type": "product",
+  "title": "에어신신파스 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700061/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196700061.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20221022",
+  "collected_at": "2026-10-22T05:14:04.846457+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스 통증, 피부가려움, 벌레물린데, 동창(언 상처)",
+          "raw_content": "다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스 통증, 피부가려움, 벌레물린데, 동창(언 상처)"
+        }
+      ]
+    }
+  ],
+  "text": "다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스 통증, 피부가려움, 벌레물린데, 동창(언 상처)",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스 통증, 피부가려움, 벌레물린데, 동창(언 상처)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "8fb358187a9b5f91fb1e7b8af203b9b3e5b4f3477ff2e144646749385ea335a7"
+}

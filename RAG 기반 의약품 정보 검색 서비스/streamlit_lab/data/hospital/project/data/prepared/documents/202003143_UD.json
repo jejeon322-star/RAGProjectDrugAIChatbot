@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202003143:UD",
+  "drug_id": "mfds:202003143",
+  "scope_type": "product",
+  "title": "모사프론에스알서방정15밀리그램(모사프리드시트르산염수화물) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003143/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202003143_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:35.504300+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인: 모사프리드시트르산염무수물로서 1일 15 mg을 1일 1회 경구투여한다.\n이 약은 식사를 피하여 공복 상태에서 복용한다.(사용상의 주의사항 중 ‘3. 일반적 주의 항 2)항’ 참조)\n이 약은 서방성 제제이므로 부수거나, 분쇄하거나 또는 씹어서 복용해서는 안되며, 정제 전체를 삼켜서 복용\n한다.",
+  "content_hash": "75fc8bf1371ef2e742cc247e0af7a09ab927e425319a06361cbba2f5bc932ca7",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "def6557a6b198b4edacd0376b4beaf983c98a58ac9d5ca3a54c1e80e99ba81e8",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인: 모사프리드시트르산염무수물로서 1일 15 mg을 1일 1회 경구투여한다.\n이 약은 식사를 피하여 공복 상태에서 복용한다.(사용상의 주의사항 중 ‘3. 일반적 주의 항 2)항’ 참조)\n이 약은 서방성 제제이므로 부수거나, 분쇄하거나 또는 씹어서 복용해서는 안되며, 정제 전체를 삼켜서 복용\n한다."
+        }
+      ]
+    }
+  ]
+}

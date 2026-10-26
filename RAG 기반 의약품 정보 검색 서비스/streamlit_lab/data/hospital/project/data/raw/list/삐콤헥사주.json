@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "198700423",
+        "ITEM_NAME": "삐콤헥사주(수출명:에너비트주)",
+        "ITEM_ENG_NAME": "Beecom Hexa Injection",
+        "ENTP_NAME": "(주)유한양행",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "ENTP_SEQ": "19560004",
+        "ENTP_NO": "1329",
+        "ITEM_PERMIT_DATE": "19870218",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "198700423",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[03120]비타민 B1제",
+        "PRDUCT_PRMISN_NO": "754",
+        "ITEM_INGR_NAME": "Cyanocobalamin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+        "ITEM_INGR_CNT": "6",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "642100710",
+        "BIZRNO": "1188100601"
+      },
+      {
+        "ITEM_SEQ": "199900533",
+        "ITEM_NAME": "유한삐콤헥사주사(수출용)",
+        "ITEM_ENG_NAME": "Yuhan Beecom Hexa Injection",
+        "ENTP_NAME": "(주)유한양행",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "ENTP_SEQ": "19560004",
+        "ENTP_NO": "1329",
+        "ITEM_PERMIT_DATE": "19990811",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199900533",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[03120]비타민 B1제",
+        "PRDUCT_PRMISN_NO": "744",
+        "ITEM_INGR_NAME": "Biotin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+        "ITEM_INGR_CNT": "6",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": null,
+        "BIZRNO": "1188100601"
+      }
+    ]
+  }
+}

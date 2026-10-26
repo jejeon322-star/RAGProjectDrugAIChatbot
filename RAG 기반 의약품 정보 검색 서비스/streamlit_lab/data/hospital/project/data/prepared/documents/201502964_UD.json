@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201502964:UD",
+  "drug_id": "mfds:201502964",
+  "scope_type": "product",
+  "title": "뮤코로솔정(암브록솔염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502964/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201502964_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:20.280148+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 암브록솔염산염으로서 1회 30 mg 1일 3회 경구투여한다. 계속 치료시 1회 30 mg 1일 2회 투여한\n다.\n이 약은 식사와 관계없이 복용할 수 있다.\n연령, 증상에 따라 적절히 증감한다.",
+  "content_hash": "350cec8c087e895d489acd1d2b3b94f322412223fea2704a65ba45b2580b456d",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "7c3224af732b78aec7b6f844b3e636b2b0ad94887ae405a347837d76d6986d7d",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 암브록솔염산염으로서 1회 30 mg 1일 3회 경구투여한다. 계속 치료시 1회 30 mg 1일 2회 투여한\n다.\n이 약은 식사와 관계없이 복용할 수 있다.\n연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "doc_id": "mfds:196200032:UD",
+  "drug_id": "mfds:196200032",
+  "scope_type": "product",
+  "title": "유한짓정100mg(이소니아지드)(군납명:이소니아지드정케이.피100밀리그람) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196200032/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196200032.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260109",
+  "collected_at": "2026-10-22T05:03:42.840555+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 치료목적",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 성인 : 이소니아지드로서 1일 200∼400 mg(4∼8 mg/kg)을 1회 매일 경구투여하고 필요할 경우, 수회 분할 투여한다. 주 2회 간헐 투여 시는 1회 600∼800 mg을 투여한다.",
+          "raw_content": "1) 성인 : 이소니아지드로서 1일 200∼400 mg(4∼8 mg/kg)을 1회 매일 경구투여하고 필요할 경우, 수회 분할 투여한다. 주 2회 간헐 투여 시는 1회 600∼800 mg을 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소아 : 이 약으로서 1일 체중 kg당 10∼15 mg(1일 최대 300 mg)을 1회 매일 투여하고 필요할 경우, 수회 분할 투여한다.",
+          "raw_content": "2) 소아 : 이 약으로서 1일 체중 kg당 10∼15 mg(1일 최대 300 mg)을 1회 매일 투여하고 필요할 경우, 수회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "원칙적으로 다른 항결핵제와 병용투여한다.",
+          "raw_content": "원칙적으로 다른 항결핵제와 병용투여한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 예방목적",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 성인 : 이 약으로서 1일 300 mg을 1회 투여하고 필요할 경우, 수회 분할 투여한다.",
+          "raw_content": "1) 성인 : 이 약으로서 1일 300 mg을 1회 투여하고 필요할 경우, 수회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소아 : 이 약으로서 1일 체중 kg당 10 mg(1일 최대 300 mg)을 1회 투여하고 필요할 경우, 수회 분할 투여한다.",
+          "raw_content": "2) 소아 : 이 약으로서 1일 체중 kg당 10 mg(1일 최대 300 mg)을 1회 투여하고 필요할 경우, 수회 분할 투여한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 치료목적\n\n1) 성인 : 이소니아지드로서 1일 200∼400 mg(4∼8 mg/kg)을 1회 매일 경구투여하고 필요할 경우, 수회 분할 투여한다. 주 2회 간헐 투여 시는 1회 600∼800 mg을 투여한다.\n\n2) 소아 : 이 약으로서 1일 체중 kg당 10∼15 mg(1일 최대 300 mg)을 1회 매일 투여하고 필요할 경우, 수회 분할 투여한다.\n\n원칙적으로 다른 항결핵제와 병용투여한다.\n\n연령, 증상에 따라 적절히 증감한다.\n\n2. 예방목적\n\n1) 성인 : 이 약으로서 1일 300 mg을 1회 투여하고 필요할 경우, 수회 분할 투여한다.\n\n2) 소아 : 이 약으로서 1일 체중 kg당 10 mg(1일 최대 300 mg)을 1회 투여하고 필요할 경우, 수회 분할 투여한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 치료목적\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-6\" marginLeft=\"4\"><![CDATA[1) 성인 : 이소니아지드로서 1일 200∼400 mg(4∼8 mg/kg)을 1회 매일 경구투여하고 필요할 경우, 수회 분할 투여한다. 주 2회 간헐 투여 시는 1회 600∼800 mg을 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-6\" marginLeft=\"4\"><![CDATA[2) 소아 : 이 약으로서 1일 체중 kg당 10∼15 mg(1일 최대 300 mg)을 1회 매일 투여하고 필요할 경우, 수회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[원칙적으로 다른 항결핵제와 병용투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 예방목적\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-2\" marginLeft=\"2\"><![CDATA[1) 성인 : 이 약으로서 1일 300 mg을 1회 투여하고 필요할 경우, 수회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-6\" marginLeft=\"4\"><![CDATA[2) 소아 : 이 약으로서 1일 체중 kg당 10 mg(1일 최대 300 mg)을 1회 투여하고 필요할 경우, 수회 분할 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "00ac946bd1a76702f56c1bb346b493e3b7478a2f39ee1e06435d87306bca8eb0"
+}

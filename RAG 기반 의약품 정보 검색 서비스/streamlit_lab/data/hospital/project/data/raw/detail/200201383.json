@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200201383",
+        "ITEM_NAME": "티라목스에스건조시럽[아목시실린.클라불란산칼륨(7:1)]",
+        "ENTP_NAME": "삼진제약(주)",
+        "ITEM_PERMIT_DATE": "20020927",
+        "CNSGN_MANUF": "(주)보령",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "미백색의 분말로 특이한 냄새가 있는 쓸 때 녹여 쓰는 시럽",
+        "BAR_CODE": "8806478023907,8806478023914",
+        "MATERIAL_NAME": "총량 : 100g(908.15mL) 중|성분명 : 아목시실린수화물|분량 : 36.3143|단위 : 그램|규격 : KP|성분정보 : 역가량: 36.3143g|비고 : 역가;총량 : 100g(908.15mL) 중|성분명 : 묽은클라불란산칼륨|분량 : 5.1878|단위 : 그램|규격 : EP|성분정보 : 역가량: 5.1878g|비고 : 역가(클라불란산으로서), (실리콘디옥사이드1:1혼합물)",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201383/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201383/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201383/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기,1~ 25℃보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "50밀리리터/병",
+        "EDI_CODE": "647802391",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1324",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260206",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2026-02-06/저장방법 및 사용(유효)기간, 2025-09-09/사용상의 주의사항, 2024-07-19/사용상주의사항변경(부작용포함), 2024-06-26/저장방법 및 사용(유효)기간, 2024-04-29/사용상주의사항변경(부작용포함), 2023-08-31/사용상주의사항변경(부작용포함), 2018-04-05/사용상주의사항변경(부작용포함), 2018-01-01/사용상주의사항변경(부작용포함), 2017-09-16/용법용량변경, 2017-09-16/효능효과변경, 2017-09-16/사용상주의사항변경(부작용포함), 2017-05-21/사용상주의사항변경(부작용포함), 2015-07-01/사용상주의사항변경(부작용포함), 2005-01-22/용법용량변경, 2005-01-22/효능효과변경, 2005-01-22/효능효과변경, 2004-08-07/용법용량변경, 2004-08-07/사용상주의사항변경(부작용포함), 2004-08-07/사용상주의사항변경(부작용포함), 2002-09-28/제품명칭변경, 2002-09-27",
+        "TOTAL_CONTENT": "100g(908.15mL) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223098]아목시실린수화물|[M248503]묽은클라불란산칼륨",
+        "INGR_NAME": "[M051260]이산화규소|[M051756]포비돈|[M081837]아스파탐|[M083947]콜로이드성이산화규소|[M087012]잔탄검|[M090097]효소처리스테비아|[M095369]딸기향코튼|[M096666]시트르산|[M204408]D-만니톨|[M222565]시트르산나트륨수화물",
+        "ATC_CODE": "J01CR02",
+        "ITEM_ENG_NAME": "Tiramox-S Dry Syrup",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "MAIN_INGR_ENG": "Amoxicillin Hydrate/Dilute Potassium Clavulanate",
+        "BIZRNO": "1248531621",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

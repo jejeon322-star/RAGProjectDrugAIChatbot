@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200709505:EE",
+  "drug_id": "mfds:200709505",
+  "scope_type": "product",
+  "title": "앰브로캡슐(염산암브록솔)(수출명:앰브로캡(AMBROCAP))(수출용) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709505/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200709505_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:00:45.167061+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 주효능 효과\n점액분비장애로 인한 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관지염, 부비강염, 건성비염",
+  "content_hash": "a4ddb29e4501ccd9713a554f0b7eb60de34ae8d4eb0dbb53e6df84c9c1a15237",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "9e4d481d6b4f4b220eba20997d8d7ee917c5a896bcc7c3aeaec213df53944d42",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 주효능 효과\n점액분비장애로 인한 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관지염, 부비강염, 건성비염"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "doc_id": "mfds:197200091:UD",
+  "drug_id": "mfds:197200091",
+  "scope_type": "product",
+  "title": "도란사민캡슐(트라넥삼산)(수출명:트라민캡슐) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200091/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200091.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20230104",
+  "collected_at": "2026-10-22T05:26:36.897813+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(캡슐제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "트라넥사민산으로서 보통 성인 1일 750～2000mg을 3～4회에 분할 경구투여한다.",
+          "raw_content": "트라넥사민산으로서 보통 성인 1일 750～2000mg을 3～4회에 분할 경구투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(주사제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "트라넥사민산으로서 보통 성인 1일 250～500mg을 1～2회에 분할 정맥 또는 근육주사한다.",
+          "raw_content": "트라넥사민산으로서 보통 성인 1일 250～500mg을 1～2회에 분할 정맥 또는 근육주사한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "수술 중ㆍ수술 후의 출혈 등에는 필요에 따라 1회 500～1000mg을 정맥 또는 500～2500mg을 점적 정맥주사한다.",
+          "raw_content": "수술 중ㆍ수술 후의 출혈 등에는 필요에 따라 1회 500～1000mg을 정맥 또는 500～2500mg을 점적 정맥주사한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "(캡슐제)\n\n트라넥사민산으로서 보통 성인 1일 750～2000mg을 3～4회에 분할 경구투여한다.\n\n연령, 증상에 따라 적절히 증감한다.\n\n(주사제)\n\n트라넥사민산으로서 보통 성인 1일 250～500mg을 1～2회에 분할 정맥 또는 근육주사한다.\n\n수술 중ㆍ수술 후의 출혈 등에는 필요에 따라 1회 500～1000mg을 정맥 또는 500～2500mg을 점적 정맥주사한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(캡슐제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[트라넥사민산으로서 보통 성인 1일 750～2000mg을 3～4회에 분할 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(주사제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[트라넥사민산으로서 보통 성인 1일 250～500mg을 1～2회에 분할 정맥 또는 근육주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수술 중ㆍ수술 후의 출혈 등에는 필요에 따라 1회 500～1000mg을 정맥 또는 500～2500mg을 점적 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "e2bc890004a9d07e839a44326d08bb32f4715f7542b00036933f484eab9890d4"
+}

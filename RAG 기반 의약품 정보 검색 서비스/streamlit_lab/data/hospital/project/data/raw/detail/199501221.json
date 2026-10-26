@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199501221",
+        "ITEM_NAME": "티라목스0.6그램주(아목시실린나트륨·클라불란산칼륨)",
+        "ENTP_NAME": "삼진제약(주)",
+        "ITEM_PERMIT_DATE": "19950109",
+        "CNSGN_MANUF": "신풍제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색 또는 거의 백색의 분말이 들어있는 바이알 주사제.",
+        "BAR_CODE": "8806478023709,8806478023716,8806478023723,8806478023730,8806478023747",
+        "MATERIAL_NAME": "총량 : 1바이알중|성분명 : 아목시실린나트륨·클라불란산칼륨|분량 : 600|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501221/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501221/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501221/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기, 실온보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "0.6g(역가)-10바이알/갑",
+        "EDI_CODE": "647802370",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1324",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240626",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-06-26/사용상주의사항변경(부작용포함), 2023-08-31/사용상주의사항변경(부작용포함), 2018-01-01/사용상주의사항변경(부작용포함), 2017-09-16/용법용량변경, 2017-09-16/효능효과변경, 2017-09-16/사용상주의사항변경(부작용포함), 2015-07-01/제품명칭변경, 2010-11-04/제품명칭변경, 2008-03-18/제품명칭변경, 2006-05-03/사용상주의사항변경(부작용포함), 2005-01-22/용법용량변경, 2005-01-22/효능효과변경, 2005-01-22/제품명칭변경, 2002-03-19/사용상주의사항변경(부작용포함), 2002-01-17/제품명칭변경, 2001-11-02/사용상주의사항변경(부작용포함), 1999-10-16/사용상주의사항변경(부작용포함), 1996-09-21",
+        "TOTAL_CONTENT": "1바이알중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M253758]아목시실린나트륨·클라불란산칼륨",
+        "INGR_NAME": null,
+        "ATC_CODE": "J01CR02",
+        "ITEM_ENG_NAME": "Tiramox Injection 0.6g",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "MAIN_INGR_ENG": "Amoxicillin Sodium·Clavulanate Potassium",
+        "BIZRNO": "1248531621",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

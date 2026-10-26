@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:195500006:EE",
+  "drug_id": "mfds:195500006",
+  "scope_type": "product",
+  "title": "중외5%포도당주사액 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195500006/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195500006.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260323",
+  "collected_at": "2026-10-22T04:58:07.604457+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 탈수증 특히 수분결핍시의 수분보급",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 주사제의 용해희석제",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 탈수증 특히 수분결핍시의 수분보급\n\n2. 주사제의 용해희석제",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 탈수증 특히 수분결핍시의 수분보급\" />\r\n    <ARTICLE title=\"2. 주사제의 용해희석제\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "2ef504391717fd2db6f76dc92f9a21f851bdb4eae89047fcb51cff57d3e69385"
+}

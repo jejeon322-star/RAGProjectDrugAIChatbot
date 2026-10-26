@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200109233",
+        "ITEM_NAME": "가스터디정20㎎(파모티딘)",
+        "ENTP_NAME": "동아에스티(주)",
+        "ITEM_PERMIT_DATE": "20011005",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "이 약은 흰색의 정제 ",
+        "BAR_CODE": "8806425075409,8806425075416,8806772000109,8806772000116,8806772000123",
+        "MATERIAL_NAME": "총량 : 이 약 1정(175.0mg) 중|성분명 : 파모티딘|분량 : 20.0|단위 : 밀리그램|규격 : JP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200109233/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200109233/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200109233/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1 ~ 30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "100T (10T/PTP X 10) / box",
+        "EDI_CODE": "642507540",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "247",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품 및 의약외품 수입업",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20241107",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-11-07/사용상주의사항변경(부작용포함), 2023-01-25/사용상주의사항변경(부작용포함), 2019-05-26/사용상주의사항변경(부작용포함), 2014-09-05/성상변경, 2013-09-26/사용상주의사항변경(부작용포함), 2013-09-26/사용상주의사항변경(부작용포함), 2011-01-06/사용상주의사항변경(부작용포함), 2002-12-13",
+        "TOTAL_CONTENT": "이 약 1정(175.0mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M081653]파모티딘",
+        "INGR_NAME": "[M051630]트리아세틴|[M081566]베타시클로덱스트린|[M081837]아스파탐|[M095383]말토스시럽가루|[M203383]스테아르산칼슘|[M204408]D-만니톨|[M204434]L-멘톨|[M243545]에틸셀룰로오스수분산액|[M256003]민트향 No.6-10172",
+        "ATC_CODE": "A02BA03",
+        "ITEM_ENG_NAME": "Gaster D tablet 20mg (Famotidine)",
+        "ENTP_ENG_NAME": "DONG-A ST",
+        "MAIN_INGR_ENG": "Famotidine",
+        "BIZRNO": "2048640122",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

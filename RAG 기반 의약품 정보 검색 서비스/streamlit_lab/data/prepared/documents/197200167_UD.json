@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197200167:UD",
+  "drug_id": "mfds:197200167",
+  "scope_type": "product",
+  "title": "유니파스(수출용) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200167/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200167.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20201223",
+  "collected_at": "2026-10-22T05:27:21.998100+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1일 1-2회 환부에 붙인다.",
+          "raw_content": "1일 1-2회 환부에 붙인다."
+        }
+      ]
+    }
+  ],
+  "text": "1일 1-2회 환부에 붙인다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[1일 1-2회 환부에 붙인다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "b708c78b82ec63da0e035363b0c41ba354f03976490d0f5a6ae5ac68794d37d5"
+}

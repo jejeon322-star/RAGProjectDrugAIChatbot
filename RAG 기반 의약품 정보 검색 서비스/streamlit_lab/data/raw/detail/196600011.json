@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196600011",
+        "ITEM_NAME": "베스타제정",
+        "ENTP_NAME": "동아제약(주)",
+        "ITEM_PERMIT_DATE": "19660523",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "담등-적갈색 정제",
+        "BAR_CODE": "8806265001101,8806265001118,8806265001125,8806265001132,8806265001149,8806425020508,8806425020515,8806425020522,8806425020539,8806425020546",
+        "MATERIAL_NAME": "총량 : 이 약 1정(500 mg) 중|성분명 : 비오디아스타제500|분량 : 75|단위 : 밀리그램|규격 : 별규|성분정보 : 전분당화력 788단위, 전분호정화력 22500단위, 단백소화력 53 단위|비고 : ;총량 : 이 약 1정(500 mg) 중|성분명 : 리파제AP6|분량 : 2.8|단위 : 밀리그램|규격 : 별규|성분정보 : 지방소화력 168 단위|비고 : ;총량 : 이 약 1정(500 mg) 중|성분명 : 셀룰라제AP3|분량 : 25|단위 : 밀리그램|규격 : 별규|성분정보 : 섬유소당화력 675 단위|비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196600011/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196600011/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196600011/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1000정/병",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "2606",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20241210",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "효능·효과, 2024-12-10/사용상의 주의사항, 2024-10-24/용법·용량, 2024-10-24/사용상주의사항변경(부작용포함), 2019-09-09/사용상주의사항변경(부작용포함), 2012-06-01/사용상주의사항변경(부작용포함), 1995-03-25/용법용량변경, 1995-03-25/효능효과변경, 1995-03-25/사용상주의사항변경(부작용포함), 1994-01-01/용법용량변경, 1994-01-01/효능효과변경, 1994-01-01/제품명칭변경, 1990-02-10",
+        "TOTAL_CONTENT": "이 약 1정(500 mg) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진,]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소화불량으로 인한 위부팽만감]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[· 성인(만 15세 이상) : 1회 2정]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[· 만 11세 이상 - 만 15세 미만 : 1회 1-2정]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[· 만 8세 이상 - 만 11세 미만 : 1회 1정]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 만 7세 이하의 어린이]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인 또는 가족이 알레르기 체질인 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 다른 약물을 복용하고&nbsp;있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약은 황색5호(선셋옐로우 FCF, Sunset Yellow FCF)를 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 사람(경우) 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 이 첨부문서를 소지할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2주 정도 투여하여도 증상의 개선이 없을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 기타 이 약의 복용 시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 어린이에게 투여할 경우에는 보호자의 지도 감독하에 투여할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하고 될 수 있는 한 습기가 적은 서늘한 곳에 밀폐하여 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M083540]비오디아스타제500|[M082712]리파제AP6|[M260530]셀룰라제AP3",
+        "INGR_NAME": "[M060073]미결정셀룰로오스|[M102012]카르복시메틸셀룰로오스나트륨|[M103772]오렌지오일|[M221869]황색 5호|[M223367]유당수화물|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "A09AA02",
+        "ITEM_ENG_NAME": "Bestase Tab.",
+        "ENTP_ENG_NAME": "Dong-A Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Biodiastase 500/Cellulase AP3/Lipase AP6",
+        "BIZRNO": "2048640118",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

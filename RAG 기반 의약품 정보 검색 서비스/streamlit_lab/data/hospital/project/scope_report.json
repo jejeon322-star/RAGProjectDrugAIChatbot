@@ -1,0 +1,25 @@
+{
+  "note_entries": 43,
+  "official_candidate_products": 233,
+  "unmatched_entries": [
+    "패치딘 IM",
+    "다이클로짇",
+    "트리넥삼산주",
+    "프랙타주"
+  ],
+  "excluded_inactive_products": [],
+  "collection_errors": [],
+  "hospital_confirmed_products": 0,
+  "evidence_sources": [
+    "식품의약품안전처 제품 허가정보"
+  ],
+  "not_loaded": [
+    "약학정보원",
+    "성인간호학 서적",
+    "병원 투약 지침"
+  ],
+  "note_text_used_as_clinical_evidence": false,
+  "official_pdf_documents": 696,
+  "held_table_chunks": 75,
+  "clinical_documents_missing": []
+}

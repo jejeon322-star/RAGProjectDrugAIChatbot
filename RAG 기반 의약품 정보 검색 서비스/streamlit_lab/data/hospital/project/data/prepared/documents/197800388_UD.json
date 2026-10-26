@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:197800388:UD",
+  "drug_id": "mfds:197800388",
+  "scope_type": "product",
+  "title": "신일덱사메타손정 — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800388/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\197800388_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:55:50.429134+00:00",
+  "text": "[원문 1쪽]\n용법용량\n\n덱사메타손으로서 보통 성인 1일 0.5-8mg, 소아 1일 0.15-4mg을 각각 1-4회 분할 경구투여한다. 연령, 증\n상에 따라 적절히 증감한다.",
+  "content_hash": "bbac4735950d5e7889c4488c60e495515a41040dbcf81f62d153977788d1ba99",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "36b468a6207e6541370257a966eb4708a12e3249371c7e18c03eecc8f15b8b19",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n\n덱사메타손으로서 보통 성인 1일 0.5-8mg, 소아 1일 0.15-4mg을 각각 1-4회 분할 경구투여한다. 연령, 증\n상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

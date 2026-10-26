@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:196100007:NB",
+  "drug_id": "mfds:196100007",
+  "scope_type": "product",
+  "title": "중외주사용수 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100007/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196100007.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20191007",
+  "collected_at": "2026-10-22T05:03:39.715514+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "본품 자체를 주사하지 마십시오.",
+          "raw_content": "본품 자체를 주사하지 마십시오."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "확대하지 않고 쉽게 알아볼 수 있는 혼탁물이나 불용성물질이 있으면 사용하지 마십시오",
+          "raw_content": "확대하지 않고 쉽게 알아볼 수 있는 혼탁물이나 불용성물질이 있으면 사용하지 마십시오"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "경고",
+          "raw_content": "경고"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "“앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것”",
+          "raw_content": "“앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것”"
+        }
+      ]
+    }
+  ],
+  "text": "본품 자체를 주사하지 마십시오.\n\n확대하지 않고 쉽게 알아볼 수 있는 혼탁물이나 불용성물질이 있으면 사용하지 마십시오\n\n경고\n\n“앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것”",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[본품 자체를 주사하지 마십시오.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[확대하지 않고 쉽게 알아볼 수 있는 혼탁물이나 불용성물질이 있으면 사용하지 마십시오]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[경고]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[“앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것”]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "ac25fa5ae02d9eaab95077660c0677aa1a6c8257e363d5d601ba7e22d589b7b6"
+}

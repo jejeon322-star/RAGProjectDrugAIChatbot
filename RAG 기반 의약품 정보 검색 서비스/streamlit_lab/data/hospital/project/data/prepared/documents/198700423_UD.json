@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198700423:UD",
+  "drug_id": "mfds:198700423",
+  "scope_type": "product",
+  "title": "삐콤헥사주(수출명:에너비트주) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700423/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198700423_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:09.352160+00:00",
+  "text": "[원문 1쪽]\n용법용량\n\n1회 1앰플(2 mL)을 근육 또는 정맥주사 한다.\n연령, 증상에 따라 적절히 증감한다.",
+  "content_hash": "03eafa6fd78aa626b837d977e9c45523248e14484b65cd84d7472f39eddb9cb7",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "0a20e0aed0f59c8b1a9472e9341b4023170006b115658c5fea370f64107eead5",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n\n1회 1앰플(2 mL)을 근육 또는 정맥주사 한다.\n연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

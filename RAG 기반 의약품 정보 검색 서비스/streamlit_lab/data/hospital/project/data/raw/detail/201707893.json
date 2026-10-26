@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201707893",
+        "ITEM_NAME": "경동덱사메타손주(덱사메타손포스페이트이나트륨)(수출용)",
+        "ENTP_NAME": "경동제약(주)",
+        "ITEM_PERMIT_DATE": "20171114",
+        "CNSGN_MANUF": "한국유니온제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 앰플 내의 무색 투명한 액체가 들어있는 주사제",
+        "BAR_CODE": "8806481040700,8806481040717,8806481040724",
+        "MATERIAL_NAME": "총량 : 1mL 중|성분명 : 덱사메타손포스페이트이나트륨|분량 : 5.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707893/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707893/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707893/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707893/II",
+        "STORAGE_METHOD": "차광밀봉용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1ml X 50Amp",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1574",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250507",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-05-07/사용상주의사항변경(부작용포함), 2024-06-21/사용상주의사항변경(부작용포함), 2023-01-13/사용상주의사항변경(부작용포함), 2018-11-22/사용상주의사항변경(부작용포함), 2018-07-18",
+        "TOTAL_CONTENT": "1mL 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M256848]덱사메타손포스페이트이나트륨",
+        "INGR_NAME": "[M040043]글리세린|[M040220]벤질알코올|[M040534]주사용수|[M244571]에데트산나트륨수화물",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "KD Dexamethasone Inj.",
+        "ENTP_ENG_NAME": "KyungDong Pharm. Co., Ltd.",
+        "MAIN_INGR_ENG": "Dexamethasone Disodium Phosphate",
+        "BIZRNO": "1248135518",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

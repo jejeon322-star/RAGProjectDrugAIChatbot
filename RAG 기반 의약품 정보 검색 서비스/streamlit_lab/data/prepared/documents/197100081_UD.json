@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:197100081:UD",
+  "drug_id": "mfds:197100081",
+  "scope_type": "product",
+  "title": "키모랄에스정 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100081/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100081.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210629",
+  "collected_at": "2026-10-22T05:25:16.954886+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다.",
+          "raw_content": "성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투여하지 않는다.",
+          "raw_content": "체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투여하지 않는다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다.\n\n체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투여하지 않는다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투여하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "82407f43a8d2b3e91be3e0f2de24bb2b334a22a500e06b5e11fad52622b9a638"
+}

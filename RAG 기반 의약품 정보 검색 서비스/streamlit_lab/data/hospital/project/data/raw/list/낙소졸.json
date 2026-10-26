@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "201308928",
+        "ITEM_NAME": "낙소졸정500/20밀리그램(나프록센,에스오메프라졸)",
+        "ITEM_ENG_NAME": "Naxozol Tab. 500/20mg",
+        "ENTP_NAME": "한미약품(주)",
+        "ENTP_ENG_NAME": "Hanmi Pharm. Co.,Ltd.",
+        "ENTP_SEQ": "19570027",
+        "ENTP_NO": "1337",
+        "ITEM_PERMIT_DATE": "20130821",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "201308928",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "5107",
+        "ITEM_INGR_NAME": "Esomeprazole Strontium Tetrahydrate/Naproxen",
+        "ITEM_INGR_CNT": "2",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/154597931877100021",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "643506630",
+        "BIZRNO": "1248700613"
+      }
+    ]
+  }
+}

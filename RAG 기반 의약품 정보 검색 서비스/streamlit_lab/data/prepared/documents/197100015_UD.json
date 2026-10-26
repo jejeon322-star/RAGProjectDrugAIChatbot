@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:197100015:UD",
+  "drug_id": "mfds:197100015",
+  "scope_type": "product",
+  "title": "타치온정50밀리그램(글루타티온(환원형)) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100015/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100015.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220303",
+  "collected_at": "2026-10-22T05:22:33.852984+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 글루타티온으로서 1회 50-100mg, 1일 1-3회 복용한다.",
+          "raw_content": "성인 : 글루타티온으로서 1회 50-100mg, 1일 1-3회 복용한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 글루타티온으로서 1회 50-100mg, 1일 1-3회 복용한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 글루타티온으로서 1회 50-100mg, 1일 1-3회 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "43011008f8dc698851e74c7f97288706e2b5bfe0ef06757a92778f34b4e35173"
+}

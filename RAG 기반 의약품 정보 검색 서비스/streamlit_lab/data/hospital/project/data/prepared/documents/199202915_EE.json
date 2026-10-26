@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199202915:EE",
+  "drug_id": "mfds:199202915",
+  "scope_type": "product",
+  "title": "아디칸주사액250밀리그램(아미카신황산염)(수출명:유니디칸주) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202915/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199202915_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:57:01.670991+00:00",
+  "text": "[원문 1쪽]\n효능효과\n○ 유효균종\n겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터, 프로비덴시\n아, 아시네토박터, 포도구균\n○ 적응증\n- 패혈증, 기관지확장증(감염 시), 폐렴, 폐농양\n- 중추신경계감염증(수막염 등)\n- 골 및 관절감염증\n- 화상 및 수술 후 감염증\n- 복막염\n- 피부 및 연조직의 중증감염증\n- 중증 복합감염 및 재발성 요로감염증",
+  "content_hash": "0ded7254112010b7bebca19f4451904fee78b3e2ea5b82e54a7e3f24dfb9cedb",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "413b18e50df1bccd103b4ff39cc278e0e9f5404a08b18889aad0e8cb22978b0e",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n○ 유효균종\n겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터, 프로비덴시\n아, 아시네토박터, 포도구균\n○ 적응증\n- 패혈증, 기관지확장증(감염 시), 폐렴, 폐농양\n- 중추신경계감염증(수막염 등)\n- 골 및 관절감염증\n- 화상 및 수술 후 감염증\n- 복막염\n- 피부 및 연조직의 중증감염증\n- 중증 복합감염 및 재발성 요로감염증"
+        }
+      ]
+    }
+  ]
+}

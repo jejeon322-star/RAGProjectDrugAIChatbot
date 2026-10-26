@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202303397",
+        "ITEM_NAME": "조인스에프정300밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1)) ",
+        "ENTP_NAME": "에스케이케미칼(주)",
+        "ITEM_PERMIT_DATE": "20231221",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "초록색의 달걀형 필름 코팅정",
+        "BAR_CODE": "8806447050002,8806447050019,8806447050026,8806447050033,8806447050040",
+        "MATERIAL_NAME": "총량 : 1정481밀리그램|성분명 : 위령선·괄루근·하고초30%에탄올 건조엑스(40→1)|분량 : 300|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303397/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303397/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303397/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,100정/병,500정/병,100정/상자[10정/PTPx10]",
+        "EDI_CODE": "644705000",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1346",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": null,
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "",
+        "TOTAL_CONTENT": "1481",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M118005]위령선·괄루근·하고초30%에탄올 건조엑스(40→1)",
+        "INGR_NAME": "[M095933]스테아릴푸마르산나트륨|[M101747]크로스카멜로오스나트륨|[M203550]에틸셀룰로오스|[M245108]미결정셀룰로오스|[M284388]오파드라이 AMB II 초록색 (88A610006)|[M284389]소수성 경질무수규산",
+        "ATC_CODE": "M01AX",
+        "ITEM_ENG_NAME": "Joins-F Tab.",
+        "ENTP_ENG_NAME": "SK Chemicals Co., Ltd.",
+        "MAIN_INGR_ENG": "Clematidis Radix·Trichosanthis Radix·Prunellae Spica 30% Ethanol Dry Extract (40→1)",
+        "BIZRNO": "8468100915",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

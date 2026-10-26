@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:197200086:EE",
+  "drug_id": "mfds:197200086",
+  "scope_type": "product",
+  "title": "보스민액(에피네프린) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200086/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200086.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260220",
+  "collected_at": "2026-10-22T05:26:11.535756+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "기관지 천식 발작의 완화, 국소 부위의 출혈 (외상, 코, 입, 인후두 점막의 출혈)",
+          "raw_content": "기관지 천식 발작의 완화, 국소 부위의 출혈 (외상, 코, 입, 인후두 점막의 출혈)"
+        }
+      ]
+    }
+  ],
+  "text": "기관지 천식 발작의 완화, 국소 부위의 출혈 (외상, 코, 입, 인후두 점막의 출혈)",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[기관지 천식 발작의 완화, 국소 부위의 출혈 (외상, 코, 입, 인후두 점막의 출혈)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "85253157e2e7e8f5974513ea534b4393f0a6be4e0d881acb868c9b96aefbf7da"
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201804678:EE",
+  "drug_id": "mfds:201804678",
+  "scope_type": "product",
+  "title": "스트렌투엑스정(애엽95%에탄올연조엑스(20→1)) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804678/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201804678_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:12.506099+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 다음 질환의 위점막 병변(미란(짓무름), 출혈, 발적, 부종) 개선\n: 급성위염, 만성위염",
+  "content_hash": "ba8b1cd85e44f7be1a295ce3dc1ede2809821965f22c8775feb306718ebd1026",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "24317f0cb8de6be39c0e095be4e5754bb22d4eceaba08dcf8a360db6b1cd909b",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 다음 질환의 위점막 병변(미란(짓무름), 출혈, 발적, 부종) 개선\n: 급성위염, 만성위염"
+        }
+      ]
+    }
+  ]
+}

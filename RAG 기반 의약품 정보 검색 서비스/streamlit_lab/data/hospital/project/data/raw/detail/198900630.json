@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "198900630",
+        "ITEM_NAME": "트로돈캡슐(트라마돌염산염)",
+        "ENTP_NAME": "아주약품(주)",
+        "ITEM_PERMIT_DATE": "19890315",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색의 분말과 과립이 혼합충진된 상부녹색,하부 미황색의 경질캅셀제\r\n \r\n(수출용:백색의 분말과 과립이 혼합충진된 상부 하늘색,하부 흰색의 경질 캅셀제)",
+        "BAR_CODE": "8806540017308,8806540017315,8806540017322,8806540017339",
+        "MATERIAL_NAME": "총량 : 1캡슐(168.4mg) 중|성분명 : 트라마돌염산염|분량 : 50|단위 : 밀리그램|규격 : BP|성분정보 : |비고 : ;총량 : 1캡슐(168.4mg) 중-수출용|성분명 : 트라마돌염산염|분량 : 50|단위 : 밀리그램|규격 : BP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900630/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900630/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900630/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30캡슐/병, 500캡슐/병",
+        "EDI_CODE": "654001730",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1323",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260219",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2026-02-19/사용상주의사항변경(부작용포함), 2025-03-20/사용상주의사항변경(부작용포함), 2024-10-02/사용상주의사항변경(부작용포함), 2022-07-24/사용상주의사항변경(부작용포함), 2022-03-28/사용상의 주의사항, 2022-03-15/제품명, 2021-06-17/사용상주의사항변경(부작용포함), 2018-04-09/제품명칭변경, 2013-06-12/용법용량변경, 2013-05-16/사용상주의사항변경(부작용포함), 2011-11-28/사용상주의사항변경(부작용포함), 2008-08-14/성상변경, 1999-12-02/사용상주의사항변경(부작용포함), 1997-03-25/사용상주의사항변경(부작용포함), 1996-08-21/사용상주의사항변경(부작용포함), 1996-07-12/사용상주의사항변경(부작용포함), 1995-09-18/효능효과변경, 1993-05-01/용법용량변경, 1993-05-01/사용상주의사항변경(부작용포함), 1993-05-01/사용상주의사항변경(부작용포함), 1992-01-01/용법용량변경, 1992-01-01/효능효과변경, 1992-01-01/성상변경, 1991-07-27/사용상주의사항변경(부작용포함), 1990-01-15",
+        "TOTAL_CONTENT": "1캡슐(168.4mg) 중/1캡슐(168.4mg) 중-수출용",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M222893]트라마돌염산염|[M222893]트라마돌염산염",
+        "INGR_NAME": "[M040450]옥수수전분|[M040450]옥수수전분|[M040826]히드록시프로필셀룰로오스|[M040826]히드록시프로필셀룰로오스|[M089598]캡슐|[M089598]캡슐|[M223556]스테아르산마그네슘|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "N02AX02",
+        "ITEM_ENG_NAME": "Trodon capsule",
+        "ENTP_ENG_NAME": "AJU PHARM CO., LTD.",
+        "MAIN_INGR_ENG": "Tramadol Hydrochloride",
+        "BIZRNO": "8028803696",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

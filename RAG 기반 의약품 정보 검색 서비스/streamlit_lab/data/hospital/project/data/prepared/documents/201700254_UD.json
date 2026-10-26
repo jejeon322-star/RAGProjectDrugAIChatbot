@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201700254:UD",
+  "drug_id": "mfds:201700254",
+  "scope_type": "product",
+  "title": "아니스펜8시간이알서방정(아세트아미노펜) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700254/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201700254_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:53.203825+00:00",
+  "text": "[원문 1쪽]\n용법용량\n12세 이상의 소아 및 성인 : 매 8시간마다 2정씩 복용.\n24시간 동안 6정을 초과하지 말 것.",
+  "content_hash": "6824fd647bb702d1ec8a3f30c1d00d0668650d37c042ef2c43b3f11f814f1d4b",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "2c679506d3bed5cebdb91b3172eaaf1d8d4ea33d3eeb0394ae37ddd54509b740",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n12세 이상의 소아 및 성인 : 매 8시간마다 2정씩 복용.\n24시간 동안 6정을 초과하지 말 것."
+        }
+      ]
+    }
+  ]
+}

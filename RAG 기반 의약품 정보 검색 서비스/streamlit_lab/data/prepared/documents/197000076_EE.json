@@ -1,0 +1,55 @@
+{
+  "doc_id": "mfds:197000076:EE",
+  "drug_id": "mfds:197000076",
+  "scope_type": "product",
+  "title": "보나링에이정(디멘히드리네이트) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000076/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000076.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20221229",
+  "collected_at": "2026-10-22T05:19:51.556616+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(경구 : 정제, 시럽제)",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "1. 주효능·효과",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 멀미·메니에르증후군·방사선숙취에 의한 구역·구토·어지러움",
+          "raw_content": "1) 멀미·메니에르증후군·방사선숙취에 의한 구역·구토·어지러움"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수술후 구역·구토",
+          "raw_content": "2) 수술후 구역·구토"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "(경구 : 껌정)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+          "raw_content": "멀미에 의한 어지러움·구토·두통의 예방 및 완화"
+        }
+      ]
+    }
+  ],
+  "text": "(경구 : 정제, 시럽제)\n\n1. 주효능·효과\n\n1) 멀미·메니에르증후군·방사선숙취에 의한 구역·구토·어지러움\n\n2) 수술후 구역·구토\n\n(경구 : 껌정)\n\n멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제, 시럽제)\" />\r\n    <ARTICLE title=\"1. 주효능·효과\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 멀미·메니에르증후군·방사선숙취에 의한 구역·구토·어지러움]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수술후 구역·구토]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(경구 : 껌정)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[멀미에 의한 어지러움·구토·두통의 예방 및 완화]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "fe831f85328448820c02bb5640659e17422830dd7f915c2de3a4d58a87865d7e"
+}

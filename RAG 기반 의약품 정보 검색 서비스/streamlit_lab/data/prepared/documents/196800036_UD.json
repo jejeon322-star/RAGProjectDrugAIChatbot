@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:196800036:UD",
+  "drug_id": "mfds:196800036",
+  "scope_type": "product",
+  "title": "판콜에이내복액 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196800036/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196800036.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20251110",
+  "collected_at": "2026-10-22T05:14:40.419454+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 1회 30ml 1일 3회 식후 30분에 복용한다.",
+          "raw_content": "성인 1회 30ml 1일 3회 식후 30분에 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 1회 30ml 1일 3회 식후 30분에 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 1회 30ml 1일 3회 식후 30분에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "6215745ab00d3235096be8b458901a2e6af728b19e99c3151a83aa0689ec18b2"
+}

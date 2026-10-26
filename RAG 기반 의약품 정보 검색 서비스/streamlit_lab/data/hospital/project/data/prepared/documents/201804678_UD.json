@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201804678:UD",
+  "drug_id": "mfds:201804678",
+  "scope_type": "product",
+  "title": "스트렌투엑스정(애엽95%에탄올연조엑스(20→1)) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804678/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201804678_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:15.180508+00:00",
+  "text": "[원문 1쪽]\n용법용량\n애엽95%에탄올연조엑스로서 1회 90mg을 1일 2회 식후 경구투여한다.",
+  "content_hash": "13c81746193c80c138a40607eb1e82a426e70608a19b3d8bed0ec33ab4709602",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "54adadcab474f99ab7b06dfa236a664de67e1c48f6cc583ce599e51afbc6e578",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n애엽95%에탄올연조엑스로서 1회 90mg을 1일 2회 식후 경구투여한다."
+        }
+      ]
+    }
+  ]
+}

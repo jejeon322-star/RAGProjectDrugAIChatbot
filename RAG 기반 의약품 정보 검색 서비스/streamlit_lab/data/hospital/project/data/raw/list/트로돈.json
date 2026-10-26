@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "198900630",
+        "ITEM_NAME": "트로돈캡슐(트라마돌염산염)",
+        "ITEM_ENG_NAME": "Trodon capsule",
+        "ENTP_NAME": "아주약품(주)",
+        "ENTP_ENG_NAME": "AJU PHARM CO., LTD.",
+        "ENTP_SEQ": "19560005",
+        "ENTP_NO": "1323",
+        "ITEM_PERMIT_DATE": "19890315",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "198900630",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "58",
+        "ITEM_INGR_NAME": "Tramadol Hydrochloride/Tramadol Hydrochloride",
+        "ITEM_INGR_CNT": "2",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OoAc19nhSY",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "654001730",
+        "BIZRNO": "8028803696"
+      },
+      {
+        "ITEM_SEQ": "198900633",
+        "ITEM_NAME": "트로돈주사(트라마돌염산염)",
+        "ITEM_ENG_NAME": "TRODON INJ",
+        "ENTP_NAME": "아주약품(주)",
+        "ENTP_ENG_NAME": "AJU PHARM CO., LTD.",
+        "ENTP_SEQ": "19560005",
+        "ENTP_NO": "1323",
+        "ITEM_PERMIT_DATE": "19890315",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "198900633",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "94",
+        "ITEM_INGR_NAME": "Tramadol Hydrochloride",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "654001721",
+        "BIZRNO": "8028803696"
+      }
+    ]
+  }
+}

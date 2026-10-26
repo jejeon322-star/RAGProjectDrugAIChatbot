@@ -1,0 +1,188 @@
+{
+  "doc_id": "mfds:197200036:NB",
+  "drug_id": "mfds:197200036",
+  "scope_type": "product",
+  "title": "대한젖산나트륨염화나트륨포도당주사액(1-2-3) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200036/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200036.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20191008",
+  "collected_at": "2026-10-22T05:25:47.320355+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B1) 소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있다.",
+          "raw_content": "포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B<sub>1</sub>) 소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 젖산혈증 환자",
+          "raw_content": "1) 젖산혈증 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수분과다상태 환자",
+          "raw_content": "2) 수분과다상태 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 저장성 탈수증 환자",
+          "raw_content": "3) 저장성 탈수증 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 저칼륨혈증 환자",
+          "raw_content": "4) 저칼륨혈증 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 고나트륨혈증 환자",
+          "raw_content": "5) 고나트륨혈증 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 신질환에서 기인한 신부전 환자",
+          "raw_content": "1) 신질환에서 기인한 신부전 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 심부전 환자",
+          "raw_content": "2) 심부전 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 당뇨병 환자",
+          "raw_content": "3) 당뇨병 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 폐쇄성 요로질환에 의한 요량감소가 있는 환자",
+          "raw_content": "4) 폐쇄성 요로질환에 의한 요량감소가 있는 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 중증 간장애 환자",
+          "raw_content": "5) 중증 간장애 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 저나트륨혈증(120 mmol/L 미만) 환자",
+          "raw_content": "6) 저나트륨혈증(120 mmol/L 미만) 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "대량ㆍ급속투여에 의해 뇌부종, 폐부종, 말초부종이 나타날 수 있다.",
+          "raw_content": "대량ㆍ급속투여에 의해 뇌부종, 폐부종, 말초부종이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "혈당, 혈청 전해질, 체액 평형을 정기적으로 모니터링해야 한다.",
+          "raw_content": "혈당, 혈청 전해질, 체액 평형을 정기적으로 모니터링해야 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다.",
+          "raw_content": "1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다.",
+          "raw_content": "2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다.",
+          "raw_content": "3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 완전히 맑지 않은 것은 사용하지 않는다.",
+          "raw_content": "1) 완전히 맑지 않은 것은 사용하지 않는다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다.",
+          "raw_content": "2) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 보관 및 취급상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "실온에서 보관한다.",
+          "raw_content": "실온에서 보관한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B1) 소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있다.\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 젖산혈증 환자\n\n2) 수분과다상태 환자\n\n3) 저장성 탈수증 환자\n\n4) 저칼륨혈증 환자\n\n5) 고나트륨혈증 환자\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 신질환에서 기인한 신부전 환자\n\n2) 심부전 환자\n\n3) 당뇨병 환자\n\n4) 폐쇄성 요로질환에 의한 요량감소가 있는 환자\n\n5) 중증 간장애 환자\n\n6) 저나트륨혈증(120 mmol/L 미만) 환자\n\n4. 이상반응\n\n대량ㆍ급속투여에 의해 뇌부종, 폐부종, 말초부종이 나타날 수 있다.\n\n5. 일반적 주의\n\n혈당, 혈청 전해질, 체액 평형을 정기적으로 모니터링해야 한다.\n\n6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여\n\n1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다.\n\n2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다.\n\n3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다.\n\n7. 적용상의 주의\n\n1) 완전히 맑지 않은 것은 사용하지 않는다.\n\n2) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다.\n\n8. 보관 및 취급상의 주의사항\n\n실온에서 보관한다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B<sub>1</sub>) 소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 젖산혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수분과다상태 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 저장성 탈수증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 저칼륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고나트륨혈증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 신질환에서 기인한 신부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 당뇨병 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 폐쇄성 요로질환에 의한 요량감소가 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 중증 간장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 저나트륨혈증(120 mmol/L 미만) 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대량ㆍ급속투여에 의해 뇌부종, 폐부종, 말초부종이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[혈당, 혈청 전해질, 체액 평형을 정기적으로 모니터링해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 완전히 맑지 않은 것은 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[실온에서 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "f724ec4edb164aca738d6a2441ef4c26c20e9cc42699cf4efae221cbcbbbac0a"
+}

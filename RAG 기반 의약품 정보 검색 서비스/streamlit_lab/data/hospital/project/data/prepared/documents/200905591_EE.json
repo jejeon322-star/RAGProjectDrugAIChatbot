@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200905591:EE",
+  "drug_id": "mfds:200905591",
+  "scope_type": "product",
+  "title": "판토마그정 — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905591/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200905591_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:01:31.675518+00:00",
+  "text": "[원문 1쪽]\n효능효과\n○ 다음경우의 비타민 B6의 보급\n- 임신ㆍ수유기\n- 병중ㆍ병후의 체력저하시\n○이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다.\n- 마그네슘결핍으로 인한 근육경련",
+  "content_hash": "8287f687c545fefeb084dd2aeaf484e1c2fa43e2d5a5b3c89718d4dea28d933e",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "d77865b80324b5d1e7d427b77350676e9885b61885b3535e3d84a4537a60a27b",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n○ 다음경우의 비타민 B6의 보급\n- 임신ㆍ수유기\n- 병중ㆍ병후의 체력저하시\n○이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다.\n- 마그네슘결핍으로 인한 근육경련"
+        }
+      ]
+    }
+  ]
+}

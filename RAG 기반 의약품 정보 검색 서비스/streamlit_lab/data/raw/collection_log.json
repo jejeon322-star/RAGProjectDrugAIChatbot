@@ -1,0 +1,402 @@
+{
+  "195500005": {
+    "collected_at": "2026-10-22T04:58:03.845942+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195500006": {
+    "collected_at": "2026-10-22T04:58:07.604457+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195600004": {
+    "collected_at": "2026-10-22T04:58:53.224296+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195600006": {
+    "collected_at": "2026-10-22T04:59:05.865433+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700004": {
+    "collected_at": "2026-10-22T04:59:26.036166+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700007": {
+    "collected_at": "2026-10-22T04:59:27.305959+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700008": {
+    "collected_at": "2026-10-22T04:59:28.481962+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700009": {
+    "collected_at": "2026-10-22T04:59:29.617814+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700010": {
+    "collected_at": "2026-10-22T04:59:30.951462+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700013": {
+    "collected_at": "2026-10-22T04:59:59.921349+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700014": {
+    "collected_at": "2026-10-22T05:00:04.309460+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700015": {
+    "collected_at": "2026-10-22T05:00:19.422556+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700016": {
+    "collected_at": "2026-10-22T05:00:50.500839+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195700020": {
+    "collected_at": "2026-10-22T05:01:35.378713+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195800020": {
+    "collected_at": "2026-10-22T05:02:20.540108+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195900034": {
+    "collected_at": "2026-10-22T05:02:37.671966+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195900043": {
+    "collected_at": "2026-10-22T05:02:39.712800+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "195900045": {
+    "collected_at": "2026-10-22T05:02:54.702134+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196000001": {
+    "collected_at": "2026-10-22T05:02:55.826677+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196000008": {
+    "collected_at": "2026-10-22T05:02:57.037102+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196000010": {
+    "collected_at": "2026-10-22T05:03:13.453880+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196000011": {
+    "collected_at": "2026-10-22T05:03:15.209881+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196100002": {
+    "collected_at": "2026-10-22T05:03:17.577452+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196100007": {
+    "collected_at": "2026-10-22T05:03:39.715514+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196100008": {
+    "collected_at": "2026-10-22T05:03:41.424302+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196200032": {
+    "collected_at": "2026-10-22T05:03:42.840555+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196200034": {
+    "collected_at": "2026-10-22T05:04:08.430331+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196300001": {
+    "collected_at": "2026-10-22T05:04:40.323745+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196300025": {
+    "collected_at": "2026-10-22T05:05:05.960879+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196300035": {
+    "collected_at": "2026-10-22T05:05:41.706191+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196300064": {
+    "collected_at": "2026-10-22T05:07:23.154305+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196400020": {
+    "collected_at": "2026-10-22T05:08:09.285452+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196400036": {
+    "collected_at": "2026-10-22T05:08:17.474112+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196400037": {
+    "collected_at": "2026-10-22T05:09:09.534442+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196400046": {
+    "collected_at": "2026-10-22T05:09:10.677214+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196400089": {
+    "collected_at": "2026-10-22T05:09:40.674525+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196400099": {
+    "collected_at": "2026-10-22T05:09:42.135207+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196500004": {
+    "collected_at": "2026-10-22T05:10:09.964233+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196500051": {
+    "collected_at": "2026-10-22T05:10:11.057130+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196600011": {
+    "collected_at": "2026-10-22T05:10:12.147061+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196600012": {
+    "collected_at": "2026-10-22T05:11:46.987185+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196600063": {
+    "collected_at": "2026-10-22T05:13:09.238050+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196700013": {
+    "collected_at": "2026-10-22T05:13:15.605202+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196700015": {
+    "collected_at": "2026-10-22T05:13:26.504971+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196700060": {
+    "collected_at": "2026-10-22T05:13:40.773239+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196700061": {
+    "collected_at": "2026-10-22T05:14:04.846457+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196800016": {
+    "collected_at": "2026-10-22T05:14:05.957001+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196800017": {
+    "collected_at": "2026-10-22T05:14:07.261366+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196800019": {
+    "collected_at": "2026-10-22T05:14:08.446331+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196800036": {
+    "collected_at": "2026-10-22T05:14:40.419454+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196900027": {
+    "collected_at": "2026-10-22T05:15:14.643703+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196900028": {
+    "collected_at": "2026-10-22T05:15:15.912662+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196900031": {
+    "collected_at": "2026-10-22T05:15:44.717218+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196900033": {
+    "collected_at": "2026-10-22T05:16:28.068776+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "196900058": {
+    "collected_at": "2026-10-22T05:16:29.133083+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000013": {
+    "collected_at": "2026-10-22T05:16:30.253764+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000014": {
+    "collected_at": "2026-10-22T05:16:31.309684+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000015": {
+    "collected_at": "2026-10-22T05:16:32.384920+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000016": {
+    "collected_at": "2026-10-22T05:17:04.552214+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000017": {
+    "collected_at": "2026-10-22T05:17:33.892520+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000026": {
+    "collected_at": "2026-10-22T05:17:58.972295+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000037": {
+    "collected_at": "2026-10-22T05:18:08.407208+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000040": {
+    "collected_at": "2026-10-22T05:18:15.627361+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000049": {
+    "collected_at": "2026-10-22T05:18:24.502821+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000050": {
+    "collected_at": "2026-10-22T05:18:39.782722+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000053": {
+    "collected_at": "2026-10-22T05:19:00.432391+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000068": {
+    "collected_at": "2026-10-22T05:19:21.459130+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000073": {
+    "collected_at": "2026-10-22T05:19:37.896870+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000076": {
+    "collected_at": "2026-10-22T05:19:51.556616+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000079": {
+    "collected_at": "2026-10-22T05:19:56.627287+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000102": {
+    "collected_at": "2026-10-22T05:20:51.840962+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000104": {
+    "collected_at": "2026-10-22T05:21:19.676273+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000190": {
+    "collected_at": "2026-10-22T05:21:55.520398+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000191": {
+    "collected_at": "2026-10-22T05:22:07.116749+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197000192": {
+    "collected_at": "2026-10-22T05:22:15.204554+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100015": {
+    "collected_at": "2026-10-22T05:22:33.852984+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100021": {
+    "collected_at": "2026-10-22T05:22:50.452115+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100022": {
+    "collected_at": "2026-10-22T05:23:08.846372+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100023": {
+    "collected_at": "2026-10-22T05:23:35.701385+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100027": {
+    "collected_at": "2026-10-22T05:23:45.536179+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100028": {
+    "collected_at": "2026-10-22T05:24:11.165682+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100029": {
+    "collected_at": "2026-10-22T05:24:15.626125+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100030": {
+    "collected_at": "2026-10-22T05:24:48.080834+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100059": {
+    "collected_at": "2026-10-22T05:24:49.325417+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100081": {
+    "collected_at": "2026-10-22T05:25:16.954886+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197100097": {
+    "collected_at": "2026-10-22T05:25:44.396237+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200036": {
+    "collected_at": "2026-10-22T05:25:47.320355+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200086": {
+    "collected_at": "2026-10-22T05:26:11.535756+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200091": {
+    "collected_at": "2026-10-22T05:26:36.897813+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200160": {
+    "collected_at": "2026-10-22T05:26:51.372764+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200167": {
+    "collected_at": "2026-10-22T05:27:21.998100+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200483": {
+    "collected_at": "2026-10-22T05:27:39.565607+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197200484": {
+    "collected_at": "2026-10-22T05:27:51.179510+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300021": {
+    "collected_at": "2026-10-22T05:28:11.641542+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300034": {
+    "collected_at": "2026-10-22T05:28:13.816880+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300057": {
+    "collected_at": "2026-10-22T05:28:15.255203+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300075": {
+    "collected_at": "2026-10-22T05:28:40.312741+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300090": {
+    "collected_at": "2026-10-22T05:29:03.820692+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300091": {
+    "collected_at": "2026-10-22T05:29:16.667661+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  },
+  "197300093": {
+    "collected_at": "2026-10-22T05:29:30.318551+00:00",
+    "source_operation": "getDrugPrdtPrmsnDtlInq08"
+  }
+}

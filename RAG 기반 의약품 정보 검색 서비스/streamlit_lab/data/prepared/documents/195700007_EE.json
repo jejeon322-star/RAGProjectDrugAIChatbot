@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:195700007:EE",
+  "drug_id": "mfds:195700007",
+  "scope_type": "product",
+  "title": "대한멸균증류수(주사용수) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700007/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700007.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20180110",
+  "collected_at": "2026-10-22T04:59:27.305959+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "점안제, 주입제, 시약등의 조제나 약품 제조에 사용함",
+          "raw_content": "점안제, 주입제, 시약등의 조제나 약품 제조에 사용함"
+        }
+      ]
+    }
+  ],
+  "text": "점안제, 주입제, 시약등의 조제나 약품 제조에 사용함",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[점안제, 주입제, 시약등의 조제나 약품 제조에 사용함]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "fc7f7b8db2fbc9a96f68d0479623941aa3638437d518296c57055b2089147004"
+}

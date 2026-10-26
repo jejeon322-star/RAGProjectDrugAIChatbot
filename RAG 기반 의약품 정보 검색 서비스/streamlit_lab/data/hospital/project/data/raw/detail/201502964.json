@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201502964",
+        "ITEM_NAME": "뮤코로솔정(암브록솔염산염)",
+        "ENTP_NAME": "태극제약(주)",
+        "ITEM_PERMIT_DATE": "20150518",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "흰색의 원형 정제",
+        "BAR_CODE": "8806448061700,8806448061717,8806448061724,8806998012702,8806998012719,8806998012726",
+        "MATERIAL_NAME": "총량 : 1정220밀리그램|성분명 : 암브록솔염산염|분량 : 30|단위 : 밀리그램|규격 : BP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201502964/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201502964/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201502964/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "10정/피티피,500정/병",
+        "EDI_CODE": "644806170",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1370",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20200129",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "효능효과변경, 2020-01-29/용법용량변경, 2020-01-29/사용상주의사항변경(부작용포함), 2020-01-29",
+        "TOTAL_CONTENT": "1220",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M233843]암브록솔염산염",
+        "INGR_NAME": "[M060073]미결정셀룰로오스|[M223367]유당수화물|[M223556]스테아르산마그네슘|[M243429]카르복시메틸셀룰로오스칼슘",
+        "ATC_CODE": "R05CB06",
+        "ITEM_ENG_NAME": "Mucorosol Tab.",
+        "ENTP_ENG_NAME": "TAI GUK PHARM. Co., Ltd.",
+        "MAIN_INGR_ENG": "Ambroxol Hydrochloride",
+        "BIZRNO": "1248134163",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202601774:UD",
+  "drug_id": "mfds:202601774",
+  "scope_type": "product",
+  "title": "펠루원정(펠루비프로펜) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202601774/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202601774_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:05:40.082440+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인: 1회 1정(펠루비프로펜으로서 30mg), 1일 3회 식후 경구 투여한다.",
+  "content_hash": "28429c759e3df37a695009a478d79a9693415808813c5745ed2ccfa9bb0d0a08",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "ca3687ee2de2bedc74bf030e804446948b4f3cb31ce52893b106d2dd22a0fa18",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인: 1회 1정(펠루비프로펜으로서 30mg), 1일 3회 식후 경구 투여한다."
+        }
+      ]
+    }
+  ]
+}

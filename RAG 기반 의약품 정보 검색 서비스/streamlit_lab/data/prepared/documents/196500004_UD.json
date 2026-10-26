@@ -1,0 +1,126 @@
+{
+  "doc_id": "mfds:196500004:UD",
+  "drug_id": "mfds:196500004",
+  "scope_type": "product",
+  "title": "후라시닐정(메트로니다졸) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500004/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196500004.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250115",
+  "collected_at": "2026-10-22T05:10:09.964233+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 트리코모나스증 : 메트로니다졸로서 보통 성인 1회 250 mg 1일 2회 10일간 경구 투여한다.",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 혐기성균 감염증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 치료 : 이 약으로서 보통 성인 1회 500 mg씩 1일 3 ∼ 4회 경구 투여한다. 1일 최대량은 4 g을 초과하지 않도록 하고, 일반적으로 7 ∼ 10일간 치료한다.",
+          "raw_content": "1) 치료 : 이 약으로서 보통 성인 1회 500 mg씩 1일 3 ∼ 4회 경구 투여한다. 1일 최대량은 4 g을 초과하지 않도록 하고, 일반적으로 7 ∼ 10일간 치료한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수술 후 예방 : 이 약으로서 보통 성인 초회 1 g, 1회 250 mg씩 1일 3회 경구 투여한다.",
+          "raw_content": "2) 수술 후 예방 : 이 약으로서 보통 성인 초회 1 g, 1회 250 mg씩 1일 3회 경구 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 아메바증 : 이 약으로서 보통 성인 1회 500 ∼ 750 mg을 1일 3회 5 ～ 10일간 경구 투여한다.",
+      "paragraphs": []
+    },
+    {
+      "article_index": 4,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약은 다음 용량을 분당 25 mg(5 mL)의 속도로 천천히 정맥주사하며, 환자의 상태가 호전되면 가능한 빨리 경구투여제로 대치하여야 한다.",
+          "raw_content": "이 약은 다음 용량을 분당 25 mg(5 mL)의 속도로 천천히 정맥주사하며, 환자의 상태가 호전되면 가능한 빨리 경구투여제로 대치하여야 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "1. 혐기성균 감염증의 치료",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 성인 및 12세 이상의 소아",
+          "raw_content": "1) 성인 및 12세 이상의 소아"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "메트로니다졸로서 500 mg(100 mL)을 8시간마다 정맥 주사 한다. 경구 투여가 가능해지면 메트로니다졸로서 500 mg, 1일 3회로 경구투여로 대치한다. 총 주사제 투여기간은 7일을 초과하지 않도록 하나, 임상 세균학적 평가에 따라 투여연장을 고려할 수도 있다.",
+          "raw_content": "메트로니다졸로서 500 mg(100 mL)을 8시간마다 정맥 주사 한다. 경구 투여가 가능해지면 메트로니다졸로서 500 mg, 1일 3회로 경구투여로 대치한다. 총 주사제 투여기간은 7일을 초과하지 않도록 하나, 임상 세균학적 평가에 따라 투여연장을 고려할 수도 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "2) 12세 미만의 소아",
+          "raw_content": "2) 12세 미만의 소아"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "1일 3회 투여하며, 1회 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 1회 경구투여량도 메트로니다졸로서 체중 kg당 7.5 mg을 투여한다. 8주 미만 소아는 1일 2회로 투여한다.",
+          "raw_content": "1일 3회 투여하며, 1회 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 1회 경구투여량도 메트로니다졸로서 체중 kg당 7.5 mg을 투여한다. 8주 미만 소아는 1일 2회로 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "2. 혐기성균에 의한 수술 후 감염의 예방",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "(이 용법의 사용은 보통 24시간, 최대 48시간을 이내로 제한함).",
+          "raw_content": "(이 용법의 사용은 보통 24시간, 최대 48시간을 이내로 제한함)."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "1) 성인 및 12세 이상의 소아",
+          "raw_content": "1) 성인 및 12세 이상의 소아"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "수술 직전, 수술 중 또는 수술 후에 이 약으로서 500 mg(100 mL)을 8시간마다 정맥내에 투여한다. 경구투여가 가능해지면 메트로니다졸로서 1회 250 mg, 1일 3회 경구투여로 대치한다.",
+          "raw_content": "수술 직전, 수술 중 또는 수술 후에 이 약으로서 500 mg(100 mL)을 8시간마다 정맥내에 투여한다. 경구투여가 가능해지면 메트로니다졸로서 1회 250 mg, 1일 3회 경구투여로 대치한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "2) 12세 미만의 소아",
+          "raw_content": "2) 12세 미만의 소아"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "1일 3회 투여하며, 수술전 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 수술 중 또는 수술 후는 3.7 mg/kg을 투여한다.",
+          "raw_content": "1일 3회 투여하며, 수술전 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 수술 중 또는 수술 후는 3.7 mg/kg을 투여한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 트리코모나스증 : 메트로니다졸로서 보통 성인 1회 250 mg 1일 2회 10일간 경구 투여한다.\n\n2. 혐기성균 감염증\n\n1) 치료 : 이 약으로서 보통 성인 1회 500 mg씩 1일 3 ∼ 4회 경구 투여한다. 1일 최대량은 4 g을 초과하지 않도록 하고, 일반적으로 7 ∼ 10일간 치료한다.\n\n2) 수술 후 예방 : 이 약으로서 보통 성인 초회 1 g, 1회 250 mg씩 1일 3회 경구 투여한다.\n\n3. 아메바증 : 이 약으로서 보통 성인 1회 500 ∼ 750 mg을 1일 3회 5 ～ 10일간 경구 투여한다.\n\n이 약은 다음 용량을 분당 25 mg(5 mL)의 속도로 천천히 정맥주사하며, 환자의 상태가 호전되면 가능한 빨리 경구투여제로 대치하여야 한다.\n\n1. 혐기성균 감염증의 치료\n\n1) 성인 및 12세 이상의 소아\n\n메트로니다졸로서 500 mg(100 mL)을 8시간마다 정맥 주사 한다. 경구 투여가 가능해지면 메트로니다졸로서 500 mg, 1일 3회로 경구투여로 대치한다. 총 주사제 투여기간은 7일을 초과하지 않도록 하나, 임상 세균학적 평가에 따라 투여연장을 고려할 수도 있다.\n\n2) 12세 미만의 소아\n\n1일 3회 투여하며, 1회 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 1회 경구투여량도 메트로니다졸로서 체중 kg당 7.5 mg을 투여한다. 8주 미만 소아는 1일 2회로 투여한다.\n\n2. 혐기성균에 의한 수술 후 감염의 예방\n\n(이 용법의 사용은 보통 24시간, 최대 48시간을 이내로 제한함).\n\n1) 성인 및 12세 이상의 소아\n\n수술 직전, 수술 중 또는 수술 후에 이 약으로서 500 mg(100 mL)을 8시간마다 정맥내에 투여한다. 경구투여가 가능해지면 메트로니다졸로서 1회 250 mg, 1일 3회 경구투여로 대치한다.\n\n2) 12세 미만의 소아\n\n1일 3회 투여하며, 수술전 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 수술 중 또는 수술 후는 3.7 mg/kg을 투여한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"(정제)\">\r\n    <ARTICLE title=\"1. 트리코모나스증 : 메트로니다졸로서 보통 성인 1회 250 mg 1일 2회 10일간 경구 투여한다.\" />\r\n    <ARTICLE title=\"2. 혐기성균 감염증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 치료 : 이 약으로서 보통 성인 1회 500 mg씩 1일 3 ∼ 4회 경구 투여한다. 1일 최대량은 4 g을 초과하지 않도록 하고, 일반적으로 7 ∼ 10일간 치료한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수술 후 예방 : 이 약으로서 보통 성인 초회 1 g, 1회 250 mg씩 1일 3회 경구 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 아메바증 : 이 약으로서 보통 성인 1회 500 ∼ 750 mg을 1일 3회 5 ～ 10일간 경구 투여한다.\" />\r\n  </SECTION>\r\n  <SECTION title=\"(주사제)\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[이 약은 다음 용량을 분당 25 mg(5 mL)의 속도로 천천히 정맥주사하며, 환자의 상태가 호전되면 가능한 빨리 경구투여제로 대치하여야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"1. 혐기성균 감염증의 치료\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 성인 및 12세 이상의 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[메트로니다졸로서 500 mg(100 mL)을 8시간마다 정맥 주사 한다. 경구 투여가 가능해지면 메트로니다졸로서 500 mg, 1일 3회로 경구투여로 대치한다. 총 주사제 투여기간은 7일을 초과하지 않도록 하나, 임상 세균학적 평가에 따라 투여연장을 고려할 수도 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 12세 미만의 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 투여하며, 1회 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 1회 경구투여량도 메트로니다졸로서 체중 kg당 7.5 mg을 투여한다. 8주 미만 소아는 1일 2회로 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 혐기성균에 의한 수술 후 감염의 예방\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(이 용법의 사용은 보통 24시간, 최대 48시간을 이내로 제한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 성인 및 12세 이상의 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수술 직전, 수술 중 또는 수술 후에 이 약으로서 500 mg(100 mL)을 8시간마다 정맥내에 투여한다. 경구투여가 가능해지면 메트로니다졸로서 1회 250 mg, 1일 3회 경구투여로 대치한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 12세 미만의 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 투여하며, 수술전 정맥주사 용량은 체중 kg당 이 약으로서 7.5 mg(1.5 mL)이며 수술 중 또는 수술 후는 3.7 mg/kg을 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "878ee42873a7b9e606248c77173e0e609fd15c2b6c9635f1d00fedfd4e83e646"
+}

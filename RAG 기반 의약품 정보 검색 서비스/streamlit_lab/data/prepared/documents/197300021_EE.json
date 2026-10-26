@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:197300021:EE",
+  "drug_id": "mfds:197300021",
+  "scope_type": "product",
+  "title": "리포덱스캅셀(리팜피신)(수출명: 종근당리팜피신캅셀150mg) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300021/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300021.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260323",
+  "collected_at": "2026-10-22T05:28:11.641542+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "○ 유효균종",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "결핵균, 수막염균",
+          "raw_content": "결핵균, 수막염균"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "○ 적응증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "결핵, 무증후성 수막염균 보균자",
+          "raw_content": "결핵, 무증후성 수막염균 보균자"
+        }
+      ]
+    }
+  ],
+  "text": "○ 유효균종\n\n결핵균, 수막염균\n\n○ 적응증\n\n결핵, 무증후성 수막염균 보균자",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"○ 유효균종\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[결핵균, 수막염균]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 적응증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[결핵, 무증후성 수막염균 보균자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "a22e9e02581e7acced32ba2f70479b7166941987cb350f5f3a69c8f4df8b3833"
+}

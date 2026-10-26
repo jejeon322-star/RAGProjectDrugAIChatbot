@@ -1,0 +1,62 @@
+{
+  "doc_id": "mfds:196000010:UD",
+  "drug_id": "mfds:196000010",
+  "scope_type": "product",
+  "title": "페니라민주사(클로르페니라민말레산염) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000010/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000010.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20140521",
+  "collected_at": "2026-10-22T05:03:13.453880+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(경구 : 정제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 말레인산클로르페니라민으로서 1회 2-6mg 1일 2-4회 경구투여한다.",
+          "raw_content": "성인 : 말레인산클로르페니라민으로서 1회 2-6mg 1일 2-4회 경구투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "1일 24mg을 초과해서는 안된다.",
+          "raw_content": "1일 24mg을 초과해서는 안된다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(주사제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 말레인산클로르페니라민으로서 1회 5-10mg 1일 1-2회 피하, 근육 또는 정맥 주사 한다.",
+          "raw_content": "성인 : 말레인산클로르페니라민으로서 1회 5-10mg 1일 1-2회 피하, 근육 또는 정맥 주사 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "(경구 : 정제)\n\n성인 : 말레인산클로르페니라민으로서 1회 2-6mg 1일 2-4회 경구투여한다.\n\n1일 24mg을 초과해서는 안된다.\n\n연령, 증상에 따라 적절히 증감한다.\n\n(주사제)\n\n성인 : 말레인산클로르페니라민으로서 1회 5-10mg 1일 1-2회 피하, 근육 또는 정맥 주사 한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 말레인산클로르페니라민으로서 1회 2-6mg 1일 2-4회 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 24mg을 초과해서는 안된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(주사제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 말레인산클로르페니라민으로서 1회 5-10mg 1일 1-2회 피하, 근육 또는 정맥 주사 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "da4f19627e1a5d5637fd243e7a18558430c1c5733e0798b025acd922cd19553d"
+}

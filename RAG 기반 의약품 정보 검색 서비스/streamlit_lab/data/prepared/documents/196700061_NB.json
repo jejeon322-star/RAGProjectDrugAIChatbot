@@ -1,0 +1,254 @@
+{
+  "doc_id": "mfds:196700061:NB",
+  "drug_id": "mfds:196700061",
+  "scope_type": "product",
+  "title": "에어신신파스 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196700061/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196700061.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20221022",
+  "collected_at": "2026-10-22T05:14:04.846457+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음 환자(부위)에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 30개월 이하의 유아",
+          "raw_content": "1) 30개월 이하의 유아"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 눈주위, 점막 등",
+          "raw_content": "2) 눈주위, 점막 등"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 습진, 옻 등에 의한 피부염, 상처부위",
+          "raw_content": "3) 습진, 옻 등에 의한 피부염, 상처부위"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 지금까지 약이나 화장품 등에 의한 알레르기 증상(예를 들면 발진•발적(충혈되어 붉어짐), 가려움, 옻 등에 의한 피부염 등)이 나타난 적이 있는 환자",
+          "raw_content": "1) 지금까지 약이나 화장품 등에 의한 알레르기 증상(예를 들면 발진&#x2022;발적(충혈되어 붉어짐), 가려움, 옻 등에 의한 피부염 등)이 나타난 적이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 본인 또는 가족이 알레르기 체질인 환자",
+          "raw_content": "2) 본인 또는 가족이 알레르기 체질인 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 습윤(습기 참)이나 미란(짓무름)이 심한 환자",
+          "raw_content": "3) 습윤(습기 참)이나 미란(짓무름)이 심한 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 의사의 치료를 받고 있는 환자",
+          "raw_content": "4) 의사의 치료를 받고 있는 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 소아(경련을 유발할 수 있다)",
+          "raw_content": "5) 소아(경련을 유발할 수 있다)"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 임부 또는 임신하고 있을 가능성이 있는 여성",
+          "raw_content": "6) 임부 또는 임신하고 있을 가능성이 있는 여성"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 수유부",
+          "raw_content": "7) 수유부"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 부작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약의 사용으로 인해 발진•발적(충혈되어 붉어짐), 가려움, 부종(부기) 등의 증상이 나타나는 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.",
+          "raw_content": "이 약의 사용으로 인해 발진&#x2022;발적(충혈되어 붉어짐), 가려움, 부종(부기) 등의 증상이 나타나는 경우에는 사용을 중지하고 약사 또는 의사와 상의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정해진 용법ㆍ용량을 잘 지킨다.",
+          "raw_content": "1) 정해진 용법ㆍ용량을 잘 지킨다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소아에게 사용할 경우에는 보호자의 지도ㆍ감독하에 사용한다.",
+          "raw_content": "2) 소아에게 사용할 경우에는 보호자의 지도ㆍ감독하에 사용한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 5～6일간 투여 후에도 증상의 개선이 보이지 않을 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.",
+          "raw_content": "3) 5～6일간 투여 후에도 증상의 개선이 보이지 않을 경우에는 사용을 중지하고 약사 또는 의사와 상의한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 살리실산메틸은 피부를 통하여 많은 양이 흡수될 경우 중독증상이 나타날 수 있으므로 넓은 표면에 대한 장기간의 사용은 피한다.",
+          "raw_content": "4) 살리실산메틸은 피부를 통하여 많은 양이 흡수될 경우 중독증상이 나타날 수 있으므로 넓은 표면에 대한 장기간의 사용은 피한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약은 외용으로만 사용하고 흡입하지 않는다. 흡입에 의해 현기증, 구역 등의 증상을 일으킬 수가 있으므로 가능한 흡입하지 않는 것이 좋으며 또한 그 주위 사람에게도 충분히 주의해서 사용한다.",
+          "raw_content": "1) 이 약은 외용으로만 사용하고 흡입하지 않는다. 흡입에 의해 현기증, 구역 등의 증상을 일으킬 수가 있으므로 가능한 흡입하지 않는 것이 좋으며 또한 그 주위 사람에게도 충분히 주의해서 사용한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 눈에 들어가지 않도록 주의한다. 만일 눈에 들어간 경우에는 즉시 물로 씻는다. 증상이 심할 경우에는 안과의사의 치료를 받는다.",
+          "raw_content": "2) 눈에 들어가지 않도록 주의한다. 만일 눈에 들어간 경우에는 즉시 물로 씻는다. 증상이 심할 경우에는 안과의사의 치료를 받는다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 사용전에 잘 흔들어 사용한다.",
+          "raw_content": "3) 사용전에 잘 흔들어 사용한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 환부(질환부위)로부터 20㎝의 거리에서 뿌린다.",
+          "raw_content": "4) 환부(질환부위)로부터 20㎝의 거리에서 뿌린다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 동일 부위에 연속하여 3초 이상 뿌리지 않는다.",
+          "raw_content": "5) 동일 부위에 연속하여 3초 이상 뿌리지 않는다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 대량ㆍ광범위하게 사용하지 않는다.",
+          "raw_content": "6) 대량ㆍ광범위하게 사용하지 않는다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "※ 고압가스를 사용한 가연성 제품으로서 위험하므로 다음의 주의를 지킬 것.",
+          "raw_content": "※ 고압가스를 사용한 가연성 제품으로서 위험하므로 다음의 주의를 지킬 것."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "7) 불꽃을 향하여 사용하지 말 것.",
+          "raw_content": "7) 불꽃을 향하여 사용하지 말 것."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "8) 화기를 사용하고 있는 실내에서 사용하지 말 것.",
+          "raw_content": "8) 화기를 사용하고 있는 실내에서 사용하지 말 것."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "9) 밀폐된 실내에서 사용한 후에는 반드시 환기를 실시할 것.",
+          "raw_content": "9) 밀폐된 실내에서 사용한 후에는 반드시 환기를 실시할 것."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 온도가 40℃ 이상 되는 장소에 보관하지 않는다.",
+          "raw_content": "2) 온도가 40℃ 이상 되는 장소에 보관하지 않는다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.",
+          "raw_content": "3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 화기에 가까이 하지 않는다.",
+          "raw_content": "4) 화기에 가까이 하지 않는다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 사용후 용기를 불 속에 넣지 않는다.",
+          "raw_content": "5) 사용후 용기를 불 속에 넣지 않는다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 사용한 후 잔가스가 없도록 하여 버릴 것.",
+          "raw_content": "6) 사용한 후 잔가스가 없도록 하여 버릴 것."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 밀폐된 장소에 보관하지 말 것.",
+          "raw_content": "7) 밀폐된 장소에 보관하지 말 것."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 난로, 풍로등 화기부근에서 사용하지 말 것.",
+          "raw_content": "8) 난로, 풍로등 화기부근에서 사용하지 말 것."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음 환자(부위)에는 투여하지 말 것.\n\n1) 30개월 이하의 유아\n\n2) 눈주위, 점막 등\n\n3) 습진, 옻 등에 의한 피부염, 상처부위\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 지금까지 약이나 화장품 등에 의한 알레르기 증상(예를 들면 발진•발적(충혈되어 붉어짐), 가려움, 옻 등에 의한 피부염 등)이 나타난 적이 있는 환자\n\n2) 본인 또는 가족이 알레르기 체질인 환자\n\n3) 습윤(습기 참)이나 미란(짓무름)이 심한 환자\n\n4) 의사의 치료를 받고 있는 환자\n\n5) 소아(경련을 유발할 수 있다)\n\n6) 임부 또는 임신하고 있을 가능성이 있는 여성\n\n7) 수유부\n\n3. 부작용\n\n이 약의 사용으로 인해 발진•발적(충혈되어 붉어짐), 가려움, 부종(부기) 등의 증상이 나타나는 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.\n\n4. 일반적 주의\n\n1) 정해진 용법ㆍ용량을 잘 지킨다.\n\n2) 소아에게 사용할 경우에는 보호자의 지도ㆍ감독하에 사용한다.\n\n3) 5～6일간 투여 후에도 증상의 개선이 보이지 않을 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.\n\n4) 살리실산메틸은 피부를 통하여 많은 양이 흡수될 경우 중독증상이 나타날 수 있으므로 넓은 표면에 대한 장기간의 사용은 피한다.\n\n5. 적용상의 주의\n\n1) 이 약은 외용으로만 사용하고 흡입하지 않는다. 흡입에 의해 현기증, 구역 등의 증상을 일으킬 수가 있으므로 가능한 흡입하지 않는 것이 좋으며 또한 그 주위 사람에게도 충분히 주의해서 사용한다.\n\n2) 눈에 들어가지 않도록 주의한다. 만일 눈에 들어간 경우에는 즉시 물로 씻는다. 증상이 심할 경우에는 안과의사의 치료를 받는다.\n\n3) 사용전에 잘 흔들어 사용한다.\n\n4) 환부(질환부위)로부터 20㎝의 거리에서 뿌린다.\n\n5) 동일 부위에 연속하여 3초 이상 뿌리지 않는다.\n\n6) 대량ㆍ광범위하게 사용하지 않는다.\n\n※ 고압가스를 사용한 가연성 제품으로서 위험하므로 다음의 주의를 지킬 것.\n\n7) 불꽃을 향하여 사용하지 말 것.\n\n8) 화기를 사용하고 있는 실내에서 사용하지 말 것.\n\n9) 밀폐된 실내에서 사용한 후에는 반드시 환기를 실시할 것.\n\n6. 저장상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관한다.\n\n2) 온도가 40℃ 이상 되는 장소에 보관하지 않는다.\n\n3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.\n\n4) 화기에 가까이 하지 않는다.\n\n5) 사용후 용기를 불 속에 넣지 않는다.\n\n6) 사용한 후 잔가스가 없도록 하여 버릴 것.\n\n7) 밀폐된 장소에 보관하지 말 것.\n\n8) 난로, 풍로등 화기부근에서 사용하지 말 것.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자(부위)에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 30개월 이하의 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈주위, 점막 등]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 습진, 옻 등에 의한 피부염, 상처부위]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 지금까지 약이나 화장품 등에 의한 알레르기 증상(예를 들면 발진&#x2022;발적(충혈되어 붉어짐), 가려움, 옻 등에 의한 피부염 등)이 나타난 적이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 본인 또는 가족이 알레르기 체질인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 습윤(습기 참)이나 미란(짓무름)이 심한 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 소아(경련을 유발할 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 임부 또는 임신하고 있을 가능성이 있는 여성]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 수유부]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약의 사용으로 인해 발진&#x2022;발적(충혈되어 붉어짐), 가려움, 부종(부기) 등의 증상이 나타나는 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에게 사용할 경우에는 보호자의 지도ㆍ감독하에 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 5～6일간 투여 후에도 증상의 개선이 보이지 않을 경우에는 사용을 중지하고 약사 또는 의사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 살리실산메틸은 피부를 통하여 많은 양이 흡수될 경우 중독증상이 나타날 수 있으므로 넓은 표면에 대한 장기간의 사용은 피한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 외용으로만 사용하고 흡입하지 않는다. 흡입에 의해 현기증, 구역 등의 증상을 일으킬 수가 있으므로 가능한 흡입하지 않는 것이 좋으며 또한 그 주위 사람에게도 충분히 주의해서 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈에 들어가지 않도록 주의한다. 만일 눈에 들어간 경우에는 즉시 물로 씻는다. 증상이 심할 경우에는 안과의사의 치료를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 사용전에 잘 흔들어 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 환부(질환부위)로부터 20㎝의 거리에서 뿌린다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 동일 부위에 연속하여 3초 이상 뿌리지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 대량ㆍ광범위하게 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[※ 고압가스를 사용한 가연성 제품으로서 위험하므로 다음의 주의를 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 불꽃을 향하여 사용하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 화기를 사용하고 있는 실내에서 사용하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 밀폐된 실내에서 사용한 후에는 반드시 환기를 실시할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 온도가 40℃ 이상 되는 장소에 보관하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 화기에 가까이 하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 사용후 용기를 불 속에 넣지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 사용한 후 잔가스가 없도록 하여 버릴 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 밀폐된 장소에 보관하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 난로, 풍로등 화기부근에서 사용하지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "80de30514524155e582fdb1dd742e0504c34db1200c3575116b6085f6966fcb1"
+}

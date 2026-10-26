@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201900957",
+        "ITEM_NAME": "엘리펜서방정",
+        "ENTP_NAME": "동국제약(주)",
+        "ITEM_PERMIT_DATE": "20190215",
+        "CNSGN_MANUF": "주식회사제뉴원사이언스",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "연한 노란색의 장방형 서방성 필름코팅정",
+        "BAR_CODE": "8806534042903,8806534042910,8806534042927",
+        "MATERIAL_NAME": "총량 : 1정926밀리그램-서방층|성분명 : 아세트아미노펜|분량 : 325|단위 : 밀리그램|규격 : EP|성분정보 : |비고 : ;총량 : 1정926밀리그램-서방층|성분명 : 트라마돌염산염|분량 : 75|단위 : 밀리그램|규격 : BP|성분정보 : |비고 : ;총량 : 1정926밀리그램-속방층|성분명 : 아세트아미노펜|분량 : 325|단위 : 밀리그램|규격 : EP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900957/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900957/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900957/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온보관(1-30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병, 100정/병",
+        "EDI_CODE": "653404290",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1416",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260219",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2026-02-19/사용상의 주의사항, 2026-02-13/사용상주의사항변경(부작용포함), 2025-11-10/사용상주의사항변경(부작용포함), 2025-03-20/사용상주의사항변경(부작용포함), 2024-10-02/사용상주의사항변경(부작용포함), 2022-03-28/사용상의 주의사항, 2022-02-24/사용상주의사항변경(부작용포함), 2021-03-22",
+        "TOTAL_CONTENT": "1926-서방층/1926-속방층/1926-코팅층",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040353]아세트아미노펜|[M040353]아세트아미노펜|[M255410]트라마돌염산염",
+        "INGR_NAME": "[M051756]포비돈|[M081161]크로스포비돈|[M102967]히프로멜로오스|[M243220]저치환도히드록시프로필셀룰로오스|[M244534]스테아르산마그네슘|[M244534]스테아르산마그네슘|[M244712]콜로이드성이산화규소|[M259881]오파드라이Ⅱ노란색(85F420033)",
+        "ATC_CODE": "N02AJ13",
+        "ITEM_ENG_NAME": "Eliphen ER Tablet",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Acetaminophen/Tramadol Hydrochloride",
+        "BIZRNO": "3018508241",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

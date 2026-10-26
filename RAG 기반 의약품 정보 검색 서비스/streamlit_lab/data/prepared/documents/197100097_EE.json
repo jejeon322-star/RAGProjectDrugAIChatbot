@@ -1,0 +1,35 @@
+{
+  "doc_id": "mfds:197100097:EE",
+  "drug_id": "mfds:197100097",
+  "scope_type": "product",
+  "title": "환인벤즈트로핀정(벤즈트로핀메실산염) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100097/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100097.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20241108",
+  "collected_at": "2026-10-22T05:25:44.396237+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 특발성 파킨슨증",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 기타의 파킨슨증(뇌염후, 동맥경화성)",
+      "paragraphs": []
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 항정신병약 투여로 인한 파킨슨증",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 특발성 파킨슨증\n\n2. 기타의 파킨슨증(뇌염후, 동맥경화성)\n\n3. 항정신병약 투여로 인한 파킨슨증",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 특발성 파킨슨증\" />\r\n    <ARTICLE title=\"2. 기타의 파킨슨증(뇌염후, 동맥경화성)\" />\r\n    <ARTICLE title=\"3. 항정신병약 투여로 인한 파킨슨증\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "d69e37c3297e676977b5c329f072a6ae3e4e2c32ce1c380b966fdf83c880aae1"
+}

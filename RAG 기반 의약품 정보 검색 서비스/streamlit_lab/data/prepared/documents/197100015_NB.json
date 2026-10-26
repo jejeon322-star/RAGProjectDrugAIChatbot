@@ -1,0 +1,140 @@
+{
+  "doc_id": "mfds:197100015:NB",
+  "drug_id": "mfds:197100015",
+  "scope_type": "product",
+  "title": "타치온정50밀리그램(글루타티온(환원형)) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100015/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100015.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220303",
+  "collected_at": "2026-10-22T05:22:33.852984+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음과 같은 경우 이 약의 복용을 즉시 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한 한 이 첨부문서를 소지할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 과민증 : 드물게 발진 등이 나타날 수 있다.",
+          "raw_content": "1) 과민증 : 드물게 발진 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통 등이 나타날 수 있다.",
+          "raw_content": "2) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통 등이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.",
+          "raw_content": "2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용",
+          "raw_content": "으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "하되, 특히 어린이, 노약자 사용시에는 각별히 주의한다.",
+          "raw_content": "하되, 특히 어린이, 노약자 사용시에는 각별히 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "2. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 아나필락시양 증상 : 드물게 아나필락시양 증상이 나타날 수 있으므로 관찰을 충분히 하고, 안면창백, 혈압저하, 맥박이상 등이 나타나는 경우에는 투여를 중지한다.",
+          "raw_content": "1) 아나필락시양 증상 : 드물게 아나필락시양 증상이 나타날 수 있으므로 관찰을 충분히 하고, 안면창백, 혈압저하, 맥박이상 등이 나타나는 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 과민증 : 드물게 발진 등이 나타나는 경우에는 투여를 중지한다.",
+          "raw_content": "2) 과민증 : 드물게 발진 등이 나타나는 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통이 나타날 수 있다.",
+          "raw_content": "3) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "3. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 조제시 : 앰플제제는 용해 후 즉시 사용한다.",
+          "raw_content": "1) 조제시 : 앰플제제는 용해 후 즉시 사용한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 근육주사하는 경우에는 신경 및 혈관을 피하여 신중히 투여한다. 또, 반복투여의 필요성이 있는 경우에는 좌우를 바꾸어 주사하는 등 동일부위를 피하고 유ㆍ소아에는 특히 주의한다.",
+          "raw_content": "2) 근육주사하는 경우에는 신경 및 혈관을 피하여 신중히 투여한다. 또, 반복투여의 필요성이 있는 경우에는 좌우를 바꾸어 주사하는 등 동일부위를 피하고 유ㆍ소아에는 특히 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "4. 보관 및 취급상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.",
+          "raw_content": "2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음과 같은 경우 이 약의 복용을 즉시 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한 한 이 첨부문서를 소지할 것.\n\n1) 과민증 : 드물게 발진 등이 나타날 수 있다.\n\n2) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통 등이 나타날 수 있다.\n\n2. 저장상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관한다.\n\n2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.\n\n1. 경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있\n\n으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용\n\n하되, 특히 어린이, 노약자 사용시에는 각별히 주의한다.\n\n2. 이상반응\n\n1) 아나필락시양 증상 : 드물게 아나필락시양 증상이 나타날 수 있으므로 관찰을 충분히 하고, 안면창백, 혈압저하, 맥박이상 등이 나타나는 경우에는 투여를 중지한다.\n\n2) 과민증 : 드물게 발진 등이 나타나는 경우에는 투여를 중지한다.\n\n3) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통이 나타날 수 있다.\n\n3. 적용상의 주의\n\n1) 조제시 : 앰플제제는 용해 후 즉시 사용한다.\n\n2) 근육주사하는 경우에는 신경 및 혈관을 피하여 신중히 투여한다. 또, 반복투여의 필요성이 있는 경우에는 좌우를 바꾸어 주사하는 등 동일부위를 피하고 유ㆍ소아에는 특히 주의한다.\n\n4. 보관 및 취급상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관한다.\n\n2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"(정제)(캡슐제)\">\r\n    <ARTICLE title=\"1. 다음과 같은 경우 이 약의 복용을 즉시 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과민증 : 드물게 발진 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n  <SECTION title=\"(주사제)\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[으므로 사용시 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[하되, 특히 어린이, 노약자 사용시에는 각별히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 아나필락시양 증상 : 드물게 아나필락시양 증상이 나타날 수 있으므로 관찰을 충분히 하고, 안면창백, 혈압저하, 맥박이상 등이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 과민증 : 드물게 발진 등이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소화기계 : 드물게 식욕부진, 구역, 구토, 위통이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 조제시 : 앰플제제는 용해 후 즉시 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 근육주사하는 경우에는 신경 및 혈관을 피하여 신중히 투여한다. 또, 반복투여의 필요성이 있는 경우에는 좌우를 바꾸어 주사하는 등 동일부위를 피하고 유ㆍ소아에는 특히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 품질저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "3a37e7e7895592e9c5b5e93ed958f340231fecd5fba8731afd46ed74aa756cd0"
+}

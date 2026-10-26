@@ -1,0 +1,2571 @@
+{
+  "stage": "collected",
+  "entries": [
+    {
+      "candidate_id": "note:p1:r1",
+      "name_as_written": "록소론",
+      "search_term": "록소론",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200402487",
+          "product_name": "록소론정(록소프로펜나트륨수화물)",
+          "company_name": "(주)팜젠사이언스",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r2",
+      "name_as_written": "쎄레민",
+      "search_term": "쎄레민",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201405094",
+          "product_name": "쎄레민캡슐200밀리그램(세레콕시브)",
+          "company_name": "(주)테라젠이텍스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201901372",
+          "product_name": "쎄레민캡슐100밀리그램(세레콕시브)",
+          "company_name": "(주)테라젠이텍스",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r3",
+      "name_as_written": "아세탈",
+      "search_term": "아세탈",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200203727",
+          "product_name": "아세탈정(아세클로페낙)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r4",
+      "name_as_written": "낙소졸",
+      "search_term": "낙소졸",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201308928",
+          "product_name": "낙소졸정500/20밀리그램(나프록센,에스오메프라졸)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r5",
+      "name_as_written": "펠루비",
+      "search_term": "펠루비",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200704590",
+          "product_name": "펠루비정(펠루비프로펜)",
+          "company_name": "대원제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201501350",
+          "product_name": "펠루비서방정(펠루비프로펜)",
+          "company_name": "대원제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202104003",
+          "product_name": "펠루비에스정(펠루비프로펜트로메타민)",
+          "company_name": "대원제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202104053",
+          "product_name": "펠프스정(펠루비프로펜)",
+          "company_name": "영진약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202104060",
+          "product_name": "펠로엔정(펠루비프로펜(미분화))",
+          "company_name": "(주)휴온스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202104498",
+          "product_name": "벨루펜정(펠루비프로펜)",
+          "company_name": "(주)종근당",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601658",
+          "product_name": "펠비펜정30밀리그램(펠루비프로펜)",
+          "company_name": "(주)동구바이오제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601755",
+          "product_name": "펠루다정30밀리그램(펠루비프로펜)",
+          "company_name": "(주)다산제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601773",
+          "product_name": "펠루탑정(펠루비프로펜)",
+          "company_name": "대웅바이오(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601774",
+          "product_name": "펠루원정(펠루비프로펜)",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601785",
+          "product_name": "펠트론정30밀리그램(펠루비프로펜)",
+          "company_name": "대화제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601824",
+          "product_name": "펠비온정(펠루비프로펜)(미분화)",
+          "company_name": "알리코제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601862",
+          "product_name": "하나펜정(펠루비프로펜(미분화))",
+          "company_name": "하나제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601905",
+          "product_name": "테라펠루정30밀리그램(펠루비프로펜(미분화))",
+          "company_name": "(주)테라젠이텍스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601906",
+          "product_name": "펠로펜정((펠루비프로펜(미분화))",
+          "company_name": "국제약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202602127",
+          "product_name": "펠루엘정(펠루비프로펜(미분화))",
+          "company_name": "에이치엘비제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 16,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r6",
+      "name_as_written": "토라렌",
+      "search_term": "토라렌",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198701689",
+          "product_name": "토라렌주(디클로페낙나트륨)(수출명:토페라렌주사(Toferareninjection))",
+          "company_name": "명문제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198701689",
+          "product_name": "토라렌주(디클로페낙나트륨)(수출명:토페라렌주사(Toferareninjection))",
+          "company_name": "명문제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r7",
+      "name_as_written": "모사프론",
+      "search_term": "모사프론",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200606318",
+          "product_name": "모사프론정(모사프리드시트르산염수화물)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202003143",
+          "product_name": "모사프론에스알서방정15밀리그램(모사프리드시트르산염수화물)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r8",
+      "name_as_written": "에소파졸",
+      "search_term": "에소파졸",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201503051",
+          "product_name": "에소파졸캡슐40mg(에스오메프라졸마그네슘이수화물)",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201503482",
+          "product_name": "에소파졸캡슐20mg(에스오메프라졸마그네슘이수화물)",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201804136",
+          "product_name": "에소파졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201804137",
+          "product_name": "에소파졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 4,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r9",
+      "name_as_written": "에소메졸",
+      "search_term": "에소메졸",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200711655",
+          "product_name": "에소메졸캡슐40밀리그램(에스오메프라졸스트론튬사수화물)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200713519",
+          "product_name": "에소메졸캡슐20밀리그램(에스오메프라졸스트론튬사수화물)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202006759",
+          "product_name": "에소메졸디알서방캡슐40밀리그램(에스오메프라졸마그네슘삼수화물)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202006760",
+          "product_name": "에소메졸디알서방캡슐20밀리그램(에스오메프라졸마그네슘삼수화물)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202107076",
+          "product_name": "에소메졸플러스정40/350밀리그램",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202201119",
+          "product_name": "에소메졸플러스정20/350밀리그램",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202203716",
+          "product_name": "에소메졸디알서방캡슐10밀리그램(에스오메프라졸마그네슘삼수화물)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 7,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r10",
+      "name_as_written": "가스터",
+      "search_term": "가스터",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198600114",
+          "product_name": "동아가스터정20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198600114",
+          "product_name": "동아가스터정20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200109233",
+          "product_name": "가스터디정20㎎(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202203264",
+          "product_name": "가스터주사액20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 4,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r11",
+      "name_as_written": "스트렌",
+      "search_term": "스트렌",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201600826",
+          "product_name": "스트렌식주40mg/mL(아스포타제알파)",
+          "company_name": "한국아스트라제네카(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201600827",
+          "product_name": "스트렌식주100mg/mL(아스포타제알파)",
+          "company_name": "한국아스트라제네카(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201500900",
+          "product_name": "에스트렌정(애엽95%에탄올연조엑스(20→1))",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201804678",
+          "product_name": "스트렌투엑스정(애엽95%에탄올연조엑스(20→1))",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 9,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r12",
+      "name_as_written": "스트렌투엑스",
+      "search_term": "스트렌투엑스",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201804678",
+          "product_name": "스트렌투엑스정(애엽95%에탄올연조엑스(20→1))",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r13",
+      "name_as_written": "엘리펜",
+      "search_term": "엘리펜",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200805214",
+          "product_name": "엘리펜세미정",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200805215",
+          "product_name": "엘리펜정",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201900956",
+          "product_name": "엘리펜세미서방정",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201900957",
+          "product_name": "엘리펜서방정",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 4,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r14",
+      "name_as_written": "시너젯",
+      "search_term": "시너젯",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200804771",
+          "product_name": "시너젯정",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201306118",
+          "product_name": "시너젯이알서방정",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201307929",
+          "product_name": "시너젯이알세미서방정",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201309439",
+          "product_name": "시너젯세미정",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 4,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p1:r15",
+      "name_as_written": "아니스펜",
+      "search_term": "아니스펜",
+      "source_file": "약공부★★★.pdf",
+      "page": 1,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201700254",
+          "product_name": "아니스펜8시간이알서방정(아세트아미노펜)",
+          "company_name": "(주)제뉴파마",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r1",
+      "name_as_written": "트로돈 IM",
+      "search_term": "트로돈",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198900630",
+          "product_name": "트로돈캡슐(트라마돌염산염)",
+          "company_name": "아주약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900633",
+          "product_name": "트로돈주사(트라마돌염산염)",
+          "company_name": "아주약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198900630",
+          "product_name": "트로돈캡슐(트라마돌염산염)",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198900633",
+          "product_name": "트로돈주사(트라마돌염산염)",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r2",
+      "name_as_written": "패치딘 IM",
+      "search_term": "패치딘",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [],
+      "match_status": "not_found",
+      "total_count": 0,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r3",
+      "name_as_written": "조인스",
+      "search_term": "조인스",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200811665",
+          "product_name": "조인스탑연질캡슐",
+          "company_name": "알리코제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199702182",
+          "product_name": "조인스정200밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1))(수출명:카라스론)",
+          "company_name": "에스케이케미칼(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202303397",
+          "product_name": "조인스에프정300밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1)) ",
+          "company_name": "에스케이케미칼(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 3,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r4",
+      "name_as_written": "세파졸린v",
+      "search_term": "세파졸린",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198300066",
+          "product_name": "종근당세파졸린주1그램(세파졸린나트륨)(수출명:씨졸주1그램,라세나졸린주1그램,오리안트주1그램)",
+          "company_name": "(주)종근당",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198300067",
+          "product_name": "종근당세파졸린주500밀리그램(세파졸린나트륨)(수출명:씨졸주500밀리그램,라세나졸린주500밀리그램)",
+          "company_name": "(주)종근당",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198300066",
+          "product_name": "종근당세파졸린주1그램(세파졸린나트륨)(수출명:씨졸주1그램,라세나졸린주1그램,오리안트주1그램)",
+          "company_name": "(주)종근당",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198300067",
+          "product_name": "종근당세파졸린주500밀리그램(세파졸린나트륨)(수출명:씨졸주500밀리그램,라세나졸린주500밀리그램)",
+          "company_name": "(주)종근당",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200004878",
+          "product_name": "세졸린주1g(세파졸린나트륨)(수출용)",
+          "company_name": "대한뉴팜(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200200155",
+          "product_name": "종근당세파졸린주2그램(세파졸린나트륨)(수출명:라세나졸린주2그램)",
+          "company_name": "(주)종근당",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200600300",
+          "product_name": "인터메딕세파졸린주1g(수출용)(수출명:CBIFUZONInj.)",
+          "company_name": "천우신약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200600438",
+          "product_name": "케이디세파졸린나트륨주1g(수출용)(수출명: Hawarin Inj., Devicine Inj.)",
+          "company_name": "경동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200710958",
+          "product_name": "화일세파졸린나트륨주1g(세파졸린나트륨)(수출용)(수출명 : Hwail Cefazolin Inj. 1 g)",
+          "company_name": "화일약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200801320",
+          "product_name": "경보세파졸린나트륨주500밀리그램(수출용)",
+          "company_name": "(주)경보제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200801321",
+          "product_name": "경보세파졸린나트륨주1그램(수출명: KBZOLIN 1g INJ)(수출용)",
+          "company_name": "(주)경보제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201002804",
+          "product_name": "세파졸주0.5그람(세파졸린나트륨)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201003518",
+          "product_name": "세포졸주(세파졸린나트륨)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201402994",
+          "product_name": "케이졸린주2그램(세파졸린나트륨)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201404434",
+          "product_name": "일동세파졸린주사1그램(세파졸린나트륨)(수출용)",
+          "company_name": "일동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201404435",
+          "product_name": "일동세파졸린주사2그램(세파졸린나트륨)(수출용)",
+          "company_name": "일동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 21,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r5",
+      "name_as_written": "케포돈v",
+      "search_term": "케포돈",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "199501140",
+          "product_name": "케포돈1그람주(세파제돈나트륨)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202301568",
+          "product_name": "케포돈2그램주(세파제돈나트륨)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202400158",
+          "product_name": "케포돈0.5그램주(세파제돈나트륨)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 3,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r6",
+      "name_as_written": "세포티암v",
+      "search_term": "세포티암",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198200044",
+          "product_name": "세라도란정주1그램(세포티암염산염)",
+          "company_name": "에이치케이이노엔(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198200044",
+          "product_name": "세라도란정주1그램(세포티암염산염)",
+          "company_name": "에이치케이이노엔(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199200235",
+          "product_name": "종근당세포티암정주1그램(세포티암염산염)(수출명:퉁안정주1그램)",
+          "company_name": "(주)종근당",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199301045",
+          "product_name": "삼천당세포티암주1g(세포티암염산염)(수출명:세포티아젠주1g)",
+          "company_name": "삼천당제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199302366",
+          "product_name": "폰티암정주1그램(세포티암염산염)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199400300",
+          "product_name": "삼성세포티암주1.0그람",
+          "company_name": "삼성제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199401114",
+          "product_name": "제티암주0.5그램(세포티암염산염)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199401115",
+          "product_name": "제티암주1그램(세포티암염산염)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199700728",
+          "product_name": "곰티암주1그램(세포티암염산염)",
+          "company_name": "대웅바이오(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199900254",
+          "product_name": "세라돌주1그램(세포티암염산염)",
+          "company_name": "이연제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101381",
+          "product_name": "유니온세포티암주500mg(세포티암염산염)(수출용)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101382",
+          "product_name": "유니온세포티암주1그램(세포티암염산염)(수출명:UCETIM Inj.1g)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200201870",
+          "product_name": "세티암주1그램(세포티암염산염·건조탄산나트륨)(수출용)",
+          "company_name": "경동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200302538",
+          "product_name": "뉴티암주500밀리그램, 1그램(세포티암염산염)(수출용)",
+          "company_name": "대한뉴팜(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200502898",
+          "product_name": "올치암주1그램(세포티암염산염)",
+          "company_name": "한올바이오파마(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200503017",
+          "product_name": "경보세포티암염산염정주1.0그램",
+          "company_name": "(주)경보제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200701241",
+          "product_name": "세포챰주0.25그램(세포티암염산염)(수출명: 케미스포린정주용0.25그램)",
+          "company_name": "(주)보령",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200702761",
+          "product_name": "종근당세포티암주피내반응용(세포티암염산염)",
+          "company_name": "(주)종근당",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200705625",
+          "product_name": "코러스염산세포티암주1그람(세포티암염산염)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200705628",
+          "product_name": "코러스염산세포티암주0.5그람(세포티암염산염)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201003605",
+          "product_name": "일양세포티암염산염주(수출용)",
+          "company_name": "일양약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201102116",
+          "product_name": "콘티암정200밀리그람(세포티암헥세틸염산염)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201102117",
+          "product_name": "콘티암정100밀리그람(세포티암헥세틸염산염)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201403089",
+          "product_name": "화일세포티암염산염주1g(수출용)",
+          "company_name": "화일약품(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 30,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r7",
+      "name_as_written": "뉴클러캡슐",
+      "search_term": "뉴클러캡슐",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200301172",
+          "product_name": "뉴클러캡슐(세파클러수화물)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r8",
+      "name_as_written": "티라목스",
+      "search_term": "티라목스",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "199501221",
+          "product_name": "티라목스0.6그램주(아목시실린나트륨·클라불란산칼륨)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199501222",
+          "product_name": "티라목스1.2그램주(아목시실린나트륨·클라불란산칼륨)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101600",
+          "product_name": "티라목스정375mg(아목시실린-클라불란산칼륨)(2:1)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200201383",
+          "product_name": "티라목스에스건조시럽[아목시실린.클라불란산칼륨(7:1)]",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201405483",
+          "product_name": "티라목스정625mg(아목시실린-클라불란산칼륨)(4:1)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 5,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r9",
+      "name_as_written": "아미카신",
+      "search_term": "아미카신",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198200255",
+          "product_name": "아믹탐주사액250밀리그램(아미카신황산염)(수출명:Amikin)",
+          "company_name": "케이엠에스제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900066",
+          "product_name": "신풍아미카신황산염주사액250밀리그램(수출명:AMIKAYE Injection 250mg)",
+          "company_name": "신풍제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900080",
+          "product_name": "신풍아미카신황산염주사액500밀리그램(수출명:AMIKAYE Injection)",
+          "company_name": "신풍제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198200255",
+          "product_name": "아믹탐주사액250밀리그램(아미카신황산염)(수출명:Amikin)",
+          "company_name": "케이엠에스제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198900066",
+          "product_name": "신풍아미카신황산염주사액250밀리그램(수출명:AMIKAYE Injection 250mg)",
+          "company_name": "신풍제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198900080",
+          "product_name": "신풍아미카신황산염주사액500밀리그램(수출명:AMIKAYE Injection)",
+          "company_name": "신풍제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199200930",
+          "product_name": "삼천당아미카신주250mg(아미카신황산염)",
+          "company_name": "삼천당제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199202915",
+          "product_name": "아디칸주사액250밀리그램(아미카신황산염)(수출명:유니디칸주)",
+          "company_name": "유니메드제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199202953",
+          "product_name": "아디칸주사액500밀리그램(아미카신황산염)(수출명:황산아미카신주500밀리그램, 유니카신주500밀리그램, 유카젝트500밀리그램, 유니디칸주)",
+          "company_name": "유니메드제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199301170",
+          "product_name": "명인아미카신주250밀리그램(황산아미카신)(수출용)",
+          "company_name": "명인제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199301171",
+          "product_name": "명인아미카신주500밀리그램(황산아미카신)(수출용)",
+          "company_name": "명인제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199400631",
+          "product_name": "아주아미카신황산염주사250밀리그람",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199400632",
+          "product_name": "아주아미카신황산염주사500밀리그람",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199401101",
+          "product_name": "마카린주사액250mg(아미카신황산염)",
+          "company_name": "(주)한국파마",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199903371",
+          "product_name": "루카시놀주(아미카신황산염)",
+          "company_name": "(주)유영제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200100635",
+          "product_name": "제일제약아미카신황산염주250mg(수출용)",
+          "company_name": "(주)제일제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101387",
+          "product_name": "유니온아미카신주250밀리그램(아미카신황산염)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200200253",
+          "product_name": "중외아미카신황산염프리믹스주",
+          "company_name": "제이더블유중외제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200200520",
+          "product_name": "제일제약아미카신황산염주125mg/mL(수출용)",
+          "company_name": "(주)제일제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200302530",
+          "product_name": "마이킨주500밀리그램(아미카신황산염)(수출용)",
+          "company_name": "대한뉴팜(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200308626",
+          "product_name": "마이킨주(아미카신황산염)(수출용)",
+          "company_name": "대한뉴팜(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200403164",
+          "product_name": "글리녹스주사(아미카신황산염)(수출명 : GLYNOX Inj., KACINA INJ., Kacinas Inj., Amyofarc Injection)(수출용)",
+          "company_name": "(주)휴온스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200600297",
+          "product_name": "인터메딕황산아미카신주500mg(수출용)(수출용 : BIOSMICIN Inj.)",
+          "company_name": "천우신약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200805219",
+          "product_name": "아미카주500밀리그램(아미카신황산염)(바이알)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200805814",
+          "product_name": "아미카주250밀리그램(황산아미카신)(바이알)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200902190",
+          "product_name": "아페독스주500밀리그램(황산아미카신)(수출용)",
+          "company_name": "광동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201002333",
+          "product_name": "제일제약아미카신황산염주500mg(아미카신황산염)(수출용)",
+          "company_name": "(주)제일제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201007787",
+          "product_name": "아주아미카신황산염주사250밀리그램(바이알)(수출용)",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201209714",
+          "product_name": "명문아미카신황산염주사500밀리그람(수출용)",
+          "company_name": "명문제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201401943",
+          "product_name": "파마아미카신주 500mg(아미카신황산염)(수출용)",
+          "company_name": "(주)한국파마",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201403256",
+          "product_name": "아스카신주(아미카신황산염)",
+          "company_name": "(주)오스코리아제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201502807",
+          "product_name": "동광아미카신주250mg(아미카신황산염)",
+          "company_name": "동광제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 34,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r10",
+      "name_as_written": "씨프록탄",
+      "search_term": "씨프록탄",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "199602021",
+          "product_name": "씨프록탄정250밀리그램(시프로플록사신염산염수화물)",
+          "company_name": "한국넬슨제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199602022",
+          "product_name": "씨프록탄정500mg(시프로플록사신염산염수화물)",
+          "company_name": "한국넬슨제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p2:r11",
+      "name_as_written": "씨프록주",
+      "search_term": "씨프록주",
+      "source_file": "약공부★★★.pdf",
+      "page": 2,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201804926",
+          "product_name": "씨프록주(시프로플록사신)",
+          "company_name": "(주)넥스팜코리아",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p3:r1",
+      "name_as_written": "아모디핀정",
+      "search_term": "아모디핀정",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200402637",
+          "product_name": "아모디핀정5밀리그램(암로디핀캄실산염)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202002271",
+          "product_name": "아모디핀정2.5밀리그램(암로디핀캄실산염)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p3:r2",
+      "name_as_written": "다이클로짇",
+      "search_term": "다이클로짇",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [],
+      "match_status": "not_found",
+      "total_count": 0,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p3:r3",
+      "name_as_written": "아토타틴",
+      "search_term": "아토타틴",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201307038",
+          "product_name": "아토타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201404537",
+          "product_name": "아토타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+          "company_name": "(주)일화",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p3:r4",
+      "name_as_written": "로수탄",
+      "search_term": "로수탄",
+      "source_file": "약공부★★★.pdf",
+      "page": 3,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201001013",
+          "product_name": "로수탄정10밀리그램(로수바스타틴칼슘)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201502564",
+          "product_name": "로수탄정5밀리그램(로수바스타틴칼슘)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201503865",
+          "product_name": "로수탄정20밀리그램(로수바스타틴칼슘)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201606049",
+          "product_name": "로수탄젯정10/10밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201606050",
+          "product_name": "로수탄젯정10/5밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201606051",
+          "product_name": "로수탄젯정10/20밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201803962",
+          "product_name": "로수탄메트정750/10밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201803963",
+          "product_name": "로수탄메트정500/10밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201903376",
+          "product_name": "로수탄메트정750/5밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201903377",
+          "product_name": "로수탄메트정500/5밀리그램",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601853",
+          "product_name": "로수탄젯오디정10/20밀리그램(에제티미브, 로수바스타틴칼슘)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601856",
+          "product_name": "로수탄젯오디정10/5밀리그램(에제티미브, 로수바스타틴칼슘)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202601857",
+          "product_name": "로수탄젯오디정10/10밀리그램(에제티미브, 로수바스타틴칼슘)",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 13,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r1",
+      "name_as_written": "덱사메타손",
+      "search_term": "덱사메타손",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "196300064",
+          "product_name": "부광덱사메타손정",
+          "company_name": "부광약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "197500145",
+          "product_name": "제일덱사메타손주사액(덱사메타손포스페이트이나트륨)",
+          "company_name": "(주)제일제약",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "197800388",
+          "product_name": "신일덱사메타손정",
+          "company_name": "신일제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198400277",
+          "product_name": "유한디나트륨인산덱사메타손주사액(수출명:덱사컴,유한덱사컴)",
+          "company_name": "(주)유한양행",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198902460",
+          "product_name": "페리덱스연고(덱사메타손)",
+          "company_name": "(주)녹십자",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "196300064",
+          "product_name": "부광덱사메타손정",
+          "company_name": "부광약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "197500145",
+          "product_name": "제일덱사메타손주사액(덱사메타손포스페이트이나트륨)",
+          "company_name": "(주)제일제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "197800388",
+          "product_name": "신일덱사메타손정",
+          "company_name": "신일제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198400277",
+          "product_name": "유한디나트륨인산덱사메타손주사액(수출명:덱사컴,유한덱사컴)",
+          "company_name": "(주)유한양행",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198902460",
+          "product_name": "페리덱스연고(덱사메타손)",
+          "company_name": "(주)녹십자",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199401023",
+          "product_name": "삼남덱사메타손정",
+          "company_name": "삼남제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199403242",
+          "product_name": "맥시덱스점안액(덱사메타손)",
+          "company_name": "한국노바티스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199403258",
+          "product_name": "맥시덱스안연고(덱사메타손)",
+          "company_name": "한국노바티스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199602099",
+          "product_name": "리포타손주(덱사메타손팔미테이트)",
+          "company_name": "(주)킴스제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199602981",
+          "product_name": "유한덱사메타손정",
+          "company_name": "(주)유한양행",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101425",
+          "product_name": "유니덱사주(덱사메타손포스페이트이나트륨)(수출용)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200200559",
+          "product_name": "유덱손주(디나트륨인산덱사메타손)(수출명:DexamethasoneInjection)",
+          "company_name": "(주)마더스제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200201703",
+          "product_name": "덱사톱크림(덱사메타손프로피오네이트)",
+          "company_name": "오스틴제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200300467",
+          "product_name": "제일제약덱사메타손주사액4.37mg(덱사메타손포스페이트이나트륨)(수출용)",
+          "company_name": "(주)제일제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200300491",
+          "product_name": "토베손점안액(토브라마이신,덱사메타손)",
+          "company_name": "대우제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200502890",
+          "product_name": "네오덱스안연고(덱사메타손,네오마이신황산염,폴리믹신B황산염)",
+          "company_name": "한림제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200701272",
+          "product_name": "중외덱사메타손디나트륨인산염주4밀리그람(덱사메타손디나트륨인산염) (수출용)(수출명: Dexamethasone Inj. 4mg)",
+          "company_name": "제이더블유중외제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200902585",
+          "product_name": "코러스덱사메타손주(덱사메타손디나트륨인산염)(수출용)",
+          "company_name": "한국코러스(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201001929",
+          "product_name": "휴메딕스덱사메타손포스페이트이나트륨주사",
+          "company_name": "(주)휴메딕스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201101486",
+          "product_name": "오저덱스이식제700㎍(덱사메타손)",
+          "company_name": "한국애브비(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201111067",
+          "product_name": "덱사메틴주(덱사메타손포스페이트이나트륨)(수출용)",
+          "company_name": "대한뉴팜(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201401482",
+          "product_name": "파마덱사메타손주(덱사메타손포스페이트이나트륨)(수출용)",
+          "company_name": "(주)한국파마",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201707893",
+          "product_name": "경동덱사메타손주(덱사메타손포스페이트이나트륨)(수출용)",
+          "company_name": "경동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202004515",
+          "product_name": "이바나파연고(덱사메타손)",
+          "company_name": "태극제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202202321",
+          "product_name": "리포타론주(덱사메타손팔미테이트)(수출용)",
+          "company_name": "타나베파마코리아주식회사",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202203949",
+          "product_name": "덱사하이정4밀리그램(덱사메타손)",
+          "company_name": "(주)대웅제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202302911",
+          "product_name": "토베손점안액(토브라마이신,덱사메타손)(수출용)",
+          "company_name": "대우제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 34,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r2",
+      "name_as_written": "가스터",
+      "search_term": "가스터",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198600114",
+          "product_name": "동아가스터정20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198600114",
+          "product_name": "동아가스터정20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200109233",
+          "product_name": "가스터디정20㎎(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202203264",
+          "product_name": "가스터주사액20밀리그램(파모티딘)",
+          "company_name": "동아에스티(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 4,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r3",
+      "name_as_written": "암브록솔",
+      "search_term": "암브록솔",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198800057",
+          "product_name": "암펙솔정(암브록솔염산염)",
+          "company_name": "한국휴텍스제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198800558",
+          "product_name": "암브렉트정(암브록솔염산염)",
+          "company_name": "동화약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198801976",
+          "product_name": "암브로콜정(암브록솔,클렌부테롤)",
+          "company_name": "한미약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198801980",
+          "product_name": "암브로콜시럽(암브록솔,클렌부테롤)",
+          "company_name": "한미약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900635",
+          "product_name": "앰브로주사(암브록솔염산염)",
+          "company_name": "아주약품(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198900699",
+          "product_name": "록솔정(암브록솔염산염)",
+          "company_name": "삼아제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198901605",
+          "product_name": "영일염산암브록솔정",
+          "company_name": "영일제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "198902158",
+          "product_name": "다이투스정(암브록솔염산염)",
+          "company_name": "구주제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        },
+        {
+          "item_seq": "199000146",
+          "product_name": "동광염산암브록솔주사",
+          "company_name": "동광제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198800057",
+          "product_name": "암펙솔정(암브록솔염산염)",
+          "company_name": "한국휴텍스제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198800558",
+          "product_name": "암브렉트정(암브록솔염산염)",
+          "company_name": "동화약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198801976",
+          "product_name": "암브로콜정(암브록솔,클렌부테롤)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198801980",
+          "product_name": "암브로콜시럽(암브록솔,클렌부테롤)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198900635",
+          "product_name": "앰브로주사(암브록솔염산염)",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198900699",
+          "product_name": "록솔정(암브록솔염산염)",
+          "company_name": "삼아제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198901605",
+          "product_name": "영일염산암브록솔정",
+          "company_name": "영일제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "198902158",
+          "product_name": "다이투스정(암브록솔염산염)",
+          "company_name": "구주제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199000146",
+          "product_name": "동광염산암브록솔주사",
+          "company_name": "동광제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199102030",
+          "product_name": "팜젠암브록솔염산염시럽",
+          "company_name": "(주)팜젠사이언스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199102276",
+          "product_name": "파비스암브록솔염산염정",
+          "company_name": "(주)한국파비스제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199300458",
+          "product_name": "일동암브록솔주사액(암브록솔염산염)",
+          "company_name": "일동제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199300554",
+          "product_name": "위더스염산암브록솔정",
+          "company_name": "위더스제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199301549",
+          "product_name": "아세르정(암브록솔염산염)",
+          "company_name": "삼남제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199302020",
+          "product_name": "아록솔주(암브록솔염산염)",
+          "company_name": "(주)비씨월드제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199302027",
+          "product_name": "아록솔정(암브록솔염산염)",
+          "company_name": "(주)비씨월드제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199302175",
+          "product_name": "이텍스암브록솔정(암브록솔염산염)",
+          "company_name": "(주)테라젠이텍스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199400026",
+          "product_name": "로이솔주사액(암브록솔염산염)",
+          "company_name": "신풍제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199400028",
+          "product_name": "로이솔정(암브록솔염산염)",
+          "company_name": "신풍제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199401315",
+          "product_name": "오스틴암브록솔염산염정",
+          "company_name": "오스틴제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199602639",
+          "product_name": "휴온스암브록솔염산염주사액(수출명:AMBROXINJ.)",
+          "company_name": "(주)휴온스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199802171",
+          "product_name": "이텍스암브록솔시럽(암브록솔염산염)",
+          "company_name": "(주)테라젠이텍스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199804331",
+          "product_name": "넥스팜염산암부록솔정(암브록솔염산염)",
+          "company_name": "(주)넥스팜코리아",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200100163",
+          "product_name": "뮤코브이시럽(암브록솔염산염)",
+          "company_name": "이연제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101401",
+          "product_name": "유니온암브록솔정(암브록솔염산염)(수출명:Unibraxol Tab., Broxol Tab.)(수출용)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200101403",
+          "product_name": "유니온암브록솔주(암브록솔염산염)",
+          "company_name": "한국유니온제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200202717",
+          "product_name": "명문암브록솔염산염주사",
+          "company_name": "명문제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200709505",
+          "product_name": "앰브로캡슐(염산암브록솔)(수출명:앰브로캡(AMBROCAP))(수출용)",
+          "company_name": "아주약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200804359",
+          "product_name": "암브콜흡입액(암브록솔염산염)",
+          "company_name": "한미약품(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200807573",
+          "product_name": "아모펙트정(암브록솔염산염)(수출용)",
+          "company_name": "(주)메디카코리아",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "200900740",
+          "product_name": "뮤코펙트정(암브록솔염산염)",
+          "company_name": "오펠라헬스케어코리아(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201100121",
+          "product_name": "암브록주(암브록솔염산염)",
+          "company_name": "(주)제일제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201206250",
+          "product_name": "뮤코테라트로키제(암브록솔염산염)",
+          "company_name": "(주)테라젠이텍스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201301497",
+          "product_name": "동구암브록솔염산염주15mg(수출용)",
+          "company_name": "(주)동구바이오제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201304742",
+          "product_name": "암브론정30mg(암브록솔염산염)",
+          "company_name": "조아제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201400595",
+          "product_name": "알리코암브록솔염산염정(수출용)(수출명: MEDIBRO)",
+          "company_name": "알리코제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201401232",
+          "product_name": "팜젠암브록솔염산염정30mg",
+          "company_name": "(주)팜젠사이언스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201403114",
+          "product_name": "제뉴원암브록솔염산염정(수출용)",
+          "company_name": "주식회사제뉴원사이언스",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201403938",
+          "product_name": "이든암브록솔염산염정(암브록솔염산염)",
+          "company_name": "(주)이든파마",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201405014",
+          "product_name": "브록솔정(암브록솔염산염)",
+          "company_name": "(주)휴비스트제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201502964",
+          "product_name": "뮤코로솔정(암브록솔염산염)",
+          "company_name": "태극제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201604659",
+          "product_name": "오코솔주(암브록솔염산염)",
+          "company_name": "(주)오스코리아제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201606789",
+          "product_name": "파비스암브록솔염산염정(수출용)",
+          "company_name": "(주)한국파비스제약",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202105351",
+          "product_name": "팜뮤코정(암브록솔염산염)",
+          "company_name": "(주)유앤생명과학",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "202400659",
+          "product_name": "씨엠지암브록솔정(암브록솔염산염)",
+          "company_name": "(주)씨엠지제약",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 56,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r4",
+      "name_as_written": "트리넥삼산주",
+      "search_term": "트리넥삼산주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [],
+      "match_status": "not_found",
+      "total_count": 0,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r5",
+      "name_as_written": "프랙타주",
+      "search_term": "프랙타주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [],
+      "match_status": "not_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r6",
+      "name_as_written": "삐콤헥사주",
+      "search_term": "삐콤헥사주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "198700423",
+          "product_name": "삐콤헥사주(수출명:에너비트주)",
+          "company_name": "(주)유한양행",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "198700423",
+          "product_name": "삐콤헥사주(수출명:에너비트주)",
+          "company_name": "(주)유한양행",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "199900533",
+          "product_name": "유한삐콤헥사주사(수출용)",
+          "company_name": "(주)유한양행",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r7",
+      "name_as_written": "푸락스주",
+      "search_term": "푸락스주",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "199702410",
+          "product_name": "푸락스주(프리디놀메실산염)",
+          "company_name": "하나제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r8",
+      "name_as_written": "아르믹스",
+      "search_term": "아르믹스",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "199203486",
+          "product_name": "아르믹스주",
+          "company_name": "대한약품공업(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r9",
+      "name_as_written": "안티라제",
+      "search_term": "안티라제",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200502066",
+          "product_name": "안티라제정(수출명: Strikase)",
+          "company_name": "(주)한국비엠아이",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r10",
+      "name_as_written": "세카론정",
+      "search_term": "세카론정",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "199401133",
+          "product_name": "세카론정(아플로쿠알론)",
+          "company_name": "삼진제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p4:r11",
+      "name_as_written": "마그밀정",
+      "search_term": "마그밀정",
+      "source_file": "약공부★★★.pdf",
+      "page": 4,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [
+        {
+          "item_seq": "197400246",
+          "product_name": "마그밀정(수산화마그네슘)",
+          "company_name": "삼남제약(주)",
+          "permit_status": "정상",
+          "source": "previously_downloaded_mfds_list"
+        }
+      ],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "197400246",
+          "product_name": "마그밀정(수산화마그네슘)",
+          "company_name": "삼남제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p5:r1",
+      "name_as_written": "비카페롤",
+      "search_term": "비카페롤",
+      "source_file": "약공부★★★.pdf",
+      "page": 5,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "201802763",
+          "product_name": "비카페롤플러스정",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        },
+        {
+          "item_seq": "201802764",
+          "product_name": "비카페롤정",
+          "company_name": "동국제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 2,
+      "truncated": false
+    },
+    {
+      "candidate_id": "note:p5:r2",
+      "name_as_written": "판토마그",
+      "search_term": "판토마그",
+      "source_file": "약공부★★★.pdf",
+      "page": 5,
+      "scope_status": "user_reported_hospital_subset",
+      "product_verification": "pending",
+      "item_seq": null,
+      "official_product_name": null,
+      "strength": null,
+      "dosage_form": null,
+      "routes": [],
+      "local_candidates": [],
+      "source_role": "name_discovery_only",
+      "note": "공부용 설명은 임상 답변 근거로 사용하지 않음",
+      "official_candidates": [
+        {
+          "item_seq": "200905591",
+          "product_name": "판토마그정",
+          "company_name": "경남제약(주)",
+          "hospital_adoption": "unconfirmed"
+        }
+      ],
+      "match_status": "candidates_found",
+      "total_count": 1,
+      "truncated": false
+    }
+  ],
+  "errors": [],
+  "product_count": 233
+}

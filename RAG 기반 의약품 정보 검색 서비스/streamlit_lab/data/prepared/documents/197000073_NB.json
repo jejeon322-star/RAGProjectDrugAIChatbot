@@ -1,0 +1,170 @@
+{
+  "doc_id": "mfds:197000073:NB",
+  "drug_id": "mfds:197000073",
+  "scope_type": "product",
+  "title": "투수크친시럽(수출용) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000073/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000073.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20151217",
+  "collected_at": "2026-10-22T05:19:37.896870+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "임부 또는 임신하고 있을 가능성이 있는 부인",
+          "raw_content": "임부 또는 임신하고 있을 가능성이 있는 부인"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 본인 또는 양친, 형제 등이 두드러기, 접촉성 피부염, 알레르기성 비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 환자",
+          "raw_content": "1) 본인 또는 양친, 형제 등이 두드러기, 접촉성 피부염, 알레르기성 비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 약으로 알레르기 증상(예를 들면 발열, 발진, 관절통, 가려움 등)을 일으킨 일이 있는 환자",
+          "raw_content": "2) 약으로 알레르기 증상(예를 들면 발열, 발진, 관절통, 가려움 등)을 일으킨 일이 있는 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 간장애, 신장애, 갑상선질환, 당뇨병 등 병이 있는 환자, 고열 환자, 허약자",
+          "raw_content": "3) 간장애, 신장애, 갑상선질환, 당뇨병 등 병이 있는 환자, 고열 환자, 허약자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 심장애 및 고혈압 환자, 고령자",
+          "raw_content": "4) 심장애 및 고혈압 환자, 고령자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 수유부",
+          "raw_content": "5) 수유부"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 녹내장(눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자",
+          "raw_content": "6) 녹내장(눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 의사의 치료를 받고 있는 환자",
+          "raw_content": "7) 의사의 치료를 받고 있는 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약을 투여함으로써 발진, 발적, 구역, 구토, 식욕부진, 어지러움 등이 나타날 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.",
+          "raw_content": "1) 이 약을 투여함으로써 발진, 발적, 구역, 구토, 식욕부진, 어지러움 등이 나타날 경우에는 투여를 중지하고 의사 또는 약사와 상의한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약을 투여함으로써 졸음이 나타날 수 있으므로 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.",
+          "raw_content": "2) 이 약을 투여함으로써 졸음이 나타날 수 있으므로 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정해진 용법·용량을 잘 지킨다.",
+          "raw_content": "1) 정해진 용법·용량을 잘 지킨다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수회 투여하여도 증상의 개선이 없을 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.",
+          "raw_content": "2) 수회 투여하여도 증상의 개선이 없을 경우에는 투여를 중지하고 의사 또는 약사와 상의한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 소아에게 투여할 경우에는 보호자의 지도·감독 하에 투여한다.",
+          "raw_content": "3) 소아에게 투여할 경우에는 보호자의 지도·감독 하에 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등과 병용투여하지 않는다.",
+          "raw_content": "다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등과 병용투여하지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.",
+          "raw_content": "만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직사일광을 피하고 될 수 있으면 습기가 적고 서늘한 곳에 밀전하여 보관한다.",
+          "raw_content": "2) 직사일광을 피하고 될 수 있으면 습기가 적고 서늘한 곳에 밀전하여 보관한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 보관한다.",
+          "raw_content": "3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 보관한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음 환자에는 투여하지 말 것.\n\n임부 또는 임신하고 있을 가능성이 있는 부인\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 본인 또는 양친, 형제 등이 두드러기, 접촉성 피부염, 알레르기성 비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 환자\n\n2) 약으로 알레르기 증상(예를 들면 발열, 발진, 관절통, 가려움 등)을 일으킨 일이 있는 환자\n\n3) 간장애, 신장애, 갑상선질환, 당뇨병 등 병이 있는 환자, 고열 환자, 허약자\n\n4) 심장애 및 고혈압 환자, 고령자\n\n5) 수유부\n\n6) 녹내장(눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자\n\n7) 의사의 치료를 받고 있는 환자\n\n3. 이상반응\n\n1) 이 약을 투여함으로써 발진, 발적, 구역, 구토, 식욕부진, 어지러움 등이 나타날 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.\n\n2) 이 약을 투여함으로써 졸음이 나타날 수 있으므로 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.\n\n4. 일반적주의\n\n1) 정해진 용법·용량을 잘 지킨다.\n\n2) 수회 투여하여도 증상의 개선이 없을 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.\n\n3) 소아에게 투여할 경우에는 보호자의 지도·감독 하에 투여한다.\n\n5. 상호작용\n\n다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등과 병용투여하지 않는다.\n\n6. 소아에 대한 투여\n\n만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.\n\n7. 저장상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관한다.\n\n2) 직사일광을 피하고 될 수 있으면 습기가 적고 서늘한 곳에 밀전하여 보관한다.\n\n3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 보관한다.",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부 또는 임신하고 있을 가능성이 있는 부인]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인 또는 양친, 형제 등이 두드러기, 접촉성 피부염, 알레르기성 비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 약으로 알레르기 증상(예를 들면 발열, 발진, 관절통, 가려움 등)을 일으킨 일이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간장애, 신장애, 갑상선질환, 당뇨병 등 병이 있는 환자, 고열 환자, 허약자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 심장애 및 고혈압 환자, 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 녹내장(눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 투여함으로써 발진, 발적, 구역, 구토, 식욕부진, 어지러움 등이 나타날 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약을 투여함으로써 졸음이 나타날 수 있으므로 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수회 투여하여도 증상의 개선이 없을 경우에는 투여를 중지하고 의사 또는 약사와 상의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소아에게 투여할 경우에는 보호자의 지도·감독 하에 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등과 병용투여하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 될 수 있으면 습기가 적고 서늘한 곳에 밀전하여 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 의한 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "eb7e946a7a0c46b1369aef69621ad2e3d116735b7dd035bf243a1cc352d21721"
+}

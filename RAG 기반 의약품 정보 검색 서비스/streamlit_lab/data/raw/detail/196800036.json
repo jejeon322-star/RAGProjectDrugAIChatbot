@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196800036",
+        "ITEM_NAME": "판콜에이내복액",
+        "ENTP_NAME": "동화약품(주)",
+        "ITEM_PERMIT_DATE": "19680827",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "미황색의 투명한 액제",
+        "BAR_CODE": "8806427035302,8806427035319,8806427035326,8806427035333",
+        "MATERIAL_NAME": "총량 : 1병 (30mL) 중|성분명 : 아세트아미노펜|분량 : 300.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1병 (30mL) 중|성분명 : 구아이페네신|분량 : 80.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1병 (30mL) 중|성분명 : 펜톡시베린시트르산염|분량 : 15.0|단위 : 밀리그램|규격 : JP|성분정보 : |비고 : ;총량 : 1병 (30mL) 중|성분명 : 페닐레프린염산염|분량 : 10.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1병 (30mL) 중|성분명 : 클로르페니라민말레산염|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1병 (30mL) 중|성분명 : 카페인무수물|분량 : 30.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196800036/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196800036/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196800036/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196800036/II",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30mL/병 x 3, 30mL/병 x 5",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1331",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20251110",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-11-10/사용상의 주의사항, 2025-04-15/사용상의 주의사항, 2022-01-24/사용상주의사항변경(부작용포함), 2019-03-13/사용상주의사항변경(부작용포함), 2017-02-06/저장방법 및 유효기간(사용기간)변경, 2017-02-06/효능효과변경, 2017-02-06/사용상주의사항변경(부작용포함), 2015-02-14/사용상주의사항변경(부작용포함), 2015-01-31/저장방법 및 유효기간(사용기간)변경, 2012-11-22/성상변경, 2012-09-28/사용상주의사항변경(부작용포함), 2012-06-11/사용상주의사항변경(부작용포함), 2011-09-02/저장방법 및 유효기간(사용기간)변경, 2002-10-22/사용상주의사항변경(부작용포함), 2000-06-21/성상변경, 2000-06-21/사용상주의사항변경(부작용포함), 1999-10-27/사용상주의사항변경(부작용포함), 1996-03-25/사용상주의사항변경(부작용포함), 1995-05-17/사용상주의사항변경(부작용포함), 1993-04-13/용법용량변경, 1993-04-13/사용상주의사항변경(부작용포함), 1992-01-01/용법용량변경, 1992-01-01/효능효과변경, 1992-01-01/사용상주의사항변경(부작용포함), 1989-12-19/사용상주의사항변경(부작용포함), 1984-07-06/저장방법 및 유효기간(사용기간)변경, 1984-07-06/용법용량변경, 1984-07-06/효능효과변경, 1984-07-06/용법용량변경, 1977-09-20/사용상주의사항변경(부작용포함), 1968-08-29/성상변경, 1968-08-29",
+        "TOTAL_CONTENT": "1병 (30mL) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[감기 제증상(여러 증상) [콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통]의 완화]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 1회 30ml 1일 3회 식후 30분에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 매일 세잔 이상 정기적으로 술을 마시는 사람이 이 약이나 다른 해열진통제를 복용해야 할 경우 반드시 의사 또는 약사와 상의해야 한다. 이러한 사람이 이 약을 복용하면 간손상이 유발될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 아세트아미노펜을 복용한 환자에서 매우 드물게 급성 전신성 발진성 농포증(급성 전신성 발진성 고름물집증)(AGEP), 스티븐스-존슨 증후군(SJS), 독성 표피 괴사용해(TEN)와 같은 중대한 피부 반응이 보고되었고, 이러한 중대한 피부반응은 치명적일 수 있다. 따라서 이러한 중대한 피부반응의 징후에 대하여 환자들에게 충분히 알리고, 이 약 투여 후 피부발진이나 다른 과민반응의 징후가 나타나면 즉시 복용을 중단하도록 하여야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약은 아세트아미노펜을 함유하고 있다. 아세트아미노펜으로 일일 최대 용량(4,000mg)을 초과할 경우 간손상을 일으킬 수 있으므로 이 약을 일일 최대 용량(4000mg)을 초과하여 복용하여서는 아니되며, 아세트아미노펜을 포함하는 다른 제품과 함께 복용하여서는 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약 및 이 약의 구성성분, 다른 해열진통제, 감기약 복용 시 천식을 일으킨 적이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 만3개월 미만의 영아(젖먹이)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[진해(기침을 그치게 함)거담제, 다른 감기약, 해열진통제, 진정제, 항히스타민제를 함유하는 내복약(비염(코염)용 경구제, 멀미약, 알레르기용약)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 수두 또는 인플루엔자에 감염되어 있거나 또는 의심되는 영아(젖먹이) 및 만 15세 미만의 어린이(구역이나 구토를 수반하는 행동의 변화가 있다면, 드물지만 심각한 질병인 레이증후군의 초기 증상일수 있으므로 의사와 상의할 것.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 본인, 양친 또는 형제 등이 두드러기, 접촉성피부염, 기관지천식, 알레르기성비염, 편두통, 음식물 알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 지금까지 약에 의해 알레르기 증상(예 : 발열, 발진, 관절통, 천식, 가려움증 등)을 일으킨 적이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 간장질환, 신장(콩팥)질환, 심장질환, 갑상선질환, 당뇨병, 고혈압, 위십이지장궤양, 녹내장]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(예 : 눈의 통증, 눈이 침침함 등), 배뇨(소변을 눔)곤란 등이 있는 사람, 몸이 약한 사람 또는 고열이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 속쓰림, 위부불쾌감, 위통과 같은 위장문제가 지속 혹은 재발되거나 궤양, 출혈문제를 가지고 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부(임신 30주 이후 살리실산나트륨, 살리실아미드, 아스피린, 아스피린알루미늄, 살리실산콜린, 이부프로펜 성분 함유 제제의 투여가 권고되지 않는다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 의사 또는 치과의사의 치료를 받고 있는 사람(당뇨약, 통풍약, 관절염약, 항응고제, 스테로이드제 등 다른 약물을 투여 받고 있는 사람)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 다음과 같은 기침이 있는 사람; 흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약의 복용에 의해 다음의 증상이 나타난 경우: 발진·발적(충혈되어 붉어짐), 가려움, 구역·구토, 식욕부진, 변비, 부종(부기), 배뇨(소변을 눔)곤란, 목마름(지속적이거나 심한), 어지러움,&nbsp;고음이온차 대사성 산증(HAGMA)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 복용에 의해 드물게 아래의 중증 증상이 나타난 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[① 쇽(아나필락시) : 복용후 바로 두드러기, 부종(부기), 가슴답답함 등과 함께 안색이 창백하고, 손발이 차고, 식은땀, 숨쉬기 곤란함 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[② 피부점막안증후군(스티븐스-존슨증후군), 중독성표피괴사용해(리엘증후군) : 고열을 동반하고, 발진·발적(충혈되어 붉어짐), 화상과 같이 물집이 생기는 등의 심한 증상이 전신피부, 입이나 눈점막에 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[③ 천식]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[④ 간기능장애 : 전신의 나른함, 황달(피부 또는 눈의 흰자위가 황색을 띄게 됨)등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[⑤ 간질성폐렴 : 기침을 동반하고, 숨이 차고, 호흡곤란, 발열 등이 나타난다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 5～6회 복용하여도 증상이 좋아지지 않을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[만2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 장기간 계속 복용하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 복용시에는 음주하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 복용하는 동안 졸음이 오는 경우가 있으므로 자동차 운전 또는 기계류의 운전 조작을 피할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 바르비탈계 약물, 삼환계 항우울제 및 알코올을 투여한 환자는 다량의 아세트아미노펜을 대사시키는 능력이 감소되어 아세트아미노펜의 혈장 반감기를 증가시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 아세트아미노펜과 플루클록사실린의 병용투여에서 피로글루타민 산증으로 인한 고음이온차 대사성 산증(High anion gap metabolic acidosis, HAGMA)이 보고되었다. 가장 위험도가 높은 환자는 패혈증, 중증의 신기능 장애, 영양실조 등 기저질환이 있는 환자이며, 이 환자들은 한 가지 또는 두 가지 약물을 모두 중단한 후에 호전되었다. 이 약과 플루클록사실린을 동시에 복용할 경우 주의를 기울여야 하고 HAGMA가 의심되면 이 약 및/또는 플루클록사실린 투여를 중단한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손에 닿지 않는 장소에 보관할 것]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하고 될 수 있는 한 습기가 적은 서늘한 곳에 보관할 것]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M222724]페닐레프린염산염|[M223287]펜톡시베린시트르산염|[M050058]구아이페네신|[M040353]아세트아미노펜",
+        "INGR_NAME": "[M007131]정제수|[M040733]프로필렌글리콜|[M095147]수크랄로스|[M095258]레몬엣센스|[M222565]시트르산나트륨수화물|[M223090]시트르산수화물|[M223469]에데트산나트륨수화물|[M235717]프락토올리고당|[M254555]오렌지향HK-111219|[M284425]에탄올(95)",
+        "ATC_CODE": "R05X",
+        "ITEM_ENG_NAME": "PANCOLD-A Solutions",
+        "ENTP_ENG_NAME": "Dongwha Pharm. Co., Ltd.",
+        "MAIN_INGR_ENG": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/Guaifenesin/Pentoxyverine Citrate/Phenylephrine Hydrochloride",
+        "BIZRNO": "1108100102",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

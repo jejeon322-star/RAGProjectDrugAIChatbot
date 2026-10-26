@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "201804678",
+        "ITEM_NAME": "스트렌투엑스정(애엽95%에탄올연조엑스(20→1))",
+        "ITEM_ENG_NAME": "Stren 2X Tab.",
+        "ENTP_NAME": "(주)일화",
+        "ENTP_ENG_NAME": "IL HWA CO.,LTD.",
+        "ENTP_SEQ": "19600002",
+        "ENTP_NO": "1396",
+        "ITEM_PERMIT_DATE": "20181127",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "201804678",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02320]소화성궤양용제",
+        "PRDUCT_PRMISN_NO": "5148",
+        "ITEM_INGR_NAME": "Artemisiae Argyi Folium 95% Ethanol Soft Extract (20→1)",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/154695876019100138",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "640903730",
+        "BIZRNO": "1328101004"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "doc_id": "mfds:197000192:NB",
+  "drug_id": "mfds:197000192",
+  "scope_type": "product",
+  "title": "생리식염주사액(수출명:KWANGMYUNGSODIUMCHLORIDEINJ.0.9%) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000192/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000192.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20070907",
+  "collected_at": "2026-10-22T05:22:15.204554+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리 파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).",
+          "raw_content": "앰플주사제는 용기 절단시 유리 파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함)."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 고나트륨혈증 환자",
+          "raw_content": "1) 고나트륨혈증 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수분과다상태 환자",
+          "raw_content": "2) 수분과다상태 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 부종과 복수를 동반한 간경화 환자",
+          "raw_content": "3) 부종과 복수를 동반한 간경화 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 심장ᆞ순환기계기능장애 환자",
+          "raw_content": "1) 심장&#x119e;순환기계기능장애 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 신장애 환자",
+          "raw_content": "2) 신장애 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 저단백혈증 환자",
+          "raw_content": "3) 저단백혈증 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 저나트륨혈증(120mmol/L 미만) 환자",
+          "raw_content": "4) 저나트륨혈증(120mmol/L 미만) 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 저칼륨혈증 환자",
+          "raw_content": "5) 저칼륨혈증 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 고염소혈증 환자",
+          "raw_content": "6) 고염소혈증 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 말초 또는 폐부종 환자",
+          "raw_content": "7) 말초 또는 폐부종 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 자간전증 환자",
+          "raw_content": "8) 자간전증 환자"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 알도스테론증 또는 나트륨 배설과 관련된 상태나 치료(코르티코스테로이드 또는 코르티코트로핀)중인 환자",
+          "raw_content": "9) 알도스테론증 또는 나트륨 배설과 관련된 상태나 치료(코르티코스테로이드 또는 코르티코트로핀)중인 환자"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 소아 및 고령자",
+          "raw_content": "10) 소아 및 고령자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 대량ᆞ급속투여에 의해 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.",
+          "raw_content": "1) 대량&#x119e;급속투여에 의해 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 투여기술과 관련하여 발열, 주사부위의 감염, 국소통증 또는 반응, 정맥자극, 주사부위로부터 이르는 정맥혈전증 또는 정맥염, 혈관밖유출, 과다혈량이 나타날 수 있다.",
+          "raw_content": "2) 투여기술과 관련하여 발열, 주사부위의 감염, 국소통증 또는 반응, 정맥자극, 주사부위로부터 이르는 정맥혈전증 또는 정맥염, 혈관밖유출, 과다혈량이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 이상반응이 나타나면 투여의 중단, 환자의 평가, 적절한 처치를 실시하고 필요하다면 검사를 위해 잔여액을 남겨둔다.",
+          "raw_content": "3) 이상반응이 나타나면 투여의 중단, 환자의 평가, 적절한 처치를 실시하고 필요하다면 검사를 위해 잔여액을 남겨둔다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적평가는 체액평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.",
+          "raw_content": "지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적평가는 체액평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 의약품의 용기는 가소제로 Di-(2-EthylHexyl)Phthalate(DEHP)를 사용한 PVC 재질로서 DEHP는 어린 동물을 이용한 시험에서 수컷 생식기의 발달 및 정자형성에 영향을 미친다는 보고가 있습니다. 이러한 PVC 용기의 경우 DEHP가 극미량 용출될수 있으나 DEHP에 노출되어 나타나는 위험성은 없거나 거의 없습니다. 따라서 이의약품을 사용하지 않아서 발생할 수 있는 위험성은 DEHP에 의하여 우려되는 위험성보다 훨씬 크기 때문에 사용을 기피할 필요는 없습니다.(DEHP를 사용한 PVC재질의 용기에 한함)",
+          "raw_content": "1) 이 의약품의 용기는 가소제로 Di-(2-EthylHexyl)Phthalate(DEHP)를 사용한 PVC 재질로서 DEHP는 어린 동물을 이용한 시험에서 수컷 생식기의 발달 및 정자형성에 영향을 미친다는 보고가 있습니다. 이러한 PVC 용기의 경우 DEHP가 극미량 용출될수 있으나 DEHP에 노출되어 나타나는 위험성은 없거나 거의 없습니다. 따라서 이의약품을 사용하지 않아서 발생할 수 있는 위험성은 DEHP에 의하여 우려되는 위험성보다 훨씬 크기 때문에 사용을 기피할 필요는 없습니다.(DEHP를 사용한 PVC재질의 용기에 한함)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 고령자는 일반적으로 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 주의한다.",
+          "raw_content": "2) 고령자는 일반적으로 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 조제시 : 주사제의 용해ᆞ희석액으로서 사용하는 경우에 적합성을 확인한다.",
+          "raw_content": "1) 조제시 : 주사제의 용해&#x119e;희석액으로서 사용하는 경우에 적합성을 확인한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 투여전",
+          "raw_content": "2) 투여전"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "(1) 실질적인 색변화, 침전물, 복합적인 불용해, 결정형성 여부를 검사한다.",
+          "raw_content": "(1) 실질적인 색변화, 침전물, 복합적인 불용해, 결정형성 여부를 검사한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "(2) 투여전에 감염에 대한 처치를 한다(환자의 피부나 기구 소독).",
+          "raw_content": "(2) 투여전에 감염에 대한 처치를 한다(환자의 피부나 기구 소독)."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "(3) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.",
+          "raw_content": "(3) 한랭기에는 체온정도로 따뜻하게 하여 사용한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "(4) 개봉 또는 다른 약의 첨가후 즉시 사용하고, 잔액은 사용하지 않는다.",
+          "raw_content": "(4) 개봉 또는 다른 약의 첨가후 즉시 사용하고, 잔액은 사용하지 않는다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "3) 투여시 : 천천히 주입한다.",
+          "raw_content": "3) 투여시 : 천천히 주입한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n앰플주사제는 용기 절단시 유리 파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 고나트륨혈증 환자\n\n2) 수분과다상태 환자\n\n3) 부종과 복수를 동반한 간경화 환자\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 심장ᆞ순환기계기능장애 환자\n\n2) 신장애 환자\n\n3) 저단백혈증 환자\n\n4) 저나트륨혈증(120mmol/L 미만) 환자\n\n5) 저칼륨혈증 환자\n\n6) 고염소혈증 환자\n\n7) 말초 또는 폐부종 환자\n\n8) 자간전증 환자\n\n9) 알도스테론증 또는 나트륨 배설과 관련된 상태나 치료(코르티코스테로이드 또는 코르티코트로핀)중인 환자\n\n10) 소아 및 고령자\n\n4. 이상반응\n\n1) 대량ᆞ급속투여에 의해 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.\n\n2) 투여기술과 관련하여 발열, 주사부위의 감염, 국소통증 또는 반응, 정맥자극, 주사부위로부터 이르는 정맥혈전증 또는 정맥염, 혈관밖유출, 과다혈량이 나타날 수 있다.\n\n3) 이상반응이 나타나면 투여의 중단, 환자의 평가, 적절한 처치를 실시하고 필요하다면 검사를 위해 잔여액을 남겨둔다.\n\n5. 일반적 주의\n\n지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적평가는 체액평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.\n\n6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여\n\n1) 이 의약품의 용기는 가소제로 Di-(2-EthylHexyl)Phthalate(DEHP)를 사용한 PVC 재질로서 DEHP는 어린 동물을 이용한 시험에서 수컷 생식기의 발달 및 정자형성에 영향을 미친다는 보고가 있습니다. 이러한 PVC 용기의 경우 DEHP가 극미량 용출될수 있으나 DEHP에 노출되어 나타나는 위험성은 없거나 거의 없습니다. 따라서 이의약품을 사용하지 않아서 발생할 수 있는 위험성은 DEHP에 의하여 우려되는 위험성보다 훨씬 크기 때문에 사용을 기피할 필요는 없습니다.(DEHP를 사용한 PVC재질의 용기에 한함)\n\n2) 고령자는 일반적으로 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 주의한다.\n\n7. 적용상의 주의\n\n1) 조제시 : 주사제의 용해ᆞ희석액으로서 사용하는 경우에 적합성을 확인한다.\n\n2) 투여전\n\n(1) 실질적인 색변화, 침전물, 복합적인 불용해, 결정형성 여부를 검사한다.\n\n(2) 투여전에 감염에 대한 처치를 한다(환자의 피부나 기구 소독).\n\n(3) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.\n\n(4) 개봉 또는 다른 약의 첨가후 즉시 사용하고, 잔액은 사용하지 않는다.\n\n3) 투여시 : 천천히 주입한다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리 파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 고나트륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수분과다상태 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 부종과 복수를 동반한 간경화 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 심장&#x119e;순환기계기능장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 신장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 저단백혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 저나트륨혈증(120mmol/L 미만) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 저칼륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고염소혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 말초 또는 폐부종 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 자간전증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 알도스테론증 또는 나트륨 배설과 관련된 상태나 치료(코르티코스테로이드 또는 코르티코트로핀)중인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 소아 및 고령자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 대량&#x119e;급속투여에 의해 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 투여기술과 관련하여 발열, 주사부위의 감염, 국소통증 또는 반응, 정맥자극, 주사부위로부터 이르는 정맥혈전증 또는 정맥염, 혈관밖유출, 과다혈량이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이상반응이 나타나면 투여의 중단, 환자의 평가, 적절한 처치를 실시하고 필요하다면 검사를 위해 잔여액을 남겨둔다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적평가는 체액평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부, 수유부, 가임여성, 신생아, 유아, 소아, 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 의약품의 용기는 가소제로 Di-(2-EthylHexyl)Phthalate(DEHP)를 사용한 PVC 재질로서 DEHP는 어린 동물을 이용한 시험에서 수컷 생식기의 발달 및 정자형성에 영향을 미친다는 보고가 있습니다. 이러한 PVC 용기의 경우 DEHP가 극미량 용출될수 있으나 DEHP에 노출되어 나타나는 위험성은 없거나 거의 없습니다. 따라서 이의약품을 사용하지 않아서 발생할 수 있는 위험성은 DEHP에 의하여 우려되는 위험성보다 훨씬 크기 때문에 사용을 기피할 필요는 없습니다.(DEHP를 사용한 PVC재질의 용기에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고령자는 일반적으로 생리기능이 저하되어 있으므로 투여속도를 천천히 하고 감량하는 등 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 조제시 : 주사제의 용해&#x119e;희석액으로서 사용하는 경우에 적합성을 확인한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 투여전]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 실질적인 색변화, 침전물, 복합적인 불용해, 결정형성 여부를 검사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 투여전에 감염에 대한 처치를 한다(환자의 피부나 기구 소독).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(4) 개봉 또는 다른 약의 첨가후 즉시 사용하고, 잔액은 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 투여시 : 천천히 주입한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "ca99a37c8b8d6316dc09ecb1c534f7108c8330102b0436e0514790c397c856e3"
+}

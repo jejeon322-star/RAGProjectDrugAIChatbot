@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:195800020:EE",
+  "drug_id": "mfds:195800020",
+  "scope_type": "product",
+  "title": "마구내신주사액<황산마그네슘수화물> — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195800020/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195800020.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210930",
+  "collected_at": "2026-10-22T05:02:20.540108+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "저마그네슘혈증에 의한 경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)",
+          "raw_content": "저마그네슘혈증에 의한 경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)"
+        }
+      ]
+    }
+  ],
+  "text": "저마그네슘혈증에 의한 경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[저마그네슘혈증에 의한 경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "d65b7ca3162ee8ef5db476f4d13d9fe9512f477c901298a0a950dbdf05135c81"
+}

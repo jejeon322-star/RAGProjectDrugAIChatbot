@@ -1,0 +1,56 @@
+{
+  "doc_id": "mfds:196400099:UD",
+  "drug_id": "mfds:196400099",
+  "scope_type": "product",
+  "title": "크로세린캡슐250밀리그램(시클로세린)(수출명 : Dong-A Cycloserine 250mg) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400099/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196400099.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20190701",
+  "collected_at": "2026-10-22T05:09:42.135207+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 성인 : 시클로세린으로서 1회 250mg(역가)을 1일 2회 경구투여한다.",
+          "raw_content": "○ 성인 : 시클로세린으로서 1회 250mg(역가)을 1일 2회 경구투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1일 용량이 1g(역가)을 초과해서는 안 된다.",
+          "raw_content": "1일 용량이 1g(역가)을 초과해서는 안 된다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "원칙적으로 다른 항결핵제와 병용투여한다.",
+          "raw_content": "원칙적으로 다른 항결핵제와 병용투여한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "○ 성인 : 시클로세린으로서 1회 250mg(역가)을 1일 2회 경구투여한다.\n\n1일 용량이 1g(역가)을 초과해서는 안 된다.\n\n원칙적으로 다른 항결핵제와 병용투여한다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 성인 : 시클로세린으로서 1회 250mg(역가)을 1일 2회 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 용량이 1g(역가)을 초과해서는 안 된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[원칙적으로 다른 항결핵제와 병용투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "6356dcad2487b10f27032a67332c0aa9db74f3fd5d7f246a090f8b01060d30ea"
+}

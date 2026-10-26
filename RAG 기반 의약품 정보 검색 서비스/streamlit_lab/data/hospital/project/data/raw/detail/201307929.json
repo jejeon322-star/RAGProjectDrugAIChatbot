@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201307929",
+        "ITEM_NAME": "시너젯이알세미서방정",
+        "ENTP_NAME": "삼진제약(주)",
+        "ITEM_PERMIT_DATE": "20130628",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "연한 황색의 원형 필름코팅서방정",
+        "BAR_CODE": "8806478038109,8806478038116,8806478038123",
+        "MATERIAL_NAME": "총량 : 1정 (446.35 mg) 중-속방층|성분명 : 아세트아미노펜|분량 : 162.50|단위 : 밀리그램|규격 : USP|성분정보 : |비고 : ;총량 : 1정 (446.35 mg) 중-서방층|성분명 : 트라마돌염산염|분량 : 37.5|단위 : 밀리그램|규격 : EP|성분정보 : |비고 : ;총량 : 1정 (446.35 mg) 중-서방층|성분명 : 아세트아미노펜|분량 : 162.5|단위 : 밀리그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201307929/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201307929/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201307929/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온보관(1-30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "100정/병, 30정/병",
+        "EDI_CODE": "647803810",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1324",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260219",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2026-02-19/사용상주의사항변경(부작용포함), 2025-11-10/사용상주의사항변경(부작용포함), 2025-03-20/사용상주의사항변경(부작용포함), 2024-10-02/사용상의 주의사항, 2023-05-17/사용상주의사항변경(부작용포함), 2022-03-28/성상변경, 2019-05-09/사용상주의사항변경(부작용포함), 2018-04-09/용법용량변경, 2018-04-09/사용상주의사항변경(부작용포함), 2016-02-19/저장방법 및 유효기간(사용기간)변경, 2014-09-25/사용상주의사항변경(부작용포함), 2014-02-18/효능효과변경, 2014-02-18",
+        "TOTAL_CONTENT": "1정 (446.35 mg) 중-속방층/1정 (446.35 mg) 중-서방층/1정 (446.35 mg) 중-코팅층",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040353]아세트아미노펜|[M040353]아세트아미노펜|[M222893]트라마돌염산염",
+        "INGR_NAME": "[M051756]포비돈|[M060511]황색4호|[M080518]저치환도히드록시프로필셀룰로오스|[M083947]콜로이드성이산화규소|[M102967]히프로멜로오스|[M203374]스테아르산|[M223556]스테아르산마그네슘|[M223556]스테아르산마그네슘|[M249539]히드록시프로필셀룰로오스|[M270535]오파드라이QX노란색(321A620000) ",
+        "ATC_CODE": "N02AJ13",
+        "ITEM_ENG_NAME": "Synerjet ER Semi Tab.",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "MAIN_INGR_ENG": "Acetaminophen/Tramadol Hydrochloride",
+        "BIZRNO": "1248531621",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

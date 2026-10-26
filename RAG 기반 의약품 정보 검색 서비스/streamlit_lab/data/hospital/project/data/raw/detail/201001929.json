@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201001929",
+        "ITEM_NAME": "휴메딕스덱사메타손포스페이트이나트륨주사",
+        "ENTP_NAME": "(주)휴메딕스",
+        "ITEM_PERMIT_DATE": "20100308",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "내수용 : 갈색 앰플내의 무색 액체가 들어있는 주사제\n수출용 : 무색 앰플내의 무색 액체가 들어 있는 주사제\n",
+        "BAR_CODE": "8806831003904,8806831003911,8806831003928,8806831003935,8806831003942",
+        "MATERIAL_NAME": "총량 : 1mL 중|성분명 : 덱사메타손포스페이트이나트륨|분량 : 5|단위 : 밀리그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201001929/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201001929/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201001929/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "(내수용) 차광밀봉용기, 실온(1 ~ 30℃)보관, (수출용) 밀봉용기, 차광하여 실온(1~30℃) 보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1밀리리터/앰플[X50(1상자)]",
+        "EDI_CODE": "683100393",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "899",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260325",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2026-03-25/사용상주의사항변경(부작용포함), 2025-05-07/사용상주의사항변경(부작용포함), 2024-06-21/사용상주의사항변경(부작용포함), 2023-01-13/사용상주의사항변경(부작용포함), 2018-11-22/사용상주의사항변경(부작용포함), 2018-06-18/사용상주의사항변경(부작용포함), 2015-09-13/제품명칭변경, 2013-05-24/용법용량변경, 2013-03-19/저장방법 및 유효기간(사용기간)변경, 2012-08-31/성상변경, 2012-08-31/제품명칭변경, 2012-08-31",
+        "TOTAL_CONTENT": "1mL 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M256848]덱사메타손포스페이트이나트륨",
+        "INGR_NAME": "[M040043]글리세린|[M040220]벤질알코올|[M040534]주사용수|[M223469]에데트산나트륨수화물",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "Humedix Dexamethasone Disodium Phosphate Inj.",
+        "ENTP_ENG_NAME": "Humedix",
+        "MAIN_INGR_ENG": "Dexamethasone Disodium Phosphate",
+        "BIZRNO": "2048176343",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

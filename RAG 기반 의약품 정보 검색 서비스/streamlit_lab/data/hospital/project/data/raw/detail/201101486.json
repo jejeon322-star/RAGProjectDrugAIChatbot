@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201101486",
+        "ITEM_NAME": "오저덱스이식제700㎍(덱사메타손)",
+        "ENTP_NAME": "한국애브비(주)",
+        "ITEM_PERMIT_DATE": "20110317",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색 내지 황색을 띠는 백색의 막대형 이식제로 삽입보조장치(Applicator)에 들어있음.",
+        "BAR_CODE": "8806249004906,8806249004913,8806794002105,8806794002112,8806920001705,8806920001712",
+        "MATERIAL_NAME": "총량 : 1 이식제 중|성분명 : 덱사메타손(미분화)|분량 : 700|단위 : 마이크로그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101486/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101486/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101486/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101486/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1-30℃) 보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "700㎍×1개",
+        "EDI_CODE": "624900490",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "325",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품 및 의약외품 수입업",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260224",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2026-02-24/사용상의 주의사항, 2024-02-21/성상변경, 2020-07-14/사용상주의사항변경(부작용포함), 2019-07-23/사용상주의사항변경(부작용포함), 2018-07-18/사용상주의사항변경(부작용포함), 2017-12-26/사용상주의사항변경(부작용포함), 2015-12-12/사용상주의사항변경(부작용포함), 2014-11-05/용법용량변경, 2014-11-05/효능효과변경, 2014-11-05/사용상주의사항변경(부작용포함), 2013-11-27/용법용량변경, 2013-11-27/효능효과변경, 2013-11-27/사용상주의사항변경(부작용포함), 2012-08-09/용법용량변경, 2011-12-06",
+        "TOTAL_CONTENT": "1 이식제 중/1 이식제 중-첨부물",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M283215]덱사메타손(미분화)",
+        "INGR_NAME": "[M099196]주사침|[M251836]리소머 RG 502H, poly(D,L-lactide-co-glycolide)|[M251837]리소머 RG 502, poly(D,L-lactide-co-glycolide)",
+        "ATC_CODE": "S01BA01",
+        "ITEM_ENG_NAME": "Ozurdex Intravitreal Implant 700μg(Dexamethasone)",
+        "ENTP_ENG_NAME": "AbbVie Korea Ltd.",
+        "MAIN_INGR_ENG": "Dexamethasone Micronized",
+        "BIZRNO": "1208780221",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

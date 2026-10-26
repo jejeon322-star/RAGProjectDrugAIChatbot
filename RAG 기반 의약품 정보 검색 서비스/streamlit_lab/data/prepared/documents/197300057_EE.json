@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:197300057:EE",
+  "drug_id": "mfds:197300057",
+  "scope_type": "product",
+  "title": "대한5%쏠비톨주사액 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300057/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300057.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20150717",
+  "collected_at": "2026-10-22T05:28:15.255203+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 간질환, 당뇨병시의 수분·에너지 보급",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 수술전·후의 수분·에너지 보급",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 간질환, 당뇨병시의 수분·에너지 보급\n\n2. 수술전·후의 수분·에너지 보급",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 간질환, 당뇨병시의 수분·에너지 보급\" />\r\n    <ARTICLE title=\"2. 수술전·후의 수분·에너지 보급\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "e67237ae036195002bfc767a3fa011932ebba2b5b1def05674a4dcfe2d6608ad"
+}

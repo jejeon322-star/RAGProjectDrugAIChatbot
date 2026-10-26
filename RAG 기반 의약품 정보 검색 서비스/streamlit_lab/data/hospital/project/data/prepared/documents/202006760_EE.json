@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202006760:EE",
+  "drug_id": "mfds:202006760",
+  "scope_type": "product",
+  "title": "에소메졸디알서방캡슐20밀리그램(에스오메프라졸마그네슘삼수화물) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006760/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202006760_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:43.834396+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 위식도 역류질환(GERD)\n- 미란성 역류식도염의 치료\n- 식도염 환자의 재발방지를 위한 장기간 유지요법",
+  "content_hash": "0c9c939744f907ef7fa829368d449150b0cb475a5ac9db5f881b94012f59043a",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "07541b80ebedbd859345491454582eda8c019143f14f87757a1b27eb54eeca37",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 위식도 역류질환(GERD)\n- 미란성 역류식도염의 치료\n- 식도염 환자의 재발방지를 위한 장기간 유지요법"
+        }
+      ]
+    }
+  ]
+}

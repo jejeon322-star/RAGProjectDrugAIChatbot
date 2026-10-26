@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:197000017:EE",
+  "drug_id": "mfds:197000017",
+  "scope_type": "product",
+  "title": "중외염화칼륨주사액(150㎎/㎖) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000017/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000017.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20230613",
+  "collected_at": "2026-10-22T05:17:33.892520+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 저칼륨혈증(이뇨제 투여후의 저칼륨혈증 포함)",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 디기탈리스 중독",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 저칼륨혈증(이뇨제 투여후의 저칼륨혈증 포함)\n\n2. 디기탈리스 중독",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 저칼륨혈증(이뇨제 투여후의 저칼륨혈증 포함)\" />\r\n    <ARTICLE title=\"2. 디기탈리스 중독\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "47ea78f54348846a293d8595ba7121f0a32e98d143d48b71846e9d2a7cd9a668"
+}

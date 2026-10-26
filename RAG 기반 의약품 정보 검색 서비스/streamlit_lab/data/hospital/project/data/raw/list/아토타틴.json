@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "201307038",
+        "ITEM_NAME": "아토타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+        "ITEM_ENG_NAME": "Atotatin Tab. 10mg",
+        "ENTP_NAME": "(주)일화",
+        "ENTP_ENG_NAME": "IL HWA CO.,LTD.",
+        "ENTP_SEQ": "19600002",
+        "ENTP_NO": "1396",
+        "ITEM_PERMIT_DATE": "20130422",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "201307038",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02180]동맥경화용제",
+        "PRDUCT_PRMISN_NO": "5022",
+        "ITEM_INGR_NAME": "Atorvastatin Calcium Trihydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OS6hQuOK60",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "640902490",
+        "BIZRNO": "1328101004"
+      },
+      {
+        "ITEM_SEQ": "201404537",
+        "ITEM_NAME": "아토타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+        "ITEM_ENG_NAME": "Atotatin Tab. 20mg",
+        "ENTP_NAME": "(주)일화",
+        "ENTP_ENG_NAME": "IL HWA CO.,LTD.",
+        "ENTP_SEQ": "19600002",
+        "ENTP_NO": "1396",
+        "ITEM_PERMIT_DATE": "20140930",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "201404537",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02180]동맥경화용제",
+        "PRDUCT_PRMISN_NO": "5050",
+        "ITEM_INGR_NAME": "Atorvastatin Calcium Trihydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1Opv7e4K6gK",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "640902790",
+        "BIZRNO": "1328101004"
+      }
+    ]
+  }
+}

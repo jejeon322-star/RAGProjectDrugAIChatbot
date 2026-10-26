@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197200086",
+        "ITEM_NAME": "보스민액(에피네프린)",
+        "ENTP_NAME": "제일약품(주)",
+        "ITEM_PERMIT_DATE": "19720617",
+        "CNSGN_MANUF": "(주)퍼슨",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색-미황색이 액체",
+        "BAR_CODE": "8806454003909,8806454003916,8806454003923,8806454003930,8806454003947",
+        "MATERIAL_NAME": "총량 : 100밀리리터 중|성분명 : 에피네프린|분량 : 0.1|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200086/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200086/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200086/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기, 실온(1∼30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "100mL/병",
+        "EDI_CODE": "645400393",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1668",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20260220",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2026-02-20/제품명칭변경, 2021-03-16/저장방법 및 유효기간(사용기간)변경, 2007-04-26/사용상주의사항변경(부작용포함), 2001-01-29/용법용량변경, 2001-01-29/효능효과변경, 2001-01-29/사용상주의사항변경(부작용포함), 1996-09-21/사용상주의사항변경(부작용포함), 1993-02-04/저장방법 및 유효기간(사용기간)변경, 1987-03-24/사용상주의사항변경(부작용포함), 1979-02-27/용법용량변경, 1979-02-27/효능효과변경, 1979-02-27/사용상주의사항변경(부작용포함), 1977-10-06",
+        "TOTAL_CONTENT": "100밀리리터 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[기관지 천식 발작의 완화, 국소 부위의 출혈 (외상, 코, 입, 인후두 점막의 출혈)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 기관지천식 : 0.1% 용액을 5-10배로 희석해서 흡입한다(1회 투여량은 0.3mg 이내). 2-15분이 지나도 효과가 불충분할 경우에는 한번 더 반복한다. 단, 연속 사용이 꼭 필요한 경우에는 4-6시간의 간격을 두어 사용한다.\" />\r\n    <ARTICLE title=\"2. 국소 출혈 : 0.1% 용액을 5-10배로 희석해서 직접 도포하거나 분무한다.\" />\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[폐쇄각 또는 전방이 얇아서 안압 상승의 요인이 있는 환자(안주위부 등에 사용시 폐쇄각 녹내장 환자의 발병을 촉진할 수 있다)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약에 과민증의 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 교감신경 효능약에 과민증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 폐부종 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 갑상선기능항진증 환자(빈맥, 심실세동이 일어날 수 있으며 악화될 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고혈압, 심부전, 부정맥 등 심질환 환자(혈관수축에 의해 급격한 혈압상승이 나타날 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 당뇨병 환자(간의 글리코겐 분해를 촉진하고, 인슐린 분비를 억제하므로, 고혈당을 초래할 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 동맥경화증 환자(혈관수축작용에 의해 폐색성 혈관장애가 촉진되고, 관동맥ㆍ뇌혈관 등의 수축, 기질적 폐색이 나타날 수 있다)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 아황산수소나트륨이 함유되어 있으므로 아황산 아나필락시와 같은 알레르기를 일으킬 수 있으며, 일부 감수성 환자에서는 생명을 위협할 정도 또는 이보다 약한 천식발작을 일으킬 수 있다. 일반 사람에서의 아황산감수성에 대한 총괄적인 빈도는 알려지지 않았으나 낮은 것으로 보이며 아황산감수성은 비천식환자보다 천식환자에서 빈번한 것으로 나타났다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정신신경계 : 때때로 두통, 수지진전, 졸음이 나타나며, 또한 드물게 어지러움, 신경과민, 불면증, 발한 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 감각기계 : 매우 드물게 인두염, 비충혈이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소화기계 : 때때로 식욕부진, 소화불량, 구역, 구토 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 순환기계 : 때때로 창백, 심계항진, 맥박증가, 혈압변동이 나타나며, 드물게 부정맥, 고혈압 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 호흡기계 : 드물게 기관지 경련, 기침, 기관지염, 천명, 흡입시 기도자극증상 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 과민반응 : 매우 드물게 피부 발진, 혈관 부종, 두드러기, 구강인두 부종, 저혈압, 허탈 등의 과민반응이 나타날 수 있으므로 이러한 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 눈 : 때때로 결막, 안검, 눈 주위 등의 과민증상, 결막충혈, 안통 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 전신증상 : 폐부종 등 전신성 증상이 발현될 수 있으며, 이러한 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과도하게 사용을 계속하는 경우 부정맥, 경우에 따라 심정지를 일으킬 우려가 있고 특히 발작 발현시 흡입 투여할 경우에는 과도하게 사용되기 쉬우므로 충분히 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 용법ㆍ용량에 맞게 사용하여도 효과가 나타나지 않는 경우에는 이 약이 적당하지 않은 것으로 생각하고 투여를 중지한다. 또한 소아에 투여시 사용법을 정확히 지도하고 경과를 충분히 관찰한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 외국에서 β2-효능약에 의한 중독한 혈중 칼륨치의 저하가 보고되고 있으며, 저하작용은 크산틴유도체, 스테로이드 및 이뇨제의 병용에 의하여 증강하는 것으로 알려져 있으므로 중증 천식 환자에서는 특히 주의한다. 더욱이 저산소혈증은 혈중 칼륨치를 모니터링하는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 고용량의 다른 교감신경 효능약을 투여 받고 있는 환자에게 이 약을 투여시에는 주의해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 다른 흡입용 β-효능약과 마찬가지로 이 약에 의해 치명적이 될 수 있는 기이성 기관지 경련이 발생될 수 있다. 만약 이러한 증상이 나타나면 즉시 이 약의 투여를 중지하고 다른 치료법으로 대체하여야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 할로탄 등의 할로겐 함유 흡입마취제와 병용투여시 빈맥, 심실세동, 급성 폐부종 발현의 위험성이 증가하므로 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 항정신병약(리스페리돈, 페노치아짓계 약물, 뷰틸로페논계 약물 등), 알파 차단제와 병용투여시 이 약의 혈압상승작용의 반전에 의해 저혈압이 나타날 수 있으므로 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이소프레날린 등의 카테콜아민계 약물, 프로테레놀 등의 에피네프린 효능약과 병용투여시 심부정맥이나, 경우에 따라서 심정지를 일으킬 수 있으므로 소생 등의 위급 상황 이외의 경우에는 병용투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 프로프라놀롤 등의 비선택성 베타차단제와 병용투여시 혈압상승, 서맥이 발생할 수 있으므로 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 인슐린등의 혈당강하제와 병용투여시 혈당강하제의 작용을 감소시킬 수 있으므로 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) MAO 저해제나 삼환계 항우울약으로 치료중인 환자에게 이 약을 투여하면 이 약의 혈관계에 대한 작용이 증강될 수 있으므로 특히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[태아의 산소결핍을 초래할 수 있으므로 임부 및 임신하고 있을 가능성이 있는 부인에게는 투여하지 않는 것이 바람직하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아 등은 전신의 부작용이 나타나기 쉬우므로 초기용량은 소량으로 하고 증상을 관찰하면서 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고령자는 이 약물에 대해 감수성이 높으므로 초기용량은 소량으로 하고 증상을 관찰하면서 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약의 연속투여 중 볼 수 있는 과량투여에 의한 증상은 보통 이 약의 투여를 중지하면 소실된다. 또한 이 약의 과량투여시의 적당한 해독제는 심장 선택성 β-차단제이나 이를 기관지 경련의 병력이 있는 환자에 투여시 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 주사하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 눈에는 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 흡입이외의 방법으로 사용시 의사 및 약사의 지시에 따라 사용하도록 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 변색에 의한 효력 감퇴는 없지만, 혼탁해진 경우에는 사용하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040421]에피네프린",
+        "INGR_NAME": "[M007131]정제수|[M040378]아황산수소나트륨|[M040426]염화나트륨|[M040610]클로로부탄올|[M217092]염산 35%",
+        "ATC_CODE": "R03AA01",
+        "ITEM_ENG_NAME": "Bosmin Solution",
+        "ENTP_ENG_NAME": "Jeil Pharmaceutical co.,Ltd",
+        "MAIN_INGR_ENG": "Epinephrine",
+        "BIZRNO": "2428500620",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

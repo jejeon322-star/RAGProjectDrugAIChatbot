@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201803963:UD",
+  "drug_id": "mfds:201803963",
+  "scope_type": "product",
+  "title": "로수탄메트정500/10밀리그램 — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803963/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201803963_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:04.551185+00:00",
+  "text": "[원문 1쪽]\n용법용량\n이 약은 성인에 한하여 1일 1회, 저녁식사와 함께 투여한다. 메트포르민염산염과 로수바스타틴칼슘을 병용으\n로 복용하고 있는 환자에게 복용의 편리함을 위하여 이 약(개개의 주성분 함량이 동일한 복합제)으로 전환하\n여 투여한다. 이 약의 안전성·유효성은 메트포르민염산염 1500 mg 용량에서 확인되었다.",
+  "content_hash": "0178ecea99609156f3aba730ca4dcd9c554b89d5482060d9bd07aedc7d785303",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "0fde839c4266a5faf016014c21c4a5f6ca52628b8889f17fbfaa8ce72cf26a3b",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n이 약은 성인에 한하여 1일 1회, 저녁식사와 함께 투여한다. 메트포르민염산염과 로수바스타틴칼슘을 병용으\n로 복용하고 있는 환자에게 복용의 편리함을 위하여 이 약(개개의 주성분 함량이 동일한 복합제)으로 전환하\n여 투여한다. 이 약의 안전성·유효성은 메트포르민염산염 1500 mg 용량에서 확인되었다."
+        }
+      ]
+    }
+  ]
+}

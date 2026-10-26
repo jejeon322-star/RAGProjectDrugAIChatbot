@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201501350:EE",
+  "drug_id": "mfds:201501350",
+  "scope_type": "product",
+  "title": "펠루비서방정(펠루비프로펜) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501350/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201501350_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:12.590511+00:00",
+  "text": "[원문 1쪽]\n효능효과\n다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증), 급성 통증(예 : 외상 후 동\n통, 원발월경통)",
+  "content_hash": "ab11572902b61328990d7b94b444b37c90d19f63592fca800b36ee51150da509",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "d0060019d63c9cfa98f04652d0e3bd307a2570ecc1f9bbe353f66f3c91cfad91",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증), 급성 통증(예 : 외상 후 동\n통, 원발월경통)"
+        }
+      ]
+    }
+  ]
+}

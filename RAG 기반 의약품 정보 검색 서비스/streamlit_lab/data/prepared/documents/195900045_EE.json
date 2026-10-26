@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:195900045:EE",
+  "drug_id": "mfds:195900045",
+  "scope_type": "product",
+  "title": "자모 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195900045/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195900045.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20240912",
+  "collected_at": "2026-10-22T05:02:54.702134+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "기침, 가래, 천식",
+          "raw_content": "기침, 가래, 천식"
+        }
+      ]
+    }
+  ],
+  "text": "기침, 가래, 천식",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[기침, 가래, 천식]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "c2994a51c15e5f75fc72b85853eb5802c160449a85d33c4a0e99c2edfa5eb06c"
+}

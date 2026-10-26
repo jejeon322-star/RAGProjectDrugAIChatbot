@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198700423:EE",
+  "drug_id": "mfds:198700423",
+  "scope_type": "product",
+  "title": "삐콤헥사주(수출명:에너비트주) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700423/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198700423_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:07.544335+00:00",
+  "text": "[원문 1쪽]\n효능효과\n다음과 같은 경우 이 약에 함유된 비타민의 보급 또는 결핍증의 예방\n1) 육체피로\n2) 임신ㆍ수유기\n3) 병중ㆍ병후의 체력저하시\n4) 영양불량, 체중감소\n5) 위장관질환\n6) 신경염, 피부염\n7) 화학요법제 투여시",
+  "content_hash": "c3eb9fe3539ad55764f775fdf8735f9325b704634ae64e3b4f63075a793f5e06",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "c86b80a1345e062cf995a1af63f9eae7206761f7b0f4019ecd7edd7849ed2a16",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n다음과 같은 경우 이 약에 함유된 비타민의 보급 또는 결핍증의 예방\n1) 육체피로\n2) 임신ㆍ수유기\n3) 병중ㆍ병후의 체력저하시\n4) 영양불량, 체중감소\n5) 위장관질환\n6) 신경염, 피부염\n7) 화학요법제 투여시"
+        }
+      ]
+    }
+  ]
+}

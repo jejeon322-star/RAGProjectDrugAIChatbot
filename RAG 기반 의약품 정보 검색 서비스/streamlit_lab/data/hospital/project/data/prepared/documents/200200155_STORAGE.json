@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:200200155",
+  "doc_id": "mfds:200200155:STORAGE",
+  "title": "종근당세파졸린주2그램(세파졸린나트륨)(수출명:라세나졸린주2그램) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "3942b8a031c7592c1be64e022dc052748de1d7bd3f74cdb7beaf965dc5bf0fe9",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\200200155.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:53:54.406527+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 실온(1-30℃)보관\n사용기간: 제조일로부터 24개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 실온(1-30℃)보관\n사용기간: 제조일로부터 24개월"
+}

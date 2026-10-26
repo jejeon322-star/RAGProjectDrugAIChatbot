@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "195700016",
+        "ITEM_NAME": "안나카주사액10%(제일벤조산나트륨카페인주)(수출용)",
+        "ENTP_NAME": "(주)제일제약",
+        "ITEM_PERMIT_DATE": "19570427",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색~거의 투명한 액이 든 무색 투명한 앰플주사제",
+        "BAR_CODE": "8806505002202,8806505002219,8806505002226",
+        "MATERIAL_NAME": "총량 : 1 mL 중|성분명 : 벤조산나트륨카페인|분량 : 0.1|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700016/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700016/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700016/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700016/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1～30℃)보관,",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1mL, 2mL/앰플 × 자사포장단위",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1333",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20180917",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명칭변경, 2018-09-17/사용상주의사항변경(부작용포함), 2015-12-17/용법용량변경, 2015-12-17/효능효과변경, 2015-12-17/제품명칭변경, 2008-04-10/성상변경, 2008-04-10/용법용량변경, 2008-04-10/저장방법 및 유효기간(사용기간)변경, 2008-04-10/사용상주의사항변경(부작용포함), 1997-02-15/용법용량변경, 1997-02-15/효능효과변경, 1997-02-15/사용상주의사항변경(부작용포함), 1996-01-01/용법용량변경, 1996-01-01/효능효과변경, 1996-01-01/제품명칭변경, 1985-07-18/저장방법 및 유효기간(사용기간)변경, 1985-07-18/사용상주의사항변경(부작용포함), 1981-05-18/용법용량변경, 1981-05-18/효능효과변경, 1981-05-18/저장방법 및 유효기간(사용기간)변경, 1979-03-02",
+        "TOTAL_CONTENT": "1 mL 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 척추천자에 의한 두통\" />\r\n    <ARTICLE title=\"2. 알코올 또는 모르핀 중독에 의한 호흡억제시 호흡흥분 보조제\" />\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 벤조산나트륨카페인으로서 1회 100 ∼ 500 mg 근육 또는 피하주사한다. 긴급할 경우에는 정맥주사할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용 시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용 시에는 각별히 주의할 것(유리앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 위궤양 또는 그 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 심장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약에 과민반응 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소화기계 : 구역, 설사 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 순환기계 : 빈맥, 심계항진, 기외수축 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중추신경계 : 불면, 흥분, 진전, 어지럼, 동공확대, 섬광암점(Scintillation-Scotoma), 이명, 불안 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 눈 : 만성 녹내장을 악화시킨다는 보고가 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 기타 : 무력감이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약을 과량투여할 경우 우울증 환자를 더욱 우울하게 만들 수 있으므로 1회 용량이 1 g을 넘지 않도록 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 잔틴계 약물(아미노필린수화물, 디프로필린, 테오필린 등) 또는 중추신경 흥분제와 병용투여시 병용약물의 대사와 배설을 지연시켜 과도한 중추신경 흥분작용이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO억제제와 병용투여시 빈맥, 혈압상승 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 시메티딘과 병용투여시 카페인의 대사와 배설을 지연시켜 과도한 중추신경계 흥분작용이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[카페인은 태반을 통과하여 모유중으로 쉽게 이행되므로 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부에는 장기연용을 피한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 증상 : 소화기 증상(메스꺼움, 구토 등), 혈관 증상(부정맥, 혈압 상승 등), 정신 신경 증상(경련, 혼수 등), 호흡기 증상(호흡촉진, 호흡마비 등) 등의 악화를 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 처치 : 수액 등에 의해 이 약의 배설을 촉진한다. 흥분 상태에서는 대증요법으로 디아제팜, 페노바르비탈 등의 중추신경억제제 투여를 고려하고 호흡관리를 실시한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정맥주사를 할 경우에는 주사속도를 느리게 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 주사바늘은 작은 것을 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 근육 또는 피하 주사 시]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(1) 신경 주행 부위를 피하도록 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(2) 반복 주사하는 경우에는 주사 부위를 바꾸어 좌우 교대로 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[(3) 주사 바늘에 의해 격통을 호소하거나 혈액의 역류가 발생한 경우에는 즉시 바늘을 빼고 부위를 바꾸어 주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223054]벤조산나트륨카페인",
+        "INGR_NAME": "[M040534]주사용수",
+        "ATC_CODE": "R07AB",
+        "ITEM_ENG_NAME": "Annaka Injection 10% (Caffeine And Sodium Benzoate)",
+        "ENTP_ENG_NAME": "Jeil Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Caffeine·Sodium Benzoate",
+        "BIZRNO": "5148126323",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

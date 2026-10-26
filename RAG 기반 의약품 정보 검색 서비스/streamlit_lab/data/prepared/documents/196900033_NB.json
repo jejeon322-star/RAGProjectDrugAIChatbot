@@ -1,0 +1,254 @@
+{
+  "doc_id": "mfds:196900033:NB",
+  "drug_id": "mfds:196900033",
+  "scope_type": "product",
+  "title": "대한아트로핀황산염주사액 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900033/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900033.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20150327",
+  "collected_at": "2026-10-22T05:16:28.068776+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1.&nbsp;경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 녹내장 환자",
+          "raw_content": "1) 녹내장 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 전립선비대에 의한 배뇨장애 환자",
+          "raw_content": "2) 전립선비대에 의한 배뇨장애 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 마비성 장폐쇄 환자",
+          "raw_content": "3) 마비성 장폐쇄 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 이 약에 과민증 환자",
+          "raw_content": "4) 이 약에 과민증 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 천식 환자",
+          "raw_content": "5) 천식 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 전립선비대 환자",
+          "raw_content": "1) 전립선비대 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 울혈성 심부전 등 중증의 심질환 환자",
+          "raw_content": "2) 울혈성 심부전 등 중증의 심질환 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 궤양성 대장염 환자",
+          "raw_content": "3) 궤양성 대장염 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 갑상선기능항진증 환자",
+          "raw_content": "4) 갑상선기능항진증 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 고온 환경에 있는 자",
+          "raw_content": "5) 고온 환경에 있는 자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 40세 이상의 환자",
+          "raw_content": "6) 40세 이상의 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 부작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 눈 : 동공확대, 조절장애, 녹내장, 시야몽롱 등이 나타날 수 있다.",
+          "raw_content": "1) 눈 : 동공확대, 조절장애, 녹내장, 시야몽롱 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 정신신경계 : 두통, 두중, 기명(記銘)장애, 어지러움 등이 나타날 수 있다.",
+          "raw_content": "2) 정신신경계 : 두통, 두중, 기명(記銘)장애, 어지러움 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 소화기계 : 구갈, 구역, 구토, 삼킴곤란, 변비 등이 나타날 수 있다.",
+          "raw_content": "3) 소화기계 : 구갈, 구역, 구토, 삼킴곤란, 변비 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 호흡•순환기계 : 심계항진, 호흡장애 등이 나타날 수 있다.",
+          "raw_content": "4) 호흡&#x2022;순환기계 : 심계항진, 호흡장애 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 과민증 : 발진 등이 나타나는 경우에는 투여를 중지한다. 쇽, 아나필락시양 증상이 나 타날 수 있으므로, 관찰을 충분히 하고, 빈맥, 전신홍조, 발한, 안면부종 등이 나타 나는 경우에는 투여를 중지하고, 적절한 처치를 한다.",
+          "raw_content": "5) 과민증 : 발진 등이 나타나는 경우에는 투여를 중지한다. 쇽, 아나필락시양 증상이 나 타날 수 있으므로, 관찰을 충분히 하고, 빈맥, 전신홍조, 발한, 안면부종 등이 나타 나는 경우에는 투여를 중지하고, 적절한 처치를 한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 비뇨기계 : 배뇨장애가 나타날 수 있다.",
+          "raw_content": "6) 비뇨기계 : 배뇨장애가 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 기타 : 안면홍조가 나타날 수 있다.",
+          "raw_content": "7) 기타 : 안면홍조가 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "시조절장애, 동공확대 등이 나타날 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험이 수반되는 기계 조작을 하지 않도록 주의한다.",
+          "raw_content": "시조절장애, 동공확대 등이 나타날 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험이 수반되는 기계 조작을 하지 않도록 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 페노치아진계 약물, 삼환계 항우울약, 항히스타민제, 이소니아지드 등 항콜린 작용을 가지는 약물과 병용시 이 약의 작용이 증강될 수 있다.",
+          "raw_content": "1) 페노치아진계 약물, 삼환계 항우울약, 항히스타민제, 이소니아지드 등 항콜린 작용을 가지는 약물과 병용시 이 약의 작용이 증강될 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) MAO 저해제와 병용시 항콜린 작용이 증강될 수 있다.",
+          "raw_content": "2) MAO 저해제와 병용시 항콜린 작용이 증강될 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 강심배당체(디기톡신 등)와 병용시 강심배당체의 독성이 증강될 수 있으므로 신중히 투여한다.",
+          "raw_content": "3) 강심배당체(디기톡신 등)와 병용시 강심배당체의 독성이 증강될 수 있으므로 신중히 투여한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 합성콜린에스테르, 항콜린에스테라제, 콜린양 작용의 알칼로이드와 이 약은 길항한다.",
+          "raw_content": "4) 합성콜린에스테르, 항콜린에스테라제, 콜린양 작용의 알칼로이드와 이 약은 길항한다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 태아에 빈맥 등이 나타날 수 있으므로 임부 또는 임신하고 있을 가능성이 있는 부인에 는 투여하지 않는 것이 바람직하다.",
+          "raw_content": "1) 태아에 빈맥 등이 나타날 수 있으므로 임부 또는 임신하고 있을 가능성이 있는 부인에 는 투여하지 않는 것이 바람직하다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 신생아에 빈맥 등이 나타날 수 있으므로 수유중의 부인에는 투여하지 않는 것이 바람 직하다. 또한 유즙분비가 억제될 수 있다.",
+          "raw_content": "2) 신생아에 빈맥 등이 나타날 수 있으므로 수유중의 부인에는 투여하지 않는 것이 바람 직하다. 또한 유즙분비가 억제될 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "소아에 대한 안전성이 확립되어 있지 않다(사용경험이 없다.).",
+          "raw_content": "소아에 대한 안전성이 확립되어 있지 않다(사용경험이 없다.)."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자에는 항콜린 작용에 의한 녹내장, 기명장애, 구갈, 배뇨곤란, 변비 등이 나타나기 쉬우므로 신중히 투여한다.",
+          "raw_content": "일반적으로 고령자에는 항콜린 작용에 의한 녹내장, 기명장애, 구갈, 배뇨곤란, 변비 등이 나타나기 쉬우므로 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "heading": "10. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "피하•근육주사시 동물실험(토끼)에서 충혈, 출혈, 변성 등의 국소장애가 나타났으므로 피 하 또는 근육주사시 조직•신경 등에 영향을 주지 않도록 주의한다.",
+          "raw_content": "피하&#x2022;근육주사시 동물실험(토끼)에서 충혈, 출혈, 변성 등의 국소장애가 나타났으므로 피 하 또는 근육주사시 조직&#x2022;신경 등에 영향을 주지 않도록 주의한다."
+        }
+      ]
+    }
+  ],
+  "text": "1.&nbsp;경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 녹내장 환자\n\n2) 전립선비대에 의한 배뇨장애 환자\n\n3) 마비성 장폐쇄 환자\n\n4) 이 약에 과민증 환자\n\n5) 천식 환자\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 전립선비대 환자\n\n2) 울혈성 심부전 등 중증의 심질환 환자\n\n3) 궤양성 대장염 환자\n\n4) 갑상선기능항진증 환자\n\n5) 고온 환경에 있는 자\n\n6) 40세 이상의 환자\n\n4. 부작용\n\n1) 눈 : 동공확대, 조절장애, 녹내장, 시야몽롱 등이 나타날 수 있다.\n\n2) 정신신경계 : 두통, 두중, 기명(記銘)장애, 어지러움 등이 나타날 수 있다.\n\n3) 소화기계 : 구갈, 구역, 구토, 삼킴곤란, 변비 등이 나타날 수 있다.\n\n4) 호흡•순환기계 : 심계항진, 호흡장애 등이 나타날 수 있다.\n\n5) 과민증 : 발진 등이 나타나는 경우에는 투여를 중지한다. 쇽, 아나필락시양 증상이 나 타날 수 있으므로, 관찰을 충분히 하고, 빈맥, 전신홍조, 발한, 안면부종 등이 나타 나는 경우에는 투여를 중지하고, 적절한 처치를 한다.\n\n6) 비뇨기계 : 배뇨장애가 나타날 수 있다.\n\n7) 기타 : 안면홍조가 나타날 수 있다.\n\n5. 일반적 주의\n\n시조절장애, 동공확대 등이 나타날 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험이 수반되는 기계 조작을 하지 않도록 주의한다.\n\n6. 상호작용\n\n1) 페노치아진계 약물, 삼환계 항우울약, 항히스타민제, 이소니아지드 등 항콜린 작용을 가지는 약물과 병용시 이 약의 작용이 증강될 수 있다.\n\n2) MAO 저해제와 병용시 항콜린 작용이 증강될 수 있다.\n\n3) 강심배당체(디기톡신 등)와 병용시 강심배당체의 독성이 증강될 수 있으므로 신중히 투여한다.\n\n4) 합성콜린에스테르, 항콜린에스테라제, 콜린양 작용의 알칼로이드와 이 약은 길항한다.\n\n7. 임부 및 수유부에 대한 투여\n\n1) 태아에 빈맥 등이 나타날 수 있으므로 임부 또는 임신하고 있을 가능성이 있는 부인에 는 투여하지 않는 것이 바람직하다.\n\n2) 신생아에 빈맥 등이 나타날 수 있으므로 수유중의 부인에는 투여하지 않는 것이 바람 직하다. 또한 유즙분비가 억제될 수 있다.\n\n8. 소아에 대한 투여\n\n소아에 대한 안전성이 확립되어 있지 않다(사용경험이 없다.).\n\n9. 고령자에 대한 투여\n\n일반적으로 고령자에는 항콜린 작용에 의한 녹내장, 기명장애, 구갈, 배뇨곤란, 변비 등이 나타나기 쉬우므로 신중히 투여한다.\n\n10. 적용상의 주의\n\n피하•근육주사시 동물실험(토끼)에서 충혈, 출혈, 변성 등의 국소장애가 나타났으므로 피 하 또는 근육주사시 조직•신경 등에 영향을 주지 않도록 주의한다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1.&amp;nbsp;경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 전립선비대에 의한 배뇨장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 마비성 장폐쇄 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약에 과민증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 천식 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 전립선비대 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 울혈성 심부전 등 중증의 심질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 궤양성 대장염 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 갑상선기능항진증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고온 환경에 있는 자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 40세 이상의 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 눈 : 동공확대, 조절장애, 녹내장, 시야몽롱 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 정신신경계 : 두통, 두중, 기명(記銘)장애, 어지러움 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소화기계 : 구갈, 구역, 구토, 삼킴곤란, 변비 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 호흡&#x2022;순환기계 : 심계항진, 호흡장애 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 과민증 : 발진 등이 나타나는 경우에는 투여를 중지한다. 쇽, 아나필락시양 증상이 나 타날 수 있으므로, 관찰을 충분히 하고, 빈맥, 전신홍조, 발한, 안면부종 등이 나타 나는 경우에는 투여를 중지하고, 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 비뇨기계 : 배뇨장애가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 기타 : 안면홍조가 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[시조절장애, 동공확대 등이 나타날 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험이 수반되는 기계 조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 페노치아진계 약물, 삼환계 항우울약, 항히스타민제, 이소니아지드 등 항콜린 작용을 가지는 약물과 병용시 이 약의 작용이 증강될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO 저해제와 병용시 항콜린 작용이 증강될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 강심배당체(디기톡신 등)와 병용시 강심배당체의 독성이 증강될 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 합성콜린에스테르, 항콜린에스테라제, 콜린양 작용의 알칼로이드와 이 약은 길항한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 태아에 빈맥 등이 나타날 수 있으므로 임부 또는 임신하고 있을 가능성이 있는 부인에 는 투여하지 않는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 신생아에 빈맥 등이 나타날 수 있으므로 수유중의 부인에는 투여하지 않는 것이 바람 직하다. 또한 유즙분비가 억제될 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아에 대한 안전성이 확립되어 있지 않다(사용경험이 없다.).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자에는 항콜린 작용에 의한 녹내장, 기명장애, 구갈, 배뇨곤란, 변비 등이 나타나기 쉬우므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[피하&#x2022;근육주사시 동물실험(토끼)에서 충혈, 출혈, 변성 등의 국소장애가 나타났으므로 피 하 또는 근육주사시 조직&#x2022;신경 등에 영향을 주지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "55d1c92e4d6e6edf449b67f466ca34a0bfb8fd07e77569031d5541fe5ec57d55"
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200200520",
+        "ITEM_NAME": "제일제약아미카신황산염주125mg/mL(수출용)",
+        "ENTP_NAME": "(주)제일제약",
+        "ITEM_PERMIT_DATE": "20021230",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색∼담황색의 투명한 액이 든 갈색투명한 바이알주사제",
+        "BAR_CODE": "8806505007504,8806505007511,8806505007528",
+        "MATERIAL_NAME": "총량 : 1mL 중|성분명 : 아미카신황산염|분량 : 125|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : (역가)",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200520/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200520/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200520/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200520/II",
+        "STORAGE_METHOD": "밀봉용기, 냉암소 보관(15℃이하)",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "2ml 4ml X 자사포장단위 ",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1333",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230913",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2023-09-13/제품명칭변경, 2008-06-20/성상변경, 2008-06-20",
+        "TOTAL_CONTENT": "1mL 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235156]아미카신황산염",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M051960]황산|[M222565]시트르산나트륨수화물",
+        "ATC_CODE": "J01GB06",
+        "ITEM_ENG_NAME": "Micacin Injection",
+        "ENTP_ENG_NAME": "Jeil Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Amikacin Sulfate",
+        "BIZRNO": "5148126323",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

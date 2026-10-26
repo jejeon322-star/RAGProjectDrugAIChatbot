@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197000053",
+        "ITEM_NAME": "액티피드정",
+        "ENTP_NAME": "삼일제약(주)",
+        "ITEM_PERMIT_DATE": "19700925",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "흰색의 원형 정제",
+        "BAR_CODE": "8806439009001,8806439009018,8806439009025,8806439009032,8806439009049,8806439009056",
+        "MATERIAL_NAME": "총량 : 1정(220mg) 중|성분명 : 슈도에페드린염산염|분량 : 60|단위 : 밀리그램|규격 : BP|성분정보 : |비고 : ;총량 : 1정(220mg) 중|성분명 : 트리프롤리딘염산염수화물|분량 : 2.5|단위 : 밀리그램|규격 : BP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000053/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000053/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000053/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "블리스터포장  - 10정/블리스터,병포장 - 60정/병",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1314",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250102",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-01-02/저장방법 및 사용(유효)기간, 2022-08-10/사용상주의사항변경(부작용포함), 2019-11-04/사용상주의사항변경(부작용포함), 2019-04-27/사용상주의사항변경(부작용포함), 2017-01-12/용법용량변경, 2017-01-12/효능효과변경, 2017-01-12/성상변경, 2013-12-30/사용상주의사항변경(부작용포함), 2008-02-29/사용상주의사항변경(부작용포함), 2000-01-31/용법용량변경, 2000-01-31/효능효과변경, 2000-01-31/사용상주의사항변경(부작용포함), 1999-01-01/용법용량변경, 1999-01-01/효능효과변경, 1999-01-01/사용상주의사항변경(부작용포함), 1990-09-07/용법용량변경, 1990-09-07/효능효과변경, 1990-09-07/제품명칭변경, 1990-09-07/저장방법 및 유효기간(사용기간)변경, 1989-03-04/효능효과변경, 1989-01-01/용법용량변경, 1989-01-01/사용상주의사항변경(부작용포함), 1989-01-01/용법용량변경, 1987-09-08/저장방법 및 유효기간(사용기간)변경, 1983-11-09/용법용량변경, 1983-11-09/사용상주의사항변경(부작용포함), 1980-12-18/효능효과변경, 1980-12-18/효능효과변경, 1975-01-09",
+        "TOTAL_CONTENT": "1정(220mg) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(정제)(시럽제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(캡슐제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(정제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1정]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아(12 &#12316; 14세) : 1회 1/2정]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(캡슐제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1캅셀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아(12 &#12316; 14세) : 1회 1/2캅셀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(시럽제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 및 12세 이상의 소아 : 1회 10 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12세 미만 소아 : 의사의 진료를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[슈도에페드린 함유 의약품 복용시 급성 전신성 발진성 농포증(AGEP)과 같은 중증 피부 이상반응이 나타날 수 있다. 발열, 홍반, 다수의 작은 농포와 같은 증상이 관찰될 경우 이 약의 복용을 중단하고 의사 또는 약사와 상의해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약에 과민반응 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 중증(심한 증상)의 간 및 신기능 장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중증(심한 증상)의 관상 심장 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 잔뇨 형성을 수반하는 배뇨(소변을 눔)장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고혈압 및 관상동맥(심장동맥)질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 2세 이하의 영아(갓난아기)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) MAO 억제제를 투여중인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 파라옥시안식향산메칠에 과민반응 환자(파라옥시안식향산메칠 함유제제에 한함)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 혈압강하제, 알코올, 중추신경억제제(수면제, 진정제, 안정제), MAO 억제제, 교감신경흥분제, 삼환계 항우울약, 구아네티딘, 브레틸리움, 베타나이드, 데브리소퀸, 메칠도파, 교감신경성약(충혈제거제, 식욕억제제, 암페타민류의 신경자극제), α 및 β 아드레날린 저해제(억제제)와 병용(함께 복용)투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO억제제의 긴 작용시간 때문에 MAO억제제 투여 최소 15일 후 이 약을 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이 약을 복용하는 동안 다음의 행위를 하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약의 투여 중 자동차운전 및 위험한 기계조작 등 주의력을 집중시킬 필요가 있는 일에 종사하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 천식 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 심질환 및 부정맥 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 당뇨병, 갑상샘기능항진증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 전립샘비대로 인한 배뇨(소변을 눔)곤란 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 12세 미만의 소아]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 7일 이내에 증상의 개선이 나타나지 않거나 고열을 동반할 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 진정, 졸음, 중추 신경 쇠약, 중추 흥분, 불안, 발한(땀이 남), 경미한(가벼운) 혈압강하, 시력장애, 산동(동공확대), 헛소리, 환각, 흥분, 근육경련, 경직(굳음), 아테토시스, 간대상 및 강직성 경련, 고열, 호흡마비, 혼수, 순환기 마비 등의 중추신경계 이상이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 피부반응, 일시적인 자극통, 작열감(화끈감) 등의 과민반응이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 구갈, 구역, 구토 등의 소화기계 이상이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 배뇨(소변을 눔)곤란 등의 이상이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 소아에서 특히 흥분이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 급성 전신성 발진성 농포증(AGEP), 발열, 홍반, 다수의 작은 농포와 같은 중증 피부 이상반응이 나타날 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 슈도에페드린 성분과 관련하여 허혈성 대장염의 증상(급격한 복통, 직장 출혈 등)이 발현될 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 슈도에페드린 성분과 관련하여 가역적 후뇌 병증 증후군 및 가역적 뇌혈관 수축 증후군 증상(갑작스러운 심한 두통, 번개 두통, 구역, 구토, 혼돈, 발작, 시각 장애 등)이 발현되는 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 기타 이 약의 복용시 주의할 사항.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[과량투여 시 급성 중독(환각 및 경련), 신경과민, 어지러움, 불면증 등을 일으킬 수 있으며 이러한 증상이 나타날 경우에는 위세척, 방광 카테터 삽입법을 사용한다. 슈도에페드린 제거에는 투석하도록 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 될 수 있는 대로 습기가 적고 서늘한 곳에 밀전하여(뚜껑을 꼭 닫아) 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 따른 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M203364]슈도에페드린염산염|[M250460]트리프롤리딘염산염수화물",
+        "INGR_NAME": "[M040450]옥수수전분|[M051756]포비돈|[M223367]유당수화물|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "R01BA52",
+        "ITEM_ENG_NAME": "ACTIFED Tab.",
+        "ENTP_ENG_NAME": "Samil Pharm. Co., Ltd.",
+        "MAIN_INGR_ENG": "Pseudoephedrine Hydrochloride/Triprolidine Hydrochloride Hydrate",
+        "BIZRNO": "1348500765",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

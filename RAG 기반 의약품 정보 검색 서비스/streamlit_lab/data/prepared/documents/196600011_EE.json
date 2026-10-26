@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:196600011:EE",
+  "drug_id": "mfds:196600011",
+  "scope_type": "product",
+  "title": "베스타제정 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196600011/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196600011.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20241210",
+  "collected_at": "2026-10-22T05:10:12.147061+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진,",
+          "raw_content": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진,"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소화불량으로 인한 위부팽만감",
+          "raw_content": "소화불량으로 인한 위부팽만감"
+        }
+      ]
+    }
+  ],
+  "text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진,\n\n소화불량으로 인한 위부팽만감",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진,]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소화불량으로 인한 위부팽만감]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "84946f922fb00e059c5ff968c3b114e224a6401a6661337bd461931b4de9fedb"
+}

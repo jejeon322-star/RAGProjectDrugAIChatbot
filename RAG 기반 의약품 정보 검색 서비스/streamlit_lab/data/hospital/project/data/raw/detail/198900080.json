@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "198900080",
+        "ITEM_NAME": "신풍아미카신황산염주사액500밀리그램(수출명:AMIKAYE Injection)",
+        "ENTP_NAME": "신풍제약(주)",
+        "ITEM_PERMIT_DATE": "19890710",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "바이알: 무색또는 미황색의 투명한 액상의 바이알 주사제이다.\r\n\r\n프리필드: 위아래가 고무마개로 막힌 유리관(프리필드 시린지 시스템의 일부분)에 무색 또는 미황색의 투명한 액이 충진된 주사제이다",
+        "BAR_CODE": "8806485024706,8806485024713,8806485024720,8806485024737,8806485024744,8806485024751,8806485024805",
+        "MATERIAL_NAME": "총량 : 1 밀리리터 중|성분명 : 아미카신황산염|분량 : 250|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900080/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900080/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900080/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900080/II",
+        "STORAGE_METHOD": "밀봉용기, 실온보관(1~30°C)",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "2밀리리터/바이알[2밀리리터/바이알 x 10],2밀리리터/바이알[2밀리리터/바이알 x 30]",
+        "EDI_CODE": "648502473",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1414",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230913",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2023-09-13/사용상주의사항변경(부작용포함), 2022-03-31/제품명칭변경, 2009-01-12/제품명칭변경, 1994-09-01/성상변경, 1994-05-27/용법용량변경, 1994-04-16/효능효과변경, 1994-04-16/사용상주의사항변경(부작용포함), 1993-01-01/용법용량변경, 1993-01-01/효능효과변경, 1993-01-01",
+        "TOTAL_CONTENT": "1 밀리리터 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235156]아미카신황산염",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M051960]황산|[M222565]시트르산나트륨수화물",
+        "ATC_CODE": "J01GB06",
+        "ITEM_ENG_NAME": "Amikaye Injection",
+        "ENTP_ENG_NAME": "SHIN POONG PHARM. CO., LTD",
+        "MAIN_INGR_ENG": "Amikacin Sulfate",
+        "BIZRNO": "1348103819",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

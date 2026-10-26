@@ -1,0 +1,80 @@
+{
+  "doc_id": "mfds:197300021:UD",
+  "drug_id": "mfds:197300021",
+  "scope_type": "product",
+  "title": "리포덱스캅셀(리팜피신)(수출명: 종근당리팜피신캅셀150mg) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300021/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300021.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260323",
+  "collected_at": "2026-10-22T05:28:11.641542+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 결핵",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 성인 : 리팜피신으로서 1일 1회 450～600mg(역가)을 경구투여한다. 체중이 50Kg 이하일 경우에는 450mg, 50Kg 이상일 경우에는 600mg을 투여하는 것이 권장된다.",
+          "raw_content": "○ 성인 : 리팜피신으로서 1일 1회 450～600mg(역가)을 경구투여한다. 체중이 50Kg 이하일 경우에는 450mg, 50Kg 이상일 경우에는 600mg을 투여하는 것이 권장된다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 소아 : 1일 1회 체중 Kg당 10～20mg(역가)을 경구투여한다. 1일 600mg(역가)을 초과하지 않도록 한다. 5세 이하의 용량은 확립되지 않았으므로 신중히 투여한다.",
+          "raw_content": "○ 소아 : 1일 1회 체중 Kg당 10～20mg(역가)을 경구투여한다. 1일 600mg(역가)을 초과하지 않도록 한다. 5세 이하의 용량은 확립되지 않았으므로 신중히 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "원칙적으로 다른 항결핵제와 병용투여한다.",
+          "raw_content": "원칙적으로 다른 항결핵제와 병용투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 무증후성 수막염균 보균자",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 성인 : 리팜피신으로서 1회 600mg(역가)을 1일 2회 2일간 경구투여한다.",
+          "raw_content": "○ 성인 : 리팜피신으로서 1회 600mg(역가)을 1일 2회 2일간 경구투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 유ㆍ소아(1～12세) : 1회 체중 Kg당 10mg(역가)을 1일 2회 2일간 경구투여한다.",
+          "raw_content": "○ 유ㆍ소아(1～12세) : 1회 체중 Kg당 10mg(역가)을 1일 2회 2일간 경구투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "○ 영아(3～12개월) : 1회 체중 Kg당 5 mg(역가)을 1일 2회 2일간 경구투여한다.",
+          "raw_content": "○ 영아(3～12개월) : 1회 체중 Kg당 5 mg(역가)을 1일 2회 2일간 경구투여한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "식사 전 1시간 또는 식후 2시간에 충분한 물과 함께 복용하는 것이 바람직하다.",
+          "raw_content": "식사 전 1시간 또는 식후 2시간에 충분한 물과 함께 복용하는 것이 바람직하다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 결핵\n\n○ 성인 : 리팜피신으로서 1일 1회 450～600mg(역가)을 경구투여한다. 체중이 50Kg 이하일 경우에는 450mg, 50Kg 이상일 경우에는 600mg을 투여하는 것이 권장된다.\n\n○ 소아 : 1일 1회 체중 Kg당 10～20mg(역가)을 경구투여한다. 1일 600mg(역가)을 초과하지 않도록 한다. 5세 이하의 용량은 확립되지 않았으므로 신중히 투여한다.\n\n원칙적으로 다른 항결핵제와 병용투여한다.\n\n2. 무증후성 수막염균 보균자\n\n○ 성인 : 리팜피신으로서 1회 600mg(역가)을 1일 2회 2일간 경구투여한다.\n\n○ 유ㆍ소아(1～12세) : 1회 체중 Kg당 10mg(역가)을 1일 2회 2일간 경구투여한다.\n\n○ 영아(3～12개월) : 1회 체중 Kg당 5 mg(역가)을 1일 2회 2일간 경구투여한다.\n\n식사 전 1시간 또는 식후 2시간에 충분한 물과 함께 복용하는 것이 바람직하다.\n\n연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 결핵\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[○ 성인 : 리팜피신으로서 1일 1회 450～600mg(역가)을 경구투여한다. 체중이 50Kg 이하일 경우에는 450mg, 50Kg 이상일 경우에는 600mg을 투여하는 것이 권장된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[○ 소아 : 1일 1회 체중 Kg당 10～20mg(역가)을 경구투여한다. 1일 600mg(역가)을 초과하지 않도록 한다. 5세 이하의 용량은 확립되지 않았으므로 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[원칙적으로 다른 항결핵제와 병용투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 무증후성 수막염균 보균자\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[○ 성인 : 리팜피신으로서 1회 600mg(역가)을 1일 2회 2일간 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[○ 유ㆍ소아(1～12세) : 1회 체중 Kg당 10mg(역가)을 1일 2회 2일간 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[○ 영아(3～12개월) : 1회 체중 Kg당 5 mg(역가)을 1일 2회 2일간 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[식사 전 1시간 또는 식후 2시간에 충분한 물과 함께 복용하는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "aa0e3bcdfc63c768a1d5a78dc97797dc8d02d6027ec6e9c30b3da76fd4cd04e2"
+}

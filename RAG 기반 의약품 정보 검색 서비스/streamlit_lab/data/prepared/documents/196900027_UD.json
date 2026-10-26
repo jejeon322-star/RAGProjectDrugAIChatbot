@@ -1,0 +1,74 @@
+{
+  "doc_id": "mfds:196900027:UD",
+  "drug_id": "mfds:196900027",
+  "scope_type": "product",
+  "title": "비타민케이1주사액(피토나디온주사액) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900027/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900027.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20130925",
+  "collected_at": "2026-10-22T05:15:14.643703+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 신생아 출혈성질환의 예방",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "출생 1시간 이내에 피토나디온으로서 0.5～1 mg을 단회 근육주사 한다.",
+          "raw_content": "출생 1시간 이내에 피토나디온으로서 0.5～1 mg을 단회 근육주사 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 신생아 출혈성질환의 치료",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약으로서 1 mg을 근육 또는 피하주사 한다. 모체가 항응고제를 투여하는 경우에는 고용량이 요구될 수 있다.",
+          "raw_content": "이 약으로서 1 mg을 근육 또는 피하주사 한다. 모체가 항응고제를 투여하는 경우에는 고용량이 요구될 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 항응고제 유도성 프로트롬빈 결핍증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 성인 : 초회 이 약으로서 2.5～10 mg 또는 최대 25 mg까지 투여, 드물게 50 mg이 사용되는 경우도 있다. 필요 시, 6～8시간 이후 반복 투여할 수 있다.",
+          "raw_content": "○ 성인 : 초회 이 약으로서 2.5～10 mg 또는 최대 25 mg까지 투여, 드물게 50 mg이 사용되는 경우도 있다. 필요 시, 6～8시간 이후 반복 투여할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "○ 소아/영아 : 초회 이 약으로서 2.5～10 mg (영아 : 1～2 mg)을 근육 또는 피하주사, 필요 시, 6～8시간 이후 반복 투여할 수 있다.",
+          "raw_content": "○ 소아/영아 : 초회 이 약으로서 2.5～10 mg (영아 : 1～2 mg)을 근육 또는 피하주사, 필요 시, 6～8시간 이후 반복 투여할 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 다른 원인으로 인한 저프로트롬빈혈증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 이 약으로서 2.5～25 mg, 최대 50 mg까지 투여할 수 있다.",
+          "raw_content": "성인 : 이 약으로서 2.5～25 mg, 최대 50 mg까지 투여할 수 있다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 신생아 출혈성질환의 예방\n\n출생 1시간 이내에 피토나디온으로서 0.5～1 mg을 단회 근육주사 한다.\n\n2. 신생아 출혈성질환의 치료\n\n이 약으로서 1 mg을 근육 또는 피하주사 한다. 모체가 항응고제를 투여하는 경우에는 고용량이 요구될 수 있다.\n\n3. 항응고제 유도성 프로트롬빈 결핍증\n\n○ 성인 : 초회 이 약으로서 2.5～10 mg 또는 최대 25 mg까지 투여, 드물게 50 mg이 사용되는 경우도 있다. 필요 시, 6～8시간 이후 반복 투여할 수 있다.\n\n○ 소아/영아 : 초회 이 약으로서 2.5～10 mg (영아 : 1～2 mg)을 근육 또는 피하주사, 필요 시, 6～8시간 이후 반복 투여할 수 있다.\n\n4. 다른 원인으로 인한 저프로트롬빈혈증\n\n성인 : 이 약으로서 2.5～25 mg, 최대 50 mg까지 투여할 수 있다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 신생아 출혈성질환의 예방\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[출생 1시간 이내에 피토나디온으로서 0.5～1 mg을 단회 근육주사 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 신생아 출혈성질환의 치료\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약으로서 1 mg을 근육 또는 피하주사 한다. 모체가 항응고제를 투여하는 경우에는 고용량이 요구될 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 항응고제 유도성 프로트롬빈 결핍증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 성인 : 초회 이 약으로서 2.5～10 mg 또는 최대 25 mg까지 투여, 드물게 50 mg이 사용되는 경우도 있다. 필요 시, 6～8시간 이후 반복 투여할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 소아/영아 : 초회 이 약으로서 2.5～10 mg (영아 : 1～2 mg)을 근육 또는 피하주사, 필요 시, 6～8시간 이후 반복 투여할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다른 원인으로 인한 저프로트롬빈혈증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[성인 : 이 약으로서 2.5～25 mg, 최대 50 mg까지 투여할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "494bf08474d0e8024cf9f92ed22c25f15d2a5239afe764dbbde225f0fd42b54f"
+}

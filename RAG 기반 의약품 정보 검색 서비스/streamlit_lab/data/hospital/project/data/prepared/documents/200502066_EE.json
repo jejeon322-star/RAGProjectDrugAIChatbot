@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200502066:EE",
+  "drug_id": "mfds:200502066",
+  "scope_type": "product",
+  "title": "안티라제정(수출명: Strikase) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502066/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200502066_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:00:11.808941+00:00",
+  "text": "[원문 1쪽]\n효능효과\n\n다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 유즙울체",
+  "content_hash": "3d1578d24ac945652b87824a31f3e5630e9d62dc9420239562dafc0cb8abd260",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "7f7269380b0132621204e9c3763d9aa776ade82db86d80bc219ba8dfcb201914",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n\n다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 유즙울체"
+        }
+      ]
+    }
+  ]
+}

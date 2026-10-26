@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197000014:UD",
+  "drug_id": "mfds:197000014",
+  "scope_type": "product",
+  "title": "중외염화나트륨주사액(117mg/1ml) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000014/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000014.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210929",
+  "collected_at": "2026-10-22T05:16:31.309684+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "체내의 수분과 전해질의 부족한 정도에 따라 전해질 보액에 첨가하여 사용한다.",
+          "raw_content": "체내의 수분과 전해질의 부족한 정도에 따라 전해질 보액에 첨가하여 사용한다."
+        }
+      ]
+    }
+  ],
+  "text": "체내의 수분과 전해질의 부족한 정도에 따라 전해질 보액에 첨가하여 사용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[체내의 수분과 전해질의 부족한 정도에 따라 전해질 보액에 첨가하여 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "7f786fd8e298900c51adfa3fb3e9e9c2e8e5e1b71a7109722848410160fec133"
+}

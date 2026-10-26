@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "201600827",
+        "ITEM_NAME": "스트렌식주100mg/mL(아스포타제알파)",
+        "ENTP_NAME": "한국아스트라제네카(주)",
+        "ITEM_PERMIT_DATE": "20160212",
+        "CNSGN_MANUF": "Lonza Biologics Inc., Patheon Italia S.p.A., Alexion Pharma International Operations Limited, Alexion Pharma International Operations Limited, Almac Pharma Services Limited",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색에서 미황색의 투명한 용액이 무색투명한 바이알에 든 주사제",
+        "BAR_CODE": "8806507013206,8806507013213,8806507013220,8806521056005,8806521056012,8806521056029",
+        "MATERIAL_NAME": "총량 : 1 바이알(0.80mL) 중|성분명 : 아스포타제알파|분량 : 80|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 : (숙주 : CHO DG44, 벡터: p REShsTNSALP-FcD10-DHFR)",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201600827/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201600827/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201600827/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201600827/II",
+        "STORAGE_METHOD": "밀봉용기, 차광하여 냉장(2-8℃) 보관, 얼리지 말 것",
+        "VALID_TERM": "제조일로부터 30 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "12바이알/상자[80mg/0.8mL]",
+        "EDI_CODE": "650701321,652105661",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "248",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품 및 의약외품 수입업",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20220411",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 사용(유효)기간, 2022-04-11/용법·용량, 2021-08-19/사용상의 주의사항, 2021-08-19/효능효과변경, 2019-06-11/용법용량변경, 2019-06-11/사용상주의사항변경(부작용포함), 2019-06-11/사용상주의사항변경(부작용포함), 2018-07-18/용법용량변경, 2016-10-19/사용상주의사항변경(부작용포함), 2016-10-19",
+        "TOTAL_CONTENT": "1 바이알(0.80mL) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M263549]아스포타제알파",
+        "INGR_NAME": "[M040426]염화나트륨|[M040534]주사용수|[M089733]인산수소나트륨칠수화물|[M232835]인산이수소나트륨수화물",
+        "ATC_CODE": "A16AB13",
+        "ITEM_ENG_NAME": "Strensiq Injection 100mg/mL(Asfotase alfa)",
+        "ENTP_ENG_NAME": "AstraZeneca Korea",
+        "MAIN_INGR_ENG": "Asfotase Alpha",
+        "BIZRNO": "2148146701",
+        "RARE_DRUG_YN": "Y",
+        "DATA_PROTECT_START_DATE": "2016-02-12 00:00:00",
+        "DATA_PROTECT_END_DATE": "2027-02-11 00:00:00"
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

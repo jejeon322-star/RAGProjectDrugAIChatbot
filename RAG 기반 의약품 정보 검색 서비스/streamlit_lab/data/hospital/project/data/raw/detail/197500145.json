@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197500145",
+        "ITEM_NAME": "제일덱사메타손주사액(덱사메타손포스페이트이나트륨)",
+        "ENTP_NAME": "(주)제일제약",
+        "ITEM_PERMIT_DATE": "19751029",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 투명한 액이 든 갈색 투명한 앰플주사제(수출용 : 무색 투명한 액이 든 무색 투명한 앰플주사제)\r\n",
+        "BAR_CODE": "8806505003001,8806505003018,8806505003025,8806505013901,8806505013918,8806505013925",
+        "MATERIAL_NAME": "총량 : 1 mL 중|성분명 : 덱사메타손포스페이트이나트륨|분량 : 5|단위 : 밀리그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197500145/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197500145/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197500145/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광밀봉용기(수출용 : 밀봉용기), \n실온(1∼30℃)보관,",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "50앰플/상자[1밀리리터/앰플]",
+        "EDI_CODE": "650500301",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1333",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250507",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-05-07/사용상주의사항변경(부작용포함), 2024-06-21/사용상주의사항변경(부작용포함), 2023-01-13/사용상주의사항변경(부작용포함), 2018-11-22/사용상주의사항변경(부작용포함), 2018-07-18/사용상주의사항변경(부작용포함), 2015-09-13/제품명칭변경, 2014-05-27/성상변경, 2014-05-27/용법용량변경, 2014-05-27/저장방법 및 유효기간(사용기간)변경, 2014-05-27/저장방법 및 유효기간(사용기간)변경, 2008-04-10/용법용량변경, 2008-04-10/성상변경, 2008-04-10/제품명칭변경, 2008-04-10/제품명칭변경, 2004-02-13/제품명칭변경, 2002-01-18/사용상주의사항변경(부작용포함), 2000-01-01/용법용량변경, 2000-01-01/효능효과변경, 2000-01-01/사용상주의사항변경(부작용포함), 1995-12-13/사용상주의사항변경(부작용포함), 1992-11-05/용법용량변경, 1991-09-27/사용상주의사항변경(부작용포함), 1991-09-27/저장방법 및 유효기간(사용기간)변경, 1986-01-22/사용상주의사항변경(부작용포함), 1982-04-01/사용상주의사항변경(부작용포함), 1977-12-01/용법용량변경, 1977-12-01/효능효과변경, 1977-12-01",
+        "TOTAL_CONTENT": "1 mL 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M256848]덱사메타손포스페이트이나트륨",
+        "INGR_NAME": "[M040043]글리세린|[M040220]벤질알코올|[M040534]주사용수|[M223469]에데트산나트륨수화물",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "Dexson Injection, Jeilmexa Injection",
+        "ENTP_ENG_NAME": "Jeil Pharmaceutical Co.,Ltd.",
+        "MAIN_INGR_ENG": "Dexamethasone Disodium Phosphate",
+        "BIZRNO": "5148126323",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

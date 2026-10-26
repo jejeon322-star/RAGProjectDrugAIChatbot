@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "199602021",
+        "ITEM_NAME": "씨프록탄정250밀리그램(시프로플록사신염산염수화물)",
+        "ITEM_ENG_NAME": "Ciproctan Tab. 250mg",
+        "ENTP_NAME": "한국넬슨제약(주)",
+        "ENTP_ENG_NAME": "Hankooknelsonpharm.Co.,Ltd",
+        "ENTP_SEQ": "19970003",
+        "ENTP_NO": "1975",
+        "ITEM_PERMIT_DATE": "19961004",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199602021",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06290]기타의 화학요법제",
+        "PRDUCT_PRMISN_NO": "32",
+        "ITEM_INGR_NAME": "Ciprofloxacin Hydrochloride Hydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OsDC9sjoV0",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "656700970",
+        "BIZRNO": "3038111410"
+      },
+      {
+        "ITEM_SEQ": "199602022",
+        "ITEM_NAME": "씨프록탄정500mg(시프로플록사신염산염수화물)",
+        "ITEM_ENG_NAME": "Ciproctan Tab. 500mg",
+        "ENTP_NAME": "한국넬슨제약(주)",
+        "ENTP_ENG_NAME": "Hankooknelsonpharm.Co.,Ltd",
+        "ENTP_SEQ": "19970003",
+        "ENTP_NO": "1975",
+        "ITEM_PERMIT_DATE": "19961004",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "199602022",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[06290]기타의 화학요법제",
+        "PRDUCT_PRMISN_NO": "33",
+        "ITEM_INGR_NAME": "Ciprofloxacin Hydrochloride Hydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OsDC9sjoVI",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "656700980",
+        "BIZRNO": "3038111410"
+      }
+    ]
+  }
+}

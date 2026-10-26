@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200502066:UD",
+  "drug_id": "mfds:200502066",
+  "scope_type": "product",
+  "title": "안티라제정(수출명: Strikase) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502066/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200502066_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:00:13.286496+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다.\n체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투\n여하지 않는다.",
+  "content_hash": "e1a727d82fb754733c13e9778feab0d88e750f7540501a4e59dd9557cec11066",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "5d0538ae7f9720af56fac554bed64e05113b79b745f71738a4f3573f8b69b38f",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 첫날 1회 2정, 1일 4회, 이후 유지량으로 1회 1정, 1일 4회 복용한다.\n체내에서의 작용기전은 아직 해명되지 않은 점이 많고 용량, 효과관계도 밝혀진 것이 아니므로 목적 없이 투\n여하지 않는다."
+        }
+      ]
+    }
+  ]
+}

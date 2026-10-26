@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200101382",
+        "ITEM_NAME": "유니온세포티암주1그램(세포티암염산염)(수출명:UCETIM Inj.1g)",
+        "ENTP_NAME": "한국유니온제약(주)",
+        "ITEM_PERMIT_DATE": "20010618",
+        "CNSGN_MANUF": "(주)경보제약",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "[내수용]\n백색-엷은황색의 결정성 분말이 담긴 유리 바이알 \n[수출용1]\n흰색~엷은 황백색의 결정 또는 결정성 가루가 들어있는 바이알\n[수출용2]\n흰색~엷은 황색의 결정성분말이 담긴 유리 바이알",
+        "BAR_CODE": "8806655027209,8806655027216,8806655027223,8806655027230,8806655027247",
+        "MATERIAL_NAME": "총량 : 1바이알-[내수용]|성분명 : 세포티암염산염·건조탄산나트륨|분량 : 1|단위 : 그램|규격 : 별규|성분정보 : 세포티암으로서 1 그램(역가)|비고 : 세포티암염산염 : 건조탄산나트륨 = 1(역가) : 0.242;총량 : 1바이알-[수출용1]|성분명 : 세포티암염산염-건조탄산나트륨|분량 : 1|단위 : 그램|규격 : 별첨규격(전과동)|성분정보 : |비고 : (역가);총량 : 1바이알-[수출용2]|성분명 : 세포티암염산염-건조탄산나트륨|분량 : 1.242|단위 : 그램|규격 : 별첨규격(전과동)|성분정보 : 세포티암으로서1g(역가)|비고 : 세포티암염산염:건조탄산나트륨=1(역가):0.242",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101382/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101382/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101382/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101382/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1g x 10바이알",
+        "EDI_CODE": "665502721",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1326",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20220228",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상, 2022-02-28/제품명칭변경, 2012-08-07/성상변경, 2012-08-07/성상변경, 2012-05-08/제품명칭변경, 2005-07-25/효능효과변경, 2005-01-22/용법용량변경, 2005-01-22/사용상주의사항변경(부작용포함), 2005-01-22",
+        "TOTAL_CONTENT": "1-[내수용]/1-[수출용1]/1-[수출용2]",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M245859]세포티암염산염·건조탄산나트륨|[M256111]세포티암염산염-건조탄산나트륨|[M256111]세포티암염산염-건조탄산나트륨",
+        "INGR_NAME": null,
+        "ATC_CODE": "J01DC07",
+        "ITEM_ENG_NAME": "UCETIM Inj.1g",
+        "ENTP_ENG_NAME": "Union Korea Pharm Co. LTD.,",
+        "MAIN_INGR_ENG": "Cefotiam Hydrochloride·Dried Sodium Carbonate",
+        "BIZRNO": "6078121765",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

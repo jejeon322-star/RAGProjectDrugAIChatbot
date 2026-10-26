@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "198700423",
+        "ITEM_NAME": "삐콤헥사주(수출명:에너비트주)",
+        "ENTP_NAME": "(주)유한양행",
+        "ITEM_PERMIT_DATE": "19870218",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "형광이 있는 황색의 액체가 충진된 갈색 앰플",
+        "BAR_CODE": "8806421007107,8806421007114,8806421007121",
+        "MATERIAL_NAME": "총량 : 1앰플(2mL) 중|성분명 : 티아민염산염|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1앰플(2mL) 중|성분명 : 리보플라빈포스페이트나트륨|분량 : 5.47|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1앰플(2mL) 중|성분명 : 피리독신염산염|분량 : 5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1앰플(2mL) 중|성분명 : 시아노코발라민|분량 : 10|단위 : 마이크로그램|규격 : KP|성분정보 : |비고 : ;총량 : 1앰플(2mL) 중|성분명 : 덱스판테놀|분량 : 5.17|단위 : 밀리그램|규격 : USP|성분정보 : 판토텐산칼슘으로서 6mg|비고 : ;총량 : 1앰플(2mL) 중|성분명 : 니코틴산아미드|분량 : 40|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198700423/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198700423/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198700423/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "실온, 차광보관, 밀봉용기",
+        "VALID_TERM": "제조일로부터 12 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "2mL/앰플 x 50",
+        "EDI_CODE": "642100710",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1329",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20221020",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상, 2022-10-20/사용상주의사항변경(부작용포함), 2022-03-31/저장방법 및 유효기간(사용기간)변경, 2011-05-06/사용상의 주의사항, 2006-02-04/용법·용량, 2006-02-04/효능·효과, 2006-02-04/사용상의 주의사항, 2002-07-24/제품명칭변경, 1996-01-23/사용상주의사항변경(부작용포함), 1991-01-16/사용상주의사항변경(부작용포함), 1990-06-19/사용상주의사항변경(부작용포함), 1988-05-27/용법용량변경, 1988-05-27/효능효과변경, 1988-05-27/사용상주의사항변경(부작용포함), 1987-01-01/용법용량변경, 1987-01-01/효능효과변경, 1987-01-01",
+        "TOTAL_CONTENT": "1앰플(2mL) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040064]니코틴산아미드|[M082390]덱스판테놀|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염",
+        "INGR_NAME": "[M040220]벤질알코올|[M040378]아황산수소나트륨|[M040534]주사용수|[M203071]말레산",
+        "ATC_CODE": "A11EA",
+        "ITEM_ENG_NAME": "Beecom Hexa Injection",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "MAIN_INGR_ENG": "Cyanocobalamin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+        "BIZRNO": "1188100601",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

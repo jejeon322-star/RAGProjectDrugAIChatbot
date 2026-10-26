@@ -1,0 +1,56 @@
+{
+  "doc_id": "mfds:197000104:EE",
+  "drug_id": "mfds:197000104",
+  "scope_type": "product",
+  "title": "부광페니토인캡슐100밀리그램 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000104/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000104.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20230223",
+  "collected_at": "2026-10-22T05:21:19.676273+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(정제)(캡슐제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "뇌전증 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작",
+          "raw_content": "뇌전증 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(주사제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1. 뇌전증중첩상태",
+          "raw_content": "1. 뇌전증중첩상태"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후)",
+          "raw_content": "2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후)"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+          "raw_content": "3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥"
+        }
+      ]
+    }
+  ],
+  "text": "(정제)(캡슐제)\n\n뇌전증 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작\n\n(주사제)\n\n1. 뇌전증중첩상태\n\n2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후)\n\n3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(정제)(캡슐제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[뇌전증 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(주사제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[1. 뇌전증중첩상태]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "1f54193e31b083e7749974d05b20a74bb030d4d4b31e7e0e9f2d7b80c9ac81fd"
+}

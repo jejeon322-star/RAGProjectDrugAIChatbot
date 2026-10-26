@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:199900533",
+  "doc_id": "mfds:199900533:STORAGE",
+  "title": "유한삐콤헥사주사(수출용) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "4f3d5e4d3c6c5e25ed5df6cd8313f640ea4dc26fff8b64769319a64ee331563f",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\199900533.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:55:23.560970+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 냉소(15℃이하) 차광보관, 밀봉용기\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 냉소(15℃이하) 차광보관, 밀봉용기\n사용기간: 제조일로부터 24 개월"
+}

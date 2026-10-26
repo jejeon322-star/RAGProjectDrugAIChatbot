@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202203949",
+        "ITEM_NAME": "덱사하이정4밀리그램(덱사메타손)",
+        "ENTP_NAME": "(주)대웅제약",
+        "ITEM_PERMIT_DATE": "20221031",
+        "CNSGN_MANUF": "지엘파마(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 달걀형 정제",
+        "BAR_CODE": "8806416077603,8806416077610,8806416077627",
+        "MATERIAL_NAME": "총량 : 1정185.0밀리그램|성분명 : 덱사메타손(미분화)|분량 : 4.0|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203949/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203949/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203949/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온(1∼30℃) 보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,100정/병",
+        "EDI_CODE": "641607760",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1289",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250507",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-05-07/성상, 2025-01-06/사용상주의사항변경(부작용포함), 2024-06-21/효능·효과, 2023-02-28/사용상의 주의사항, 2023-02-28",
+        "TOTAL_CONTENT": "1185.0",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M283215]덱사메타손(미분화)",
+        "INGR_NAME": "[M040450]옥수수전분|[M081161]크로스포비돈|[M089671]포비돈|[M101747]크로스카멜로오스나트륨|[M244534]스테아르산마그네슘|[M254581]유당수화물",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "Dexahigh Tab. 4mg",
+        "ENTP_ENG_NAME": "Daewoong Pharmaceuticals",
+        "MAIN_INGR_ENG": "Dexamethasone Micronized",
+        "BIZRNO": "1248601143",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

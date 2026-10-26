@@ -1,0 +1,128 @@
+{
+  "doc_id": "mfds:197000014:NB",
+  "drug_id": "mfds:197000014",
+  "scope_type": "product",
+  "title": "중외염화나트륨주사액(117mg/1ml) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000014/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000014.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210929",
+  "collected_at": "2026-10-22T05:16:31.309684+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).",
+          "raw_content": "앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함)."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 고나트륨혈증 환자",
+          "raw_content": "1) 고나트륨혈증 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수분과다상태 환자",
+          "raw_content": "2) 수분과다상태 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 순환기계기능장애 환자",
+          "raw_content": "1) 순환기계기능장애 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 신장애 환자",
+          "raw_content": "2) 신장애 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 저단백혈증 환자",
+          "raw_content": "3) 저단백혈증 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 저나트륨혈증(120mmol/L 미만) 환자",
+          "raw_content": "4) 저나트륨혈증(120mmol/L 미만) 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 저칼륨혈증 환자",
+          "raw_content": "5) 저칼륨혈증 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 고염소혈증 환자",
+          "raw_content": "6) 고염소혈증 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "대량ᆞ급속투여에 의해 고나트륨혈증, 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.",
+          "raw_content": "대량&#x119e;급속투여에 의해 고나트륨혈증, 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적 평가는 체액 평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.",
+          "raw_content": "지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적 평가는 체액 평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약은 다른 전해질 보액에 희석해서만 사용하고 단독으로는 사용하지 않아야 한다.",
+          "raw_content": "이 약은 다른 전해질 보액에 희석해서만 사용하고 단독으로는 사용하지 않아야 한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 고나트륨혈증 환자\n\n2) 수분과다상태 환자\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 순환기계기능장애 환자\n\n2) 신장애 환자\n\n3) 저단백혈증 환자\n\n4) 저나트륨혈증(120mmol/L 미만) 환자\n\n5) 저칼륨혈증 환자\n\n6) 고염소혈증 환자\n\n4. 이상반응\n\n대량ᆞ급속투여에 의해 고나트륨혈증, 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.\n\n5. 일반적 주의\n\n지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적 평가는 체액 평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.\n\n6. 적용상의 주의\n\n이 약은 다른 전해질 보액에 희석해서만 사용하고 단독으로는 사용하지 않아야 한다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 고나트륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수분과다상태 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 순환기계기능장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 신장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 저단백혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 저나트륨혈증(120mmol/L 미만) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 저칼륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고염소혈증 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대량&#x119e;급속투여에 의해 고나트륨혈증, 울혈성심부전, 부종, 산증, 혈청전해질 이상이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[지속되는 비경구 치료동안 또는 환자 평가의 근거로 임상적 평가와 주기적인 실험실적 평가는 체액 평형, 전해질농도, 산염기 평형의 변화를 모니터링하는데 필요하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약은 다른 전해질 보액에 희석해서만 사용하고 단독으로는 사용하지 않아야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "2ec9fdd1e2a24ec6bb862a929894434e504946e8a6f7db47e55505805fdcb21a"
+}

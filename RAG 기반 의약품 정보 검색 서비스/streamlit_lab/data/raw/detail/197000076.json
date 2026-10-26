@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197000076",
+        "ITEM_NAME": "보나링에이정(디멘히드리네이트)",
+        "ENTP_NAME": "일양약품(주)",
+        "ITEM_PERMIT_DATE": "19700416",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "국내용: 흰색의 장방형 정제\n",
+        "BAR_CODE": "8806417005605,8806417005612,8806417005629,8806417005636",
+        "MATERIAL_NAME": "총량 : 1정 (290밀리그램) 중|성분명 : 디멘히드리네이트|분량 : 50.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000076/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000076/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000076/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온(1~30℃) 보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,500정/병",
+        "EDI_CODE": "641700560",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1336",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20221229",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상, 2022-12-29/저장방법 및 유효기간(사용기간)변경, 2018-05-30/사용상주의사항변경(부작용포함), 2014-05-13/성상변경, 2011-10-27/제품명칭변경, 2010-05-19/성상변경, 1998-09-30/사용상주의사항변경(부작용포함), 1997-01-01/용법용량변경, 1997-01-01/효능효과변경, 1997-01-01/저장방법 및 유효기간(사용기간)변경, 1986-10-24/사용상주의사항변경(부작용포함), 1979-03-09/용법용량변경, 1979-03-09/효능효과변경, 1979-03-09/사용상주의사항변경(부작용포함), 1979-03-03/용법용량변경, 1979-03-03/효능효과변경, 1979-03-03",
+        "TOTAL_CONTENT": "1정 (290밀리그램) 중",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제, 시럽제)\" />\r\n    <ARTICLE title=\"1. 주효능·효과\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 멀미·메니에르증후군·방사선숙취에 의한 구역·구토·어지러움]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수술후 구역·구토]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(경구 : 껌정)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[멀미에 의한 어지러움·구토·두통의 예방 및 완화]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제, 시럽제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 디멘히드리네이트로서 1회 50㎎ 1일 3-4회 경구투여 한다. 예방목적으로는 30분-1시간전에 50-100㎎을 투여한다. 윈칙적으로 1일 200㎎을 초과하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(경구 : 껌정)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[1. 성인 : 디멘히드리네이트로서 상기증상으로 인한 불쾌감을 느끼자마자 20㎎을 씹는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[2. 4세이상 - 12세이하 : 이 약으로서 상기증상으로 인한 불쾌감을 느끼자마자 10㎎을 씹는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) MAO저해제(억제제)를 투여받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 디페닐메탄계 약물(디멘히드리네이트, 염산메클리진, 염산부클리진)에 과민증인 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전립선(전립샘)비대 등 배뇨(소변을 눔)장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 협우각형 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 간질 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 이 약은 유당(젖당)을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당(젖당)분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아 및 간질, 갑상선기능항진증 또는 급성 신염(신장염) 환자( 이 약 성분 중 테오필린계 약물의 부작용이 나타날 수 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 마취시행전 환자(마취후 깨어나는 것이 지연될 수 있다.)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정신신경계 : 졸음, 두통, 두중감(머리무거움), 수족(발)마비, 손가락진전(떨림), 어지러움, 시력 불선명 등의 시각장애, 불면, 지각이상 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 과민증 : 발진, 광과민증 등이 나타나는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 소화기계 : 때때로 가슴쓰림, 위통 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 비뇨기계 : 배뇨(소변을 눔)장애가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 기타 : 구갈, 피로감이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약을 투여중인 환자는 졸음이 나타날 수 있으므로 자동차 운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 바르비탈계 약물, 마취제 등의 중추신경억제제와의 병용(함께 복용(사용)) 또는 음주에 의해 상호작용이 증가될 수 있으므로 감량(줄임)하는 등 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 제8뇌신경 장애를 일으킬 수 있는 아미노글리코사이드계 항생물질(스트렙토마이신, 카나마이신 등)에 의한 난청(귀먹음)을 은폐하는 경우가 있으므로 충분히 관찰하고 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 아트로핀 및 아트로핀계 약물과 병용(함께 복용(사용)) 투여시 요저류(소변이 고임), 변비, 구갈 등 아트로핀의 부작용이 증가할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[유사화합물의 동물실험(랫트)에서 기형발생이 보고되었으므로 임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회(웃돎, 웃돌다)한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[수유중의 투여에 대한 안전성은 확립되지 않으므로 치료상의 유익성이 위험성을 상회(웃돎, 웃돌다)한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자(노인)에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자(노인)는 생리기능이 저하되어 있으므로 감량(줄임)하는 등 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[과량투여시의 경련, 흥분, 환각이 나타날 수 있으며, 이러한 경우에는 항경련제를 근육 또는 정맥주사하거나 위세척을 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040096]디멘히드리네이트",
+        "INGR_NAME": "[M040450]옥수수전분|[M223367]유당수화물|[M223374]카르복시메틸셀룰로오스칼슘|[M223556]스테아르산마그네슘|[M249191]탤크",
+        "ATC_CODE": "A04AD",
+        "ITEM_ENG_NAME": "Bonaling-A Tab.",
+        "ENTP_ENG_NAME": "IL-YANG PHARM. CO., LTD.",
+        "MAIN_INGR_ENG": "Dimenhydrinate",
+        "BIZRNO": "2098100872",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

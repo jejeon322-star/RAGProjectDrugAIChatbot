@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200704590",
+        "ITEM_NAME": "펠루비정(펠루비프로펜)",
+        "ENTP_NAME": "대원제약(주)",
+        "ITEM_PERMIT_DATE": "20070420",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "담황색 원형정제",
+        "BAR_CODE": "8806718033802,8806718033819,8806718033826,8806718033833,8806718033840",
+        "MATERIAL_NAME": "총량 : 이 약 1정(110mg) 중|성분명 : 펠루비프로펜|분량 : 30.0|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200704590/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200704590/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200704590/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기, 실온보관(1-30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "내수용 : 30정/병, 300정/병, 수출용 : 20정(10정/PTP X 2), 30정(10정/PTP X 3), 100정(10정/PTP X 10)",
+        "EDI_CODE": "671803380",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1373",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "신약",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240522",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-05-22/사용상주의사항변경(부작용포함), 2022-10-25/사용상주의사항변경(부작용포함), 2020-01-30/사용상주의사항변경(부작용포함), 2017-09-19/효능효과변경, 2017-09-19/효능효과변경, 2015-05-14/사용상주의사항변경(부작용포함), 2014-03-28/사용상주의사항변경(부작용포함), 2012-07-19/효능효과변경, 2012-07-19/사용상주의사항변경(부작용포함), 2010-12-13/효능효과변경, 2010-12-13/저장방법 및 유효기간(사용기간)변경, 2008-06-10",
+        "TOTAL_CONTENT": "이 약 1정(110mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M210533]펠루비프로펜",
+        "INGR_NAME": "[M040826]히드록시프로필셀룰로오스|[M080518]저치환도히드록시프로필셀룰로오스|[M082190]황색산화철|[M223367]유당수화물|[M223374]카르복시메틸셀룰로오스칼슘|[M223556]스테아르산마그네슘",
+        "ATC_CODE": "M01AE20",
+        "ITEM_ENG_NAME": "Pelubi Tab.",
+        "ENTP_ENG_NAME": "Daewon Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Pelubiprofen",
+        "BIZRNO": "2078136336",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

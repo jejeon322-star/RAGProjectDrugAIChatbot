@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:196400089",
+  "doc_id": "mfds:196400089:STORAGE",
+  "title": "보화소합원(대환,소환) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "6f69dea6c1d27345613f0ca8d8ff23482757fa5097e74873c9845964253e66d2",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196400089.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:09:40.674525+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 기밀용기, 실온(1~30℃)보관\n사용기간: 제조일로부터 24 개월"
+}

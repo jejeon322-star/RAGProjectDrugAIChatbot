@@ -1,0 +1,218 @@
+{
+  "doc_id": "mfds:196900058:NB",
+  "drug_id": "mfds:196900058",
+  "scope_type": "product",
+  "title": "코푸시럽에스 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900058/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900058.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20240923",
+  "collected_at": "2026-10-22T05:16:29.133083+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음과 같은 사람은 이 약을 복용하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람",
+          "raw_content": "1) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람",
+          "raw_content": "2) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 3개월 미만의 영아(시럽제에 한함)",
+          "raw_content": "3) 3개월 미만의 영아(시럽제에 한함)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 15세 미만의 소아(정제에 한함)",
+          "raw_content": "4) 15세 미만의 소아(정제에 한함)"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등",
+          "raw_content": "다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 이 약을 복용하는 동안 다음의 행위를 하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 복용시에는 음주하지 말 것.",
+          "raw_content": "1) 복용시에는 음주하지 말 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 복용하는 동안 졸음이 오는 경우가 있으므로 자동차 운전 또는 기계류의 운전 조작을 피할 것.",
+          "raw_content": "2) 복용하는 동안 졸음이 오는 경우가 있으므로 자동차 운전 또는 기계류의 운전 조작을 피할 것."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 본인, 양친 또는 형제 등이 두드러기, 접촉피부염, 알레르기비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람",
+          "raw_content": "1) 본인, 양친 또는 형제 등이 두드러기, 접촉피부염, 알레르기비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 지금까지 약에 의해 알레르기 증상(예, 발열, 발진, 관절통, 가려움 등)을 일으킨 적이 있는 사람",
+          "raw_content": "2) 지금까지 약에 의해 알레르기 증상(예, 발열, 발진, 관절통, 가려움 등)을 일으킨 적이 있는 사람"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 간장질환, 신장질환, 갑상샘질환, 당뇨병 등이 있는 환자, 고열환자, 허약자",
+          "raw_content": "3) 간장질환, 신장질환, 갑상샘질환, 당뇨병 등이 있는 환자, 고열환자, 허약자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 심장질환 및 고혈압 환자, 고령자",
+          "raw_content": "4) 심장질환 및 고혈압 환자, 고령자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부",
+          "raw_content": "5) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 녹내장(예, 눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자",
+          "raw_content": "6) 녹내장(예, 눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 의사의 치료를 받고 있는 환자",
+          "raw_content": "7) 의사의 치료를 받고 있는 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 다음과 같은 기침이 있는 사람",
+          "raw_content": "8) 다음과 같은 기침이 있는 사람"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침",
+          "raw_content": "흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "9) 이 약은 카라멜을 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다.",
+          "raw_content": "9) 이 약은 카라멜을 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다(시럽제에 한함).",
+          "raw_content": "만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다(시럽제에 한함)."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 발진, 발적, 가려움, 구역, 구토, 식욕부진, 어지럼, 배뇨곤란, 목마름(지속적이거나 심한), 불안, 떨림, 불면",
+          "raw_content": "1) 발진, 발적, 가려움, 구역, 구토, 식욕부진, 어지럼, 배뇨곤란, 목마름(지속적이거나 심한), 불안, 떨림, 불면"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 5 ∼ 6회 복용하여도 증상이 좋아지지 않을 경우",
+          "raw_content": "2) 5 ∼ 6회 복용하여도 증상이 좋아지지 않을 경우"
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 기타 이 약의 복용시 주의할 사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정해진 용법·용량을 잘 지킬 것.",
+          "raw_content": "1) 정해진 용법·용량을 잘 지킬 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소아에게 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것.",
+          "raw_content": "2) 소아에게 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 장소에 보관할 것.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 장소에 보관할 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직사광선을 피하고 되도록 습기가 적은 서늘한 곳에 밀전하여 보관할 것.",
+          "raw_content": "2) 직사광선을 피하고 되도록 습기가 적은 서늘한 곳에 밀전하여 보관할 것."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.",
+          "raw_content": "3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음과 같은 사람은 이 약을 복용하지 말 것.\n\n1) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람\n\n2) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람\n\n3) 3개월 미만의 영아(시럽제에 한함)\n\n4) 15세 미만의 소아(정제에 한함)\n\n2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\n\n다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등\n\n3. 이 약을 복용하는 동안 다음의 행위를 하지 말 것.\n\n1) 복용시에는 음주하지 말 것.\n\n2) 복용하는 동안 졸음이 오는 경우가 있으므로 자동차 운전 또는 기계류의 운전 조작을 피할 것.\n\n4. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것.\n\n1) 본인, 양친 또는 형제 등이 두드러기, 접촉피부염, 알레르기비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람\n\n2) 지금까지 약에 의해 알레르기 증상(예, 발열, 발진, 관절통, 가려움 등)을 일으킨 적이 있는 사람\n\n3) 간장질환, 신장질환, 갑상샘질환, 당뇨병 등이 있는 환자, 고열환자, 허약자\n\n4) 심장질환 및 고혈압 환자, 고령자\n\n5) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부\n\n6) 녹내장(예, 눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자\n\n7) 의사의 치료를 받고 있는 환자\n\n8) 다음과 같은 기침이 있는 사람\n\n흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침\n\n9) 이 약은 카라멜을 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다.\n\n5. 소아에 대한 투여\n\n만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다(시럽제에 한함).\n\n6. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\n\n1) 발진, 발적, 가려움, 구역, 구토, 식욕부진, 어지럼, 배뇨곤란, 목마름(지속적이거나 심한), 불안, 떨림, 불면\n\n2) 5 ∼ 6회 복용하여도 증상이 좋아지지 않을 경우\n\n7. 기타 이 약의 복용시 주의할 사항\n\n1) 정해진 용법·용량을 잘 지킬 것.\n\n2) 소아에게 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것.\n\n8. 저장상의 주의사항\n\n1) 어린이의 손이 닿지 않는 장소에 보관할 것.\n\n2) 직사광선을 피하고 되도록 습기가 적은 서늘한 곳에 밀전하여 보관할 것.\n\n3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 및 이 약의 구성성분에 대한 과민반응 및 그 병력이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) MAO억제제(항우울제, 항정신병제, 감정조절제, 항파킨슨제 등)를 복용하고 있거나 복용을 중단한 후 2주 이내의 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 3개월 미만의 영아(시럽제에 한함)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 15세 미만의 소아(정제에 한함)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다른 진해거담제, 감기약, 항히스타민제, 진정제, 알코올 등]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이 약을 복용하는 동안 다음의 행위를 하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 복용시에는 음주하지 말 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 복용하는 동안 졸음이 오는 경우가 있으므로 자동차 운전 또는 기계류의 운전 조작을 피할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의 할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인, 양친 또는 형제 등이 두드러기, 접촉피부염, 알레르기비염, 편두통, 음식물알레르기 등을 일으키기 쉬운 체질을 갖고 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 지금까지 약에 의해 알레르기 증상(예, 발열, 발진, 관절통, 가려움 등)을 일으킨 적이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간장질환, 신장질환, 갑상샘질환, 당뇨병 등이 있는 환자, 고열환자, 허약자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 심장질환 및 고혈압 환자, 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 임부 또는 임신하고 있을 가능성이 있는 여성, 수유부]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 녹내장(예, 눈의 통증, 눈의 침침함 등) 환자, 배뇨장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 다음과 같은 기침이 있는 사람]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[흡연, 천식, 만성 기관지염, 폐기종, 과도한 가래가 동반되는 기침, 1주 이상 지속 또는 재발되는 기침, 만성 기침, 발열·발진이나 지속적인 두통이 동반되는 기침]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 이 약은 카라멜을 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다(시럽제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 발진, 발적, 가려움, 구역, 구토, 식욕부진, 어지럼, 배뇨곤란, 목마름(지속적이거나 심한), 불안, 떨림, 불면]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 5 ∼ 6회 복용하여도 증상이 좋아지지 않을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법·용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에게 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 장소에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하고 되도록 습기가 적은 서늘한 곳에 밀전하여 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 오용을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "3822a460dd89dafe4e63446b79dec5094be824ac3b57d9e692957cceaed0be9d"
+}

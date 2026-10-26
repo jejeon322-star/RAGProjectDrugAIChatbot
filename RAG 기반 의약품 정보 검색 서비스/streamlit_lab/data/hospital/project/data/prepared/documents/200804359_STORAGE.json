@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:200804359",
+  "doc_id": "mfds:200804359:STORAGE",
+  "title": "암브콜흡입액(암브록솔염산염) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "810a57265247e0aa261b4e53d904d87b22cb35a74feeef1265dad2a5843b5b5f",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\200804359.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:55:15.147421+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광기밀용기, 실온(1～30℃) 보관\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광기밀용기, 실온(1～30℃) 보관\n사용기간: 제조일로부터 36 개월"
+}

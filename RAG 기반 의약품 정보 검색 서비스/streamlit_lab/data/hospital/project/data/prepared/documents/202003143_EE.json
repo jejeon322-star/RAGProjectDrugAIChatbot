@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202003143:EE",
+  "drug_id": "mfds:202003143",
+  "scope_type": "product",
+  "title": "모사프론에스알서방정15밀리그램(모사프리드시트르산염수화물) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003143/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202003143_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:04:34.977115+00:00",
+  "text": "[원문 1쪽]\n효능효과\n기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+  "content_hash": "63e9b4dd031f47ade63016b79a1f696323ea2791ab9e2ea455244ce2a1004e06",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "dd71c96fee48127b65a96e6fe68013c692028c587217e7bcb3b9b9b01eaaf7fe",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)"
+        }
+      ]
+    }
+  ]
+}

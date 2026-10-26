@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:197100030:UD",
+  "drug_id": "mfds:197100030",
+  "scope_type": "product",
+  "title": "대한아미노필린주사액(2.5%) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100030/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100030.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20221028",
+  "collected_at": "2026-10-22T05:24:48.080834+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 아미노필린수화물으로서 1회 250 mg을 1일 1 ∼ 2회 생리식염주사액 또는 포도당 주사액에 희석하여 5 ∼ 10분 동안 천천히 정맥 또는 점적 정맥주사한다. 투여간격은 8시간 이상으로 하고 최고용량은 1일 체중 kg당 12 mg이다.",
+          "raw_content": "성인 : 아미노필린수화물으로서 1회 250 mg을 1일 1 ∼ 2회 생리식염주사액 또는 포도당 주사액에 희석하여 5 ∼ 10분 동안 천천히 정맥 또는 점적 정맥주사한다. 투여간격은 8시간 이상으로 하고 최고용량은 1일 체중 kg당 12 mg이다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "증상에 따라 적절히 증감한다.",
+          "raw_content": "증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 아미노필린수화물으로서 1회 250 mg을 1일 1 ∼ 2회 생리식염주사액 또는 포도당 주사액에 희석하여 5 ∼ 10분 동안 천천히 정맥 또는 점적 정맥주사한다. 투여간격은 8시간 이상으로 하고 최고용량은 1일 체중 kg당 12 mg이다.\n\n증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 아미노필린수화물으로서 1회 250 mg을 1일 1 ∼ 2회 생리식염주사액 또는 포도당 주사액에 희석하여 5 ∼ 10분 동안 천천히 정맥 또는 점적 정맥주사한다. 투여간격은 8시간 이상으로 하고 최고용량은 1일 체중 kg당 12 mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "af77c66d3182e2f5c57d2bc8c9828ae39e379783c406fc5e0cee5e8011a30f72"
+}

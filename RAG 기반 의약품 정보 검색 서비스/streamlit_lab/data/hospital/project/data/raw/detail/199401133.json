@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199401133",
+        "ITEM_NAME": "세카론정(아플로쿠알론)",
+        "ENTP_NAME": "삼진제약(주)",
+        "ITEM_PERMIT_DATE": "19941012",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색의 원형  당의정",
+        "BAR_CODE": "8806478012000,8806478012017,8806478012024,8806478012031,8806478012048",
+        "MATERIAL_NAME": "총량 : 1정(228.49mg) 중|성분명 : 아플로쿠알론|분량 : 20|단위 : 밀리그램|규격 : JP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401133/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401133/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401133/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "차광기밀용기",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "500정/병,100정/병,100정/상자[10정/피티피*10],30정/병",
+        "EDI_CODE": "647801200",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1324",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230404",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상의 주의사항, 2023-04-04/사용상주의사항변경(부작용포함), 2010-01-07/효능효과변경, 1997-01-01/용법용량변경, 1997-01-01/사용상주의사항변경(부작용포함), 1997-01-01",
+        "TOTAL_CONTENT": "1정(228.49mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M100880]아플로쿠알론",
+        "INGR_NAME": "[M040531]젤라틴|[M040567]카르나우바납|[M040634]침강탄산칼슘|[M040826]히드록시프로필셀룰로오스|[M060073]미결정셀룰로오스|[M070879]아라비아고무가루|[M071119]전분글리콜산나트륨|[M088337]폴리소르베이트80|[M205921]산화티탄|[M207642]백당|[M223367]유당수화물|[M223556]스테아르산마그네슘|[M249191]탤크",
+        "ATC_CODE": "M03BX",
+        "ITEM_ENG_NAME": "Sekaron Tab.",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "MAIN_INGR_ENG": "Afloqualone",
+        "BIZRNO": "1248531621",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

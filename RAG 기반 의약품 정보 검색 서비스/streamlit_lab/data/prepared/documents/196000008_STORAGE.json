@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:196000008",
+  "doc_id": "mfds:196000008:STORAGE",
+  "title": "다이크로짇정(히드로클로로티아지드) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "b627aad6938dbbe619bcde7e9d000ee1310d9f7a3f683382d8347d4c00fcaede",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000008.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:02:57.037102+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 실온(1 ~ 30℃), 건소, 밀폐용기\n사용기간: 전과 동일"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 실온(1 ~ 30℃), 건소, 밀폐용기\n사용기간: 전과 동일"
+}

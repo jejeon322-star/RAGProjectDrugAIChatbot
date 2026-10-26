@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196900027",
+        "ITEM_NAME": "비타민케이1주사액(피토나디온주사액)",
+        "ENTP_NAME": "대한약품공업(주)",
+        "ITEM_PERMIT_DATE": "19690311",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "담황색 투명한 액이 들어있는 갈색앰플",
+        "BAR_CODE": "8806451016803,8806451016810,8806451016827,8806451016834,8806451016858",
+        "MATERIAL_NAME": "총량 : |성분명 : 피토나디온(비타민케이)|분량 : 10|단위 : 밀리그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900027/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900027/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900027/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900027/II",
+        "STORAGE_METHOD": "밀봉용기, 차광보존",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "[내수용] 1밀리리터 x 50앰플\n[수출용] 1밀리리터 x 10앰플, 1밀리리터 x 50앰플",
+        "EDI_CODE": "645101681",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1303",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20130925",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "성상변경, 2013-09-25/사용상주의사항변경(부작용포함), 2006-02-05/용법용량변경, 2006-02-05/효능효과변경, 2006-02-05/저장방법 및 유효기간(사용기간)변경, 2000-07-24/성상변경, 2000-07-24/사용상주의사항변경(부작용포함), 1994-01-15/저장방법 및 유효기간(사용기간)변경, 1986-01-08/사용상주의사항변경(부작용포함), 1979-03-16/저장방법 및 유효기간(사용기간)변경, 1979-03-16/용법용량변경, 1979-03-16/효능효과변경, 1979-03-16/저장방법 및 유효기간(사용기간)변경, 1969-03-11/성상변경, 1969-03-11",
+        "TOTAL_CONTENT": null,
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 신생아 출혈성질환의 예방과 치료\" />\r\n    <ARTICLE title=\"2. 급성 또는 경구투여가 어려운 경우의 비타민 K 결핍 또는 비타민 K의 활성이상으로 인한 다음의 혈액응고질환\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"2\"><![CDATA[1) 쿠마린(coumarin) 유도체에 의한 항응고제 유도성 프로트롬빈 결핍증]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"-1\" marginLeft=\"1\"><![CDATA[2) 항생제, 살리실산 제제 등에 의하여 2차적으로 발생되는 저프로트롬빈혈증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 비타민 K의 합성 또는 흡수제한으로 인하여 2차적으로 발생되는 저프로트롬빈혈증\" />\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 신생아 출혈성질환의 예방\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[출생 1시간 이내에 피토나디온으로서 0.5～1 mg을 단회 근육주사 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 신생아 출혈성질환의 치료\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약으로서 1 mg을 근육 또는 피하주사 한다. 모체가 항응고제를 투여하는 경우에는 고용량이 요구될 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 항응고제 유도성 프로트롬빈 결핍증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 성인 : 초회 이 약으로서 2.5～10 mg 또는 최대 25 mg까지 투여, 드물게 50 mg이 사용되는 경우도 있다. 필요 시, 6～8시간 이후 반복 투여할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 소아/영아 : 초회 이 약으로서 2.5～10 mg (영아 : 1～2 mg)을 근육 또는 피하주사, 필요 시, 6～8시간 이후 반복 투여할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 다른 원인으로 인한 저프로트롬빈혈증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[성인 : 이 약으로서 2.5～25 mg, 최대 50 mg까지 투여할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 치명적인 반응을 포함한 중대반응이 이 약을 희석사용하거나 급속한 주입을 하지 않았음에도 불구하고 정맥주사 동안 또는 직후에 발생되었으며 근육주사시 또한 보고되었다. 전형적으로 이러한 반응은 과민증, 쇽, 심장 그리고/또는 호흡정지와 같은 아나필락시와 유사하다. 이 약을 처음 투여 받을 때 일부환자에서 중대반응이 나타났다. 따라서 피하투여를 실시하기에 부적절하거나 피하투여에 따른 중대한 위험성이 내재된 경우에 한하여 정맥 또는 근육주사를 실시해야 한다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 앰플 주사제는 용기절단 시, 유리파편이 혼입되어 이상반응을 초래할 수 있으므로 사용 시, 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용하되 특히 어린이, 노약자에 사용 시는 각별히 주의한다(주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 및 이약에 포함된 구성성분에의 과민반응 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 간세포 손상으로 인한 저프로트롬빈혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 담즙분비정지 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 본인 또는 부모ㆍ형제가 기관지천식, 발진, 두드러기 등의 병력을 가지고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 약물과민반응의 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 신생아(특히, 미숙아)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 임신말기의 여성]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고용량의 지속사용(고빌리루빈혈증이 나타날 수 있다.)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 일시적인 홍조감, 미각변화, 어지러움, 빈맥, 발한, 단기간의 저혈압, 호흡곤란, 청색증, 흉부압박감, 급성말초혈관부전증이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 기관지경련, 쇽, 심장 그리고/또는 호흡정지가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 발진, 두드러기, 또는 아나필락시양 과민반응을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 주사부위의 동통, 부종, 압통, 지연성 경결, 발적, 종창, 발진양의 피부염이 발생될 수 있으며 보통 반복투여 후, 때때로 홍반성, 경화성 플라크가 형성되며 드물게 장기투여 시, 피부경화성 병변으로 악화될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 신생아 특히, 미숙아에게 출생 후, 처음 수일 동안 이 약을 과량 투여할 경우 드물게 고빌리루빈혈증, 중증 용혈성빈혈, 혈색소뇨증, 핵황달 및 대뇌손상으로 사망에 이를 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 정맥 또는 근육주사 후의 사망 사례가 있었다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 경구용 비타민 K제 투여가 어려운 경우에 한하여 사용한다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 사용 전, 미리 소량을 주입하여 환자의 증상을 관찰한 후, 이상이 발현된 경우는 즉시 사용을 중지하고 적절한 처치를 한다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 쇽 등을 예측하기 위하여 투여 전, 알레르기 병력, 약물과민반응에 대하여 철저한 문진을 실시한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 간질환 환자에게 초기 투여한 후, 만족할만한 반응을 얻지 못한 경우에 이 약의 과량을 반복 투여하는 것은 적절하지 않다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 이 약 투여 후, 즉시 응고효과를 기대하면 안 된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 이 약은 헤파린의 항응고작용에 대해 길항하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 쿠마린계 항응고제의 과량 투여로 인한 치명적이고 심각한 출혈의 가능성이 있을 때 보다 신속하고 효과적인 효능을 얻기 위해서는 이 약과 전혈(whole blood) 또는 혈액응고인자를 함께 투여하도록 한다. 이때, 항응고제의 투여를 중단하며 이 약 10～20 mg의 용량을 천천히 정맥주사하고 3시간 후, 프로트롬빈시간을 측정하여 반응이 부적절한 경우에는 반복 투여하되 24시간 동안 40 mg 이상을 사용하지 않도록 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 쿠마린계 항응고제의 작용을 감소시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[2) 광범위 항생제, 퀴니딘, 퀴닌, 고용량의 살리실산염은 이 약의 효과를 감소시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[3) 콜레스티라민, 광유는 이 약의 흡수를 감소시킬 수 있으므로 병용 시, 투여 1시간 전 또는 4시간 후에 투여한다(경구제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임신 중 투여에 대한 안전성이 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 여성에게는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에 한하여 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 유즙으로의 이행 여부는 확립되어 있지 않으므로 수유부 투여시, 특히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 신생아(특히, 미숙아)에서 용혈, 황달, 고빌리루빈혈증이 나타날 수 있으므로 과량(10～20 mg) 투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아투여 시는 혈액학자의 자문을 구하도록 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 비타민 K 주사 투여로 소아에게서 발암가능성이 있다는 역학조사연구 보고가 있으므로 경구투여가 부적절한 경우 외에는 주사제를 사용하지 않도록 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고령자는 이 약의 투여로 항응고작용을 역전시키는데 보다 민감하므로 추천용량범위의 하한 용량을 사용해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 과량투여 시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약을 과량투여 했을 경우에는 프로트롬빈을 억제하는 항응고제를 다소 과량 투여하거나 헤파린 같은 다른 기전으로 작용하는 항응고제를 투여하여 증상을 역전시킨다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"11. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 용량은 가능한 한 최소한으로 유지해야하고 프로트롬빈수치는 정기적으로 검사해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 주사 속도가 빠를 경우에는 쇽 증상이 발생될 수 있으므로 천천히 점적정맥주사하도록 한다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 점적정맥주사하는 경우에는 광분해를 방지하기 위하여 차광커버를 사용하는 등 적용 시 주의한다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 사용 시 앰플내 주사액의 투명도를 확인해야 한다. 부적절하게 보관한 경우, 내용액이 혼탁되거나 층이 분리된 경우가 발생될 수 있다. 이런 경우에는 사용하면 안 된다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 정맥주사시 0.9% 생리식염 주사액, 5% 포도당 주사액, 5% 포도당/생리식염 주사액으로만 희석해야 하며 혼합 후, 즉시 투여를 시작해야 한다(주사제에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 다른 주사제와 혼합 또는 희석하여 사용하지 않아야 하지만 관류장치의 하부에 주입할 수 있다(주사제에 한함).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"12. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 25˚C 이하에서 차광하여 보관하며 용액은 얼리지 않도록 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040757]피토나디온(비타민케이)",
+        "INGR_NAME": "[M040534]주사용수|[M088337]폴리소르베이트80",
+        "ATC_CODE": "B02BA01",
+        "ITEM_ENG_NAME": "Dai Han Vitamin-K1 Injection(Phytonadione)",
+        "ENTP_ENG_NAME": "DAI HAN PHARM CO., LTD.",
+        "MAIN_INGR_ENG": "Phytonadione",
+        "BIZRNO": "1348500111",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

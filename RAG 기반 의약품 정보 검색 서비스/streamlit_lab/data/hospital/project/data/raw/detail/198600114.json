@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "198600114",
+        "ITEM_NAME": "동아가스터정20밀리그램(파모티딘)",
+        "ENTP_NAME": "동아에스티(주)",
+        "ITEM_PERMIT_DATE": "19860527",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색의 원형 당의정",
+        "BAR_CODE": "8806425003907,8806425003914,8806425003921,8806425003938,8806425003945,8806425003952,8806425003969,8806425003976",
+        "MATERIAL_NAME": "총량 : 이 약 1정(158.1mg) 중|성분명 : 파모티딘|분량 : 20.0|단위 : 밀리그램|규격 : JP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198600114/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198600114/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198600114/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀폐용기, 실온보존",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,300정/병",
+        "EDI_CODE": "642500390",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1290",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20241107",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-11-07/사용상주의사항변경(부작용포함), 2023-01-25/성상, 2022-06-14/사용상주의사항변경(부작용포함), 2019-05-26/사용상주의사항변경(부작용포함), 2014-10-02/사용상주의사항변경(부작용포함), 2013-04-30/사용상주의사항변경(부작용포함), 2011-01-06/제품명칭변경, 2008-07-03/성상변경, 2002-11-04/사용상주의사항변경(부작용포함), 1994-01-01/용법용량변경, 1994-01-01/효능효과변경, 1994-01-01/사용상주의사항변경(부작용포함), 1991-10-04/사용상주의사항변경(부작용포함), 1990-02-21/사용상주의사항변경(부작용포함), 1989-12-18/용법용량변경, 1989-06-23/효능효과변경, 1989-06-23/사용상주의사항변경(부작용포함), 1988-05-18/용법용량변경, 1986-07-21",
+        "TOTAL_CONTENT": "이 약 1정(158.1mg) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M081653]파모티딘",
+        "INGR_NAME": "[M040567]카르나우바납|[M086809]전호화전분|[M203383]스테아르산칼슘|[M217368]히드록시프로필셀롤로오스|[M227968]유당수화물|[M230677]경질무수규산|[M243233]미결정셀룰로오스|[M282821]탭쉴드흰색(29W600)",
+        "ATC_CODE": "A02BA03",
+        "ITEM_ENG_NAME": "Dong-A Gaster tablet 20mg (Famotidine)",
+        "ENTP_ENG_NAME": "DONG-A ST",
+        "MAIN_INGR_ENG": "Famotidine",
+        "BIZRNO": "2048640122",
+        "RARE_DRUG_YN": null,
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

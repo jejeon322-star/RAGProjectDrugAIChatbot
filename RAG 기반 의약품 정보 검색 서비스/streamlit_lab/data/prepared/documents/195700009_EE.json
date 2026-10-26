@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:195700009:EE",
+  "drug_id": "mfds:195700009",
+  "scope_type": "product",
+  "title": "대한멸균생리식염수(생리식염주사액) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/195700009/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\195700009.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20190909",
+  "collected_at": "2026-10-22T04:59:29.617814+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍)",
+          "raw_content": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2. 주사제의 용해 희석제",
+          "raw_content": "2. 주사제의 용해 희석제"
+        }
+      ]
+    }
+  ],
+  "text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍)\n\n2. 주사제의 용해 희석제",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2. 주사제의 용해 희석제]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "50bb7596604d200d8f99c1a05bda3c730620742329ef61db48aa3085790f6057"
+}

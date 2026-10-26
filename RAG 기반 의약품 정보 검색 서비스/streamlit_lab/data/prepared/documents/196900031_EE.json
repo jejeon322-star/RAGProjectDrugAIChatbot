@@ -1,0 +1,38 @@
+{
+  "doc_id": "mfds:196900031:EE",
+  "drug_id": "mfds:196900031",
+  "scope_type": "product",
+  "title": "대한에피네프린주사액 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900031/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900031.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260220",
+  "collected_at": "2026-10-22T05:15:44.717218+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "기관지 천식 발작의 완화, 혈청병ㆍ두드러기ㆍ맥관신경성 부종의 증상 완화, 약물에 의한 쇽ㆍ심정지의 보조치료, 국소마취제 효력의 지속",
+          "raw_content": "기관지 천식 발작의 완화, 혈청병ㆍ두드러기ㆍ맥관신경성 부종의 증상 완화, 약물에 의한 쇽ㆍ심정지의 보조치료, 국소마취제 효력의 지속"
+        }
+      ]
+    }
+  ],
+  "text": "기관지 천식 발작의 완화, 혈청병ㆍ두드러기ㆍ맥관신경성 부종의 증상 완화, 약물에 의한 쇽ㆍ심정지의 보조치료, 국소마취제 효력의 지속",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[기관지 천식 발작의 완화, 혈청병ㆍ두드러기ㆍ맥관신경성 부종의 증상 완화, 약물에 의한 쇽ㆍ심정지의 보조치료, 국소마취제 효력의 지속]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "ee20ef84e0c524326d0349c059c9d38c210c0c45c6fc63d9924801c6db2bbdde"
+}

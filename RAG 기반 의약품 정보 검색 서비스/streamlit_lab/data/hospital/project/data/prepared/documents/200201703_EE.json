@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200201703:EE",
+  "drug_id": "mfds:200201703",
+  "scope_type": "product",
+  "title": "덱사톱크림(덱사메타손프로피오네이트) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201703/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200201703_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:59:34.009181+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 습진·피부염군(진행성 지장각피증, 만성단순태선, 일광피부염을 포함), 양진군(구진두드러기를 포함), 벌레\n물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진\n2. 원형탈모증의 치료",
+  "content_hash": "54c46b25e324f6fb0cdc290f27f8a41973bbe37a40726e0dbedd91cce2db681a",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "025f3fb0080df4978754f8607f89145c1af56b23e6826776f4dc8cc03801582e",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 습진·피부염군(진행성 지장각피증, 만성단순태선, 일광피부염을 포함), 양진군(구진두드러기를 포함), 벌레\n물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진\n2. 원형탈모증의 치료"
+        }
+      ]
+    }
+  ]
+}

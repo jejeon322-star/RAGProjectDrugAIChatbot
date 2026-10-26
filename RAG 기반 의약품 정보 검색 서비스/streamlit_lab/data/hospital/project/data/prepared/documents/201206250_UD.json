@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201206250:UD",
+  "drug_id": "mfds:201206250",
+  "scope_type": "product",
+  "title": "뮤코테라트로키제(암브록솔염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206250/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201206250_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:02:06.887661+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 및 12세 이상의 어린이 : 1회 1정씩 빨아서 복용한다. 하루 최대 6정을 초과하지 않는다. 이 약은 3일을\n초과하여 투여하지 않는다. 지속적인 어떤 증후나 고열이 발생할 경우, 환자는 의사와 상의해야 한다. 12세\n미만의 어린이에게 투여해서는 안된다.",
+  "content_hash": "46143c695d6bbb07678afe339a0ea433117a44f289738ce0c036e4c7df66915e",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "14d04a293601b121cceccce0a4a2612d616973d29222674a5d274e9fe95cfa91",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 및 12세 이상의 어린이 : 1회 1정씩 빨아서 복용한다. 하루 최대 6정을 초과하지 않는다. 이 약은 3일을\n초과하여 투여하지 않는다. 지속적인 어떤 증후나 고열이 발생할 경우, 환자는 의사와 상의해야 한다. 12세\n미만의 어린이에게 투여해서는 안된다."
+        }
+      ]
+    }
+  ]
+}

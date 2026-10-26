@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201500900:UD",
+  "drug_id": "mfds:201500900",
+  "scope_type": "product",
+  "title": "에스트렌정(애엽95%에탄올연조엑스(20→1)) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500900/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201500900_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:12.881400+00:00",
+  "text": "[원문 1쪽]\n용법용량\n애엽95%에탄올연조엑스로서 1회 60 mg을 1일 3회 경구투여한다.",
+  "content_hash": "9f2fc11f83d050aea28d72c6e642da9ba1f3e52e487718b6e89ffd4ec5eb5372",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "0f3a2f00dd2df722869ab68d0bf568a2bcca482d724f1dae8b177620a3a0d782",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n애엽95%에탄올연조엑스로서 1회 60 mg을 1일 3회 경구투여한다."
+        }
+      ]
+    }
+  ]
+}

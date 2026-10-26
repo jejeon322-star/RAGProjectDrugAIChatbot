@@ -1,0 +1,40 @@
+{
+  "doc_id": "mfds:197100029:EE",
+  "drug_id": "mfds:197100029",
+  "scope_type": "product",
+  "title": "대한디-만니톨주사액(15%) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100029/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100029.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20200127",
+  "collected_at": "2026-10-22T05:24:15.626125+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 수술중, 수술후, 외상후의 급성신부전의 예방 및 치료",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 약물중독시의 배설촉진",
+      "paragraphs": []
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 두개내압 강하 및 뇌용적의 축소가 필요한 경우",
+      "paragraphs": []
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 안내압 강하가 필요한 경우",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 수술중, 수술후, 외상후의 급성신부전의 예방 및 치료\n\n2. 약물중독시의 배설촉진\n\n3. 두개내압 강하 및 뇌용적의 축소가 필요한 경우\n\n4. 안내압 강하가 필요한 경우",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 수술중, 수술후, 외상후의 급성신부전의 예방 및 치료\" />\r\n    <ARTICLE title=\"2. 약물중독시의 배설촉진\" />\r\n    <ARTICLE title=\"3. 두개내압 강하 및 뇌용적의 축소가 필요한 경우\" />\r\n    <ARTICLE title=\"4. 안내압 강하가 필요한 경우\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "b257a89120dbf5a5ff552659228b3ca391d19d845fdc033bd8270bcb22c291bf"
+}

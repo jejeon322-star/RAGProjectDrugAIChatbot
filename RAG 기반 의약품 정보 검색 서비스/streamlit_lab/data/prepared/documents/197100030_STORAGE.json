@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197100030",
+  "doc_id": "mfds:197100030:STORAGE",
+  "title": "대한아미노필린주사액(2.5%) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "19fe33e6d74f74ce8c1bf8cfad2a4928601cddb40d4e291ad404529ab6d6d35a",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100030.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:24:48.080834+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광한 밀봉용기\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광한 밀봉용기\n사용기간: 제조일로부터 36 개월"
+}

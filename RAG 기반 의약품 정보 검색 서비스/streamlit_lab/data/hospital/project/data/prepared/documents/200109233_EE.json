@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200109233:EE",
+  "drug_id": "mfds:200109233",
+  "scope_type": "product",
+  "title": "가스터디정20㎎(파모티딘) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109233/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200109233_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:59:15.389750+00:00",
+  "text": "[원문 1쪽]\n효능효과\n⓵ 위궤양, 십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한),\n역류성식도염, 졸링거-엘리슨증후군\n⓶ 하기질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선\n: 급성위염, 만성위염의 급성증악기",
+  "content_hash": "11f6da31dee2753042a7ebe6f7a755db8f5a9dbd26a4cf5d32ef9f511db8e654",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "8464c65a8f4a9f50ce9cad4b78696169b6fb13de7889540d71036939c76d0e32",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n⓵ 위궤양, 십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한),\n역류성식도염, 졸링거-엘리슨증후군\n⓶ 하기질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선\n: 급성위염, 만성위염의 급성증악기"
+        }
+      ]
+    }
+  ]
+}

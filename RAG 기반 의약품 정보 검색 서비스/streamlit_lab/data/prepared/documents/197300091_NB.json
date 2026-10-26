@@ -1,0 +1,452 @@
+{
+  "doc_id": "mfds:197300091:NB",
+  "drug_id": "mfds:197300091",
+  "scope_type": "product",
+  "title": "제일포도당주사액(50%)(수출용) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300091/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300091.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260323",
+  "collected_at": "2026-10-22T05:29:16.667661+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함.).",
+          "raw_content": "1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함.)."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B1)소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있음.",
+          "raw_content": "2) 포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B<sub>1</sub>)소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있음."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 저장성 탈수증 환자",
+          "raw_content": "1) 저장성 탈수증 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수분과다상태 환자",
+          "raw_content": "2) 수분과다상태 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 고혈당 환자",
+          "raw_content": "3) 고혈당 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 산증 환자",
+          "raw_content": "4) 산증 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 저칼륨혈증 환자",
+          "raw_content": "5) 저칼륨혈증 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 고삼투압성 혼수 환자",
+          "raw_content": "6) 고삼투압성 혼수 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 내당불내증 환자",
+          "raw_content": "7) 내당불내증 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 무뇨증, 간성혼수 환자",
+          "raw_content": "8) 무뇨증, 간성혼수 환자"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 이 약 및 이 약에 포함된 성분에의 과민반응 환자",
+          "raw_content": "9) 이 약 및 이 약에 포함된 성분에의 과민반응 환자"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 고장액은 탈수증세가 있는 척추관내출혈, 두개내출혈, 진전섬망환자 에게는 투여하지 않는다.",
+          "raw_content": "10) 고장액은 탈수증세가 있는 척추관내출혈, 두개내출혈, 진전섬망환자 에게는 투여하지 않는다."
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "11) 고장성 포도당 용액은 환자의 고삼투압 상태를 더 악화시킬 수 있으므로 심한 탈수 환자에게 투여하지 않는다.",
+          "raw_content": "11) 고장성 포도당 용액은 환자의 고삼투압 상태를 더 악화시킬 수 있으므로 심한 탈수 환자에게 투여하지 않는다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 칼륨결핍ㆍ인산결핍ㆍ마그네슘결핍경향이 있는 환자, 저나트륨혈증 환자",
+          "raw_content": "1) 칼륨결핍ㆍ인산결핍ㆍ마그네슘결핍경향이 있는 환자, 저나트륨혈증 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 요붕증 환자",
+          "raw_content": "2) 요붕증 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 신부전 환자",
+          "raw_content": "3) 신부전 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 코르티코스테로이드ㆍ코르티코트로핀 투여 환자",
+          "raw_content": "4) 코르티코스테로이드ㆍ코르티코트로핀 투여 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 심부전 환자",
+          "raw_content": "5) 심부전 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 심한 영양결핍 환자",
+          "raw_content": "6) 심한 영양결핍 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 치아민결핍 환자",
+          "raw_content": "7) 치아민결핍 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 패혈증 환자",
+          "raw_content": "8) 패혈증 환자"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 중증 또는 외상 환자",
+          "raw_content": "9) 중증 또는 외상 환자"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 쇽 상태 환자",
+          "raw_content": "10) 쇽 상태 환자"
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "11) 혈액희석(hemodilution) 환자",
+          "raw_content": "11) 혈액희석(hemodilution) 환자"
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "p",
+          "text": "12) 만성뇨독증 환자",
+          "raw_content": "12) 만성뇨독증 환자"
+        },
+        {
+          "paragraph_index": 13,
+          "kind": "p",
+          "text": "13) 당뇨환자",
+          "raw_content": "13) 당뇨환자"
+        },
+        {
+          "paragraph_index": 14,
+          "kind": "p",
+          "text": "14) 고장성액은 당뇨혼수, 곡물알러지 환자에는 신중히 투여한다.",
+          "raw_content": "14) 고장성액은 당뇨혼수, 곡물알러지 환자에는 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 대량급속 투여에 의해 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.",
+          "raw_content": "1) 대량급속 투여에 의해 전해질 상실을 일으킬 수 있으므로 신중히 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 권장용량을 초과하여 투과할 경우 bilirubin, lactate수치가 높아질 수 있다.",
+          "raw_content": "2) 권장용량을 초과하여 투과할 경우 bilirubin, lactate수치가 높아질 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 저칼륨혈증, 고장성혼수(hyperosmolar coma), 산증(acidosis)",
+          "raw_content": "3) 저칼륨혈증, 고장성혼수(hyperosmolar coma), 산증(acidosis)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 탈수증, 고삼투압증",
+          "raw_content": "4) 탈수증, 고삼투압증"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 포도당 검출이 동반되는 다뇨증",
+          "raw_content": "5) 포도당 검출이 동반되는 다뇨증"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 정맥주사는 체액 또는 용질과다상태를 유발, 체액전해질 불균형, 울혈, 폐부종을 일으킬 수 있다.",
+          "raw_content": "6) 정맥주사는 체액 또는 용질과다상태를 유발, 체액전해질 불균형, 울혈, 폐부종을 일으킬 수 있다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 내당불내증환자의 경우 고혈당, 신손실(renal loss)이 일어날 수 있다.",
+          "raw_content": "7) 내당불내증환자의 경우 고혈당, 신손실(renal loss)이 일어날 수 있다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 열, 정맥염, 혈전증, 혈액의 유출, 주사부위 통증, 요독증",
+          "raw_content": "8) 열, 정맥염, 혈전증, 혈액의 유출, 주사부위 통증, 요독증"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 시판 후 경험에서 다음과 같은 이상반응이 보고되었다.",
+          "raw_content": "9) 시판 후 경험에서 다음과 같은 이상반응이 보고되었다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "- 투여 부위: 홍반",
+          "raw_content": "- 투여 부위: 홍반"
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "- 면역계 질환: 아나필락시스 반응, 혈관 부종, 오한, 저혈압, 소양증, 발진",
+          "raw_content": "- 면역계 질환: 아나필락시스 반응, 혈관 부종, 오한, 저혈압, 소양증, 발진"
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "p",
+          "text": "- 심혈관 질환: 청색증, 혈량 과잉",
+          "raw_content": "- 심혈관 질환: 청색증, 혈량 과잉"
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 장기간의 투여는 인슐린 생성에 영향을 미칠수 있다. 이를 낮추려면 인슐린을 함께 투여한다.",
+          "raw_content": "1) 장기간의 투여는 인슐린 생성에 영향을 미칠수 있다. 이를 낮추려면 인슐린을 함께 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 수술후, 외상후, 또는 다른 내당불내증이 있는 경우 5%는 혈당조절하에 투여한다.",
+          "raw_content": "2) 수술후, 외상후, 또는 다른 내당불내증이 있는 경우 5%는 혈당조절하에 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 혈청 전해질 검사를 한다.",
+          "raw_content": "3) 혈청 전해질 검사를 한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 수분균형을 고려하여 투여한다.",
+          "raw_content": "4) 수분균형을 고려하여 투여한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 혈당농도의 조절을 한다",
+          "raw_content": "5) 혈당농도의 조절을 한다"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 환자상태, 아세톤뇨, 혈중칼륨농도, 혈중인산농도 등의 수치에 유의한다.",
+          "raw_content": "6) 환자상태, 아세톤뇨, 혈중칼륨농도, 혈중인산농도 등의 수치에 유의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다.",
+          "raw_content": "1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다.",
+          "raw_content": "2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 소아의 경우 전해질과 체액 조절 능력이 손상되었을 수 있으므로 혈장 전해질 농도를 주의 깊게 관찰해야 한다.",
+          "raw_content": "1) 소아의 경우 전해질과 체액 조절 능력이 손상되었을 수 있으므로 혈장 전해질 농도를 주의 깊게 관찰해야 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 초저체중출생아의 경우 과도하거나 빠른 포도당 주사제 투여는 혈청 삼투질농도 및 뇌내출혈 위험을 증가시킬 수 있다.",
+          "raw_content": "2) 초저체중출생아의 경우 과도하거나 빠른 포도당 주사제 투여는 혈청 삼투질농도 및 뇌내출혈 위험을 증가시킬 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다.",
+          "raw_content": "3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 과량투여시의 처치",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "고용량 투여로 인한 고혈당증이나, 당뇨(glucosuria)발생시 이에 대한 처치로 인슐린을 투여한다.",
+          "raw_content": "고용량 투여로 인한 고혈당증이나, 당뇨(glucosuria)발생시 이에 대한 처치로 인슐린을 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "heading": "10. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 피하 대량 투여에 의해 혈장으로부터 전해질이 이동해서 순환부전을 초래할 수 있고 국소자극이 심하므로 피하주사하지 않는 것이 바람직하다.",
+          "raw_content": "1) 피하 대량 투여에 의해 혈장으로부터 전해질이 이동해서 순환부전을 초래할 수 있고 국소자극이 심하므로 피하주사하지 않는 것이 바람직하다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 개봉한 후에는 바로 사용하며, 사용한 잔액은 사용하지 않는다.",
+          "raw_content": "2) 개봉한 후에는 바로 사용하며, 사용한 잔액은 사용하지 않는다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 윤주(輪注)하는 경우는 감염의 우려가 있으므로 주의한다.",
+          "raw_content": "3) 윤주(輪注)하는 경우는 감염의 우려가 있으므로 주의한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.",
+          "raw_content": "4) 한랭기에는 체온정도로 따뜻하게 하여 사용한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 고장액을 투여하였을 경우 혈전정맥염을 일으킬 수 있으므로 신중히 투여한다.",
+          "raw_content": "5) 고장액을 투여하였을 경우 혈전정맥염을 일으킬 수 있으므로 신중히 투여한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 고농도액 투여의 급격한 중지에 의해 저혈당을 일으킬 수 있다.",
+          "raw_content": "6) 고농도액 투여의 급격한 중지에 의해 저혈당을 일으킬 수 있다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 가응집반응(pseudoagglutination)이 나타날 수 있으므로 혈액과 동시에 투여하지 않는다.",
+          "raw_content": "7) 가응집반응(pseudoagglutination)이 나타날 수 있으므로 혈액과 동시에 투여하지 않는다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 항생제, 비타민제, 간장약, 진통ㆍ진경제, 와파린 등 기타 여러 가지 타 약제를 혼합처방 사용할 때는 이상반응이 나타나는 수가 있으므로 다른 약물의 화학적 물리적 부작용을 충분히 숙지한 다음 신중히 관찰하면서 투여한다.",
+          "raw_content": "8) 항생제, 비타민제, 간장약, 진통ㆍ진경제, 와파린 등 기타 여러 가지 타 약제를 혼합처방 사용할 때는 이상반응이 나타나는 수가 있으므로 다른 약물의 화학적 물리적 부작용을 충분히 숙지한 다음 신중히 관찰하면서 투여한다."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 다른 약물을 혼합시 용기 혹은 마개와의 상호작용에 유의하고, 혼합 즉시 사용한다.",
+          "raw_content": "9) 다른 약물을 혼합시 용기 혹은 마개와의 상호작용에 유의하고, 혼합 즉시 사용한다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다.",
+          "raw_content": "10) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함.).\n\n2) 포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B1)소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있음.\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 저장성 탈수증 환자\n\n2) 수분과다상태 환자\n\n3) 고혈당 환자\n\n4) 산증 환자\n\n5) 저칼륨혈증 환자\n\n6) 고삼투압성 혼수 환자\n\n7) 내당불내증 환자\n\n8) 무뇨증, 간성혼수 환자\n\n9) 이 약 및 이 약에 포함된 성분에의 과민반응 환자\n\n10) 고장액은 탈수증세가 있는 척추관내출혈, 두개내출혈, 진전섬망환자 에게는 투여하지 않는다.\n\n11) 고장성 포도당 용액은 환자의 고삼투압 상태를 더 악화시킬 수 있으므로 심한 탈수 환자에게 투여하지 않는다.\n\n3. 다음 환자에는 신중히 투여할 것.\n\n1) 칼륨결핍ㆍ인산결핍ㆍ마그네슘결핍경향이 있는 환자, 저나트륨혈증 환자\n\n2) 요붕증 환자\n\n3) 신부전 환자\n\n4) 코르티코스테로이드ㆍ코르티코트로핀 투여 환자\n\n5) 심부전 환자\n\n6) 심한 영양결핍 환자\n\n7) 치아민결핍 환자\n\n8) 패혈증 환자\n\n9) 중증 또는 외상 환자\n\n10) 쇽 상태 환자\n\n11) 혈액희석(hemodilution) 환자\n\n12) 만성뇨독증 환자\n\n13) 당뇨환자\n\n14) 고장성액은 당뇨혼수, 곡물알러지 환자에는 신중히 투여한다.\n\n4. 이상반응\n\n1) 대량급속 투여에 의해 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.\n\n2) 권장용량을 초과하여 투과할 경우 bilirubin, lactate수치가 높아질 수 있다.\n\n3) 저칼륨혈증, 고장성혼수(hyperosmolar coma), 산증(acidosis)\n\n4) 탈수증, 고삼투압증\n\n5) 포도당 검출이 동반되는 다뇨증\n\n6) 정맥주사는 체액 또는 용질과다상태를 유발, 체액전해질 불균형, 울혈, 폐부종을 일으킬 수 있다.\n\n7) 내당불내증환자의 경우 고혈당, 신손실(renal loss)이 일어날 수 있다.\n\n8) 열, 정맥염, 혈전증, 혈액의 유출, 주사부위 통증, 요독증\n\n9) 시판 후 경험에서 다음과 같은 이상반응이 보고되었다.\n\n- 투여 부위: 홍반\n\n- 면역계 질환: 아나필락시스 반응, 혈관 부종, 오한, 저혈압, 소양증, 발진\n\n- 심혈관 질환: 청색증, 혈량 과잉\n\n5. 일반적 주의\n\n1) 장기간의 투여는 인슐린 생성에 영향을 미칠수 있다. 이를 낮추려면 인슐린을 함께 투여한다.\n\n2) 수술후, 외상후, 또는 다른 내당불내증이 있는 경우 5%는 혈당조절하에 투여한다.\n\n3) 혈청 전해질 검사를 한다.\n\n4) 수분균형을 고려하여 투여한다.\n\n5) 혈당농도의 조절을 한다\n\n6) 환자상태, 아세톤뇨, 혈중칼륨농도, 혈중인산농도 등의 수치에 유의한다.\n\n6. 임부에 대한 투여\n\n1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다.\n\n2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다.\n\n7. 소아에 대한 투여\n\n1) 소아의 경우 전해질과 체액 조절 능력이 손상되었을 수 있으므로 혈장 전해질 농도를 주의 깊게 관찰해야 한다.\n\n2) 초저체중출생아의 경우 과도하거나 빠른 포도당 주사제 투여는 혈청 삼투질농도 및 뇌내출혈 위험을 증가시킬 수 있다.\n\n3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다.\n\n8. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.\n\n9. 과량투여시의 처치\n\n고용량 투여로 인한 고혈당증이나, 당뇨(glucosuria)발생시 이에 대한 처치로 인슐린을 투여한다.\n\n10. 적용상의 주의\n\n1) 피하 대량 투여에 의해 혈장으로부터 전해질이 이동해서 순환부전을 초래할 수 있고 국소자극이 심하므로 피하주사하지 않는 것이 바람직하다.\n\n2) 개봉한 후에는 바로 사용하며, 사용한 잔액은 사용하지 않는다.\n\n3) 윤주(輪注)하는 경우는 감염의 우려가 있으므로 주의한다.\n\n4) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.\n\n5) 고장액을 투여하였을 경우 혈전정맥염을 일으킬 수 있으므로 신중히 투여한다.\n\n6) 고농도액 투여의 급격한 중지에 의해 저혈당을 일으킬 수 있다.\n\n7) 가응집반응(pseudoagglutination)이 나타날 수 있으므로 혈액과 동시에 투여하지 않는다.\n\n8) 항생제, 비타민제, 간장약, 진통ㆍ진경제, 와파린 등 기타 여러 가지 타 약제를 혼합처방 사용할 때는 이상반응이 나타나는 수가 있으므로 다른 약물의 화학적 물리적 부작용을 충분히 숙지한 다음 신중히 관찰하면서 투여한다.\n\n9) 다른 약물을 혼합시 용기 혹은 마개와의 상호작용에 유의하고, 혼합 즉시 사용한다.\n\n10) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 이상반응을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단 사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것(앰플제에 한함.).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 포도당 함유제제를 정맥주사하는 환자는 치아민(비타민 B<sub>1</sub>)소모율이 높기 때문에 순간적으로 치명적인 치아민 결핍을 초래할 가능성이 있음.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 저장성 탈수증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수분과다상태 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 고혈당 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 산증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 저칼륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고삼투압성 혼수 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 내당불내증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 무뇨증, 간성혼수 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 고장액은 탈수증세가 있는 척추관내출혈, 두개내출혈, 진전섬망환자 에게는 투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 고장성 포도당 용액은 환자의 고삼투압 상태를 더 악화시킬 수 있으므로 심한 탈수 환자에게 투여하지 않는다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 칼륨결핍ㆍ인산결핍ㆍ마그네슘결핍경향이 있는 환자, 저나트륨혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 요붕증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 신부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 코르티코스테로이드ㆍ코르티코트로핀 투여 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 심부전 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 심한 영양결핍 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 치아민결핍 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 패혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 중증 또는 외상 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 쇽 상태 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 혈액희석(hemodilution) 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 만성뇨독증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[13) 당뇨환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[14) 고장성액은 당뇨혼수, 곡물알러지 환자에는 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 대량급속 투여에 의해 전해질 상실을 일으킬 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 권장용량을 초과하여 투과할 경우 bilirubin, lactate수치가 높아질 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 저칼륨혈증, 고장성혼수(hyperosmolar coma), 산증(acidosis)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 탈수증, 고삼투압증]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 포도당 검출이 동반되는 다뇨증]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 정맥주사는 체액 또는 용질과다상태를 유발, 체액전해질 불균형, 울혈, 폐부종을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 내당불내증환자의 경우 고혈당, 신손실(renal loss)이 일어날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 열, 정맥염, 혈전증, 혈액의 유출, 주사부위 통증, 요독증]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 시판 후 경험에서 다음과 같은 이상반응이 보고되었다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 투여 부위: 홍반]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 면역계 질환: 아나필락시스 반응, 혈관 부종, 오한, 저혈압, 소양증, 발진]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 심혈관 질환: 청색증, 혈량 과잉]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 장기간의 투여는 인슐린 생성에 영향을 미칠수 있다. 이를 낮추려면 인슐린을 함께 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 수술후, 외상후, 또는 다른 내당불내증이 있는 경우 5%는 혈당조절하에 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 혈청 전해질 검사를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 수분균형을 고려하여 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 혈당농도의 조절을 한다]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 환자상태, 아세톤뇨, 혈중칼륨농도, 혈중인산농도 등의 수치에 유의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임신 중 투여에 대한 안전성이 확립되지 않았으므로 치료상의 유익성이 태아에 대한 잠재적 위해성을 상회한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 분만 중에 포도당을 함유한 용액을 정맥 투여할 경우, 산모에게 고혈당증을 초래할 수 있으며, 신생아의 반동저혈당증 뿐만 아니라, 태아의 고혈당증 및 대사성 산증을 일으킬 수 있다. 태아의 고혈당증은 태아의 인슐린 수치를 증가시킬 수 있으며, 이는 출산 후 신생아 저혈당증을 초래할 수 있다. 해당 약물을 투여하기 전에 환자에 대한 유익성과 위해성을 고려해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 경우 전해질과 체액 조절 능력이 손상되었을 수 있으므로 혈장 전해질 농도를 주의 깊게 관찰해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 초저체중출생아의 경우 과도하거나 빠른 포도당 주사제 투여는 혈청 삼투질농도 및 뇌내출혈 위험을 증가시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 신생아(특히 조산아나 저체중아의 경우)는 저혈당증 또는 고혈당증의 위험이 높아진다. 그러므로 잠재적인 장기간 부작용을 피하기 위한 적절한 혈당 조절을 할 수 있도록 면밀한 모니터링이 필요하다. 신생아의 저혈당증은 발작, 혼수, 뇌손상을 초래할 수 있다. 고혈당증은 뇌실내출혈, 박테리아 및 곰팡이 감염의 후기발병, 미숙아의 망막병증, 괴사성작은창자큰창자염, 기관지폐이형성증, 입원기간의 연장 및 사망과 관련된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고용량 투여로 인한 고혈당증이나, 당뇨(glucosuria)발생시 이에 대한 처치로 인슐린을 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 피하 대량 투여에 의해 혈장으로부터 전해질이 이동해서 순환부전을 초래할 수 있고 국소자극이 심하므로 피하주사하지 않는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 개봉한 후에는 바로 사용하며, 사용한 잔액은 사용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 윤주(輪注)하는 경우는 감염의 우려가 있으므로 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 한랭기에는 체온정도로 따뜻하게 하여 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고장액을 투여하였을 경우 혈전정맥염을 일으킬 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고농도액 투여의 급격한 중지에 의해 저혈당을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 가응집반응(pseudoagglutination)이 나타날 수 있으므로 혈액과 동시에 투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 항생제, 비타민제, 간장약, 진통ㆍ진경제, 와파린 등 기타 여러 가지 타 약제를 혼합처방 사용할 때는 이상반응이 나타나는 수가 있으므로 다른 약물의 화학적 물리적 부작용을 충분히 숙지한 다음 신중히 관찰하면서 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 다른 약물을 혼합시 용기 혹은 마개와의 상호작용에 유의하고, 혼합 즉시 사용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 용기에 있는 공기로 인한 공기색전증의 가능성을 피하기 위하여 연속하여 연결해서는 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "2b13aa223b5de50d069415407157208f550acb4ee835257a9b206362d87138c8"
+}

@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:200201383",
+  "doc_id": "mfds:200201383:STORAGE",
+  "title": "티라목스에스건조시럽[아목시실린.클라불란산칼륨(7:1)] — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "427f205f08cdb02456b2d90f1567db4651677b1396420b479e9a0986e9d3d9cb",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\200201383.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:11.480042+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 기밀용기,1~ 25℃보관\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 기밀용기,1~ 25℃보관\n사용기간: 제조일로부터 24 개월"
+}

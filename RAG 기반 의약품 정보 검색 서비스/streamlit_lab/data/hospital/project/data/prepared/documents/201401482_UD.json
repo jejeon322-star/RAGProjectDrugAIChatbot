@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201401482:UD",
+  "drug_id": "mfds:201401482",
+  "scope_type": "product",
+  "title": "파마덱사메타손주(덱사메타손포스페이트이나트륨)(수출용) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401482/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201401482_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:02:36.813709+00:00",
+  "text": "[원문 1쪽]\n용법용량\n덱사메타손포스페이트로서 보통 성인에 대하여 투여방법에 따라 아래와 같다.\n1) 정맥 또는 근육주사 : 1회 2-8mg을 3-6시간마다\n2) 점적 주사 : 1회 2-10mg을 1일 1-2회\n3) 관절내 주사, 점액낭내 주입 : 1회 0.8-5mg, 원칙적으로 투여간격 2주 이상\n4) 연조직내 주사 : 1회 2-6mg, 원칙적으로 투여간격 2주 이상\n5) 건초내 주사 : 1회 0.8-2.5mg, 원칙적으로 투여간격 2주 이상\n6) 국소피내 주사 : 1회 0.05-0.1mg씩 1mg까지 주 1회\n7) 결막하 주사 : 1회 0.4-2.5mg\n8) 구후 주사 : 1회 1-5mg\n단, 연령, 증상에 따라 적절히 증감한다.",
+  "content_hash": "cb13cdb64d38a17d7b9670ddc84f77367f10855cf7c654b7bc0e214cb83a685f",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "515284732aaadcb26c3fcac1773d0d2b6d0159864d20075d3235f2aeb8fac1c4",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n덱사메타손포스페이트로서 보통 성인에 대하여 투여방법에 따라 아래와 같다.\n1) 정맥 또는 근육주사 : 1회 2-8mg을 3-6시간마다\n2) 점적 주사 : 1회 2-10mg을 1일 1-2회\n3) 관절내 주사, 점액낭내 주입 : 1회 0.8-5mg, 원칙적으로 투여간격 2주 이상\n4) 연조직내 주사 : 1회 2-6mg, 원칙적으로 투여간격 2주 이상\n5) 건초내 주사 : 1회 0.8-2.5mg, 원칙적으로 투여간격 2주 이상\n6) 국소피내 주사 : 1회 0.05-0.1mg씩 1mg까지 주 1회\n7) 결막하 주사 : 1회 0.4-2.5mg\n8) 구후 주사 : 1회 1-5mg\n단, 연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ]
+}

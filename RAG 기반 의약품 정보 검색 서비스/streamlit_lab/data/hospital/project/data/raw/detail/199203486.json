@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199203486",
+        "ITEM_NAME": "아르믹스주",
+        "ENTP_NAME": "대한약품공업(주)",
+        "ITEM_PERMIT_DATE": "19920428",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "다층필름플라스틱용기 또는 수액용 유리용기, 폴리프로필렌제 수성 주사제 용기에 든 무색 내지 미황색의 투명한 약액을 함유하는 주사제",
+        "BAR_CODE": "8806451021104,8806451021111,8806451021128,8806451021135,8806451021142,8806451046404,8806451046411,8806451046428,8806451046503,8806451046510,8806451046527,8806451046602,8806451046619,8806451046626,8806451048606,8806451048613",
+        "MATERIAL_NAME": "총량 : 100밀리리터 중|성분명 : L-히스티딘|분량 : 0.24|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-페닐알라닌|분량 : 0.48|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-리신아세트산염|분량 : 0.87|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-세린|분량 : 0.50|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-아르기닌|분량 : 0.81|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-알라닌|분량 : 0.60|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-프롤린|분량 : 0.95|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-시스테인염산염수화물|분량 : 0.02|단위 : 그램|규격 : USP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-발린|분량 : 0.56|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-이소류신|분량 : 0.59|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : 글리신|분량 : 1.19|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-메티오닌|분량 : 0.45|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-류신|분량 : 0.77|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-트레오닌|분량 : 0.34|단위 : 그램|규격 : KP|성분정보 : |비고 : ;총량 : 100밀리리터 중|성분명 : L-트리프토판|분량 : 0.13|단위 : 그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199203486/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199203486/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199203486/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199203486/II",
+        "STORAGE_METHOD": "밀봉용기, 차광실온보관(1~30℃)",
+        "VALID_TERM": "제조일로부터 36 개월,제조일로부터 18 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "병 - 100밀리리터/병,병 - 180밀리리터/병,병 - 200밀리리터/병,병 - 250밀리리터/병,백 - 100밀리리터/백,백 - 250밀리리터/백",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1303",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20220331",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2022-03-31/제품명칭변경, 2018-11-07/사용상주의사항변경(부작용포함), 2018-07-29/성상변경, 2009-09-07/저장방법 및 유효기간(사용기간)변경, 2009-09-07/사용상주의사항변경(부작용포함), 2006-07-06/성상변경, 2006-05-08/저장방법 및 사용(유효)기간, 2001-06-16",
+        "TOTAL_CONTENT": "100밀리리터 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M088656]글리신|[M103060]L-트레오닌|[M103077]L-아르기닌|[M204435]L-세린|[M204442]L-페닐알라닌|[M209360]L-발린|[M209366]L-알라닌|[M214274]L-트리프토판|[M214861]L-프롤린|[M215288]L-히스티딘|[M218567]L-메티오닌|[M222530]L-이소류신|[M222531]L-류신|[M244189]L-리신아세트산염|[M251877]L-시스테인염산염수화물",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M081035]인산|[M244397]아세트산무수물",
+        "ATC_CODE": "B05BA01",
+        "ITEM_ENG_NAME": "Armix Injection",
+        "ENTP_ENG_NAME": "DAI HAN PHARM CO., LTD.",
+        "MAIN_INGR_ENG": "Glycine/L-Alanine/L-Arginine/L-Cysteine Hydrochloride Hydrate/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Valine",
+        "BIZRNO": "1348500111",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

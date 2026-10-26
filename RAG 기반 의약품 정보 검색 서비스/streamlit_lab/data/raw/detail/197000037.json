@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "197000037",
+        "ITEM_NAME": "아로나민골드정",
+        "ENTP_NAME": "일동제약(주)",
+        "ITEM_PERMIT_DATE": "19700417",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "1. 내수용 : 이 약은 적색의 필름코팅정이다.\n2. 수출용 : 이 약은 빨간색의 필름코팅정이다.\n",
+        "BAR_CODE": "8806429010000,8806429010017,8806429010024,8806429010031,8806429010048,8806429010055,8806429010062,8806429010079,8806429010086,8806429010093,8806429029514,8806429029521,8806429029538,8806429029545,8806429029552,8806429029569,8806429029576",
+        "MATERIAL_NAME": "총량 : 1정548.225밀리그램-내수용|성분명 : 푸르설티아민|분량 : 50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정548.225밀리그램-내수용|성분명 : 리보플라빈부티레이트|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정548.225밀리그램-내수용|성분명 : 피리독살포스페이트수화물|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정548.225밀리그램-내수용|성분명 : 히드록소코발라민아세트산염|분량 : 5.22|단위 : 마이크로그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정548.225밀리그램-내수용|성분명 : 아스코르브산|분량 : 72.2|단위 : 밀리그램|규격 : 별첨규격(전과동)|성분정보 : |비고 : 직타용\r\n;총량 : 1정548.225밀리그램-내수용|성분명 : 토코페롤아세테이트 2배산|분량 : 40|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정565.785밀리그램-수출용|성분명 : 푸르설티아민|분량 : 50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정565.785밀리그램-수출용|성분명 : 리보플라빈부티레이트|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정565.785밀리그램-수출용|성분명 : 피리독살포스페이트수화물|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정565.785밀리그램-수출용|성분명 : 히드록소코발라민아세트산염|분량 : 5.22|단위 : 마이크로그램|규격 : KP|성분정보 : |비고 : ;총량 : 1정565.785밀리그램-수출용|성분명 : 아스코르브산|분량 : 72.2|단위 : 밀리그램|규격 : 별첨규격(전과동)|성분정보 : |비고 : 직타용\r\n;총량 : 1정565.785밀리그램-수출용|성분명 : 토코페롤아세테이트 2배산|분량 : 40|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000037/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000037/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000037/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, [내수용] 실온(1~30℃)보관, [수출용] 25℃ 이하 보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/상자[(10정/PTP)x3],60정/상자[(10정/PTP)x6],100정/상자[(10정/PTP)x10],300정/상자[(10정/PTP)x30],150정/상자[(10정/PTP)x15]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1293",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250609",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 사용(유효)기간, 2025-06-09/사용상의 주의사항, 2021-12-28/사용상주의사항변경(부작용포함), 2021-02-23/저장방법 및 유효기간(사용기간)변경, 2019-09-23/성상변경, 2017-08-08/성상변경, 2015-06-08/사용상주의사항변경(부작용포함), 2012-03-21/효능효과변경, 2012-03-21/사용상주의사항변경(부작용포함), 2011-06-02/사용상주의사항변경(부작용포함), 2009-11-07/성상변경, 2002-01-04/효능효과변경, 1993-09-14/성상변경, 1991-06-17/사용상주의사항변경(부작용포함), 1988-10-27/효능효과변경, 1988-10-27/효능효과변경, 1987-01-01/용법용량변경, 1987-01-01/사용상주의사항변경(부작용포함), 1987-01-01/저장방법 및 유효기간(사용기간)변경, 1984-02-06/저장방법 및 유효기간(사용기간)변경, 1979-11-29/용법용량변경, 1979-11-29/효능효과변경, 1979-11-29/성상변경, 1979-11-29",
+        "TOTAL_CONTENT": "1548.225-내수용/1565.785-수출용",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"○ 다음 경우의 비타민 B1, B2, B6, E, C의 보급\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기(간유, 비타민 D, E 함유시)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)\" />\r\n    <ARTICLE title=\"○각기\" />\r\n    <ARTICLE title=\"○눈의피로\" />\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[성인 1회 1정씩, 1일 2회 복용합니다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1) 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 이 약 및 이 약에 포함된 성분에 과민반응이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 만 3개월 미만의 젖먹이]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2) 이 약을 복용하는 동안 다음의 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 레보도파]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3) 다음과 같은 사람(경우)은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 의사의 치료를 받고 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 고옥살산뇨증환자(hyperoxaluria : 요중에 과량의 수산염이 배설되는 상태)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 임부 및 임신하고 있을 가능성이 있는 여성, 수유부, 미숙아, 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(4) 통풍환자 또는 신장결석이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(5) 이 약은 황색5호(선셋옐로우 FCF, Sunset Yellow FCF)를 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4) 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담 시 가능한 한 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 이 약의 투여에 의하여 다음의 증상이 있을 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[위부불쾌감, 설사, 변비, 발진, 발적, 구역, 구토, 묽은 변, 구내염(입안염), 식욕부진, 복부팽만감]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 이 약의 투여에 의하여 생리가 예정보다 빨라지거나 양이 점점 많아질 수 있으며, 출혈이 오래 지속될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 에스트로겐을 포함한 경구용 피임제를 복용하는 여성 또는 혈전성 소인이 있는 환자가 비타민 E를 복용할 경우 혈전증의 위험이 증가될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(4) 장기간 고용량을 투여할 경우 내성이 생길 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(5) 피리독신을 1일 500 mg ~ 2 g의 용량으로 장기간 복용하면 감각신경병 또는 신경병적 증상(neuropathy : 말초신경계의 기능적 장애 또는 병적변화)이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(6) 폴산이 부족한 환자에게 비타민 B<sub>12</sub>를 1일 10 μg 이상 투여할 경우 혈액학적 이상반응이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(7)우발적으로 과량복용 한 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(8) 1개월 정도 복용하여도 증상의 개선이 없을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5) 기타 이 약의 복용 시 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 정해진 용법ㆍ용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 각종 요검사시에 혈당의 검출을 방해할 수 있다]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 요를 황색으로 변하게 하여 임상검사치에 영향을 줄 수 있다]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6) 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(1) 어린이의 손에 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(2) 직사광선을 피하고 될 수 있는 한 습기가 적은 서늘한 곳에 밀폐하여 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(3) 오용(잘못 사용)을 막고 품질의 보존을 위하여 다른 용기에 바꾸어 넣지 말 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M222995]리보플라빈부티레이트|[M248795]피리독살포스페이트수화물|[M223357]히드록소코발라민아세트산염|[M258994]아스코르브산|[M255819]토코페롤아세테이트 2배산|[M051415]푸르설티아민|[M255819]토코페롤아세테이트 2배산|[M051415]푸르설티아민|[M222995]리보플라빈부티레이트|[M248795]피리독살포스페이트수화물|[M223357]히드록소코발라민아세트산염|[M258994]아스코르브산",
+        "INGR_NAME": "[M060073]미결정셀룰로오스|[M060073]미결정셀룰로오스|[M081161]크로스포비돈|[M081161]크로스포비돈|[M083947]콜로이드성이산화규소|[M083947]콜로이드성이산화규소|[M085706]코포비돈|[M085706]코포비돈|[M115423]오파글로스클리어(97W19196)|[M115423]오파글로스클리어(97W19196)|[M223367]유당수화물|[M223367]유당수화물|[M223556]스테아르산마그네슘|[M223556]스테아르산마그네슘|[M232314]오파드라이 흰색(OY-S-7223)|[M262179]오파드라이 II 빨간색 (85F35210)|[M280516]오파드라이 II 빨간색 (85F650020)",
+        "ATC_CODE": "A11JA",
+        "ITEM_ENG_NAME": "Aronamin Gold Tablet",
+        "ENTP_ENG_NAME": "Ildong Pharmaceutical Co., Ltd.",
+        "MAIN_INGR_ENG": "Ascorbic Acid/Fursultiamine/Hydroxocobalamin Acetate/Pyridoxal Phosphate Hydrate/Riboflavin Butyrate/Tocopherol Acetate Powder 50%",
+        "BIZRNO": "6828500435",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

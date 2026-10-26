@@ -1,0 +1,421 @@
+{
+  "doc_id": "mfds:200410896:NB",
+  "drug_id": "mfds:200410896",
+  "scope_type": "product",
+  "title": "러츠날캡슐(탐스로신염산염) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200410896/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\200410896.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20241029",
+  "collected_at": null,
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약 또는 이 약의 구성성분에 과민반응(혈관부종 포함) 병력이 있는 환자",
+          "raw_content": "1) 이 약 또는 이 약의 구성성분에 과민반응(혈관부종 포함) 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 기립저혈압 환자(증상이 악화될 수 있다.)",
+          "raw_content": "2) 기립저혈압 환자(증상이 악화될 수 있다.)"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 중증 간장애 환자(혈장 중 농도가 상승할 수 있다.)",
+          "raw_content": "3) 중증 간장애 환자(혈장 중 농도가 상승할 수 있다.)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 임부 또는 임신하고 있을 가능성이 있는 여성",
+          "raw_content": "4) 임부 또는 임신하고 있을 가능성이 있는 여성"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 중증 신장애 환자(혈장 중 농도가 상승할 수 있다.)",
+          "raw_content": "1) 중증 신장애 환자(혈장 중 농도가 상승할 수 있다.)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 고령자(고령자에 대한 투여 항 참고)",
+          "raw_content": "2) 고령자(고령자에 대한 투여 항 참고)"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) PDE5(phosphodiesterase-5) 억제제를 복용중인 환자(상호작용 항 참고)",
+          "raw_content": "3) PDE5(phosphodiesterase-5) 억제제를 복용중인 환자(상호작용 항 참고)"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) CYP3A4 억제제를 투여중인 환자(상호작용 항 참고)",
+          "raw_content": "4) CYP3A4 억제제를 투여중인 환자(상호작용 항 참고)"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 혈압강하제를 투여중인 환자(상호작용 항 참고)",
+          "raw_content": "5) 혈압강하제를 투여중인 환자(상호작용 항 참고)"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 알파1-차단제를 투여중인 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.(기립저혈압이 일어날 수 있다.)",
+          "raw_content": "6) 알파1-차단제를 투여중인 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.(기립저혈압이 일어날 수 있다.)"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 배뇨실신 병력이 있는 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.",
+          "raw_content": "7) 배뇨실신 병력이 있는 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 실신, 의식상실(빈도 불명) : 혈압저하에 동반하는 일과성의 의식상실 등이 나타날 수 있으므로 관찰을 충분히 하고, 이상반응이 나타나는 경우에는 이 약의 투여를 중지하고 적절한 처치를 한다.",
+          "raw_content": "1) 실신, 의식상실(빈도 불명) : 혈압저하에 동반하는 일과성의 의식상실 등이 나타날 수 있으므로 관찰을 충분히 하고, 이상반응이 나타나는 경우에는 이 약의 투여를 중지하고 적절한 처치를 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 정신신경계 : 때때로 어지럼, 균형감각의 이상, 기립성 어지럼, 두통, 졸음, 신경과민, 불면, 성욕저하, 초조감(빈도불명), 저림감(빈도불명)이 나타날 수 있다.",
+          "raw_content": "2) 정신신경계 : 때때로 어지럼, 균형감각의 이상, 기립성 어지럼, 두통, 졸음, 신경과민, 불면, 성욕저하, 초조감(빈도불명), 저림감(빈도불명)이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 순환기계 : 때때로 빈맥, 혈압저하, 기립 저혈압, 심계항진, 부정맥이 나타날 수 있다.",
+          "raw_content": "3) 순환기계 : 때때로 빈맥, 혈압저하, 기립 저혈압, 심계항진, 부정맥이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 과민반응 : 때때로 발진, 가려움, 두드러기 등이 나타날 수 있으므로 이러한 증상이 나타날 경우에는 투여를 중지해야 한다.",
+          "raw_content": "4) 과민반응 : 때때로 발진, 가려움, 두드러기 등이 나타날 수 있으므로 이러한 증상이 나타날 경우에는 투여를 중지해야 한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 소화기계 : 때때로 구역, 구토, 위부불쾌감, 위중감, 위통, 식욕부진, 구갈, 변비, 설사, 치아장애, 연하장애가 나타날 수 있다.",
+          "raw_content": "5) 소화기계 : 때때로 구역, 구토, 위부불쾌감, 위중감, 위통, 식욕부진, 구갈, 변비, 설사, 치아장애, 연하장애가 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 간장애, 황달(빈도 불명) : AST 상승, ALT 상승, 황달 등이 나타나는 경우가 있으므로, 충분히 관찰하고 이상반응이 나타나는 경우에는 이 약의 투여를 중지하는 등 적절한 처치를 한다.",
+          "raw_content": "6) 간장애, 황달(빈도 불명) : AST 상승, ALT 상승, 황달 등이 나타나는 경우가 있으므로, 충분히 관찰하고 이상반응이 나타나는 경우에는 이 약의 투여를 중지하는 등 적절한 처치를 한다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 기타 : 때때로 인두부 작열감, 전신권태감, 코막힘, 코피, 부종, 요실금, 미각이상, 여성형유방, 지속발기증, 감염, 무기력증, 등통증, 흉통, 비염, 인두염, 기침 증가, 부비동염, 비정상 사정, 약시, 수술 중 홍채긴장저하증후군(Intraoperative Floppy Iris Syndrome), 시야흐림, 시각장애, 다형홍반, 박탈피부염, 스티븐스-존슨증후군, 광과민성 반응 및 흉부 불편감이 나타날 수 있다.",
+          "raw_content": "7) 기타 : 때때로 인두부 작열감, 전신권태감, 코막힘, 코피, 부종, 요실금, 미각이상, 여성형유방, 지속발기증, 감염, 무기력증, 등통증, 흉통, 비염, 인두염, 기침 증가, 부비동염, 비정상 사정, 약시, 수술 중 홍채긴장저하증후군(Intraoperative Floppy Iris Syndrome), 시야흐림, 시각장애, 다형홍반, 박탈피부염, 스티븐스-존슨증후군, 광과민성 반응 및 흉부 불편감이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 국내 시판 후 조사결과(조사증례수 : 3,720명) 나타난 이상반응은 다음과 같으며, 이 약과의 관련 여부는 확실하지 않다. : 호흡곤란, 사정부전, 발적, 이명(캡슐제에 한함.).",
+          "raw_content": "8) 국내 시판 후 조사결과(조사증례수 : 3,720명) 나타난 이상반응은 다음과 같으며, 이 약과의 관련 여부는 확실하지 않다. : 호흡곤란, 사정부전, 발적, 이명(캡슐제에 한함.)."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 외국(미국)에서의 시판 후 조사결과 나타난 이상반응은 다음과 같으며, 이는 자발적 보고에 의한 것으로 발현율의 신뢰성 있는 평가나 인과관계의 판단이 항상 이루어진 것은 아니다. 미국에서는 1) 이상반응의 중대성 2) 보고 횟수 3) 이 약과의 인과관계 정도를 근거로 하여 다음의 이상반응을 사용상의 주의사항에 포함하였다.혀, 입술 및 얼굴부위의 피부질환, 가려움, 혈관부종 등의 알레르기 반응 및 두드러기, 심계항진, 저혈압, 피부박리, 변비, 구토, 드물게 지속발기증이 보고되었다. 또한 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)으로 알려져 있는 작은 동공증후군의 변형이 보고되었다.",
+          "raw_content": "9) 외국(미국)에서의 시판 후 조사결과 나타난 이상반응은 다음과 같으며, 이는 자발적 보고에 의한 것으로 발현율의 신뢰성 있는 평가나 인과관계의 판단이 항상 이루어진 것은 아니다. 미국에서는 1) 이상반응의 중대성 2) 보고 횟수 3) 이 약과의 인과관계 정도를 근거로 하여 다음의 이상반응을 사용상의 주의사항에 포함하였다.혀, 입술 및 얼굴부위의 피부질환, 가려움, 혈관부종 등의 알레르기 반응 및 두드러기, 심계항진, 저혈압, 피부박리, 변비, 구토, 드물게 지속발기증이 보고되었다. 또한 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)으로 알려져 있는 작은 동공증후군의 변형이 보고되었다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "※ 탐스로신염산염 0.4mg에 대한 국내 시판 후 조사결과",
+          "raw_content": "※ 탐스로신염산염 0.4mg에 대한 국내 시판 후 조사결과"
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "국내에서 재심사를 위하여 6년 동안 682명을 대상으로 실시한 시판 후 조사 결과, 이상사례의 발현율은 인과관계와 상관없이 10.26%(70/682명, 총 77건)로 보고되었다. 이 중 인과관계와 상관없는 중대한 이상사례는 발현 빈도에 따라 아래 표에 나열하였으며, 인과관계를 배제할 수 없는 중대한 약물이상반응은 보고되지 않았다.",
+          "raw_content": "국내에서 재심사를 위하여 6년 동안 682명을 대상으로 실시한 시판 후 조사 결과, 이상사례의 발현율은 인과관계와 상관없이 10.26%(70/682명, 총 77건)로 보고되었다. 이 중 인과관계와 상관없는 중대한 이상사례는 발현 빈도에 따라 아래 표에 나열하였으며, 인과관계를 배제할 수 없는 중대한 약물이상반응은 보고되지 않았다."
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "table",
+          "text": "|\n|\n인과관계와 상관없는 중대한 이상사례\n0.73%(5/682명, 6건)\n|\n흔하지 않게(0.1～1%미만)\n|\n간 및 담도계 질환\n|\n담관염\n|\n근육-골격계 장애\n|\n어깨회선근증후군\n|\n방어기전 장애\n|\n남성생식기관농양\n|\n생식기능 장애(남성)\n|\n서혜부탈장\n|\n위장관계 장애\n|\n결장염\n|\n혈관 질환\n|\n일과성허혈발작",
+          "raw_content": "<tbody> \n <tr> \n  <td colspan=\"2\" style=\"border-color:#000000; height:38.82pt; vertical-align:middle; width:170.97pt\"> <p>&nbsp;</p> </td> \n  <td style=\"border-color:#000000; height:38.82pt; vertical-align:middle; width:268.62pt\"> <p style=\"text-align:center\">인과관계와 상관없는 중대한 이상사례</p> <p style=\"text-align:center\">0.73%(5/682명, 6건)</p> </td> \n </tr> \n <tr> \n  <td rowspan=\"6\" style=\"border-color:#000000; height:76.92pt; vertical-align:top; width:38.79pt\"> <p>흔하지 않게(0.1～1%미만)</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>간 및 담도계 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>담관염</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>근육-골격계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>어깨회선근증후군</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>방어기전 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>남성생식기관농양</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>생식기능 장애(남성)</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>서혜부탈장</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>위장관계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>결장염</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>혈관 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>일과성허혈발작</p> </td> \n </tr> \n</tbody>"
+        },
+        {
+          "paragraph_index": 13,
+          "kind": "p",
+          "text": "또한, 인과관계와 상관없는 예상하지 못한 이상사례와 인과관계를 배제할 수 없는 예상하지 못한 약물이상반응은 발현 빈도에 따라 다음의 표에 나열하였다.",
+          "raw_content": "또한, 인과관계와 상관없는 예상하지 못한 이상사례와 인과관계를 배제할 수 없는 예상하지 못한 약물이상반응은 발현 빈도에 따라 다음의 표에 나열하였다."
+        },
+        {
+          "paragraph_index": 14,
+          "kind": "table",
+          "text": "|\n|\n인과관계와 상관없는\n예상하지 못한 이상사례\n4.69%(32/682명, 37건)\n|\n인과관계를 배제할 수 없는 예상하지 못한 약물이상반응\n0.73%(5/682명, 5건)\n|\n흔하지 않게(0.1～1%미만)\n|\n비뇨기계 질환\n|\n신결석, 혈뇨, 배뇨곤란, 빈뇨, 신경인성방광, 요로결석\n|\n배뇨곤란\n|\n위장관계 장애\n|\n복통, 결장염, 급성복통, 소장게실염, 혈변\n|\n소장게실염, 복부 팽창*\n|\n생식기능 장애(남성)\n|\n발기기능장애, 발기부전, 서혜부탈장, 전립선염\n|\n발기기능장애\n|\n전신적 질환\n|\n눈주위부종, 요통, 전신쇠약\n|\n전신쇠약, 이물감*, 말초 부종*\n|\n중추 및 말초신경계 장애\n|\n떨림, 척수병증, 파킨슨증\n|\n떨림\n|\n근육-골격계 장애\n|\n골절, 어깨회선근증후근\n|\n-\n|\n간 및 담도계 질환\n|\n담관염\n|\n-\n|\n기타 용어\n|\n급성알코올중독\n|\n-\n|\n내분비 질환\n|\n여성형 유방\n|\n-\n|\n대사 및 영양 질환\n|\n고지혈증\n|\n-\n|\n방어기전 장애\n|\n남성생식기관농양\n|\n-\n|\n신생물\n|\n전립샘암\n|\n-\n|\n심근, 심내막, 심막, 판막\n질환\n|\n협심증\n|\n-\n|\n일반적 심혈관 질환\n|\n고혈압\n|\n-\n|\n정신질환\n|\n정신질환\n|\n-\n|\n혈관질환\n|\n일과성허혈발작\n|\n-\n|\n호흡기계 질환\n|\n기침\n|\n-",
+          "raw_content": "<tbody> \n <tr> \n  <td colspan=\"2\" style=\"border-color:#000000; height:51.82pt; vertical-align:top; width:170.97pt\"> <p>&nbsp;</p> </td> \n  <td style=\"border-color:#000000; height:51.82pt; vertical-align:top; width:131.36pt\"> <p style=\"text-align:center\">인과관계와 상관없는</p> <p style=\"text-align:center\">예상하지 못한 이상사례</p> <p style=\"text-align:center\">4.69%(32/682명, 37건)</p> </td> \n  <td style=\"border-color:#000000; height:51.82pt; vertical-align:top; width:131.36pt\"> <p style=\"text-align:center\">인과관계를 배제할 수 없는 예상하지 못한 약물이상반응</p> <p style=\"text-align:center\">0.73%(5/682명, 5건)</p> </td> \n </tr> \n <tr> \n  <td rowspan=\"17\" style=\"border-color:#000000; height:290.65pt; vertical-align:top; width:38.79pt\"> <p>흔하지 않게(0.1～1%미만)</p> </td> \n  <td style=\"border-color:#000000; height:44.85pt; vertical-align:middle; width:132.18pt\"> <p>비뇨기계 질환</p> </td> \n  <td style=\"border-color:#000000; height:44.85pt; vertical-align:top; width:131.36pt\"> <p>신결석, 혈뇨, 배뇨곤란, 빈뇨, 신경인성방광, 요로결석</p> </td> \n  <td style=\"border-color:#000000; height:44.85pt; vertical-align:top; width:131.36pt\"> <p>배뇨곤란</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:middle; width:132.18pt\"> <p>위장관계 장애</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>복통, 결장염, 급성복통, 소장게실염, 혈변</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>소장게실염, 복부 팽창<sup>*</sup></p> <p>&nbsp;</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:middle; width:132.18pt\"> <p>생식기능 장애(남성)</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>발기기능장애, 발기부전, 서혜부탈장, 전립선염</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>발기기능장애</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:14.5pt; vertical-align:middle; width:132.18pt\"> <p>전신적 질환</p> </td> \n  <td style=\"border-color:#000000; height:14.5pt; vertical-align:top; width:131.36pt\"> <p>눈주위부종, 요통, 전신쇠약</p> </td> \n  <td style=\"border-color:#000000; height:14.5pt; vertical-align:top; width:131.36pt\"> <p>전신쇠약, 이물감<sup>*</sup>, 말초 부종<sup>*</sup></p> <p>&nbsp;</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>중추 및 말초신경계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>떨림, 척수병증, 파킨슨증</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>떨림</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>근육-골격계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>골절, 어깨회선근증후근</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>간 및 담도계 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>담관염</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>기타 용어</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>급성알코올중독</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>내분비 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>여성형 유방</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>대사 및 영양 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>고지혈증</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>방어기전 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>남성생식기관농양</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>신생물</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>전립샘암</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:middle; width:132.18pt\"> <p>심근, 심내막, 심막, 판막</p> <p>질환</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>협심증</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>일반적 심혈관 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>고혈압</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>정신질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>정신질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>혈관질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>일과성허혈발작</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>호흡기계 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>기침</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n</tbody>"
+        },
+        {
+          "paragraph_index": 15,
+          "kind": "p",
+          "text": "* 탐스로신염산염 0.4mg 서방성필름코팅정, 서방정, 서방성캡슐제의 국내 시판 후 조사 결과",
+          "raw_content": "* 탐스로신염산염 0.4mg 서방성필름코팅정, 서방정, 서방성캡슐제의 국내 시판 후 조사 결과"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약을 과량 투여할 경우 혈압 저하가 예상되므로 투여량에 주의해야 한다.",
+          "raw_content": "1) 이 약을 과량 투여할 경우 혈압 저하가 예상되므로 투여량에 주의해야 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 기립(立位)시의 혈압이 저하할 수 있으므로 체위변환에 따른 혈압변화에 주의한다.",
+          "raw_content": "2) 기립(立位)시의 혈압이 저하할 수 있으므로 체위변환에 따른 혈압변화에 주의한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 이 약에 의한 치료는 원인요법이 아니라 대증요법임에 유의하여 이 약의 투여로 기대되는 효과를 얻지 못하는 경우에는 수술요법 등 다른 적절한 처치를 고려해야 한다.",
+          "raw_content": "3) 이 약에 의한 치료는 원인요법이 아니라 대증요법임에 유의하여 이 약의 투여로 기대되는 효과를 얻지 못하는 경우에는 수술요법 등 다른 적절한 처치를 고려해야 한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 어지럼 등이 나타날 수 있으므로 높은 곳에서의 작업이나 자동차 운전 등 위험이 따르는 작업에 종사하는 경우에는 주의를 환기시켜야 한다.",
+          "raw_content": "4) 어지럼 등이 나타날 수 있으므로 높은 곳에서의 작업이나 자동차 운전 등 위험이 따르는 작업에 종사하는 경우에는 주의를 환기시켜야 한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 동물실험에서 단백결합 투여 시 항원성을 나타내는 것으로 보고되었다.",
+          "raw_content": "5) 동물실험에서 단백결합 투여 시 항원성을 나타내는 것으로 보고되었다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 전립샘암과 전립샘비대증은 야기하는 증상이 비슷하고, 이 두 질환은 종종 공존하므로 이 약 투여 전에 전립샘암이 있는지 평가하여야 한다.",
+          "raw_content": "6) 전립샘암과 전립샘비대증은 야기하는 증상이 비슷하고, 이 두 질환은 종종 공존하므로 이 약 투여 전에 전립샘암이 있는지 평가하여야 한다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 졸도의 위험성은 다른 알파1-차단제와 같다.",
+          "raw_content": "7) 졸도의 위험성은 다른 알파1-차단제와 같다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 이 약은 드물게 다른 알파1-차단제와 마찬가지로 지속발기증과 관련된다. 지속발기의 상태는 적절한 처치가 없을 경우 영구적 발기 기능 장애를 야기할 수 있으므로 의사는 이런 상태의 심각성을 환자에게 알려야 한다.",
+          "raw_content": "8) 이 약은 드물게 다른 알파1-차단제와 마찬가지로 지속발기증과 관련된다. 지속발기의 상태는 적절한 처치가 없을 경우 영구적 발기 기능 장애를&nbsp;야기할 수 있으므로 의사는 이런 상태의 심각성을 환자에게 알려야 한다."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)이 관찰되었다. 따라서 안과의는 수술시 홍채 훅(irish hook), 홍채확장고리(irish dilator ring) 또는 점탄성물질(viscoelastic substance)등 주로 사용하는 수술방법에 있어서 가능한 수술 방법의 변화를 준비해야 한다.",
+          "raw_content": "9) 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)이 관찰되었다. 따라서 안과의는 수술시 홍채 훅(irish hook), 홍채확장고리(irish dilator ring) 또는 점탄성물질(viscoelastic substance)등 주로 사용하는 수술방법에 있어서 가능한 수술 방법의 변화를 준비해야 한다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 설폰아마이드 알레르기 병력을 가진 환자(이 약에 대한 알레르기 반응 사례가 보고되었다. 만약 환자가 과거에 설파제 알레르기를 겪었다면, 이 약 투여 시 주의가 필요하다.)",
+          "raw_content": "10) 설폰아마이드 알레르기 병력을 가진 환자(이 약에 대한 알레르기 반응 사례가 보고되었다. 만약 환자가 과거에 설파제 알레르기를 겪었다면, 이 약 투여 시 주의가 필요하다.)"
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 혈압강하제를 복용중인 환자는 기립시의 혈압조절 능력이 저하되는 경우가 있으며, 혈압강하제와 병용시 기립저혈압이 나타날 수 있으므로 감량하는 등 주의한다.",
+          "raw_content": "1) 혈압강하제를 복용중인 환자는 기립시의 혈압조절 능력이 저하되는 경우가 있으며, 혈압강하제와 병용시 기립저혈압이 나타날 수 있으므로 감량하는 등 주의한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약의 알파 차단 작용으로 인해 PDE5 억제제(실데나필시트르산염, 바데나필염산염 등)와 이 약의 병용 투여시 PDE5 억제제의 혈관 이완성 혈압강하작용이 증가할 수 있다. 이 약과 PDE5 억제제의 병용 투여 시 저혈압 발생의 가능성이 보고된 바 있다.",
+          "raw_content": "2) 이 약의 알파 차단 작용으로 인해 PDE5 억제제(실데나필시트르산염, 바데나필염산염 등)와 이 약의 병용 투여시 PDE5 억제제의 혈관 이완성 혈압강하작용이 증가할 수 있다. 이 약과 PDE5 억제제의 병용 투여 시 저혈압 발생의 가능성이 보고된 바 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 마취제와 다른 알파-차단제와의 상호작용은 결정된 바 없으나, 상호작용이 예상되며, 혈압강하작용의 이론적 위험이 있다.",
+          "raw_content": "3) 마취제와 다른 알파-차단제와의 상호작용은 결정된 바 없으나, 상호작용이 예상되며, 혈압강하작용의 이론적 위험이 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 시메티딘과의 상호작용에 대한 연구결과 이 약 청소율(25 % 감소)과 AUC(44 % 증가)에서 중요한 변화가 나타났으므로 시메티딘과의 병용시 주의한다(특히 0.4 mg 이상의 용량 투여시).",
+          "raw_content": "4) 시메티딘과의 상호작용에 대한 연구결과 이 약 청소율(25 % 감소)과 AUC(44 % 증가)에서 중요한 변화가 나타났으므로 시메티딘과의 병용시 주의한다(특히 0.4 mg 이상의 용량 투여시)."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 이 약과 와르파린과의 상호작용은 제한된 in vitro, in vivo 시험에서 결정적인 결론에 이르지 못했으므로 병용시 주의한다.",
+          "raw_content": "5) 이 약과 와르파린과의 상호작용은 제한된 in vitro, in vivo 시험에서 결정적인 결론에 이르지 못했으므로 병용시 주의한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6)건강인을 대상으로 한 약동학 시험에서 강한 CYP3A4 또는 CYP2D6 억제제와 이 약의 병용시 이 약의 노출이 증가할 수 있음이 관찰되었다. 케토코나졸(CYP3A4 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 Cmax 및 AUC는 각각 2.2배, 2.8배 증가하였다. CYP2D6 저대사군(poor metabolizer)에서 강한 CYP3A4 억제제와 탐스로신염산염의 병용시 탐스로신 노출이 증가될 가능성이 있다. CYP2D6에 대한 다형성(polymorphism)은 일반적으로 알려져 있지 않기 때문에 이 약은 강한 CYP3A4 억제제(케토코나졸, 이트라코나졸, 보리코나졸, 클래리트로마이신, 인디나비르, 넬피나비르, 리토나비르, 사퀴나비르)와 함께 투여해서는 안된다. 중등도의 CYP3A4 억제제(에리트로마이신, 플루코나졸, 딜티아젬, 베라파밀)와 탐스로신염산염의 병용시 주의한다. 파록세틴(CYP2D6 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 Cmax 및 AUC는 각각 1.3배, 1.6배 증가하였다.",
+          "raw_content": "6)건강인을 대상으로 한 약동학 시험에서 강한 CYP3A4 또는 CYP2D6 억제제와 이 약의 병용시 이 약의 노출이 증가할 수 있음이 관찰되었다. 케토코나졸(CYP3A4 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 C<sub>max</sub> 및 AUC는 각각 2.2배, 2.8배 증가하였다. CYP2D6 저대사군(poor metabolizer)에서 강한 CYP3A4 억제제와 탐스로신염산염의 병용시 탐스로신 노출이 증가될 가능성이 있다. CYP2D6에 대한 다형성(polymorphism)은 일반적으로 알려져 있지 않기 때문에 이 약은 강한 CYP3A4 억제제(케토코나졸, 이트라코나졸, 보리코나졸, 클래리트로마이신, 인디나비르, 넬피나비르, 리토나비르, 사퀴나비르)와 함께 투여해서는 안된다. 중등도의 CYP3A4 억제제(에리트로마이신, 플루코나졸, 딜티아젬, 베라파밀)와 탐스로신염산염의 병용시 주의한다. 파록세틴(CYP2D6 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 C<sub>max</sub> 및 AUC는 각각 1.3배, 1.6배 증가하였다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약의 적응증은 여성을 대상으로 하지 않는다. 여성에서 이 약의 안전성 및 유효성은 확립되지 않았다.",
+          "raw_content": "이 약의 적응증은 여성을 대상으로 하지 않는다. 여성에서 이 약의 안전성 및 유효성은 확립되지 않았다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "이 약의 적응증은 소아를 대상으로 하지 않는다. 18세 이하의 소아에서 안전성 및 유효성은 확립되지 않았다.",
+          "raw_content": "이 약의 적응증은 소아를 대상으로 하지 않는다. 18세 이하의 소아에서 안전성 및 유효성은 확립되지 않았다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "고령자 중에는 신기능이 저하된 환자가 있으므로 이러한 경우에는 0.1 mg부터 투여하여 경과를 충분히 관찰한 후 0.2 mg으로 증량한다. 0.2 mg으로 기대되는 효과를 얻지 못할 경우에는 더 이상 증량하여 투여하지 말고 다른 적절한 처치를 해야 한다.",
+          "raw_content": "고령자 중에는 신기능이 저하된 환자가 있으므로 이러한 경우에는 0.1 mg부터 투여하여 경과를 충분히 관찰한 후 0.2 mg으로 증량한다. 0.2 mg으로 기대되는 효과를 얻지 못할 경우에는 더 이상 증량하여 투여하지 말고 다른 적절한 처치를 해야 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) PTP 포장의 약제는 PTP 포장으로부터 꺼내어 복용한다. 만일 PTP 포장을 복용하게 될 경우, 단단한 예각부분이 식도점막에 박혀 심할 경우 천공이 생겨 종격동염(縱隔洞炎) 등의 중증 합병증을 유발한다는 보고가 있다.",
+          "raw_content": "1) PTP 포장의 약제는 PTP 포장으로부터 꺼내어 복용한다. 만일 PTP 포장을 복용하게 될 경우, 단단한 예각부분이 식도점막에 박혀 심할 경우 천공이 생겨 종격동염(縱隔洞炎) 등의 중증 합병증을 유발한다는 보고가 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약은 씹어서 복용하지 않는다(이 약은 탐스로신염산염 서방성 과립을 함유하고 있기 때문에 씹어서 복용할 경우 서방성 과립이 부서져 약물동태가 변할 가능성이 있다). (구강붕해정에 한함).",
+          "raw_content": "2) 이 약은 씹어서 복용하지 않는다(이 약은 탐스로신염산염 서방성 과립을 함유하고 있기 때문에 씹어서 복용할 경우 서방성 과립이 부서져 약물동태가 변할 가능성이 있다). (구강붕해정에 한함)."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 이 약은 구강 내에서 붕해되지만, 구강 점막에서 흡수되지는 않기 때문에 타액 또는 물과 함께 복용한다(구강붕해정에 한함).",
+          "raw_content": "3) 이 약은 구강 내에서 붕해되지만, 구강 점막에서 흡수되지는 않기 때문에 타액 또는 물과 함께 복용한다(구강붕해정에 한함)."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 이 약은 혀 위에 올려놓고 타액을 침습시켜 혀로 가볍게 부셔서 붕해 후, 타액만으로 복용이 가능하다(구강붕해정에 한함).",
+          "raw_content": "4) 이 약은 혀 위에 올려놓고 타액을 침습시켜 혀로 가볍게 부셔서 붕해 후, 타액만으로 복용이 가능하다(구강붕해정에 한함)."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 이 약은 누워있는 상태에서는 물 없이 복용하지 않는다(구강붕해정에 한함).",
+          "raw_content": "5) 이 약은 누워있는 상태에서는 물 없이 복용하지 않는다(구강붕해정에 한함)."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 이 약은 서방제제이므로 씹어서 복용하지 않도록 환자에게 주의시킨다(서방정에 한함).",
+          "raw_content": "6) 이 약은 서방제제이므로 씹어서 복용하지 않도록 환자에게 주의시킨다(서방정에 한함)."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 캡슐내의 과립을 씹거나, 캡슐을 열어 복용하지 않도록 환자에게 주의시킨다(이 약은 탐스로신염산염 서방성 과립을 충진한 캡슐이기 때문에 약물동태가 변할 가능성이 있다.)(캡슐제에 한함.).",
+          "raw_content": "7) 캡슐내의 과립을 씹거나, 캡슐을 열어 복용하지 않도록 환자에게 주의시킨다(이 약은 탐스로신염산염 서방성 과립을 충진한 캡슐이기 때문에 약물동태가 변할 가능성이 있다.)(캡슐제에 한함.)."
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "heading": "10. 보관 및 취급상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 어린이의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 다른 용기에 바꾸어 넣는 것은 사고원인이 되거나 품질 유지면에서 바람직하지 않으므로 이를 주의한다.",
+          "raw_content": "2) 다른 용기에 바꾸어 넣는 것은 사고원인이 되거나 품질 유지면에서 바람직하지 않으므로 이를 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "heading": "11. 의약품동등성시험 정보",
+      "paragraphs": []
+    },
+    {
+      "article_index": 12,
+      "heading": "12. 기타",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "임신한 랫트에 이 약을 300 mg/kg/day까지(사람 치료용량의 약 50배) 투여시 태자에 유해하다는 증거는 나타나지 않았다. 임신한 토끼에 이 약을 50 mg/kg/day까지 투여 시 태자에 유해하다는 증거는 나타나지 않았다.",
+          "raw_content": "임신한 랫트에 이 약을 300 mg/kg/day까지(사람 치료용량의 약 50배) 투여시 태자에 유해하다는 증거는 나타나지 않았다. 임신한 토끼에 이 약을 50 mg/kg/day까지 투여 시 태자에 유해하다는 증거는 나타나지 않았다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음 환자에는 투여하지 말 것.\n\n1) 이 약 또는 이 약의 구성성분에 과민반응(혈관부종 포함) 병력이 있는 환자\n\n2) 기립저혈압 환자(증상이 악화될 수 있다.)\n\n3) 중증 간장애 환자(혈장 중 농도가 상승할 수 있다.)\n\n4) 임부 또는 임신하고 있을 가능성이 있는 여성\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 중증 신장애 환자(혈장 중 농도가 상승할 수 있다.)\n\n2) 고령자(고령자에 대한 투여 항 참고)\n\n3) PDE5(phosphodiesterase-5) 억제제를 복용중인 환자(상호작용 항 참고)\n\n4) CYP3A4 억제제를 투여중인 환자(상호작용 항 참고)\n\n5) 혈압강하제를 투여중인 환자(상호작용 항 참고)\n\n6) 알파1-차단제를 투여중인 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.(기립저혈압이 일어날 수 있다.)\n\n7) 배뇨실신 병력이 있는 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.\n\n3. 이상반응\n\n1) 실신, 의식상실(빈도 불명) : 혈압저하에 동반하는 일과성의 의식상실 등이 나타날 수 있으므로 관찰을 충분히 하고, 이상반응이 나타나는 경우에는 이 약의 투여를 중지하고 적절한 처치를 한다.\n\n2) 정신신경계 : 때때로 어지럼, 균형감각의 이상, 기립성 어지럼, 두통, 졸음, 신경과민, 불면, 성욕저하, 초조감(빈도불명), 저림감(빈도불명)이 나타날 수 있다.\n\n3) 순환기계 : 때때로 빈맥, 혈압저하, 기립 저혈압, 심계항진, 부정맥이 나타날 수 있다.\n\n4) 과민반응 : 때때로 발진, 가려움, 두드러기 등이 나타날 수 있으므로 이러한 증상이 나타날 경우에는 투여를 중지해야 한다.\n\n5) 소화기계 : 때때로 구역, 구토, 위부불쾌감, 위중감, 위통, 식욕부진, 구갈, 변비, 설사, 치아장애, 연하장애가 나타날 수 있다.\n\n6) 간장애, 황달(빈도 불명) : AST 상승, ALT 상승, 황달 등이 나타나는 경우가 있으므로, 충분히 관찰하고 이상반응이 나타나는 경우에는 이 약의 투여를 중지하는 등 적절한 처치를 한다.\n\n7) 기타 : 때때로 인두부 작열감, 전신권태감, 코막힘, 코피, 부종, 요실금, 미각이상, 여성형유방, 지속발기증, 감염, 무기력증, 등통증, 흉통, 비염, 인두염, 기침 증가, 부비동염, 비정상 사정, 약시, 수술 중 홍채긴장저하증후군(Intraoperative Floppy Iris Syndrome), 시야흐림, 시각장애, 다형홍반, 박탈피부염, 스티븐스-존슨증후군, 광과민성 반응 및 흉부 불편감이 나타날 수 있다.\n\n8) 국내 시판 후 조사결과(조사증례수 : 3,720명) 나타난 이상반응은 다음과 같으며, 이 약과의 관련 여부는 확실하지 않다. : 호흡곤란, 사정부전, 발적, 이명(캡슐제에 한함.).\n\n9) 외국(미국)에서의 시판 후 조사결과 나타난 이상반응은 다음과 같으며, 이는 자발적 보고에 의한 것으로 발현율의 신뢰성 있는 평가나 인과관계의 판단이 항상 이루어진 것은 아니다. 미국에서는 1) 이상반응의 중대성 2) 보고 횟수 3) 이 약과의 인과관계 정도를 근거로 하여 다음의 이상반응을 사용상의 주의사항에 포함하였다.혀, 입술 및 얼굴부위의 피부질환, 가려움, 혈관부종 등의 알레르기 반응 및 두드러기, 심계항진, 저혈압, 피부박리, 변비, 구토, 드물게 지속발기증이 보고되었다. 또한 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)으로 알려져 있는 작은 동공증후군의 변형이 보고되었다.\n\n※ 탐스로신염산염 0.4mg에 대한 국내 시판 후 조사결과\n\n국내에서 재심사를 위하여 6년 동안 682명을 대상으로 실시한 시판 후 조사 결과, 이상사례의 발현율은 인과관계와 상관없이 10.26%(70/682명, 총 77건)로 보고되었다. 이 중 인과관계와 상관없는 중대한 이상사례는 발현 빈도에 따라 아래 표에 나열하였으며, 인과관계를 배제할 수 없는 중대한 약물이상반응은 보고되지 않았다.\n\n|\n|\n인과관계와 상관없는 중대한 이상사례\n0.73%(5/682명, 6건)\n|\n흔하지 않게(0.1～1%미만)\n|\n간 및 담도계 질환\n|\n담관염\n|\n근육-골격계 장애\n|\n어깨회선근증후군\n|\n방어기전 장애\n|\n남성생식기관농양\n|\n생식기능 장애(남성)\n|\n서혜부탈장\n|\n위장관계 장애\n|\n결장염\n|\n혈관 질환\n|\n일과성허혈발작\n\n또한, 인과관계와 상관없는 예상하지 못한 이상사례와 인과관계를 배제할 수 없는 예상하지 못한 약물이상반응은 발현 빈도에 따라 다음의 표에 나열하였다.\n\n|\n|\n인과관계와 상관없는\n예상하지 못한 이상사례\n4.69%(32/682명, 37건)\n|\n인과관계를 배제할 수 없는 예상하지 못한 약물이상반응\n0.73%(5/682명, 5건)\n|\n흔하지 않게(0.1～1%미만)\n|\n비뇨기계 질환\n|\n신결석, 혈뇨, 배뇨곤란, 빈뇨, 신경인성방광, 요로결석\n|\n배뇨곤란\n|\n위장관계 장애\n|\n복통, 결장염, 급성복통, 소장게실염, 혈변\n|\n소장게실염, 복부 팽창*\n|\n생식기능 장애(남성)\n|\n발기기능장애, 발기부전, 서혜부탈장, 전립선염\n|\n발기기능장애\n|\n전신적 질환\n|\n눈주위부종, 요통, 전신쇠약\n|\n전신쇠약, 이물감*, 말초 부종*\n|\n중추 및 말초신경계 장애\n|\n떨림, 척수병증, 파킨슨증\n|\n떨림\n|\n근육-골격계 장애\n|\n골절, 어깨회선근증후근\n|\n-\n|\n간 및 담도계 질환\n|\n담관염\n|\n-\n|\n기타 용어\n|\n급성알코올중독\n|\n-\n|\n내분비 질환\n|\n여성형 유방\n|\n-\n|\n대사 및 영양 질환\n|\n고지혈증\n|\n-\n|\n방어기전 장애\n|\n남성생식기관농양\n|\n-\n|\n신생물\n|\n전립샘암\n|\n-\n|\n심근, 심내막, 심막, 판막\n질환\n|\n협심증\n|\n-\n|\n일반적 심혈관 질환\n|\n고혈압\n|\n-\n|\n정신질환\n|\n정신질환\n|\n-\n|\n혈관질환\n|\n일과성허혈발작\n|\n-\n|\n호흡기계 질환\n|\n기침\n|\n-\n\n* 탐스로신염산염 0.4mg 서방성필름코팅정, 서방정, 서방성캡슐제의 국내 시판 후 조사 결과\n\n4. 일반적 주의\n\n1) 이 약을 과량 투여할 경우 혈압 저하가 예상되므로 투여량에 주의해야 한다.\n\n2) 기립(立位)시의 혈압이 저하할 수 있으므로 체위변환에 따른 혈압변화에 주의한다.\n\n3) 이 약에 의한 치료는 원인요법이 아니라 대증요법임에 유의하여 이 약의 투여로 기대되는 효과를 얻지 못하는 경우에는 수술요법 등 다른 적절한 처치를 고려해야 한다.\n\n4) 어지럼 등이 나타날 수 있으므로 높은 곳에서의 작업이나 자동차 운전 등 위험이 따르는 작업에 종사하는 경우에는 주의를 환기시켜야 한다.\n\n5) 동물실험에서 단백결합 투여 시 항원성을 나타내는 것으로 보고되었다.\n\n6) 전립샘암과 전립샘비대증은 야기하는 증상이 비슷하고, 이 두 질환은 종종 공존하므로 이 약 투여 전에 전립샘암이 있는지 평가하여야 한다.\n\n7) 졸도의 위험성은 다른 알파1-차단제와 같다.\n\n8) 이 약은 드물게 다른 알파1-차단제와 마찬가지로 지속발기증과 관련된다. 지속발기의 상태는 적절한 처치가 없을 경우 영구적 발기 기능 장애를 야기할 수 있으므로 의사는 이런 상태의 심각성을 환자에게 알려야 한다.\n\n9) 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)이 관찰되었다. 따라서 안과의는 수술시 홍채 훅(irish hook), 홍채확장고리(irish dilator ring) 또는 점탄성물질(viscoelastic substance)등 주로 사용하는 수술방법에 있어서 가능한 수술 방법의 변화를 준비해야 한다.\n\n10) 설폰아마이드 알레르기 병력을 가진 환자(이 약에 대한 알레르기 반응 사례가 보고되었다. 만약 환자가 과거에 설파제 알레르기를 겪었다면, 이 약 투여 시 주의가 필요하다.)\n\n5. 상호작용\n\n1) 혈압강하제를 복용중인 환자는 기립시의 혈압조절 능력이 저하되는 경우가 있으며, 혈압강하제와 병용시 기립저혈압이 나타날 수 있으므로 감량하는 등 주의한다.\n\n2) 이 약의 알파 차단 작용으로 인해 PDE5 억제제(실데나필시트르산염, 바데나필염산염 등)와 이 약의 병용 투여시 PDE5 억제제의 혈관 이완성 혈압강하작용이 증가할 수 있다. 이 약과 PDE5 억제제의 병용 투여 시 저혈압 발생의 가능성이 보고된 바 있다.\n\n3) 마취제와 다른 알파-차단제와의 상호작용은 결정된 바 없으나, 상호작용이 예상되며, 혈압강하작용의 이론적 위험이 있다.\n\n4) 시메티딘과의 상호작용에 대한 연구결과 이 약 청소율(25 % 감소)과 AUC(44 % 증가)에서 중요한 변화가 나타났으므로 시메티딘과의 병용시 주의한다(특히 0.4 mg 이상의 용량 투여시).\n\n5) 이 약과 와르파린과의 상호작용은 제한된 in vitro, in vivo 시험에서 결정적인 결론에 이르지 못했으므로 병용시 주의한다.\n\n6)건강인을 대상으로 한 약동학 시험에서 강한 CYP3A4 또는 CYP2D6 억제제와 이 약의 병용시 이 약의 노출이 증가할 수 있음이 관찰되었다. 케토코나졸(CYP3A4 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 Cmax 및 AUC는 각각 2.2배, 2.8배 증가하였다. CYP2D6 저대사군(poor metabolizer)에서 강한 CYP3A4 억제제와 탐스로신염산염의 병용시 탐스로신 노출이 증가될 가능성이 있다. CYP2D6에 대한 다형성(polymorphism)은 일반적으로 알려져 있지 않기 때문에 이 약은 강한 CYP3A4 억제제(케토코나졸, 이트라코나졸, 보리코나졸, 클래리트로마이신, 인디나비르, 넬피나비르, 리토나비르, 사퀴나비르)와 함께 투여해서는 안된다. 중등도의 CYP3A4 억제제(에리트로마이신, 플루코나졸, 딜티아젬, 베라파밀)와 탐스로신염산염의 병용시 주의한다. 파록세틴(CYP2D6 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 Cmax 및 AUC는 각각 1.3배, 1.6배 증가하였다.\n\n6. 임부 및 수유부에 대한 투여\n\n이 약의 적응증은 여성을 대상으로 하지 않는다. 여성에서 이 약의 안전성 및 유효성은 확립되지 않았다.\n\n7. 소아에 대한 투여\n\n이 약의 적응증은 소아를 대상으로 하지 않는다. 18세 이하의 소아에서 안전성 및 유효성은 확립되지 않았다.\n\n8. 고령자에 대한 투여\n\n고령자 중에는 신기능이 저하된 환자가 있으므로 이러한 경우에는 0.1 mg부터 투여하여 경과를 충분히 관찰한 후 0.2 mg으로 증량한다. 0.2 mg으로 기대되는 효과를 얻지 못할 경우에는 더 이상 증량하여 투여하지 말고 다른 적절한 처치를 해야 한다.\n\n9. 적용상의 주의\n\n1) PTP 포장의 약제는 PTP 포장으로부터 꺼내어 복용한다. 만일 PTP 포장을 복용하게 될 경우, 단단한 예각부분이 식도점막에 박혀 심할 경우 천공이 생겨 종격동염(縱隔洞炎) 등의 중증 합병증을 유발한다는 보고가 있다.\n\n2) 이 약은 씹어서 복용하지 않는다(이 약은 탐스로신염산염 서방성 과립을 함유하고 있기 때문에 씹어서 복용할 경우 서방성 과립이 부서져 약물동태가 변할 가능성이 있다). (구강붕해정에 한함).\n\n3) 이 약은 구강 내에서 붕해되지만, 구강 점막에서 흡수되지는 않기 때문에 타액 또는 물과 함께 복용한다(구강붕해정에 한함).\n\n4) 이 약은 혀 위에 올려놓고 타액을 침습시켜 혀로 가볍게 부셔서 붕해 후, 타액만으로 복용이 가능하다(구강붕해정에 한함).\n\n5) 이 약은 누워있는 상태에서는 물 없이 복용하지 않는다(구강붕해정에 한함).\n\n6) 이 약은 서방제제이므로 씹어서 복용하지 않도록 환자에게 주의시킨다(서방정에 한함).\n\n7) 캡슐내의 과립을 씹거나, 캡슐을 열어 복용하지 않도록 환자에게 주의시킨다(이 약은 탐스로신염산염 서방성 과립을 충진한 캡슐이기 때문에 약물동태가 변할 가능성이 있다.)(캡슐제에 한함.).\n\n10. 보관 및 취급상의 주의사항\n\n1) 어린이의 손이 닿지 않는 곳에 보관한다.\n\n2) 다른 용기에 바꾸어 넣는 것은 사고원인이 되거나 품질 유지면에서 바람직하지 않으므로 이를 주의한다.\n\n11. 의약품동등성시험 정보\n\n12. 기타\n\n임신한 랫트에 이 약을 300 mg/kg/day까지(사람 치료용량의 약 50배) 투여시 태자에 유해하다는 증거는 나타나지 않았다. 임신한 토끼에 이 약을 50 mg/kg/day까지 투여 시 태자에 유해하다는 증거는 나타나지 않았다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 또는 이 약의 구성성분에 과민반응(혈관부종 포함) 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 기립저혈압 환자(증상이 악화될 수 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중증 간장애 환자(혈장 중 농도가 상승할 수 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 임부 또는 임신하고 있을 가능성이 있는 여성]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 중증 신장애 환자(혈장 중 농도가 상승할 수 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고령자(고령자에 대한 투여 항 참고)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) PDE5(phosphodiesterase-5) 억제제를 복용중인 환자(상호작용 항 참고)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) CYP3A4 억제제를 투여중인 환자(상호작용 항 참고)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 혈압강하제를 투여중인 환자(상호작용 항 참고)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 알파1-차단제를 투여중인 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.(기립저혈압이 일어날 수 있다.)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 배뇨실신 병력이 있는 환자는 이 약을 투여하지 않는 것을 원칙으로 하나, 특히 필요한 경우에 한하여 신중히 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 실신, 의식상실(빈도 불명) : 혈압저하에 동반하는 일과성의 의식상실 등이 나타날 수 있으므로 관찰을 충분히 하고, 이상반응이 나타나는 경우에는 이 약의 투여를 중지하고 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 정신신경계 : 때때로 어지럼, 균형감각의 이상, 기립성 어지럼, 두통, 졸음, 신경과민, 불면, 성욕저하, 초조감(빈도불명), 저림감(빈도불명)이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 순환기계 : 때때로 빈맥, 혈압저하, 기립 저혈압, 심계항진, 부정맥이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 과민반응 : 때때로 발진, 가려움, 두드러기 등이 나타날 수 있으므로 이러한 증상이 나타날 경우에는 투여를 중지해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 소화기계 : 때때로 구역, 구토, 위부불쾌감, 위중감, 위통, 식욕부진, 구갈, 변비, 설사, 치아장애, 연하장애가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 간장애, 황달(빈도 불명) : AST 상승, ALT 상승, 황달 등이 나타나는 경우가 있으므로, 충분히 관찰하고 이상반응이 나타나는 경우에는 이 약의 투여를 중지하는 등 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 기타 : 때때로 인두부 작열감, 전신권태감, 코막힘, 코피, 부종, 요실금, 미각이상, 여성형유방, 지속발기증, 감염, 무기력증, 등통증, 흉통, 비염, 인두염, 기침 증가, 부비동염, 비정상 사정, 약시, 수술 중 홍채긴장저하증후군(Intraoperative Floppy Iris Syndrome), 시야흐림, 시각장애, 다형홍반, 박탈피부염, 스티븐스-존슨증후군, 광과민성 반응 및 흉부 불편감이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 국내 시판 후 조사결과(조사증례수 : 3,720명) 나타난 이상반응은 다음과 같으며, 이 약과의 관련 여부는 확실하지 않다. : 호흡곤란, 사정부전, 발적, 이명(캡슐제에 한함.).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 외국(미국)에서의 시판 후 조사결과 나타난 이상반응은 다음과 같으며, 이는 자발적 보고에 의한 것으로 발현율의 신뢰성 있는 평가나 인과관계의 판단이 항상 이루어진 것은 아니다. 미국에서는 1) 이상반응의 중대성 2) 보고 횟수 3) 이 약과의 인과관계 정도를 근거로 하여 다음의 이상반응을 사용상의 주의사항에 포함하였다.혀, 입술 및 얼굴부위의 피부질환, 가려움, 혈관부종 등의 알레르기 반응 및 두드러기, 심계항진, 저혈압, 피부박리, 변비, 구토, 드물게 지속발기증이 보고되었다. 또한 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)으로 알려져 있는 작은 동공증후군의 변형이 보고되었다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[※ 탐스로신염산염 0.4mg에 대한 국내 시판 후 조사결과]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[국내에서 재심사를 위하여 6년 동안 682명을 대상으로 실시한 시판 후 조사 결과, 이상사례의 발현율은 인과관계와 상관없이 10.26%(70/682명, 총 77건)로 보고되었다. 이 중 인과관계와 상관없는 중대한 이상사례는 발현 빈도에 따라 아래 표에 나열하였으며, 인과관계를 배제할 수 없는 중대한 약물이상반응은 보고되지 않았다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"table\" textIndent=\"0\" marginLeft=\"\"><![CDATA[<tbody> \n <tr> \n  <td colspan=\"2\" style=\"border-color:#000000; height:38.82pt; vertical-align:middle; width:170.97pt\"> <p>&nbsp;</p> </td> \n  <td style=\"border-color:#000000; height:38.82pt; vertical-align:middle; width:268.62pt\"> <p style=\"text-align:center\">인과관계와 상관없는 중대한 이상사례</p> <p style=\"text-align:center\">0.73%(5/682명, 6건)</p> </td> \n </tr> \n <tr> \n  <td rowspan=\"6\" style=\"border-color:#000000; height:76.92pt; vertical-align:top; width:38.79pt\"> <p>흔하지 않게(0.1～1%미만)</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>간 및 담도계 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>담관염</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>근육-골격계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>어깨회선근증후군</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>방어기전 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>남성생식기관농양</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>생식기능 장애(남성)</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>서혜부탈장</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>위장관계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>결장염</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>혈관 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:268.62pt\"> <p>일과성허혈발작</p> </td> \n </tr> \n</tbody>]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[또한, 인과관계와 상관없는 예상하지 못한 이상사례와 인과관계를 배제할 수 없는 예상하지 못한 약물이상반응은 발현 빈도에 따라 다음의 표에 나열하였다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"table\" textIndent=\"0\" marginLeft=\"\"><![CDATA[<tbody> \n <tr> \n  <td colspan=\"2\" style=\"border-color:#000000; height:51.82pt; vertical-align:top; width:170.97pt\"> <p>&nbsp;</p> </td> \n  <td style=\"border-color:#000000; height:51.82pt; vertical-align:top; width:131.36pt\"> <p style=\"text-align:center\">인과관계와 상관없는</p> <p style=\"text-align:center\">예상하지 못한 이상사례</p> <p style=\"text-align:center\">4.69%(32/682명, 37건)</p> </td> \n  <td style=\"border-color:#000000; height:51.82pt; vertical-align:top; width:131.36pt\"> <p style=\"text-align:center\">인과관계를 배제할 수 없는 예상하지 못한 약물이상반응</p> <p style=\"text-align:center\">0.73%(5/682명, 5건)</p> </td> \n </tr> \n <tr> \n  <td rowspan=\"17\" style=\"border-color:#000000; height:290.65pt; vertical-align:top; width:38.79pt\"> <p>흔하지 않게(0.1～1%미만)</p> </td> \n  <td style=\"border-color:#000000; height:44.85pt; vertical-align:middle; width:132.18pt\"> <p>비뇨기계 질환</p> </td> \n  <td style=\"border-color:#000000; height:44.85pt; vertical-align:top; width:131.36pt\"> <p>신결석, 혈뇨, 배뇨곤란, 빈뇨, 신경인성방광, 요로결석</p> </td> \n  <td style=\"border-color:#000000; height:44.85pt; vertical-align:top; width:131.36pt\"> <p>배뇨곤란</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:middle; width:132.18pt\"> <p>위장관계 장애</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>복통, 결장염, 급성복통, 소장게실염, 혈변</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>소장게실염, 복부 팽창<sup>*</sup></p> <p>&nbsp;</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:middle; width:132.18pt\"> <p>생식기능 장애(남성)</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>발기기능장애, 발기부전, 서혜부탈장, 전립선염</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>발기기능장애</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:14.5pt; vertical-align:middle; width:132.18pt\"> <p>전신적 질환</p> </td> \n  <td style=\"border-color:#000000; height:14.5pt; vertical-align:top; width:131.36pt\"> <p>눈주위부종, 요통, 전신쇠약</p> </td> \n  <td style=\"border-color:#000000; height:14.5pt; vertical-align:top; width:131.36pt\"> <p>전신쇠약, 이물감<sup>*</sup>, 말초 부종<sup>*</sup></p> <p>&nbsp;</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>중추 및 말초신경계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>떨림, 척수병증, 파킨슨증</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>떨림</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>근육-골격계 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>골절, 어깨회선근증후근</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>간 및 담도계 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>담관염</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>기타 용어</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>급성알코올중독</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>내분비 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>여성형 유방</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>대사 및 영양 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>고지혈증</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>방어기전 장애</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>남성생식기관농양</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>신생물</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>전립샘암</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:middle; width:132.18pt\"> <p>심근, 심내막, 심막, 판막</p> <p>질환</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>협심증</p> </td> \n  <td style=\"border-color:#000000; height:25.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>일반적 심혈관 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>고혈압</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>정신질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>정신질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>혈관질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>일과성허혈발작</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n <tr> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:middle; width:132.18pt\"> <p>호흡기계 질환</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>기침</p> </td> \n  <td style=\"border-color:#000000; height:12.82pt; vertical-align:top; width:131.36pt\"> <p>-</p> </td> \n </tr> \n</tbody>]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[* 탐스로신염산염 0.4mg 서방성필름코팅정, 서방정, 서방성캡슐제의 국내 시판 후 조사 결과]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 과량 투여할 경우 혈압 저하가 예상되므로 투여량에 주의해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 기립(立位)시의 혈압이 저하할 수 있으므로 체위변환에 따른 혈압변화에 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약에 의한 치료는 원인요법이 아니라 대증요법임에 유의하여 이 약의 투여로 기대되는 효과를 얻지 못하는 경우에는 수술요법 등 다른 적절한 처치를 고려해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 어지럼 등이 나타날 수 있으므로 높은 곳에서의 작업이나 자동차 운전 등 위험이 따르는 작업에 종사하는 경우에는 주의를 환기시켜야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 동물실험에서 단백결합 투여 시 항원성을 나타내는 것으로 보고되었다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 전립샘암과 전립샘비대증은 야기하는 증상이 비슷하고, 이 두 질환은 종종 공존하므로 이 약 투여 전에 전립샘암이 있는지 평가하여야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 졸도의 위험성은 다른 알파1-차단제와 같다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 이 약은 드물게 다른 알파1-차단제와 마찬가지로 지속발기증과 관련된다. 지속발기의 상태는 적절한 처치가 없을 경우 영구적 발기 기능 장애를&nbsp;야기할 수 있으므로 의사는 이런 상태의 심각성을 환자에게 알려야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 알파1-차단제를 복용하고 있거나 이전에 복용했던 일부 환자에서 백내장 또는 녹내장 수술을 하는 동안 수술 중 홍채긴장저하증후군(IFIS)이 관찰되었다. 따라서 안과의는 수술시 홍채 훅(irish hook), 홍채확장고리(irish dilator ring) 또는 점탄성물질(viscoelastic substance)등 주로 사용하는 수술방법에 있어서 가능한 수술 방법의 변화를 준비해야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 설폰아마이드 알레르기 병력을 가진 환자(이 약에 대한 알레르기 반응 사례가 보고되었다. 만약 환자가 과거에 설파제 알레르기를 겪었다면, 이 약 투여 시 주의가 필요하다.)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 혈압강하제를 복용중인 환자는 기립시의 혈압조절 능력이 저하되는 경우가 있으며, 혈압강하제와 병용시 기립저혈압이 나타날 수 있으므로 감량하는 등 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약의 알파 차단 작용으로 인해 PDE5 억제제(실데나필시트르산염, 바데나필염산염 등)와 이 약의 병용 투여시 PDE5 억제제의 혈관 이완성 혈압강하작용이 증가할 수 있다. 이 약과 PDE5 억제제의 병용 투여 시 저혈압 발생의 가능성이 보고된 바 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 마취제와 다른 알파-차단제와의 상호작용은 결정된 바 없으나, 상호작용이 예상되며, 혈압강하작용의 이론적 위험이 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 시메티딘과의 상호작용에 대한 연구결과 이 약 청소율(25 % 감소)과 AUC(44 % 증가)에서 중요한 변화가 나타났으므로 시메티딘과의 병용시 주의한다(특히 0.4 mg 이상의 용량 투여시).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 이 약과 와르파린과의 상호작용은 제한된 in vitro, in vivo 시험에서 결정적인 결론에 이르지 못했으므로 병용시 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6)건강인을 대상으로 한 약동학 시험에서 강한 CYP3A4 또는 CYP2D6 억제제와 이 약의 병용시 이 약의 노출이 증가할 수 있음이 관찰되었다. 케토코나졸(CYP3A4 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 C<sub>max</sub> 및 AUC는 각각 2.2배, 2.8배 증가하였다. CYP2D6 저대사군(poor metabolizer)에서 강한 CYP3A4 억제제와 탐스로신염산염의 병용시 탐스로신 노출이 증가될 가능성이 있다. CYP2D6에 대한 다형성(polymorphism)은 일반적으로 알려져 있지 않기 때문에 이 약은 강한 CYP3A4 억제제(케토코나졸, 이트라코나졸, 보리코나졸, 클래리트로마이신, 인디나비르, 넬피나비르, 리토나비르, 사퀴나비르)와 함께 투여해서는 안된다. 중등도의 CYP3A4 억제제(에리트로마이신, 플루코나졸, 딜티아젬, 베라파밀)와 탐스로신염산염의 병용시 주의한다. 파록세틴(CYP2D6 억제제)과 탐스로신염산염 0.4 mg의 병용시 탐스로신의 C<sub>max</sub> 및 AUC는 각각 1.3배, 1.6배 증가하였다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약의 적응증은 여성을 대상으로 하지 않는다. 여성에서 이 약의 안전성 및 유효성은 확립되지 않았다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이 약의 적응증은 소아를 대상으로 하지 않는다. 18세 이하의 소아에서 안전성 및 유효성은 확립되지 않았다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[고령자 중에는 신기능이 저하된 환자가 있으므로 이러한 경우에는 0.1 mg부터 투여하여 경과를 충분히 관찰한 후 0.2 mg으로 증량한다. 0.2 mg으로 기대되는 효과를 얻지 못할 경우에는 더 이상 증량하여 투여하지 말고 다른 적절한 처치를 해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) PTP 포장의 약제는 PTP 포장으로부터 꺼내어 복용한다. 만일 PTP 포장을 복용하게 될 경우, 단단한 예각부분이 식도점막에 박혀 심할 경우 천공이 생겨 종격동염(縱隔洞炎) 등의 중증 합병증을 유발한다는 보고가 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약은 씹어서 복용하지 않는다(이 약은 탐스로신염산염 서방성 과립을 함유하고 있기 때문에 씹어서 복용할 경우 서방성 과립이 부서져 약물동태가 변할 가능성이 있다). (구강붕해정에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약은 구강 내에서 붕해되지만, 구강 점막에서 흡수되지는 않기 때문에 타액 또는 물과 함께 복용한다(구강붕해정에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약은 혀 위에 올려놓고 타액을 침습시켜 혀로 가볍게 부셔서 붕해 후, 타액만으로 복용이 가능하다(구강붕해정에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 이 약은 누워있는 상태에서는 물 없이 복용하지 않는다(구강붕해정에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 이 약은 서방제제이므로 씹어서 복용하지 않도록 환자에게 주의시킨다(서방정에 한함).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 캡슐내의 과립을 씹거나, 캡슐을 열어 복용하지 않도록 환자에게 주의시킨다(이 약은 탐스로신염산염 서방성 과립을 충진한 캡슐이기 때문에 약물동태가 변할 가능성이 있다.)(캡슐제에 한함.).]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 다른 용기에 바꾸어 넣는 것은 사고원인이 되거나 품질 유지면에서 바람직하지 않으므로 이를 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"11. 의약품동등성시험 정보\" />\r\n    <ARTICLE title=\"12. 기타\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임신한 랫트에 이 약을 300 mg/kg/day까지(사람 치료용량의 약 50배) 투여시 태자에 유해하다는 증거는 나타나지 않았다. 임신한 토끼에 이 약을 50 mg/kg/day까지 투여 시 태자에 유해하다는 증거는 나타나지 않았다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "5a5404cf2e3dbe86a2875c6ba782832aa02a2cc60c311cfb822b641c45893a4a"
+}

@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:202202321",
+  "doc_id": "mfds:202202321:STORAGE",
+  "title": "리포타론주(덱사메타손팔미테이트)(수출용) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "ea5b47b79a9e0371e36ca9f9a51c2b0965705335afc7a0616dbbcaf61dbb0721",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\202202321.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:55.922586+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 차광, 실온보관\n\n\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 차광, 실온보관\n\n\n사용기간: 제조일로부터 24 개월"
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198900630:UD",
+  "drug_id": "mfds:198900630",
+  "scope_type": "product",
+  "title": "트로돈캡슐(트라마돌염산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900630/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198900630_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:30.481302+00:00",
+  "text": "[원문 1쪽]\n용법용량\n이 약의 투여량은 환자의 통증 강도와 임상반응에 따라 조정되어야 한다. 일반적으로 통증을 해소할 수 있는 최\n소 용량을 투여한다.\n성인\n염산트라마돌로서 1회 50mg을 경구투여하고 30-60분후에도 진통이 약할 경우 50mg을 추가 투여한다.\n1일 최고 400mg까지 투여할 수 있다.\n노인\n임상적으로 간기능 장애 또는 신기능 장애가 확인되지 않은 75세 이하의 환자에는 용량조절이 필요하지 않\n다. 75세를 초과하는 환자에서는 이 약의 배설이 지연될 수 있으므로 필요시 투여간격을 조절한다.\n신기능 장애/투석 환자 또는 간기능 장애 환자\n신기능 또는 간기능 장애 환자에서는 이 약의 배설이 지연될 수 있으므로, 이러한 환자에는 투여간격의 연장\n을 고려하여야 한다.",
+  "content_hash": "85ee26e03b50514d9c405896ed460c48096f2c9615220ef402cbbcddab063b0c",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "78bb54f2bd4999d3ce4c346a26eb437f7bb2141f9e05eecfd01f17c47fdf104e",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n이 약의 투여량은 환자의 통증 강도와 임상반응에 따라 조정되어야 한다. 일반적으로 통증을 해소할 수 있는 최\n소 용량을 투여한다.\n성인\n염산트라마돌로서 1회 50mg을 경구투여하고 30-60분후에도 진통이 약할 경우 50mg을 추가 투여한다.\n1일 최고 400mg까지 투여할 수 있다.\n노인\n임상적으로 간기능 장애 또는 신기능 장애가 확인되지 않은 75세 이하의 환자에는 용량조절이 필요하지 않\n다. 75세를 초과하는 환자에서는 이 약의 배설이 지연될 수 있으므로 필요시 투여간격을 조절한다.\n신기능 장애/투석 환자 또는 간기능 장애 환자\n신기능 또는 간기능 장애 환자에서는 이 약의 배설이 지연될 수 있으므로, 이러한 환자에는 투여간격의 연장\n을 고려하여야 한다."
+        }
+      ]
+    }
+  ]
+}

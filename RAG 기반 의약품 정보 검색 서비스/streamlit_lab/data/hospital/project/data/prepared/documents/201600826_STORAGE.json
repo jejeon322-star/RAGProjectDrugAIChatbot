@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:201600826",
+  "doc_id": "mfds:201600826:STORAGE",
+  "title": "스트렌식주40mg/mL(아스포타제알파) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "108d4891c13ebc3473019f4fc6d448695153b744944117ce810603b7560a97af",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\201600826.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:53:44.725523+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기, 차광하여 냉장(2-8℃) 보관, 얼리지 말 것\n사용기간: 제조일로부터 30 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기, 차광하여 냉장(2-8℃) 보관, 얼리지 말 것\n사용기간: 제조일로부터 30 개월"
+}

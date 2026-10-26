@@ -1,0 +1,16 @@
+{
+  "status": "stopped_scope_change",
+  "message": "병원 채택약 중심으로 범위를 변경하여 전체 수집을 중지했습니다.",
+  "updated_at": "2026-10-23T09:23:28.9401655+09:00",
+  "total_reported": 42713,
+  "catalog_products": 1000,
+  "catalog_pages": 10,
+  "details_saved": 101,
+  "detail_failures": 0,
+  "pending": 900,
+  "current_run_pid": 21028,
+  "ai_calls": 0,
+  "deadline": "2026-10-23T11:15:25+09:00",
+  "scope": "two_hour_window",
+  "details_saved_in_catalog": 100
+}

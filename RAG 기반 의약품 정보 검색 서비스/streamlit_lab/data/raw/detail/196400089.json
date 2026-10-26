@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196400089",
+        "ITEM_NAME": "보화소합원(대환,소환)",
+        "ENTP_NAME": "원광제약(주)",
+        "ITEM_PERMIT_DATE": "19641030",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "일반의약품",
+        "CHART": "적흑색의 유연성의 환상",
+        "BAR_CODE": "8806626001108,8806626001115,8806626001122,8806626001139,8806626001146,8806626001153,8806626001160,8806626001177,8806626001184,8806626001191,8806626013118,8806626013125",
+        "MATERIAL_NAME": "총량 : 1환1.4그램|성분명 : 갈근|분량 : 20|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 목과|분량 : 120|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : l-멘톨|분량 : 0.4|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 백단향|분량 : 5|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 패장|분량 : 10|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 신곡|분량 : 20|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 용뇌|분량 : 5|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 자단향|분량 : 50|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 초과|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 필발|분량 : 10|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 감초|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 육계|분량 : 10|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 사인|분량 : 20|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 진피|분량 : 120|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 창출|분량 : 50|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 향부자|분량 : 20|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 후박|분량 : 20|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환1.4그램|성분명 : 맥아|분량 : 20|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 갈근|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 목과|분량 : 15|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : l-멘톨|분량 : 0.05|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 백단향|분량 : 0.625|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 패장|분량 : 1.25|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 신곡|분량 : 2.5|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 용뇌|분량 : 0.625|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 자단향|분량 : 6.25|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 초과|분량 : 1.25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 필발|분량 : 1.25|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 감초|분량 : 1.25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 육계|분량 : 1.25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 사인|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 진피|분량 : 15|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 창출|분량 : 6.25|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 향부자|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 후박|분량 : 2.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1환175밀리그램|성분명 : 맥아|분량 : 2.5|단위 : 밀리그램|규격 : 생규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400089/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400089/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400089/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196400089/II",
+        "STORAGE_METHOD": "기밀용기, 실온(1~30℃)보관",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "[대환] 1환(1.4 g) - 30환/피티피[(6환PTP*5)],[소환] 16환(1환(175 mg))) - 5포/포[1포(16환, 1환(175 mg))]",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1450",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230116",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 사용(유효)기간, 2023-01-16/효능효과변경, 2015-12-17/용법용량변경, 2015-12-17/사용상주의사항변경(부작용포함), 2015-12-17/제품명칭변경, 2009-03-18/용법용량변경, 2009-03-18/저장방법 및 유효기간(사용기간)변경, 1987-03-18/용법용량변경, 1978-01-13/저장방법 및 유효기간(사용기간)변경, 1978-01-13",
+        "TOTAL_CONTENT": "11.4/1175",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[대환 : 1회 1 ∼ 2환을 1일 3회 식후에 소량의 물과 함께 복용한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소환 : 1회 8 ∼ 16환을 1일 3회 식후에 소량의 물과 함께 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음과 같은 사람은 이 약을 복용하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 7세 이하의 소아]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음과 같은 사람은 이 약을 복용하기 전에 의사, 치과의사, 약사와 상의할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 다른 약물을 복용하고 있는 사람 또는 의사의 치료를 받고 있는 환자 : 칼륨함유제제, 감초함유제제, 글리시리진산 혹은 그 염류 함유제제, 루프계 이뇨제 (푸로세미드, 에타크린산) 또는 티아지드계 이뇨제(트리클로르메티아지드)와 함께 복용시 위알도시테론증이나 저칼륨혈증으로 인하여 근병증이 나타나기 쉬우므로 신중히 복용할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 혈압이 높은 환자 또는 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 심장 또는 신장(콩팥)에 장애가 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 부종(부기)이 있는 사람]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음과 같은 경우 이 약의 복용을 즉각 중지하고 의사, 치과의사, 약사와 상의할 것. 상담시 이 첨부문서를 소지할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 위알도스테론증 : 요량이 감소하거나 얼굴과 손발이 붓고, 눈꺼풀이 무거워지고, 손이 굳어지고, 혈압이 높아지거나 두통(1일 최대 복용량이 감초로서 1g 이상인 제제는 장기간 계속하여 복용할 경우 저칼륨혈증, 혈압상승, 나트륨 체액의 저류, 부종, 체중증가 등의 위알도스테론증이 나타날 수 있으므로, 관찰(혈청칼륨치의 측정)을 충분히 하고 이상이 확인되는 경우 복용을 중지할 것)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 근병증 : 저칼륨혈증의 결과로서 근병증이 나타날 수 있으므로, 관찰을 충분히 하고 무력감, 사지경련, 마비 등의 이상이 확인되는 경우]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 2주 정도 복용하여도 증상의 개선이 없을 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 기타 이 약의 복용시 주의할 사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 잘 지킬 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 어린이 복용시킬 경우에는 보호자의 지도 감독하에 복용시킬 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 어린이의 손이 닿지 않는 곳에 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품 오용에 따른 사고 발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 직사광선을 피하고 되도록 습기가 적은 서늘한 곳에 보관할 것.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M050407]맥아|[M050498]목과|[M230875]l-멘톨|[M050539]백단향|[M051694]패장|[M050891]신곡|[M051197]용뇌|[M051298]자단향|[M051396]초과|[M051892]필발|[M040006]감초|[M050036]육계|[M095260]사인|[M040538]진피|[M040548]창출|[M040228]향부자|[M040813]후박|[M040004]갈근|[M050407]맥아|[M040004]갈근|[M050498]목과|[M230875]l-멘톨|[M050539]백단향|[M051694]패장|[M050891]신곡|[M051197]용뇌|[M051298]자단향|[M051396]초과|[M051892]필발|[M040813]후박|[M040228]향부자|[M040548]창출|[M040538]진피|[M095260]사인|[M050036]육계|[M040006]감초",
+        "INGR_NAME": "[M200168]꿀|[M200168]꿀",
+        "ATC_CODE": "A09A",
+        "ITEM_ENG_NAME": "Bohwasohapwon",
+        "ENTP_ENG_NAME": "WONKWANG PHARMACEUTICAL CORPORATION",
+        "MAIN_INGR_ENG": "Amomum Fruit/Amomum Tsao-ko Fruit/Atractylodes Rhizome/Bomeolum/Chaenomelis Fructus/Cinnamon Bark/Citrus Unshiu Peel/Cyperus Rhizome/Hordei Fructus Germinatus/L-Menthol/Licorice/Magnolia Bark/Massa Medicata Fermentata/Patriniae Radix/Piperis Longi Fructus/Pueraria Root/Santali Albi Lignum/Santalini Lignum Rubrum",
+        "BIZRNO": "4038107268",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

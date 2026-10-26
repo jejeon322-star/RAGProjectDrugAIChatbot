@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "198701689",
+        "ITEM_NAME": "토라렌주(디클로페낙나트륨)(수출명:토페라렌주사(Toferareninjection))",
+        "ENTP_NAME": "명문제약(주)",
+        "ITEM_PERMIT_DATE": "19871204",
+        "CNSGN_MANUF": "[수출용]한국유니온제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색투명한 용액이 든 무색투명한 앰플 (수출용: 무색투명한 용액이 든 갈색앰플)",
+        "BAR_CODE": "8806498031104,8806498031111,8806498031128,8806498031135,8806498031142",
+        "MATERIAL_NAME": "총량 : 1밀리리터 중-[제1법]|성분명 : 디클로페낙나트륨|분량 : 37.5|단위 : 밀리그램|규격 : KP|성분정보 : |비고 : ;총량 : 1밀리리터 중-[제2법, 수출용]|성분명 : 디클로페낙나트륨|분량 : 37.5|단위 : 밀리그램|규격 : USP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198701689/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198701689/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198701689/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "[제1법]밀봉용기, 실온(1-30℃)보관\r\n[제2법]차광밀봉용기, 실온(1-30℃)보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1앰플(2mL) x 100, (수출용) 1앰플(2mL) x 50",
+        "EDI_CODE": "649803111",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1476",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250415",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-04-15/사용상주의사항변경(부작용포함), 2024-05-22/사용상주의사항변경(부작용포함), 2023-08-19/사용상주의사항변경(부작용포함), 2020-02-29/사용상주의사항변경(부작용포함), 2019-01-24/용법용량변경, 2015-01-21/사용상주의사항변경(부작용포함), 2015-01-21/저장방법 및 유효기간(사용기간)변경, 2014-03-04/저장방법 및 유효기간(사용기간)변경, 2013-07-15/사용상주의사항변경(부작용포함), 2008-03-07/사용상주의사항변경(부작용포함), 2006-03-03/성상변경, 2005-01-18/제품명칭변경, 2003-07-04/사용상주의사항변경(부작용포함), 2002-07-24/사용상주의사항변경(부작용포함), 1999-11-27/사용상주의사항변경(부작용포함), 1996-02-03/사용상주의사항변경(부작용포함), 1995-06-19/효능효과변경, 1993-06-17/용법용량변경, 1993-06-17/사용상주의사항변경(부작용포함), 1993-06-17/사용상주의사항변경(부작용포함), 1992-01-01/용법용량변경, 1992-01-01/효능효과변경, 1992-01-01/사용상주의사항변경(부작용포함), 1989-10-16",
+        "TOTAL_CONTENT": "1밀리리터 중-[제1법]/1밀리리터 중-[제2법, 수출용]",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M050288]디클로페낙나트륨|[M050288]디클로페낙나트륨",
+        "INGR_NAME": "[M040305]수산화나트륨|[M040305]수산화나트륨|[M040534]주사용수|[M040534]주사용수|[M040733]프로필렌글리콜|[M040733]프로필렌글리콜|[M070025]건조아황산나트륨|[M080883]피로아황산나트륨|[M211346]폴리에틸렌글리콜400|[M222567]폴리에틸렌글리콜 300|[M222842]리도카인염산염수화물|[M222842]리도카인염산염수화물|[M223469]에데트산나트륨수화물|[M223469]에데트산나트륨수화물",
+        "ATC_CODE": "M01AB05",
+        "ITEM_ENG_NAME": "Toraren Injection",
+        "ENTP_ENG_NAME": "Myungmoon Pharm. Co., Ltd.",
+        "MAIN_INGR_ENG": "Diclofenac Sodium",
+        "BIZRNO": "1248135615",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

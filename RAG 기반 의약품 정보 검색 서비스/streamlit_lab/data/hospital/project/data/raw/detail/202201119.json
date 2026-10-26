@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202201119",
+        "ITEM_NAME": "에소메졸플러스정20/350밀리그램",
+        "ENTP_NAME": "한미약품(주)",
+        "ITEM_PERMIT_DATE": "20220321",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "분홍색의 타원형 필름코팅정제",
+        "BAR_CODE": "8806435085009,8806435085016,8806435085023,8806435085030",
+        "MATERIAL_NAME": "총량 : 1정700.0밀리그램-1층|성분명 : 에스오메프라졸마그네슘삼수화물|분량 : 22.25|단위 : 밀리그램|규격 : EP|성분정보 : |비고 : ;총량 : 1정700.0밀리그램-2층|성분명 : 수산화마그네슘|분량 : 350.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202201119/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202201119/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202201119/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "기밀용기, 실온보관(1~30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병",
+        "EDI_CODE": "643508500",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1337",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20240327",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2024-03-27/사용상주의사항변경(부작용포함), 2023-05-14/성상, 2022-11-16/저장방법 및 사용(유효)기간, 2022-11-16/사용상의 주의사항, 2022-11-16",
+        "TOTAL_CONTENT": "1700.0-1층/1700.0-2층/1700.0-외피 코팅층/1700.0-시광 코팅층",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M040306]수산화마그네슘|[M092321]에스오메프라졸마그네슘삼수화물",
+        "INGR_NAME": "[M081161]크로스포비돈|[M081161]크로스포비돈|[M095933]스테아릴푸마르산나트륨|[M095933]스테아릴푸마르산나트륨|[M102967]히프로멜로오스|[M205921]산화티탄|[M244250]폴리에틸렌글리콜6000|[M244405]카르나우바납|[M245060]콜로이드성이산화규소|[M245108]미결정셀룰로오스|[M245108]미결정셀룰로오스|[M249191]탤크|[M249539]히드록시프로필셀룰로오스|[M258929]적색산화철",
+        "ATC_CODE": "A02BC",
+        "ITEM_ENG_NAME": "Esomezol plus Tab. 20/350mg",
+        "ENTP_ENG_NAME": "Hanmi Pharm. Co.,Ltd.",
+        "MAIN_INGR_ENG": "Esomeprazole Magnesium Trihydrate/Magnesium Hydroxide",
+        "BIZRNO": "1248700613",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

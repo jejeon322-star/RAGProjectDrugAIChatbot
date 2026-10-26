@@ -1,0 +1,92 @@
+{
+  "doc_id": "mfds:197000053:UD",
+  "drug_id": "mfds:197000053",
+  "scope_type": "product",
+  "title": "액티피드정 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000053/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000053.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250102",
+  "collected_at": "2026-10-22T05:19:00.432391+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(정제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 1회 1정",
+          "raw_content": "성인 : 1회 1정"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소아(12 〜 14세) : 1회 1/2정",
+          "raw_content": "소아(12 &#12316; 14세) : 1회 1/2정"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1일 3회 식후에 복용한다.",
+          "raw_content": "1일 3회 식후에 복용한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(캡슐제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 1회 1캅셀",
+          "raw_content": "성인 : 1회 1캅셀"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소아(12 〜 14세) : 1회 1/2캅셀",
+          "raw_content": "소아(12 &#12316; 14세) : 1회 1/2캅셀"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1일 3회 식후에 복용한다.",
+          "raw_content": "1일 3회 식후에 복용한다."
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "(시럽제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 및 12세 이상의 소아 : 1회 10 mL",
+          "raw_content": "성인 및 12세 이상의 소아 : 1회 10 mL"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "12세 미만 소아 : 의사의 진료를 받는다.",
+          "raw_content": "12세 미만 소아 : 의사의 진료를 받는다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "1일 3회 식후에 복용한다.",
+          "raw_content": "1일 3회 식후에 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "(정제)\n\n성인 : 1회 1정\n\n소아(12 〜 14세) : 1회 1/2정\n\n1일 3회 식후에 복용한다.\n\n(캡슐제)\n\n성인 : 1회 1캅셀\n\n소아(12 〜 14세) : 1회 1/2캅셀\n\n1일 3회 식후에 복용한다.\n\n(시럽제)\n\n성인 및 12세 이상의 소아 : 1회 10 mL\n\n12세 미만 소아 : 의사의 진료를 받는다.\n\n1일 3회 식후에 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(정제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1정]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아(12 &#12316; 14세) : 1회 1/2정]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(캡슐제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 1캅셀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아(12 &#12316; 14세) : 1회 1/2캅셀]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(시럽제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 및 12세 이상의 소아 : 1회 10 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12세 미만 소아 : 의사의 진료를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3회 식후에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "7c6e2caa3f4b9678aac7026df0c665773a670e106dbe1eb28962f7062b12c32f"
+}

@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:199400631",
+  "doc_id": "mfds:199400631:STORAGE",
+  "title": "아주아미카신황산염주사250밀리그람 — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "9cb606b79753f8e10898f9e66bb9443c669d54b3532842d4f3e8c9d8678c8b62",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\199400631.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:54:17.932706+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 밀봉용기,실온(1-30℃)보관\n사용기간: 제조일로부터 24 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 밀봉용기,실온(1-30℃)보관\n사용기간: 제조일로부터 24 개월"
+}

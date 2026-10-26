@@ -1,0 +1,22 @@
+{
+  "chunking": {
+    "size_chars": 1000,
+    "overlap_chars": 200,
+    "version": "article-v1"
+  },
+  "retrieval": {
+    "method": "similarity",
+    "candidate_k": 10,
+    "external_top_k": 5,
+    "include_selected_product": true,
+    "refresh_sources_on_query": false
+  },
+  "collections": {
+    "metadata": "drug_meta",
+    "documents": "drug_docs"
+  },
+  "models": {
+    "embedding": "text-embedding-3-small",
+    "chat": "gpt-6-astra"
+  }
+}

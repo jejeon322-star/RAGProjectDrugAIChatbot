@@ -1,0 +1,47 @@
+{
+  "doc_id": "mfds:197000037:EE",
+  "drug_id": "mfds:197000037",
+  "scope_type": "product",
+  "title": "아로나민골드정 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000037/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000037.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250609",
+  "collected_at": "2026-10-22T05:18:08.407208+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "○ 다음 경우의 비타민 B1, B2, B6, E, C의 보급",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "- 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기(간유, 비타민 D, E 함유시)",
+          "raw_content": "- 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기(간유, 비타민 D, E 함유시)"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "○다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)",
+      "paragraphs": []
+    },
+    {
+      "article_index": 3,
+      "heading": "○각기",
+      "paragraphs": []
+    },
+    {
+      "article_index": 4,
+      "heading": "○눈의피로",
+      "paragraphs": []
+    }
+  ],
+  "text": "○ 다음 경우의 비타민 B1, B2, B6, E, C의 보급\n\n- 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기(간유, 비타민 D, E 함유시)\n\n○다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)\n\n○각기\n\n○눈의피로",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"○ 다음 경우의 비타민 B1, B2, B6, E, C의 보급\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[- 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기(간유, 비타민 D, E 함유시)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)\" />\r\n    <ARTICLE title=\"○각기\" />\r\n    <ARTICLE title=\"○눈의피로\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "36b3ef0db77736aeb17d0c11f6c9348dfa3cff5481f5223390e2219bbf583006"
+}

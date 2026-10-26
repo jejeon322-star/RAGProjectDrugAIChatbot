@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:197000079:EE",
+  "drug_id": "mfds:197000079",
+  "scope_type": "product",
+  "title": "에나폰정10밀리그램(아미트리프틸린염산염) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000079/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000079.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250811",
+  "collected_at": "2026-10-22T05:19:56.627287+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 우울증, 우울상태",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 야뇨증",
+      "paragraphs": []
+    }
+  ],
+  "text": "1. 우울증, 우울상태\n\n2. 야뇨증",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 우울증, 우울상태\" />\r\n    <ARTICLE title=\"2. 야뇨증\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "409f08cd331a94c0ccbda4e7d39f7ad06fd71a5557fd2570c53bf09a9fef0ccd"
+}

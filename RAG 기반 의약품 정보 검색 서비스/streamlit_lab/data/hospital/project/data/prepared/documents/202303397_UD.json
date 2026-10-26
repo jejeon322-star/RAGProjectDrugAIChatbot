@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:202303397:UD",
+  "drug_id": "mfds:202303397",
+  "scope_type": "product",
+  "title": "조인스에프정300밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1))  — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303397/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\202303397_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:05:24.495523+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 1회 1정을 1일 2회 경구투여한다.",
+  "content_hash": "19e37c4e0115c0961bfa4d63037faecbece5d83e7dedb6709f341e4515c39174",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "26762031ea6912f34691b88e6054e9d7c9780e8b9cd8834e542434889582894d",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 1회 1정을 1일 2회 경구투여한다."
+        }
+      ]
+    }
+  ]
+}

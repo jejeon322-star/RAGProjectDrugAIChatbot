@@ -1,0 +1,296 @@
+{
+  "doc_id": "mfds:196000010:NB",
+  "drug_id": "mfds:196000010",
+  "scope_type": "product",
+  "title": "페니라민주사(클로르페니라민말레산염) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000010/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196000010.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20140521",
+  "collected_at": "2026-10-22T05:03:13.453880+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.",
+          "raw_content": "1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 벤질알코올은 조숙아에게서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고되었다.",
+          "raw_content": "2) 벤질알코올은 조숙아에게서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고되었다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약 또는 유사 화합물에 과민증의 병력이 있는 환자",
+          "raw_content": "1) 이 약 또는 유사 화합물에 과민증의 병력이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 녹내장 환자(항콜린 작용에 의해 안압이 상승되어 녹내장이 악화될 수 있다. )",
+          "raw_content": "2) 녹내장 환자(항콜린 작용에 의해 안압이 상승되어 녹내장이 악화될 수 있다. )"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 전립선비대 등 하부요로폐색성 질환 환자",
+          "raw_content": "3) 전립선비대 등 하부요로폐색성 질환 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 미숙아 및 신생아(벤질알코올을 함유하고 있다. )",
+          "raw_content": "4) 미숙아 및 신생아(벤질알코올을 함유하고 있다. )"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) MAO 저해제 투여중인 환자",
+          "raw_content": "5) MAO 저해제 투여중인 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 안내압 상승 환자",
+          "raw_content": "1) 안내압 상승 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 갑상선기능항진 환자",
+          "raw_content": "2) 갑상선기능항진 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 협착성소화성궤양 포는 유문십이지장 폐색 환자(항콜린 작용에 의해 평활근의 운동억제, 긴장저하가 일어나 증상이 악화될 수 있다. )",
+          "raw_content": "3) 협착성소화성궤양 포는 유문십이지장 폐색 환자(항콜린 작용에 의해 평활근의 운동억제, 긴장저하가 일어나 증상이 악화될 수 있다. )"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 순환기계 질환 환자",
+          "raw_content": "4) 순환기계 질환 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 고혈압 등 심혈관계 질환 환자",
+          "raw_content": "5) 고혈압 등 심혈관계 질환 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 간질 환자",
+          "raw_content": "6) 간질 환자"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 기관지염, 기관지확장증 및 천식 환자",
+          "raw_content": "7) 기관지염, 기관지확장증 및 천식 환자"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 간질환 환자",
+          "raw_content": "8) 간질환 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 부작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 쇽이 나타날 수 있으므로 충분히 관찰을 하고 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등이 나타나는 경우에는 투여를 중지하고 적절한 처치를 한다.",
+          "raw_content": "1) 쇽이 나타날 수 있으므로 충분히 관찰을 하고 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등이 나타나는 경우에는 투여를 중지하고 적절한 처치를 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 경련, 착란이 나타날 수 있으므로 관찰을 충분히 하고 이상이 나타나면 감량 또는 휴약 등 적절한 처치를 한다.",
+          "raw_content": "2) 경련, 착란이 나타날 수 있으므로 관찰을 충분히 하고 이상이 나타나면 감량 또는 휴약 등 적절한 처치를 한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 재생불량성빈혈, 무과립구증이 나타날 수 있으므로 혈액검사를 하여 충분히 관찰하고 이상이 인정되는 경우에는 투여를 중지한다.",
+          "raw_content": "3) 재생불량성빈혈, 무과립구증이 나타날 수 있으므로 혈액검사를 하여 충분히 관찰하고 이상이 인정되는 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 과민증 : 발진, 광선과민증, 박탈성 피부염, 두드러기, 연축, 근허약, 협조불능이 나타날 수 있다.",
+          "raw_content": "4) 과민증 : 발진, 광선과민증, 박탈성 피부염, 두드러기, 연축, 근허약, 협조불능이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 정신신경계 : 진정, 졸음, 신경과민, 두통, 초조감, 복시, 불면, 어지러움, 이명, 전정장애, 다행증, 정서불안, 히스테리, 진전, 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감이 나타날 수 있다.",
+          "raw_content": "5) 정신신경계 : 진정, 졸음, 신경과민, 두통, 초조감, 복시, 불면, 어지러움, 이명, 전정장애, 다행증, 정서불안, 히스테리, 진전, 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 소화기계 : 구갈, 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통, 변비, 설사 등이 나타날 수 있다.",
+          "raw_content": "6) 소화기계 : 구갈, 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통, 변비, 설사 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 비뇨기계 : 빈뇨, 배뇨곤란, 요폐, 요저류 등이 나타날 수 있다.",
+          "raw_content": "7) 비뇨기계 : 빈뇨, 배뇨곤란, 요폐, 요저류 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 순환기계 : 저혈압, 심계항진, 빈맥, 부정맥, 기외수축, 간염, 황달, 미약맥이 나타날 수 있으며 이러한 증상이 나타나는 경우에는 감량 또는 휴약 등 적절한 처치를 한다.",
+          "raw_content": "8) 순환기계 : 저혈압, 심계항진, 빈맥, 부정맥, 기외수축, 간염, 황달, 미약맥이 나타날 수 있으며 이러한 증상이 나타나는 경우에는 감량 또는 휴약 등 적절한 처치를 한다."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 호흡기계 : 코 또는 기도의 건조, 기관분비액의 점성화, 천명, 코막힘이 나타날 수 있다.",
+          "raw_content": "9) 호흡기계 : 코 또는 기도의 건조, 기관분비액의 점성화, 천명, 코막힘이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 혈액 : 용혈성빈혈, 혈소판감소가 나타날 수 있다.",
+          "raw_content": "10) 혈액 : 용혈성빈혈, 혈소판감소가 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "11) 투여부위 ; 주사부위에 일시적인 자극, 작열감이 나타날 수 있다.",
+          "raw_content": "11) 투여부위 ; 주사부위에 일시적인 자극, 작열감이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "p",
+          "text": "12) 기타 : 오한, 발한이상, 흉통, 피로감, 월경이상이 나타날 수 있다.",
+          "raw_content": "12) 기타 : 오한, 발한이상, 흉통, 피로감, 월경이상이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.",
+          "raw_content": "졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 알코올, 중추신경억제제와 병용투여시 졸음을 유발할 수 있다.",
+          "raw_content": "1) 알코올, 중추신경억제제와 병용투여시 졸음을 유발할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 클로르페니라민을 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.",
+          "raw_content": "2) 클로르페니라민을 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 임부 및 임신하고 있을 가능성이 있는 부인에 대한 안전성이 확립되어 있지 않으므로 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 신중히 투여 한다.",
+          "raw_content": "1) 임부 및 임신하고 있을 가능성이 있는 부인에 대한 안전성이 확립되어 있지 않으므로 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 신중히 투여 한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약이 유즙 분비를 억제하고 모유로 이행될 수 있으므로 수유부에게 투여할 경우에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여 한다.",
+          "raw_content": "2) 이 약이 유즙 분비를 억제하고 모유로 이행될 수 있으므로 수유부에게 투여할 경우에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 소아에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "유아 및 소아에 과량투여하면 환각, 흥분, 경련, 사망을 일으킬 수 있으므로 특히 주의한다.",
+          "raw_content": "유아 및 소아에 과량투여하면 환각, 흥분, 경련, 사망을 일으킬 수 있으므로 특히 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 환자의 상태를 관찰하여 신중히 투여해야 한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 환자의 상태를 관찰하여 신중히 투여해야 한다."
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "heading": "10. 과량투여시의 처치",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "클로르페니라민의 치사량은 체중 kg당 25-50mg이다.",
+          "raw_content": "클로르페니라민의 치사량은 체중 kg당 25-50mg이다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이 때에는 심장 ·호흡기 ·신장 ·간장 기능 및 수액전해질 균형에 특별한 주의를 기울이는 등 대중적 지지적인 처치를 하고 중추신경계 경련은 디아제팜 또는 페니토인을 정맥주사하거나 심한 경우에는 혈액관류를 할 수 있다.",
+          "raw_content": "진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이 때에는 심장 ·호흡기 ·신장 ·간장 기능 및 수액전해질 균형에 특별한 주의를 기울이는 등 대중적 지지적인 처치를 하고 중추신경계 경련은 디아제팜 또는 페니토인을 정맥주사하거나 심한 경우에는 혈액관류를 할 수 있다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.\n\n2) 벤질알코올은 조숙아에게서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고되었다.\n\n2. 다음 환자에는 투여하지 말 것\n\n1) 이 약 또는 유사 화합물에 과민증의 병력이 있는 환자\n\n2) 녹내장 환자(항콜린 작용에 의해 안압이 상승되어 녹내장이 악화될 수 있다. )\n\n3) 전립선비대 등 하부요로폐색성 질환 환자\n\n4) 미숙아 및 신생아(벤질알코올을 함유하고 있다. )\n\n5) MAO 저해제 투여중인 환자\n\n3. 다음 환자에는 신중히 투여할 것\n\n1) 안내압 상승 환자\n\n2) 갑상선기능항진 환자\n\n3) 협착성소화성궤양 포는 유문십이지장 폐색 환자(항콜린 작용에 의해 평활근의 운동억제, 긴장저하가 일어나 증상이 악화될 수 있다. )\n\n4) 순환기계 질환 환자\n\n5) 고혈압 등 심혈관계 질환 환자\n\n6) 간질 환자\n\n7) 기관지염, 기관지확장증 및 천식 환자\n\n8) 간질환 환자\n\n4. 부작용\n\n1) 쇽이 나타날 수 있으므로 충분히 관찰을 하고 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등이 나타나는 경우에는 투여를 중지하고 적절한 처치를 한다.\n\n2) 경련, 착란이 나타날 수 있으므로 관찰을 충분히 하고 이상이 나타나면 감량 또는 휴약 등 적절한 처치를 한다.\n\n3) 재생불량성빈혈, 무과립구증이 나타날 수 있으므로 혈액검사를 하여 충분히 관찰하고 이상이 인정되는 경우에는 투여를 중지한다.\n\n4) 과민증 : 발진, 광선과민증, 박탈성 피부염, 두드러기, 연축, 근허약, 협조불능이 나타날 수 있다.\n\n5) 정신신경계 : 진정, 졸음, 신경과민, 두통, 초조감, 복시, 불면, 어지러움, 이명, 전정장애, 다행증, 정서불안, 히스테리, 진전, 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감이 나타날 수 있다.\n\n6) 소화기계 : 구갈, 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통, 변비, 설사 등이 나타날 수 있다.\n\n7) 비뇨기계 : 빈뇨, 배뇨곤란, 요폐, 요저류 등이 나타날 수 있다.\n\n8) 순환기계 : 저혈압, 심계항진, 빈맥, 부정맥, 기외수축, 간염, 황달, 미약맥이 나타날 수 있으며 이러한 증상이 나타나는 경우에는 감량 또는 휴약 등 적절한 처치를 한다.\n\n9) 호흡기계 : 코 또는 기도의 건조, 기관분비액의 점성화, 천명, 코막힘이 나타날 수 있다.\n\n10) 혈액 : 용혈성빈혈, 혈소판감소가 나타날 수 있다.\n\n11) 투여부위 ; 주사부위에 일시적인 자극, 작열감이 나타날 수 있다.\n\n12) 기타 : 오한, 발한이상, 흉통, 피로감, 월경이상이 나타날 수 있다.\n\n5. 일반적 주의\n\n졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.\n\n6. 상호작용\n\n1) 알코올, 중추신경억제제와 병용투여시 졸음을 유발할 수 있다.\n\n2) 클로르페니라민을 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.\n\n7. 임부 및 수유부에 대한 투여\n\n1) 임부 및 임신하고 있을 가능성이 있는 부인에 대한 안전성이 확립되어 있지 않으므로 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 신중히 투여 한다.\n\n2) 이 약이 유즙 분비를 억제하고 모유로 이행될 수 있으므로 수유부에게 투여할 경우에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여 한다.\n\n8. 소아에 대한 투여\n\n유아 및 소아에 과량투여하면 환각, 흥분, 경련, 사망을 일으킬 수 있으므로 특히 주의한다.\n\n9. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 환자의 상태를 관찰하여 신중히 투여해야 한다.\n\n10. 과량투여시의 처치\n\n클로르페니라민의 치사량은 체중 kg당 25-50mg이다.\n\n진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이 때에는 심장 ·호흡기 ·신장 ·간장 기능 및 수액전해질 균형에 특별한 주의를 기울이는 등 대중적 지지적인 처치를 하고 중추신경계 경련은 디아제팜 또는 페니토인을 정맥주사하거나 심한 경우에는 혈액관류를 할 수 있다.",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 벤질알코올은 조숙아에게서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고되었다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 또는 유사 화합물에 과민증의 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 녹내장 환자(항콜린 작용에 의해 안압이 상승되어 녹내장이 악화될 수 있다. )]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전립선비대 등 하부요로폐색성 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 미숙아 및 신생아(벤질알코올을 함유하고 있다. )]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) MAO 저해제 투여중인 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 안내압 상승 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 갑상선기능항진 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 협착성소화성궤양 포는 유문십이지장 폐색 환자(항콜린 작용에 의해 평활근의 운동억제, 긴장저하가 일어나 증상이 악화될 수 있다. )]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 순환기계 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고혈압 등 심혈관계 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 간질 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 기관지염, 기관지확장증 및 천식 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 간질환 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 쇽이 나타날 수 있으므로 충분히 관찰을 하고 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등이 나타나는 경우에는 투여를 중지하고 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 경련, 착란이 나타날 수 있으므로 관찰을 충분히 하고 이상이 나타나면 감량 또는 휴약 등 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 재생불량성빈혈, 무과립구증이 나타날 수 있으므로 혈액검사를 하여 충분히 관찰하고 이상이 인정되는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 과민증 : 발진, 광선과민증, 박탈성 피부염, 두드러기, 연축, 근허약, 협조불능이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 정신신경계 : 진정, 졸음, 신경과민, 두통, 초조감, 복시, 불면, 어지러움, 이명, 전정장애, 다행증, 정서불안, 히스테리, 진전, 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 소화기계 : 구갈, 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통, 변비, 설사 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 비뇨기계 : 빈뇨, 배뇨곤란, 요폐, 요저류 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 순환기계 : 저혈압, 심계항진, 빈맥, 부정맥, 기외수축, 간염, 황달, 미약맥이 나타날 수 있으며 이러한 증상이 나타나는 경우에는 감량 또는 휴약 등 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 호흡기계 : 코 또는 기도의 건조, 기관분비액의 점성화, 천명, 코막힘이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 혈액 : 용혈성빈혈, 혈소판감소가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 투여부위 ; 주사부위에 일시적인 자극, 작열감이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 기타 : 오한, 발한이상, 흉통, 피로감, 월경이상이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 알코올, 중추신경억제제와 병용투여시 졸음을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 클로르페니라민을 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임부 및 임신하고 있을 가능성이 있는 부인에 대한 안전성이 확립되어 있지 않으므로 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 신중히 투여 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약이 유즙 분비를 억제하고 모유로 이행될 수 있으므로 수유부에게 투여할 경우에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[유아 및 소아에 과량투여하면 환각, 흥분, 경련, 사망을 일으킬 수 있으므로 특히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 환자의 상태를 관찰하여 신중히 투여해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[클로르페니라민의 치사량은 체중 kg당 25-50mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이 때에는 심장 ·호흡기 ·신장 ·간장 기능 및 수액전해질 균형에 특별한 주의를 기울이는 등 대중적 지지적인 처치를 하고 중추신경계 경련은 디아제팜 또는 페니토인을 정맥주사하거나 심한 경우에는 혈액관류를 할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "6ec4f53694596ce0bea563d4facae6f109e194f34d9bf9dcc524a07d39aba2e2"
+}

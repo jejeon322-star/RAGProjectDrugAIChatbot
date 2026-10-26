@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199301171",
+        "ITEM_NAME": "명인아미카신주500밀리그램(황산아미카신)(수출용)",
+        "ENTP_NAME": "명인제약(주)",
+        "ITEM_PERMIT_DATE": "19930107",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색-엷은 황색의 투명한 용액이 들어있는 바이알 주사제.",
+        "BAR_CODE": "8806519006708",
+        "MATERIAL_NAME": "총량 : 1바이알 중 2밀리리터|성분명 : 황산아미카신|분량 : 500|단위 : 밀리그램|규격 : 항기|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301171/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301171/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301171/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301171/II",
+        "STORAGE_METHOD": "밀봉용기, 실온보관.",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1바이알(500mg)ⅹ10개",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1504",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20201202",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명칭변경, 2020-12-02/효능효과변경, 1994-04-08/용법용량변경, 1994-04-08/사용상주의사항변경(부작용포함), 1994-04-08/효능효과변경, 1993-01-01/용법용량변경, 1993-01-01/사용상주의사항변경(부작용포함), 1993-01-01",
+        "TOTAL_CONTENT": "1바이알 중 2밀리리터",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M020085]황산아미카신",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M051960]황산|[M240355]구연산나트륨",
+        "ATC_CODE": "J01GB06",
+        "ITEM_ENG_NAME": "Myungin Amikacin Inj. 500mg",
+        "ENTP_ENG_NAME": "MYUNG IN PHARM.CO.,LTD.",
+        "MAIN_INGR_ENG": "Amikacin Sulfate",
+        "BIZRNO": "1248118673",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

@@ -1,0 +1,82 @@
+{
+  "doc_id": "mfds:196500004:EE",
+  "drug_id": "mfds:196500004",
+  "scope_type": "product",
+  "title": "후라시닐정(메트로니다졸) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196500004/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196500004.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250115",
+  "collected_at": "2026-10-22T05:10:09.964233+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1.트리코모나스증",
+      "paragraphs": []
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 혐기성균 감염증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 복부내감염증(복막염, 복부내농양, 간농양), 피부 및 피부조직 감염증, 부인과 감염증(자궁내막염, 자궁근내막염, 자궁관난소농양), 세균성 패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌 농양, 뇌수막염), 하기도감염증(폐렴, 농흉, 폐농양), 심내막염",
+          "raw_content": "1) 복부내감염증(복막염, 복부내농양, 간농양), 피부 및 피부조직 감염증, 부인과 감염증(자궁내막염, 자궁근내막염, 자궁관난소농양), 세균성 패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌 농양, 뇌수막염), 하기도감염증(폐렴, 농흉, 폐농양), 심내막염"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방",
+          "raw_content": "2) 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 아메바증",
+      "paragraphs": []
+    },
+    {
+      "article_index": 4,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "○ 유효균종",
+          "raw_content": "○ 유효균종"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "혐기성균 : 메트로니다졸에 감수성이 있는 박테로이드(특히 박테로이드 프라질리스), 푸소박테륨, 유박테륨, 클로스트리듐, 혐기성 스트렙토콕쿠스",
+          "raw_content": "혐기성균 : 메트로니다졸에 감수성이 있는 박테로이드(특히 박테로이드 프라질리스), 푸소박테륨, 유박테륨, 클로스트리듐, 혐기성 스트렙토콕쿠스"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "○ 적응증",
+          "raw_content": "○ 적응증"
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "1. 혐기성균 감염증 : 패혈증 및 균혈증, 뇌농양, 괴저성 폐렴, 골수염, 산욕기 패혈증, 골반농양, 자궁주위조직염, 수술 후 창상감염증",
+      "paragraphs": []
+    },
+    {
+      "article_index": 6,
+      "heading": "2. 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방",
+      "paragraphs": []
+    }
+  ],
+  "text": "1.트리코모나스증\n\n2. 혐기성균 감염증\n\n1) 복부내감염증(복막염, 복부내농양, 간농양), 피부 및 피부조직 감염증, 부인과 감염증(자궁내막염, 자궁근내막염, 자궁관난소농양), 세균성 패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌 농양, 뇌수막염), 하기도감염증(폐렴, 농흉, 폐농양), 심내막염\n\n2) 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방\n\n3. 아메바증\n\n○ 유효균종\n\n혐기성균 : 메트로니다졸에 감수성이 있는 박테로이드(특히 박테로이드 프라질리스), 푸소박테륨, 유박테륨, 클로스트리듐, 혐기성 스트렙토콕쿠스\n\n○ 적응증\n\n1. 혐기성균 감염증 : 패혈증 및 균혈증, 뇌농양, 괴저성 폐렴, 골수염, 산욕기 패혈증, 골반농양, 자궁주위조직염, 수술 후 창상감염증\n\n2. 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"(정제)\">\r\n    <ARTICLE title=\"1.트리코모나스증\" />\r\n    <ARTICLE title=\"2. 혐기성균 감염증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[1) 복부내감염증(복막염, 복부내농양, 간농양), 피부 및 피부조직 감염증, 부인과 감염증(자궁내막염, 자궁근내막염, 자궁관난소농양), 세균성 패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌 농양, 뇌수막염), 하기도감염증(폐렴, 농흉, 폐농양), 심내막염]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 아메바증\" />\r\n  </SECTION>\r\n  <SECTION title=\"(주사제)\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[○ 유효균종]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[혐기성균 : 메트로니다졸에 감수성이 있는 박테로이드(특히 박테로이드 프라질리스), 푸소박테륨, 유박테륨, 클로스트리듐, 혐기성 스트렙토콕쿠스]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[○ 적응증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"1. 혐기성균 감염증 : 패혈증 및 균혈증, 뇌농양, 괴저성 폐렴, 골수염, 산욕기 패혈증, 골반농양, 자궁주위조직염, 수술 후 창상감염증\" />\r\n    <ARTICLE title=\"2. 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방\" />\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "8b64c6396d3f9fd0a45787898e4be25badfbe9efe2ac102721580140bce23294"
+}

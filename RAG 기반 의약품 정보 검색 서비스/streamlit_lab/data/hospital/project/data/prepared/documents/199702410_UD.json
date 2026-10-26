@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199702410:UD",
+  "drug_id": "mfds:199702410",
+  "scope_type": "product",
+  "title": "푸락스주(프리디놀메실산염) — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199702410/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199702410_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:58:38.143579+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 : 프리디놀메실산염으로서 1회 2㎎ 1일 1회 근육 또는 정맥주사한다. 연령 증상에 따라 적절히 증감한다",
+  "content_hash": "4041304672f28262bee8b1d0a00a6d8ccae3d39c5111920a01e7dbb822f552a4",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "ec297dbfc8ff52aa98806b763f21c19526cb100cba8939f4599aeeaf8616f7be",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 : 프리디놀메실산염으로서 1회 2㎎ 1일 1회 근육 또는 정맥주사한다. 연령 증상에 따라 적절히 증감한다"
+        }
+      ]
+    }
+  ]
+}

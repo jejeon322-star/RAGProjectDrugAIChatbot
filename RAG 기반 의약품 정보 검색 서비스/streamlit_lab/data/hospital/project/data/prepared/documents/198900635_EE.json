@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198900635:EE",
+  "drug_id": "mfds:198900635",
+  "scope_type": "product",
+  "title": "앰브로주사(암브록솔염산염) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900635/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198900635_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:33.664439+00:00",
+  "text": "[원문 1쪽]\n효능효과\n(주사제)\n* 7.5 mg/mL, 15 mg/2 mL\n1. 점액분비장애로 인한 급·만성 호흡기질환 : 만성기관지염, 천식성기관지염, 기관지천식의 급성발작\n2. 호흡곤란증후군이 있는 신생아 및 조산아에서 폐표면활성제 생성 증진\n3. 만성 폐쇄성폐질환이 있는 중증 환자의 수술전·후 폐합병증의 예방",
+  "content_hash": "b0a12c4f5974ba4bf63e4539285c5830d7abb5f8217fd84ec6fca546d7465a5d",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "4ca238e3412a63cb460183a8b119ce745dad4a6b46bb4a86607d263e73a3dd4d",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n(주사제)\n* 7.5 mg/mL, 15 mg/2 mL\n1. 점액분비장애로 인한 급·만성 호흡기질환 : 만성기관지염, 천식성기관지염, 기관지천식의 급성발작\n2. 호흡곤란증후군이 있는 신생아 및 조산아에서 폐표면활성제 생성 증진\n3. 만성 폐쇄성폐질환이 있는 중증 환자의 수술전·후 폐합병증의 예방"
+        }
+      ]
+    }
+  ]
+}

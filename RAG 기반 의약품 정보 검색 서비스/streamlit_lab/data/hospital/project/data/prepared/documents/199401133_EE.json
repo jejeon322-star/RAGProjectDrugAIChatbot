@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:199401133:EE",
+  "drug_id": "mfds:199401133",
+  "scope_type": "product",
+  "title": "세카론정(아플로쿠알론) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199401133/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\199401133_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:57:58.575993+00:00",
+  "text": "[원문 1쪽]\n효능효과\n1. 다음 질환으로 인한 근긴장상태의 개선 : 경견완증후군, 요통증\n2. 다음 질환으로 인한 경성(痙性)마비 : 뇌혈관장애, 뇌성마비, 경성척수마비, 척수혈관장애, 경부척추증, 후종\n인대(後從靭帶)골화증, 다발성 경화증, 근위축성 측색경화증, 척수소뇌변성증, 외상후유증(척수손상, 두부외\n상), 수술후 후유증(뇌ㆍ척수종양을 포함), 기타 뇌척수질환",
+  "content_hash": "3810861da089310955ff30f00fe8123cf146e2f3964573710acbb2a3aa9a8bba",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "b4fab498d329ddc56e2808a3e25c2ae26e5762245a720d3acd2acae58f130ce0",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n1. 다음 질환으로 인한 근긴장상태의 개선 : 경견완증후군, 요통증\n2. 다음 질환으로 인한 경성(痙性)마비 : 뇌혈관장애, 뇌성마비, 경성척수마비, 척수혈관장애, 경부척추증, 후종\n인대(後從靭帶)골화증, 다발성 경화증, 근위축성 측색경화증, 척수소뇌변성증, 외상후유증(척수손상, 두부외\n상), 수술후 후유증(뇌ㆍ척수종양을 포함), 기타 뇌척수질환"
+        }
+      ]
+    }
+  ]
+}

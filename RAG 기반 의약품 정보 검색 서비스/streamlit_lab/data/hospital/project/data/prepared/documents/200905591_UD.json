@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200905591:UD",
+  "drug_id": "mfds:200905591",
+  "scope_type": "product",
+  "title": "판토마그정 — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905591/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200905591_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:01:32.746207+00:00",
+  "text": "[원문 1쪽]\n용법용량\n12세 이상 어린이 및 성인\n: 1회 2정, 1일 3회 복용한다.",
+  "content_hash": "e026a42c31c03e2cc7a8bf533996bcf6d3e1bc214d8b2fc2379f392c876b4206",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "8de65dcd302c7b469631f69ce0462795c3bf6e9a0186de6abcac493ed18e243d",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n12세 이상 어린이 및 성인\n: 1회 2정, 1일 3회 복용한다."
+        }
+      ]
+    }
+  ]
+}

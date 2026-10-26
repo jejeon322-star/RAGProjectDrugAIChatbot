@@ -1,0 +1,44 @@
+{
+  "doc_id": "mfds:197000053:EE",
+  "drug_id": "mfds:197000053",
+  "scope_type": "product",
+  "title": "액티피드정 — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000053/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000053.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250102",
+  "collected_at": "2026-10-22T05:19:00.432391+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "(정제)(시럽제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물",
+          "raw_content": "코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "(캡슐제)",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘",
+          "raw_content": "코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘"
+        }
+      ]
+    }
+  ],
+  "text": "(정제)(시럽제)\n\n코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물\n\n(캡슐제)\n\n코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(정제)(시럽제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(캡슐제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "65468f0a739475b0c220b46c9f23654e2abb0316ca8fddfd506495b094a726d1"
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199401114",
+        "ITEM_NAME": "제티암주0.5그램(세포티암염산염)",
+        "ENTP_NAME": "삼진제약(주)",
+        "ITEM_PERMIT_DATE": "19940208",
+        "CNSGN_MANUF": "국제약품(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "백색 ~ 담황색의 분말제제가 든 바이알제로서 냄새는 없거나 또는 약간 특이한 냄새가 있다.",
+        "BAR_CODE": "8806478020401,8806478020418,8806478020425",
+        "MATERIAL_NAME": "총량 : 1바이알 중|성분명 : 세포티암염산염·건조탄산나트륨|분량 : 0.621|단위 : 그램|규격 : 별규|성분정보 : 세포티암으로서 0.5g(역가)|비고 : 세포티암염산염 : 건조탄산나트륨=0.5(역가) : 0.121",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401114/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401114/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401114/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기, 실온(1~30℃)보관\n",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "0.5g(역가)-10바이알/갑",
+        "EDI_CODE": "647802041",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1324",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20140418",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "제품명칭변경, 2014-04-18/저장방법 및 유효기간(사용기간)변경, 2014-04-18/제품명칭변경, 2014-03-26/제품명, 2008-11-01/효능효과변경, 2005-01-22/용법용량변경, 2005-01-22/사용상주의사항변경(부작용포함), 2005-01-22/사용상주의사항변경(부작용포함), 1997-01-08/사용상주의사항변경(부작용포함), 1995-06-19",
+        "TOTAL_CONTENT": "1바이알 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M245859]세포티암염산염·건조탄산나트륨",
+        "INGR_NAME": null,
+        "ATC_CODE": "J01DC07",
+        "ITEM_ENG_NAME": "Jetiam Intravenous Injection 500mg",
+        "ENTP_ENG_NAME": "SAMJIN PHARM.CO.,LTD",
+        "MAIN_INGR_ENG": "Cefotiam Hydrochloride·Dried Sodium Carbonate",
+        "BIZRNO": "1248531621",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

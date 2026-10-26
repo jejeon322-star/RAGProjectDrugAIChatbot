@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:200811665:EE",
+  "drug_id": "mfds:200811665",
+  "scope_type": "product",
+  "title": "조인스탑연질캡슐 — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200811665/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\200811665_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:01:22.555271+00:00",
+  "text": "[원문 1쪽]\n효능효과\n○ 다음 경우의 비타민(E, B1, B2, B6)의 보급\n- 육체피로\n- 임신·수유기\n- 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시\n- 노년기\n- 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다.\n• 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증(손발이 차가움)\n• 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)\n• 각기\n• 눈의 피로\n• 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+  "content_hash": "b85dbb4bd67c38cd0171ba5b98daae9a664abce8d138f34d0cc1c0f74f2616d4",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "4b59a5daef8717520be8623e14ab5e7fa8b0a0b8b51795a5988cfe95e81ceac6",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n○ 다음 경우의 비타민(E, B1, B2, B6)의 보급\n- 육체피로\n- 임신·수유기\n- 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시\n- 노년기\n- 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다.\n• 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증(손발이 차가움)\n• 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)\n• 각기\n• 눈의 피로\n• 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염"
+        }
+      ]
+    }
+  ]
+}

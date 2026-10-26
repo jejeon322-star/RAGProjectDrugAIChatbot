@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 2,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200606318",
+        "ITEM_NAME": "모사프론정(모사프리드시트르산염수화물)",
+        "ITEM_ENG_NAME": "Mosapron Tablet (Mosapride Citrate Dihydrate)",
+        "ENTP_NAME": "동국제약(주)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "ENTP_SEQ": "19620002",
+        "ENTP_NO": "1416",
+        "ITEM_PERMIT_DATE": "20060629",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200606318",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02390]기타의 소화기관용약",
+        "PRDUCT_PRMISN_NO": "310",
+        "ITEM_INGR_NAME": "Mosapride Citrate Dihydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1Oacf40i6ap",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "653401990",
+        "BIZRNO": "3018508241"
+      },
+      {
+        "ITEM_SEQ": "202003143",
+        "ITEM_NAME": "모사프론에스알서방정15밀리그램(모사프리드시트르산염수화물)",
+        "ITEM_ENG_NAME": "Mosapron SR Tablet 15mg (Mosapride Citrate Hydrate)",
+        "ENTP_NAME": "동국제약(주)",
+        "ENTP_ENG_NAME": "Dongkook Pharmaceutical Co.,Ltd.",
+        "ENTP_SEQ": "19620002",
+        "ENTP_NO": "1416",
+        "ITEM_PERMIT_DATE": "20200428",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "202003143",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[02390]기타의 소화기관용약",
+        "PRDUCT_PRMISN_NO": "530",
+        "ITEM_INGR_NAME": "Mosapride Citrate Dihydrate/Mosapride Citrate Dihydrate",
+        "ITEM_INGR_CNT": "2",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1NCLDMvf2SZ",
+        "PERMIT_KIND_CODE": "허가",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "653404540",
+        "BIZRNO": "3018508241"
+      }
+    ]
+  }
+}

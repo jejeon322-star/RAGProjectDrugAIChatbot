@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:198801976:EE",
+  "drug_id": "mfds:198801976",
+  "scope_type": "product",
+  "title": "암브로콜정(암브록솔,클렌부테롤) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801976/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\198801976_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T00:56:19.124354+00:00",
+  "text": "[원문 1쪽]\n효능효과\n다음 질환에서의 기관지경련 및 점액과다분비 :\n기관지천식, 폐기종, 기관지염 ··",
+  "content_hash": "c8fe8fd824ea12ce0da844ab0f0ef6cb70750b5ce8921508cc3e97ddf3eaf82b",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "8a399d403bc740c65ad1a257942f200931a4abf6bd1ddebe27313718197f54d0",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n다음 질환에서의 기관지경련 및 점액과다분비 :\n기관지천식, 폐기종, 기관지염 ··"
+        }
+      ]
+    }
+  ]
+}

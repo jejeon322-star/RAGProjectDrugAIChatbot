@@ -1,0 +1,59 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "196000010",
+        "ITEM_NAME": "페니라민주사(클로르페니라민말레산염)",
+        "ENTP_NAME": "(주)유한양행",
+        "ITEM_PERMIT_DATE": "19600721",
+        "CNSGN_MANUF": null,
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 투명한 액이 충전된 앰플",
+        "BAR_CODE": "8806421025804,8806421025811,8806421025828,8806421025835",
+        "MATERIAL_NAME": "총량 : 이 약 1ml 중,|성분명 : 클로르페니라민말레산염|분량 : 2|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000010/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000010/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196000010/NB",
+        "INSERT_FILE": "",
+        "STORAGE_METHOD": "밀봉용기",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "100앰플(2mL(4mg)/앰플X100)",
+        "EDI_CODE": "642102581",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1329",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20140521",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "저장방법 및 유효기간(사용기간)변경, 2014-05-21/제품명칭변경, 2008-04-04/저장방법 및 유효기간(사용기간)변경, 2003-01-30/성상변경, 2003-01-30/성상변경, 2000-05-24/사용상주의사항변경(부작용포함), 1990-08-24/사용상주의사항변경(부작용포함), 1990-06-28/사용상주의사항변경(부작용포함), 1989-01-01/용법용량변경, 1989-01-01/효능효과변경, 1989-01-01/저장방법 및 유효기간(사용기간)변경, 1981-05-25/효능효과변경, 1981-05-25/성상변경, 1960-07-21",
+        "TOTAL_CONTENT": "이 약 1ml 중,",
+        "EE_DOC_DATA": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[고초열, 두드러기, 소양성 피부질환(습진 피부염, 피부소양증, 약진, 곤충자상), 알레르기성비염, 혈관 운동성 비염]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "UD_DOC_DATA": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"(경구 : 정제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 말레인산클로르페니라민으로서 1회 2-6mg 1일 2-4회 경구투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 24mg을 초과해서는 안된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"(주사제)\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 말레인산클로르페니라민으로서 1회 5-10mg 1일 1-2회 피하, 근육 또는 정맥 주사 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "NB_DOC_DATA": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 앰플주사제는 용기 절단시 유리파편이 혼입되어, 부작용을 초래할 수 있으므로 사용시 유리파편 혼입이 최소화 될 수 있도록 신중하게 절단사용하되, 특히 어린이, 노약자 사용시에는 각별히 주의할 것.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 벤질알코올은 조숙아에게서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고되었다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 또는 유사 화합물에 과민증의 병력이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 녹내장 환자(항콜린 작용에 의해 안압이 상승되어 녹내장이 악화될 수 있다. )]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 전립선비대 등 하부요로폐색성 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 미숙아 및 신생아(벤질알코올을 함유하고 있다. )]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) MAO 저해제 투여중인 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 안내압 상승 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 갑상선기능항진 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 협착성소화성궤양 포는 유문십이지장 폐색 환자(항콜린 작용에 의해 평활근의 운동억제, 긴장저하가 일어나 증상이 악화될 수 있다. )]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 순환기계 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 고혈압 등 심혈관계 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 간질 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 기관지염, 기관지확장증 및 천식 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 간질환 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 쇽이 나타날 수 있으므로 충분히 관찰을 하고 청색증, 호흡곤란, 흉부불쾌감, 혈압저하 등이 나타나는 경우에는 투여를 중지하고 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 경련, 착란이 나타날 수 있으므로 관찰을 충분히 하고 이상이 나타나면 감량 또는 휴약 등 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 재생불량성빈혈, 무과립구증이 나타날 수 있으므로 혈액검사를 하여 충분히 관찰하고 이상이 인정되는 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 과민증 : 발진, 광선과민증, 박탈성 피부염, 두드러기, 연축, 근허약, 협조불능이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 정신신경계 : 진정, 졸음, 신경과민, 두통, 초조감, 복시, 불면, 어지러움, 이명, 전정장애, 다행증, 정서불안, 히스테리, 진전, 신경염, 협조이상, 감각이상, 무시, 집중력감소, 권태감이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 소화기계 : 구갈, 가슴쓰림, 식욕부진, 소화불량, 구역, 구토, 복통, 변비, 설사 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 비뇨기계 : 빈뇨, 배뇨곤란, 요폐, 요저류 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 순환기계 : 저혈압, 심계항진, 빈맥, 부정맥, 기외수축, 간염, 황달, 미약맥이 나타날 수 있으며 이러한 증상이 나타나는 경우에는 감량 또는 휴약 등 적절한 처치를 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 호흡기계 : 코 또는 기도의 건조, 기관분비액의 점성화, 천명, 코막힘이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 혈액 : 용혈성빈혈, 혈소판감소가 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11) 투여부위 ; 주사부위에 일시적인 자극, 작열감이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[12) 기타 : 오한, 발한이상, 흉통, 피로감, 월경이상이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[졸음을 유발할 수 있으므로 이 약을 투여중인 환자는 자동차 운전 등 위험한 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 알코올, 중추신경억제제와 병용투여시 졸음을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 클로르페니라민을 페니토인대사를 억제하여 페니토인 독성을 유발할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임부 및 임신하고 있을 가능성이 있는 부인에 대한 안전성이 확립되어 있지 않으므로 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 신중히 투여 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약이 유즙 분비를 억제하고 모유로 이행될 수 있으므로 수유부에게 투여할 경우에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 소아에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[유아 및 소아에 과량투여하면 환각, 흥분, 경련, 사망을 일으킬 수 있으므로 특히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 환자의 상태를 관찰하여 신중히 투여해야 한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 과량투여시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[클로르페니라민의 치사량은 체중 kg당 25-50mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[진정, 중추신경계 비정상적 자극, 중독성 정신병, 경련, 무호흡, 정신착란, 항콜린 효과, 실조증, 부정맥을 비롯한 심혈관계 허탈증 등이 나타날 수 있으며 이 때에는 심장 ·호흡기 ·신장 ·간장 기능 및 수액전해질 균형에 특별한 주의를 기울이는 등 대중적 지지적인 처치를 하고 중추신경계 경련은 디아제팜 또는 페니토인을 정맥주사하거나 심한 경우에는 혈액관류를 할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M223211]클로르페니라민말레산염",
+        "INGR_NAME": "[M040220]벤질알코올|[M040534]주사용수",
+        "ATC_CODE": "R06AB04",
+        "ITEM_ENG_NAME": "Peniramin Injection",
+        "ENTP_ENG_NAME": "YUHAN Corporation",
+        "MAIN_INGR_ENG": "Chlorpheniramine Maleate",
+        "BIZRNO": "1188100601",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  }
+}

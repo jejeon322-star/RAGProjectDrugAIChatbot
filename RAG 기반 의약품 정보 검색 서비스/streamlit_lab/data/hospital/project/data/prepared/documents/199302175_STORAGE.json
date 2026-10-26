@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:199302175",
+  "doc_id": "mfds:199302175:STORAGE",
+  "title": "이텍스암브록솔정(암브록솔염산염) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "24d0e7755b19c286e6960d2ba9283ec698428c188d1e5dc17f6f061a759a8f6b",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\199302175.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:55:09.723852+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 기밀용기, 실온보관\r\n\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 기밀용기, 실온보관\r\n\n사용기간: 제조일로부터 36 개월"
+}

@@ -1,0 +1,110 @@
+{
+  "doc_id": "mfds:197000068:UD",
+  "drug_id": "mfds:197000068",
+  "scope_type": "product",
+  "title": "다오닐정(글리벤클라미드) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000068/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000068.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20161228",
+  "collected_at": "2026-10-22T05:19:21.459130+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "(정제)",
+          "raw_content": "(정제)"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "글리벤클라미드의 권장 개시 용량은 보통 성인 1일 2.5mg이다.",
+          "raw_content": "글리벤클라미드의 권장 개시 용량은 보통 성인 1일 2.5mg이다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "최적의 당조절상태가 될 때까지 1주 간격으로 2.5mg씩 증량한다.",
+          "raw_content": "최적의 당조절상태가 될 때까지 1주 간격으로 2.5mg씩 증량한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "혈당강하제에 민감한 환자의 경우에는 1일 1.25mg으로 개시되어야 한다(사용상의 주의사항 중 신중투여항 참조).",
+          "raw_content": "혈당강하제에 민감한 환자의 경우에는 1일 1.25mg으로 개시되어야 한다(사용상의 주의사항 중 신중투여항 참조)."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "1일 총투여량이 15mg을 넘지 않도록 한다. 1일 용량 10mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다.",
+          "raw_content": "1일 총투여량이 15mg을 넘지 않도록 한다. 1일 용량 10mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "보통 유지용량은 1일 2.5~5mg이다.",
+          "raw_content": "보통 유지용량은 1일 2.5~5mg이다."
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "연령 및 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령 및 증상에 따라 적절히 증감한다."
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "(미분화 정제)",
+          "raw_content": "(미분화 정제)"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "이약의 권장 개시용량초기용량은 보통 성인 1일 1.5mg이다.",
+          "raw_content": "이약의 권장 개시용량초기용량은 보통 성인 1일 1.5mg이다."
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "최적의 당조절상태가 될 때까지 1주 간격으로 1.5mg씩 증량한다.",
+          "raw_content": "최적의 당조절상태가 될 때까지 1주 간격으로 1.5mg씩 증량한다."
+        },
+        {
+          "paragraph_index": 11,
+          "kind": "p",
+          "text": "혈당강하제에 민감한 환자의 경우에는 1일 0.75mg으로 시작해야 한다(신중투여 항 참조).",
+          "raw_content": "혈당강하제에 민감한 환자의 경우에는 1일 0.75mg으로 시작해야 한다(신중투여 항 참조)."
+        },
+        {
+          "paragraph_index": 12,
+          "kind": "p",
+          "text": "1일 총투여량이 12mg을 넘지 않도록 한다. 1일 용량 6mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침 식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다.",
+          "raw_content": "1일 총투여량이 12mg을 넘지 않도록 한다. 1일 용량 6mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침 식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다."
+        },
+        {
+          "paragraph_index": 13,
+          "kind": "p",
+          "text": "보통 유지 용량은 1일 1.5~3mg이다.",
+          "raw_content": "보통 유지 용량은 1일 1.5~3mg이다."
+        },
+        {
+          "paragraph_index": 14,
+          "kind": "p",
+          "text": "연령 및 증상에 따라 적절히 증감한다.",
+          "raw_content": "연령 및 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "(정제)\n\n글리벤클라미드의 권장 개시 용량은 보통 성인 1일 2.5mg이다.\n\n최적의 당조절상태가 될 때까지 1주 간격으로 2.5mg씩 증량한다.\n\n혈당강하제에 민감한 환자의 경우에는 1일 1.25mg으로 개시되어야 한다(사용상의 주의사항 중 신중투여항 참조).\n\n1일 총투여량이 15mg을 넘지 않도록 한다. 1일 용량 10mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다.\n\n보통 유지용량은 1일 2.5~5mg이다.\n\n연령 및 증상에 따라 적절히 증감한다.\n\n(미분화 정제)\n\n이약의 권장 개시용량초기용량은 보통 성인 1일 1.5mg이다.\n\n최적의 당조절상태가 될 때까지 1주 간격으로 1.5mg씩 증량한다.\n\n혈당강하제에 민감한 환자의 경우에는 1일 0.75mg으로 시작해야 한다(신중투여 항 참조).\n\n1일 총투여량이 12mg을 넘지 않도록 한다. 1일 용량 6mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침 식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다.\n\n보통 유지 용량은 1일 1.5~3mg이다.\n\n연령 및 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(정제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[글리벤클라미드의 권장 개시 용량은 보통 성인 1일 2.5mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[최적의 당조절상태가 될 때까지 1주 간격으로 2.5mg씩 증량한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[혈당강하제에 민감한 환자의 경우에는 1일 1.25mg으로 개시되어야 한다(사용상의 주의사항 중 신중투여항 참조).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 총투여량이 15mg을 넘지 않도록 한다. 1일 용량 10mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통 유지용량은 1일 2.5~5mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령 및 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[(미분화 정제)]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[이약의 권장 개시용량초기용량은 보통 성인 1일 1.5mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[최적의 당조절상태가 될 때까지 1주 간격으로 1.5mg씩 증량한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[혈당강하제에 민감한 환자의 경우에는 1일 0.75mg으로 시작해야 한다(신중투여 항 참조).]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 총투여량이 12mg을 넘지 않도록 한다. 1일 용량 6mg까지는 1회, 그 이상인 경우는 2회 분할 경구투여 한다. 1일 1회인 경우는 아침 식후, 2회인 경우는 아침, 저녁 식후에 경구투여 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통 유지 용량은 1일 1.5~3mg이다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[연령 및 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "95125629d62479e370e5b83b48fb5bfdf41c4fa2f53ea5259faa7f70cfe54a22"
+}

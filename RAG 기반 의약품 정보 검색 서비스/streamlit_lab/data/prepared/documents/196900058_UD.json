@@ -1,0 +1,80 @@
+{
+  "doc_id": "mfds:196900058:UD",
+  "drug_id": "mfds:196900058",
+  "scope_type": "product",
+  "title": "코푸시럽에스 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900058/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900058.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20240923",
+  "collected_at": "2026-10-22T05:16:29.133083+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "성인 : 1회 20 mL",
+          "raw_content": "성인 : 1회 20 mL"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "소아 : 1회",
+          "raw_content": "소아 : 1회"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "11세 이상 〜 15세 미만 13 mL",
+          "raw_content": "11세 이상 &#x301c; 15세 미만 13 mL"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "8세 이상 〜 11세 미만 10 mL",
+          "raw_content": "8세 이상 &#x301c; 11세 미만 10 mL"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5세 이상 〜 8세 미만 7 mL",
+          "raw_content": "5세 이상 &#x301c; 8세 미만 7 mL"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "3세 이상 〜 5세 미만 5 mL",
+          "raw_content": "3세 이상 &#x301c; 5세 미만 5 mL"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "2세 이상 〜 3세 미만 4 mL",
+          "raw_content": "2세 이상 &#x301c; 3세 미만 4 mL"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.",
+          "raw_content": "만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다."
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "1일 3 〜 4회 식후 및 취침 시에 복용한다.",
+          "raw_content": "1일 3 &#x301c; 4회 식후 및 취침 시에 복용한다."
+        }
+      ]
+    }
+  ],
+  "text": "성인 : 1회 20 mL\n\n소아 : 1회\n\n11세 이상 〜 15세 미만 13 mL\n\n8세 이상 〜 11세 미만 10 mL\n\n5세 이상 〜 8세 미만 7 mL\n\n3세 이상 〜 5세 미만 5 mL\n\n2세 이상 〜 3세 미만 4 mL\n\n만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.\n\n1일 3 〜 4회 식후 및 취침 시에 복용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[성인 : 1회 20 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[소아 : 1회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[11세 이상 &#x301c; 15세 미만 13 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8세 이상 &#x301c; 11세 미만 10 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5세 이상 &#x301c; 8세 미만 7 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3세 이상 &#x301c; 5세 미만 5 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2세 이상 &#x301c; 3세 미만 4 mL]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[만 2세 미만에게 투여하지 않는다. 다만, 꼭 필요한 경우 의사의 진료를 받는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1일 3 &#x301c; 4회 식후 및 취침 시에 복용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "1ebc8b612ed1bddf4d62047a3b214aba86de4f297cf25ca9415e10438c49ee5f"
+}

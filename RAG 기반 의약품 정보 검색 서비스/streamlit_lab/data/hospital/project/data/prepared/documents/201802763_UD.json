@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201802763:UD",
+  "drug_id": "mfds:201802763",
+  "scope_type": "product",
+  "title": "비카페롤플러스정 — 용법·용량 (공식 PDF)",
+  "section_type": "UD",
+  "xml_title": "용법·용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802763/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201802763_UD.pdf",
+  "source_field": "UD_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:56.477473+00:00",
+  "text": "[원문 1쪽]\n용법용량\n성인 및 만 8세 이상 어린이 : 1일 1회 1정을 복용",
+  "content_hash": "96b420c64463161c53a9de2ac7a25b52a0760e78eac784ecdde2766ab1ad9d0e",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "63f91f9d9bb9648c4ef04b401ee13070451a249704ba5e06cf67f21c82d386fe",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n용법용량\n성인 및 만 8세 이상 어린이 : 1일 1회 1정을 복용"
+        }
+      ]
+    }
+  ]
+}

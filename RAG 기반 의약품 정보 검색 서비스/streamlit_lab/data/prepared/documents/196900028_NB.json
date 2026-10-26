@@ -1,0 +1,284 @@
+{
+  "doc_id": "mfds:196900028:NB",
+  "drug_id": "mfds:196900028",
+  "scope_type": "product",
+  "title": "대한아스코르브산주사액 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900028/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900028.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220314",
+  "collected_at": "2026-10-22T05:15:15.912662+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 경고",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "앰플 주사제는 용기절단 시, 유리파편이 혼입되어 이상반응을 초래할 수 있으므로 사용 시, 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용하되 특히 어린이, 노약자에 사용 시는 각별히 주의한다.",
+          "raw_content": "앰플 주사제는 용기절단 시, 유리파편이 혼입되어 이상반응을 초래할 수 있으므로 사용 시, 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용하되 특히 어린이, 노약자에 사용 시는 각별히 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약 및 이 약에 포함된 성분에의 과민반응 환자",
+          "raw_content": "1) 이 약 및 이 약에 포함된 성분에의 과민반응 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 고수산뇨증(hyperoxaluria : 요중에 과량의 수산염이 배설되는 상태), 지중해빈혈증 환자",
+          "raw_content": "2) 고수산뇨증(hyperoxaluria : 요중에 과량의 수산염이 배설되는 상태), 지중해빈혈증 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 통풍환자 및 시스틴뇨증 환자",
+          "raw_content": "3) 통풍환자 및 시스틴뇨증 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) Glucose-6-phosphate dehydrogenase (G6PD) 결핍환자 : 고용량을 투여할 경우 용혈을 초래할 수 있다.",
+          "raw_content": "4) Glucose-6-phosphate dehydrogenase (G6PD) 결핍환자 : 고용량을 투여할 경우 용혈을 초래할 수 있다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 신장의 수산결석 환자 : 1일 1 g 이상 투여할 경우",
+          "raw_content": "5) 신장의 수산결석 환자 : 1일 1 g 이상 투여할 경우"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 다음 환자에는 신중히 투여할 것",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "아황산수소나트륨이 함유되어 있으므로 아황산아나필락시와 같은 알레르기를 일으킬 수 있으며, 일부 감수성 환자에서는 생명을 위협할 정도 또는 이보다 약한 천식발작을 일으킬 수 있다. 일반 사람에서의 아황산감수성은 비천식환자보다 천식환자에서 빈번한 것으로 나타났다.",
+          "raw_content": "아황산수소나트륨이 함유되어 있으므로 아황산아나필락시와 같은 알레르기를 일으킬 수 있으며, 일부 감수성 환자에서는 생명을 위협할 정도 또는 이보다 약한 천식발작을 일으킬 수 있다. 일반 사람에서의 아황산감수성은 비천식환자보다 천식환자에서 빈번한 것으로 나타났다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 이상반응",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 구역, 구토, 설사, 속쓰림, 복부경련, 피로, 홍조, 두통, 불면이 나타날 수 있다.",
+          "raw_content": "1) 구역, 구토, 설사, 속쓰림, 복부경련, 피로, 홍조, 두통, 불면이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 1일 1 g 이상 투여 시, 요의 산성화로 설사 및 신결석의 위험이 증가될 수 있다.",
+          "raw_content": "2) 1일 1 g 이상 투여 시, 요의 산성화로 설사 및 신결석의 위험이 증가될 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 1일 600 mg 이상의 용량 투여 시, 이뇨작용이 발현될 수 있다.",
+          "raw_content": "3) 1일 600 mg 이상의 용량 투여 시, 이뇨작용이 발현될 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) G6PD 결핍환자에서 용혈이 발생될 수 있다.",
+          "raw_content": "4) G6PD 결핍환자에서 용혈이 발생될 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 과량의 아스코르빈산 투여는 고수산뇨증, 또는 요산염, 시스틴, 수산염 또는 기타약물을 요로에 침전시킬 수 있다.",
+          "raw_content": "1) 과량의 아스코르빈산 투여는 고수산뇨증, 또는 요산염, 시스틴, 수산염 또는 기타약물을 요로에 침전시킬 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약은 통상적으로 경구투여하며 주사투여는 급성 또는 경구투여가 어려운 경우, 즉, 소장의 흡수불량에 의한 비타민 C 결핍증 및 인공정맥영양투여에 한하여 실시한다. 또한, 경구투여가 가능하고 효과가 충분하다고 판단될 경우에는 곧 경구투여로 전환한다.",
+          "raw_content": "2) 이 약은 통상적으로 경구투여하며 주사투여는 급성 또는 경구투여가 어려운 경우, 즉, 소장의 흡수불량에 의한 비타민 C 결핍증 및 인공정맥영양투여에 한하여 실시한다. 또한, 경구투여가 가능하고 효과가 충분하다고 판단될 경우에는 곧 경구투여로 전환한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 살리실산염은 비타민 C의 백혈구와 혈소판으로의 흡수를 저해한다.",
+          "raw_content": "1) 살리실산염은 비타민 C의 백혈구와 혈소판으로의 흡수를 저해한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 아스피린, 흡연을 통한 니코틴, 알코올, 일부 식욕저해제, 철분제, 페니토인 및 일부 항전간제, 에스트로겐이 포함된 경구용 피임약, 테트라싸이클린계 항생제와의 병용은 이 약의 조직 탈포화작용(tissue desaturation)을 유도할 수 있으므로 병용을 피한다.",
+          "raw_content": "2) 아스피린, 흡연을 통한 니코틴, 알코올, 일부 식욕저해제, 철분제, 페니토인 및 일부 항전간제, 에스트로겐이 포함된 경구용 피임약, 테트라싸이클린계 항생제와의 병용은 이 약의 조직 탈포화작용(tissue desaturation)을 유도할 수 있으므로 병용을 피한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 이 약의 고용량 투여 시, 경구용 항응고제(쿠마린계 약물)의 반응을 감소시킬 수 있다.",
+          "raw_content": "3) 이 약의 고용량 투여 시, 경구용 항응고제(쿠마린계 약물)의 반응을 감소시킬 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 이 약과 플루페나진과의 병용 시, 플루페나진의 혈장농도가 저하된다.",
+          "raw_content": "4) 이 약과 플루페나진과의 병용 시, 플루페나진의 혈장농도가 저하된다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 바르비탈산 유도체는 이 약의 신장 배설을 촉진한다.",
+          "raw_content": "5) 바르비탈산 유도체는 이 약의 신장 배설을 촉진한다."
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 코르티코스테로이드제는 이 약의 산화를 증가시킨다.",
+          "raw_content": "6) 코르티코스테로이드제는 이 약의 산화를 증가시킨다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 임부 투여 시 태아에 대한 위해성이나 생식능에 대한 효과는 밝혀지지 않았으므로 이 약의 투여로 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.",
+          "raw_content": "1) 임부 투여 시 태아에 대한 위해성이나 생식능에 대한 효과는 밝혀지지 않았으므로 이 약의 투여로 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 고용량 투여에 대한 태아의 영향이 밝혀지지 않았으므로 임신 중 이 약을 1 g 이상 복용하지 않는다.",
+          "raw_content": "2) 고용량 투여에 대한 태아의 영향이 밝혀지지 않았으므로 임신 중 이 약을 1 g 이상 복용하지 않는다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 임신 중, 고용량을 투여할 경우, 신생아에게 괴혈병을 초래할 수 있다.",
+          "raw_content": "3) 임신 중, 고용량을 투여할 경우, 신생아에게 괴혈병을 초래할 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 이 약은 유즙으로 이행되나 1일 상용량 투여 시, 영아에의 위험성에 대한 증거는 없다.",
+          "raw_content": "4) 이 약은 유즙으로 이행되나 1일 상용량 투여 시, 영아에의 위험성에 대한 증거는 없다."
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "heading": "8. 임상검사치에의 영향",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 각종 요당 검사 시, 요당의 검출을 방해할 수 있다.",
+          "raw_content": "1) 각종 요당 검사 시, 요당의 검출을 방해할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 각종 요검사시의 혈뇨검사 또는 대변의 잠혈검사시 위음성반응을 초래할 수 있다.",
+          "raw_content": "2) 각종 요검사시의 혈뇨검사 또는 대변의 잠혈검사시 위음성반응을 초래할 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "heading": "9. 과량투여 시의 처치",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "과량투여 시, 설사, 신장의 수산결석을 초래할 수 있으며 1일 600 mg 이상의 용량은 이뇨작용을 일으킬 수 있다. 과량 독성 증상이 발현된 경우에는 투여를 중단하고 대증요법을 실시한다.",
+          "raw_content": "과량투여 시, 설사, 신장의 수산결석을 초래할 수 있으며 1일 600 mg 이상의 용량은 이뇨작용을 일으킬 수 있다. 과량 독성 증상이 발현된 경우에는 투여를 중단하고 대증요법을 실시한다."
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "heading": "10. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약은 피하 또는 근육주사할 때, 주사부위에 일시적인 경미한 통증을 유발할 수 있다.",
+          "raw_content": "1) 이 약은 피하 또는 근육주사할 때, 주사부위에 일시적인 경미한 통증을 유발할 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 피하, 근육주사는 부득이한 경우 필요 최소용량을 투여하되 신경주행부위를 피하고 동일 부위에 반복 주사 하지 않도록 하며 특히, 신생아, 미숙아, 유ㆍ소아에의 투여 시 주의한다.",
+          "raw_content": "2) 피하, 근육주사는 부득이한 경우 필요 최소용량을 투여하되 신경주행부위를 피하고 동일 부위에 반복 주사 하지 않도록 하며 특히, 신생아, 미숙아, 유ㆍ소아에의 투여 시 주의한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 주사침을 삽입할 때 격통을 호소하거나 혈액의 역류를 발견할 경우에는 바로 침을 뽑아야 한다.",
+          "raw_content": "3) 주사침을 삽입할 때 격통을 호소하거나 혈액의 역류를 발견할 경우에는 바로 침을 뽑아야 한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 정맥투여 시, 주사 속도가 빠를 경우에는 일시적인 기절, 어지러움을 초래할 수 있으며 혈관통이 나타날 수 있으므로 가능한 한 천천히 주사한다.",
+          "raw_content": "4) 정맥투여 시, 주사 속도가 빠를 경우에는 일시적인 기절, 어지러움을 초래할 수 있으며 혈관통이 나타날 수 있으므로 가능한 한 천천히 주사한다."
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "heading": "11. 보관 및 취급상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 소아의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 소아의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직사광선을 피하여 건조한 곳에 보관한다.",
+          "raw_content": "2) 직사광선을 피하여 건조한 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.",
+          "raw_content": "3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 경고\n\n앰플 주사제는 용기절단 시, 유리파편이 혼입되어 이상반응을 초래할 수 있으므로 사용 시, 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용하되 특히 어린이, 노약자에 사용 시는 각별히 주의한다.\n\n2. 다음 환자에는 투여하지 말 것.\n\n1) 이 약 및 이 약에 포함된 성분에의 과민반응 환자\n\n2) 고수산뇨증(hyperoxaluria : 요중에 과량의 수산염이 배설되는 상태), 지중해빈혈증 환자\n\n3) 통풍환자 및 시스틴뇨증 환자\n\n4) Glucose-6-phosphate dehydrogenase (G6PD) 결핍환자 : 고용량을 투여할 경우 용혈을 초래할 수 있다.\n\n5) 신장의 수산결석 환자 : 1일 1 g 이상 투여할 경우\n\n3. 다음 환자에는 신중히 투여할 것\n\n아황산수소나트륨이 함유되어 있으므로 아황산아나필락시와 같은 알레르기를 일으킬 수 있으며, 일부 감수성 환자에서는 생명을 위협할 정도 또는 이보다 약한 천식발작을 일으킬 수 있다. 일반 사람에서의 아황산감수성은 비천식환자보다 천식환자에서 빈번한 것으로 나타났다.\n\n4. 이상반응\n\n1) 구역, 구토, 설사, 속쓰림, 복부경련, 피로, 홍조, 두통, 불면이 나타날 수 있다.\n\n2) 1일 1 g 이상 투여 시, 요의 산성화로 설사 및 신결석의 위험이 증가될 수 있다.\n\n3) 1일 600 mg 이상의 용량 투여 시, 이뇨작용이 발현될 수 있다.\n\n4) G6PD 결핍환자에서 용혈이 발생될 수 있다.\n\n5. 일반적 주의\n\n1) 과량의 아스코르빈산 투여는 고수산뇨증, 또는 요산염, 시스틴, 수산염 또는 기타약물을 요로에 침전시킬 수 있다.\n\n2) 이 약은 통상적으로 경구투여하며 주사투여는 급성 또는 경구투여가 어려운 경우, 즉, 소장의 흡수불량에 의한 비타민 C 결핍증 및 인공정맥영양투여에 한하여 실시한다. 또한, 경구투여가 가능하고 효과가 충분하다고 판단될 경우에는 곧 경구투여로 전환한다.\n\n6. 상호작용\n\n1) 살리실산염은 비타민 C의 백혈구와 혈소판으로의 흡수를 저해한다.\n\n2) 아스피린, 흡연을 통한 니코틴, 알코올, 일부 식욕저해제, 철분제, 페니토인 및 일부 항전간제, 에스트로겐이 포함된 경구용 피임약, 테트라싸이클린계 항생제와의 병용은 이 약의 조직 탈포화작용(tissue desaturation)을 유도할 수 있으므로 병용을 피한다.\n\n3) 이 약의 고용량 투여 시, 경구용 항응고제(쿠마린계 약물)의 반응을 감소시킬 수 있다.\n\n4) 이 약과 플루페나진과의 병용 시, 플루페나진의 혈장농도가 저하된다.\n\n5) 바르비탈산 유도체는 이 약의 신장 배설을 촉진한다.\n\n6) 코르티코스테로이드제는 이 약의 산화를 증가시킨다.\n\n7. 임부 및 수유부에 대한 투여\n\n1) 임부 투여 시 태아에 대한 위해성이나 생식능에 대한 효과는 밝혀지지 않았으므로 이 약의 투여로 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.\n\n2) 고용량 투여에 대한 태아의 영향이 밝혀지지 않았으므로 임신 중 이 약을 1 g 이상 복용하지 않는다.\n\n3) 임신 중, 고용량을 투여할 경우, 신생아에게 괴혈병을 초래할 수 있다.\n\n4) 이 약은 유즙으로 이행되나 1일 상용량 투여 시, 영아에의 위험성에 대한 증거는 없다.\n\n8. 임상검사치에의 영향\n\n1) 각종 요당 검사 시, 요당의 검출을 방해할 수 있다.\n\n2) 각종 요검사시의 혈뇨검사 또는 대변의 잠혈검사시 위음성반응을 초래할 수 있다.\n\n9. 과량투여 시의 처치\n\n과량투여 시, 설사, 신장의 수산결석을 초래할 수 있으며 1일 600 mg 이상의 용량은 이뇨작용을 일으킬 수 있다. 과량 독성 증상이 발현된 경우에는 투여를 중단하고 대증요법을 실시한다.\n\n10. 적용상의 주의\n\n1) 이 약은 피하 또는 근육주사할 때, 주사부위에 일시적인 경미한 통증을 유발할 수 있다.\n\n2) 피하, 근육주사는 부득이한 경우 필요 최소용량을 투여하되 신경주행부위를 피하고 동일 부위에 반복 주사 하지 않도록 하며 특히, 신생아, 미숙아, 유ㆍ소아에의 투여 시 주의한다.\n\n3) 주사침을 삽입할 때 격통을 호소하거나 혈액의 역류를 발견할 경우에는 바로 침을 뽑아야 한다.\n\n4) 정맥투여 시, 주사 속도가 빠를 경우에는 일시적인 기절, 어지러움을 초래할 수 있으며 혈관통이 나타날 수 있으므로 가능한 한 천천히 주사한다.\n\n11. 보관 및 취급상의 주의사항\n\n1) 소아의 손이 닿지 않는 곳에 보관한다.\n\n2) 직사광선을 피하여 건조한 곳에 보관한다.\n\n3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 경고\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[앰플 주사제는 용기절단 시, 유리파편이 혼입되어 이상반응을 초래할 수 있으므로 사용 시, 유리파편 혼입이 최소화될 수 있도록 신중하게 절단, 사용하되 특히 어린이, 노약자에 사용 시는 각별히 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약 및 이 약에 포함된 성분에의 과민반응 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고수산뇨증(hyperoxaluria : 요중에 과량의 수산염이 배설되는 상태), 지중해빈혈증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 통풍환자 및 시스틴뇨증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) Glucose-6-phosphate dehydrogenase (G6PD) 결핍환자 : 고용량을 투여할 경우 용혈을 초래할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 신장의 수산결석 환자 : 1일 1 g 이상 투여할 경우]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 다음 환자에는 신중히 투여할 것\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[아황산수소나트륨이 함유되어 있으므로 아황산아나필락시와 같은 알레르기를 일으킬 수 있으며, 일부 감수성 환자에서는 생명을 위협할 정도 또는 이보다 약한 천식발작을 일으킬 수 있다. 일반 사람에서의 아황산감수성은 비천식환자보다 천식환자에서 빈번한 것으로 나타났다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 이상반응\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 구역, 구토, 설사, 속쓰림, 복부경련, 피로, 홍조, 두통, 불면이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 1일 1 g 이상 투여 시, 요의 산성화로 설사 및 신결석의 위험이 증가될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 1일 600 mg 이상의 용량 투여 시, 이뇨작용이 발현될 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) G6PD 결핍환자에서 용혈이 발생될 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과량의 아스코르빈산 투여는 고수산뇨증, 또는 요산염, 시스틴, 수산염 또는 기타약물을 요로에 침전시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약은 통상적으로 경구투여하며 주사투여는 급성 또는 경구투여가 어려운 경우, 즉, 소장의 흡수불량에 의한 비타민 C 결핍증 및 인공정맥영양투여에 한하여 실시한다. 또한, 경구투여가 가능하고 효과가 충분하다고 판단될 경우에는 곧 경구투여로 전환한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 살리실산염은 비타민 C의 백혈구와 혈소판으로의 흡수를 저해한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 아스피린, 흡연을 통한 니코틴, 알코올, 일부 식욕저해제, 철분제, 페니토인 및 일부 항전간제, 에스트로겐이 포함된 경구용 피임약, 테트라싸이클린계 항생제와의 병용은 이 약의 조직 탈포화작용(tissue desaturation)을 유도할 수 있으므로 병용을 피한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 이 약의 고용량 투여 시, 경구용 항응고제(쿠마린계 약물)의 반응을 감소시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약과 플루페나진과의 병용 시, 플루페나진의 혈장농도가 저하된다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 바르비탈산 유도체는 이 약의 신장 배설을 촉진한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 코르티코스테로이드제는 이 약의 산화를 증가시킨다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 임부 투여 시 태아에 대한 위해성이나 생식능에 대한 효과는 밝혀지지 않았으므로 이 약의 투여로 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 고용량 투여에 대한 태아의 영향이 밝혀지지 않았으므로 임신 중 이 약을 1 g 이상 복용하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 임신 중, 고용량을 투여할 경우, 신생아에게 괴혈병을 초래할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 이 약은 유즙으로 이행되나 1일 상용량 투여 시, 영아에의 위험성에 대한 증거는 없다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"8. 임상검사치에의 영향\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 각종 요당 검사 시, 요당의 검출을 방해할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 각종 요검사시의 혈뇨검사 또는 대변의 잠혈검사시 위음성반응을 초래할 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"9. 과량투여 시의 처치\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[과량투여 시, 설사, 신장의 수산결석을 초래할 수 있으며 1일 600 mg 이상의 용량은 이뇨작용을 일으킬 수 있다. 과량 독성 증상이 발현된 경우에는 투여를 중단하고 대증요법을 실시한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"10. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 피하 또는 근육주사할 때, 주사부위에 일시적인 경미한 통증을 유발할 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 피하, 근육주사는 부득이한 경우 필요 최소용량을 투여하되 신경주행부위를 피하고 동일 부위에 반복 주사 하지 않도록 하며 특히, 신생아, 미숙아, 유ㆍ소아에의 투여 시 주의한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 주사침을 삽입할 때 격통을 호소하거나 혈액의 역류를 발견할 경우에는 바로 침을 뽑아야 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 정맥투여 시, 주사 속도가 빠를 경우에는 일시적인 기절, 어지러움을 초래할 수 있으며 혈관통이 나타날 수 있으므로 가능한 한 천천히 주사한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"11. 보관 및 취급상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사광선을 피하여 건조한 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[3) 의약품을 원래 용기에서 꺼내어 다른 용기에 보관하는 것은 의약품의 오용에 의한 사고발생이나 의약품 품질 저하의 원인이 될 수 있으므로 원래의 용기에 넣고 꼭 닫아 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "849e14c896343a1b81e3b7e9bea412f69c9978ed88515c3f43f98de099e53602"
+}

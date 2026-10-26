@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "202601905",
+        "ITEM_NAME": "테라펠루정30밀리그램(펠루비프로펜(미분화))",
+        "ENTP_NAME": "(주)테라젠이텍스",
+        "ITEM_PERMIT_DATE": "20260630",
+        "CNSGN_MANUF": "하나제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "흰색 내지 연한 황색의 원형 정제",
+        "BAR_CODE": "8806985053008,8806985053015,8806985053022",
+        "MATERIAL_NAME": "총량 : 1정110.00밀리그램|성분명 : 펠루비프로펜(미분화)|분량 : 30|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601905/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601905/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601905/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601905/II",
+        "STORAGE_METHOD": "차광기밀용기, 실온보관(1~30℃)",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "30정/병,300정/병",
+        "EDI_CODE": "698505300",
+        "PERMIT_KIND_NAME": "허가",
+        "ENTP_NO": "1654",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": null,
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "",
+        "TOTAL_CONTENT": "1110.00",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M280896]펠루비프로펜(미분화)",
+        "INGR_NAME": "[M095933]스테아릴푸마르산나트륨|[M102967]히프로멜로오스|[M243429]카르복시메틸셀룰로오스칼슘|[M244529]저치환도히드록시프로필셀룰로오스|[M254581]유당수화물",
+        "ATC_CODE": "M01AE20",
+        "ITEM_ENG_NAME": "Terapelu Tab. 30mg (Pelubiprofen (micronized))",
+        "ENTP_ENG_NAME": "THERAGEN ETEX CO., LTD. ",
+        "MAIN_INGR_ENG": "Pelubiprofen Micronized",
+        "BIZRNO": "1348545665",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

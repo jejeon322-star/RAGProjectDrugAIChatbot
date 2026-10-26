@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201002804:EE",
+  "drug_id": "mfds:201002804",
+  "scope_type": "product",
+  "title": "세파졸주0.5그람(세파졸린나트륨)(수출용) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002804/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201002804_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:01:42.526691+00:00",
+  "text": "[원문 1쪽]\n효능효과\n○ 유효균종\n폐렴연쇄구균, 클레브시엘라, 인플루엔자균, 포도구균, 대장균, 프로테우스 미라빌리스, 엔테로박터, 연쇄구\n균, 장내구균\n○ 적응증\n- 기관지염, 폐렴, 인후두염 등 호흡기 감염증\n- 요로감염증\n- 피부 및 연조직감염증\n- 담관염, 담낭염\n- 골 및 관절감염증\n- 전립선염, 부고환염 등 생식기감염증\n- 패혈증, 심내막염",
+  "content_hash": "4edfd1419c63f2397cf257498132aeff912061496faab6b94bb9027274137255",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "83476898ec6e04859316c7948284807a41745fce9f11f4456efe39f26f06a356",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n○ 유효균종\n폐렴연쇄구균, 클레브시엘라, 인플루엔자균, 포도구균, 대장균, 프로테우스 미라빌리스, 엔테로박터, 연쇄구\n균, 장내구균\n○ 적응증\n- 기관지염, 폐렴, 인후두염 등 호흡기 감염증\n- 요로감염증\n- 피부 및 연조직감염증\n- 담관염, 담낭염\n- 골 및 관절감염증\n- 전립선염, 부고환염 등 생식기감염증\n- 패혈증, 심내막염"
+        }
+      ]
+    }
+  ]
+}

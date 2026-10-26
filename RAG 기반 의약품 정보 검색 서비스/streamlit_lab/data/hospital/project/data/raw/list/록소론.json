@@ -1,0 +1,36 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 100,
+    "items": [
+      {
+        "ITEM_SEQ": "200402487",
+        "ITEM_NAME": "록소론정(록소프로펜나트륨수화물)",
+        "ITEM_ENG_NAME": "Loxoron Tab.",
+        "ENTP_NAME": "(주)팜젠사이언스",
+        "ENTP_ENG_NAME": "PharmGen Science, Inc.",
+        "ENTP_SEQ": "19670002",
+        "ENTP_NO": "1487",
+        "ITEM_PERMIT_DATE": "20040630",
+        "INDUTY": "의약품",
+        "PRDLST_STDR_CODE": "200402487",
+        "SPCLTY_PBLC": "전문의약품",
+        "PRDUCT_TYPE": "[01140]해열.진통.소염제",
+        "PRDUCT_PRMISN_NO": "343",
+        "ITEM_INGR_NAME": "Loxoprofen Sodium Hydrate",
+        "ITEM_INGR_CNT": "1",
+        "BIG_PRDT_IMG_URL": "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1OrgEjHwCCc",
+        "PERMIT_KIND_CODE": "신고",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "EDI_CODE": "670100330",
+        "BIZRNO": "1248136540"
+      }
+    ]
+  }
+}

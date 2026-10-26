@@ -1,0 +1,98 @@
+{
+  "doc_id": "mfds:197000049:UD",
+  "drug_id": "mfds:197000049",
+  "scope_type": "product",
+  "title": "셉트린정 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000049/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000049.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20250922",
+  "collected_at": "2026-10-22T05:18:24.502821+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 성인 및 12세 이상의 소아",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1회 2정을 1일 2회 12시간마다 식후 경구투여한다. 14일 이상 장기투여 시 유지량으로 1회 1정을 1일 2회 투여하고 심한 감염증에는 최대용량으로 1회 3정을 투여한다.",
+          "raw_content": "1회 2정을 1일 2회 12시간마다 식후 경구투여한다. 14일 이상 장기투여 시 유지량으로 1회 1정을 1일 2회 투여하고 심한 감염증에는 최대용량으로 1회 3정을 투여한다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 12세 미만의 소아",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "다음 용량을 참고하여 체중 kg당 트리메토프림 6 mg과 설파메톡사졸 30 mg을 1일 2회 분할 투여한다.",
+          "raw_content": "다음 용량을 참고하여 체중 kg당 트리메토프림 6 mg과 설파메톡사졸 30 mg을 1일 2회 분할 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "6～11세 : 1회 1정, 1일 2회",
+          "raw_content": "6～11세 : 1회 1정, 1일 2회"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3～5세 : 1회 1/2정, 1일 2회",
+          "raw_content": "3～5세 : 1회 1/2정, 1일 2회"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 신장애 환자",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "table",
+          "text": "|\n크레아티닌 청소율(mL/분)\n|\n용량\n|\n30 이상\n15～30\n15 이하\n|\n정상용량\n정상용량의 1/2\n투여가 권장되지 않는다",
+          "raw_content": "<tbody> \n <tr> \n  <td> <p>크레아티닌 청소율(mL/분)</p> </td> \n  <td> <p>용량</p> </td> \n </tr> \n <tr> \n  <td> <p>30 이상</p> <p>15～30</p> <p>15 이하</p> </td> \n  <td> <p>정상용량</p> <p>정상용량의 1/2</p> <p>투여가 권장되지 않는다</p> </td> \n </tr> \n</tbody>"
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 뉴우모시스티스 카리니 폐렴",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "체중 kg당 트리메토프림 20 mg과 설파메톡사졸 100 mg을 14일간 1일 4회 분할 투여한다. 급성감염증에는 최소한 5일간 또는 증상이 소실된 후에도 2일간 더 투여한다.",
+          "raw_content": "체중 kg당 트리메토프림 20 mg과 설파메톡사졸 100 mg을 14일간 1일 4회 분할 투여한다. 급성감염증에는 최소한 5일간 또는 증상이 소실된 후에도 2일간 더 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "* 위장장애를 최소화 할 수 있도록 음식이나 음료와 함께 투여하는 것이 바람직하다.",
+          "raw_content": "* 위장장애를 최소화 할 수 있도록 음식이나 음료와 함께 투여하는 것이 바람직하다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "* 2개월 미만의 영아에는 투여하지 않는다.",
+          "raw_content": "* 2개월 미만의 영아에는 투여하지 않는다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "* 연령, 증상에 따라 적절히 증감한다.",
+          "raw_content": "* 연령, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 성인 및 12세 이상의 소아\n\n1회 2정을 1일 2회 12시간마다 식후 경구투여한다. 14일 이상 장기투여 시 유지량으로 1회 1정을 1일 2회 투여하고 심한 감염증에는 최대용량으로 1회 3정을 투여한다.\n\n2. 12세 미만의 소아\n\n다음 용량을 참고하여 체중 kg당 트리메토프림 6 mg과 설파메톡사졸 30 mg을 1일 2회 분할 투여한다.\n\n6～11세 : 1회 1정, 1일 2회\n\n3～5세 : 1회 1/2정, 1일 2회\n\n3. 신장애 환자\n\n|\n크레아티닌 청소율(mL/분)\n|\n용량\n|\n30 이상\n15～30\n15 이하\n|\n정상용량\n정상용량의 1/2\n투여가 권장되지 않는다\n\n4. 뉴우모시스티스 카리니 폐렴\n\n체중 kg당 트리메토프림 20 mg과 설파메톡사졸 100 mg을 14일간 1일 4회 분할 투여한다. 급성감염증에는 최소한 5일간 또는 증상이 소실된 후에도 2일간 더 투여한다.\n\n* 위장장애를 최소화 할 수 있도록 음식이나 음료와 함께 투여하는 것이 바람직하다.\n\n* 2개월 미만의 영아에는 투여하지 않는다.\n\n* 연령, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 성인 및 12세 이상의 소아\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1회 2정을 1일 2회 12시간마다 식후 경구투여한다. 14일 이상 장기투여 시 유지량으로 1회 1정을 1일 2회 투여하고 심한 감염증에는 최대용량으로 1회 3정을 투여한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 12세 미만의 소아\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[다음 용량을 참고하여 체중 kg당 트리메토프림 6 mg과 설파메톡사졸 30 mg을 1일 2회 분할 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6～11세 : 1회 1정, 1일 2회]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3～5세 : 1회 1/2정, 1일 2회]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 신장애 환자\">\r\n      <PARAGRAPH tagName=\"table\" textIndent=\"\" marginLeft=\"\"><![CDATA[<tbody> \n <tr> \n  <td> <p>크레아티닌 청소율(mL/분)</p> </td> \n  <td> <p>용량</p> </td> \n </tr> \n <tr> \n  <td> <p>30 이상</p> <p>15～30</p> <p>15 이하</p> </td> \n  <td> <p>정상용량</p> <p>정상용량의 1/2</p> <p>투여가 권장되지 않는다</p> </td> \n </tr> \n</tbody>]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 뉴우모시스티스 카리니 폐렴\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[체중 kg당 트리메토프림 20 mg과 설파메톡사졸 100 mg을 14일간 1일 4회 분할 투여한다. 급성감염증에는 최소한 5일간 또는 증상이 소실된 후에도 2일간 더 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[* 위장장애를 최소화 할 수 있도록 음식이나 음료와 함께 투여하는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[* 2개월 미만의 영아에는 투여하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"1\"><![CDATA[* 연령, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "929e974afbc075c1b0662e2138d2a6a92125c4ac0ef88b86370f5aea2ad5489e"
+}

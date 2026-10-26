@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "199401101",
+        "ITEM_NAME": "마카린주사액250mg(아미카신황산염)",
+        "ENTP_NAME": "(주)한국파마",
+        "ITEM_PERMIT_DATE": "19940907",
+        "CNSGN_MANUF": "동광제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색 내지 미황색의 투명한 액이 든 무색 투명한 앰플 주사제",
+        "BAR_CODE": "8806530007302,8806530007319,8806530007326",
+        "MATERIAL_NAME": "총량 : 1앰플(2mL) 중|성분명 : 아미카신황산염|분량 : 250|단위 : 밀리그램|규격 : 별규|성분정보 : |비고 : 역가",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401101/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401101/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401101/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199401101/II",
+        "STORAGE_METHOD": "밀봉용기, 실온보존",
+        "VALID_TERM": "제조일로부터 24 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1앰플(2 밀리리터) X 1앰플, 50앰플",
+        "EDI_CODE": "653000731",
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1401",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20230913",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2023-09-13/사용상주의사항변경(부작용포함), 2022-03-31/성상변경, 2016-11-17/제품명칭변경, 2013-05-14/제품명칭변경, 2008-11-01/효능효과변경, 2005-01-22/용법용량변경, 2005-01-22/사용상주의사항변경(부작용포함), 2005-01-22/성상변경, 1995-02-23",
+        "TOTAL_CONTENT": "1앰플(2mL) 중",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M235156]아미카신황산염",
+        "INGR_NAME": "[M040378]아황산수소나트륨|[M040534]주사용수|[M085046]프로필파라벤|[M223087]시트르산나트륨수화물|[M255158]메틸파라벤",
+        "ATC_CODE": "J01GB06",
+        "ITEM_ENG_NAME": "Macarin Inj. 250mg",
+        "ENTP_ENG_NAME": "KOREA PHARMA Co., Ltd.",
+        "MAIN_INGR_ENG": "Amikacin Sulfate",
+        "BIZRNO": "1248115899",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

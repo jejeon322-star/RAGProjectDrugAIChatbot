@@ -1,0 +1,56 @@
+{
+  "doc_id": "mfds:196900031:UD",
+  "drug_id": "mfds:196900031",
+  "scope_type": "product",
+  "title": "대한에피네프린주사액 — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196900031/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196900031.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20260220",
+  "collected_at": "2026-10-22T05:15:44.717218+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "0.1% 주사액으로서 1회에 다음의 양을 사용한다.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1. 피하 및 근주 : 에피네프린으로서 1회 0.2-1.0mL 투여한다.",
+          "raw_content": "1. 피하 및 근주 : 에피네프린으로서 1회 0.2-1.0mL 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2. 정맥주사 : 심정지 등 긴급시에는 이 약 0.25mL를 넘지 않는 범위 내에서 생리 식염 주사액 등에 희석하여 천천히 주사한다.",
+          "raw_content": "2. 정맥주사 : 심정지 등 긴급시에는 이 약 0.25mL를 넘지 않는 범위 내에서 생리 식염 주사액 등에 희석하여 천천히 주사한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3. 국소마취제와 병용시 : 국소마취제 10mL에 이 약 1-2방울의 비율로 첨가하여 사용한다.",
+          "raw_content": "3. 국소마취제와 병용시 : 국소마취제 10mL에 이 약 1-2방울의 비율로 첨가하여 사용한다."
+        }
+      ]
+    }
+  ],
+  "text": "0.1% 주사액으로서 1회에 다음의 양을 사용한다.\n\n1. 피하 및 근주 : 에피네프린으로서 1회 0.2-1.0mL 투여한다.\n\n2. 정맥주사 : 심정지 등 긴급시에는 이 약 0.25mL를 넘지 않는 범위 내에서 생리 식염 주사액 등에 희석하여 천천히 주사한다.\n\n3. 국소마취제와 병용시 : 국소마취제 10mL에 이 약 1-2방울의 비율로 첨가하여 사용한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"0.1% 주사액으로서 1회에 다음의 양을 사용한다.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[1. 피하 및 근주 : 에피네프린으로서 1회 0.2-1.0mL 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[2. 정맥주사 : 심정지 등 긴급시에는 이 약 0.25mL를 넘지 않는 범위 내에서 생리 식염 주사액 등에 희석하여 천천히 주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"2\"><![CDATA[3. 국소마취제와 병용시 : 국소마취제 10mL에 이 약 1-2방울의 비율로 첨가하여 사용한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "764f71bdaf8b2b1b9c9aa2493d22397f9aa0395d433996d69169b35ad1e7d1c2"
+}

@@ -1,0 +1,224 @@
+{
+  "doc_id": "mfds:197300075:NB",
+  "drug_id": "mfds:197300075",
+  "scope_type": "product",
+  "title": "성광관장약 — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197300075/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300075.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20200618",
+  "collected_at": "2026-10-22T05:28:40.312741+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 장관의 천공 또는 그 의심이 있는 환자",
+          "raw_content": "1) 장관의 천공 또는 그 의심이 있는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 장관내 출혈 환자",
+          "raw_content": "2) 장관내 출혈 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 심한 전신쇠약 환자",
+          "raw_content": "3) 심한 전신쇠약 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 심한 복통 또는 구역, 구토 환자",
+          "raw_content": "4) 심한 복통 또는 구역, 구토 환자"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 급성 복증이 의심되는 환자",
+          "raw_content": "1) 급성 복증이 의심되는 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 국소(장관, 항문)에 염증·창상이 있는 환자",
+          "raw_content": "2) 국소(장관, 항문)에 염증·창상이 있는 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 중증의 심질환 환자",
+          "raw_content": "3) 중증의 심질환 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 당뇨병 환자",
+          "raw_content": "4) 당뇨병 환자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 중증의 경결변 환자",
+          "raw_content": "5) 중증의 경결변 환자"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 신생아, 유아",
+          "raw_content": "6) 신생아, 유아"
+        },
+        {
+          "paragraph_index": 7,
+          "kind": "p",
+          "text": "7) 임부 또는 임신하고 있을 가능성이 있는 부인",
+          "raw_content": "7) 임부 또는 임신하고 있을 가능성이 있는 부인"
+        },
+        {
+          "paragraph_index": 8,
+          "kind": "p",
+          "text": "8) 장관마비 환자",
+          "raw_content": "8) 장관마비 환자"
+        },
+        {
+          "paragraph_index": 9,
+          "kind": "p",
+          "text": "9) 치출혈의 증상이 있는 환자",
+          "raw_content": "9) 치출혈의 증상이 있는 환자"
+        },
+        {
+          "paragraph_index": 10,
+          "kind": "p",
+          "text": "10) 고령자",
+          "raw_content": "10) 고령자"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 부작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 과민증 : 발진 등이 나타날 수 있으므로 이러한 경우에는 투여를 중지한다.",
+          "raw_content": "1) 과민증 : 발진 등이 나타날 수 있으므로 이러한 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소화기계 : 복통, 복명, 복부팽만감, 직장불쾌감, 항문부의 열감, 이화감 등이 나타날 수 있다.",
+          "raw_content": "2) 소화기계 : 복통, 복명, 복부팽만감, 직장불쾌감, 항문부의 열감, 이화감 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 순환기 : 혈압변동, 기립성 조절장애 등이 나타날 수 있다.",
+          "raw_content": "3) 순환기 : 혈압변동, 기립성 조절장애 등이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정해진 용법ㆍ용량을 잘 지킨다.",
+          "raw_content": "1) 정해진 용법ㆍ용량을 잘 지킨다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소아에게 투여할 경우에는 보호자의 지도 감독하에 투여한다.",
+          "raw_content": "2) 소아에게 투여할 경우에는 보호자의 지도 감독하에 투여한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 상용함으로써 효과가 감소하고(소위 “습관”이 생김) 약에 대한 의존성이 나타나므로 연용은 피한다.",
+          "raw_content": "3) 상용함으로써 효과가 감소하고(소위 “습관”이 생김) 약에 대한 의존성이 나타나므로 연용은 피한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 고령자에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.",
+          "raw_content": "일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 적용상의 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약은 관장에만 사용하고 내복하지 않는다.",
+          "raw_content": "1) 이 약은 관장에만 사용하고 내복하지 않는다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직장점막을 다칠 염려가 있으므로 신중히 삽입한다. 삽입시 손상을 일으켜 출혈이 나타난 경우 글리세린이 혈관내로 들어가 용혈을 일으킬 수 있다.",
+          "raw_content": "2) 직장점막을 다칠 염려가 있으므로 신중히 삽입한다. 삽입시 손상을 일으켜 출혈이 나타난 경우 글리세린이 혈관내로 들어가 용혈을 일으킬 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 환자의 상태를 관찰하면서 투여하고 이상이 인정되는 경우에는 즉시 투여를 중지한다.",
+          "raw_content": "3) 환자의 상태를 관찰하면서 투여하고 이상이 인정되는 경우에는 즉시 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 사용잔액은 재사용하지 않고 버린다.",
+          "raw_content": "4) 사용잔액은 재사용하지 않고 버린다."
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "heading": "7. 저장상의 주의사항",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 소아의 손이 닿지 않는 곳에 보관한다.",
+          "raw_content": "1) 소아의 손이 닿지 않는 곳에 보관한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 직사일광을 피하고 되도록이면 습기가 적은 서늘한 곳에 밀전하여 보관한다.",
+          "raw_content": "2) 직사일광을 피하고 되도록이면 습기가 적은 서늘한 곳에 밀전하여 보관한다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음 환자에는 투여하지 말 것.\n\n1) 장관의 천공 또는 그 의심이 있는 환자\n\n2) 장관내 출혈 환자\n\n3) 심한 전신쇠약 환자\n\n4) 심한 복통 또는 구역, 구토 환자\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 급성 복증이 의심되는 환자\n\n2) 국소(장관, 항문)에 염증·창상이 있는 환자\n\n3) 중증의 심질환 환자\n\n4) 당뇨병 환자\n\n5) 중증의 경결변 환자\n\n6) 신생아, 유아\n\n7) 임부 또는 임신하고 있을 가능성이 있는 부인\n\n8) 장관마비 환자\n\n9) 치출혈의 증상이 있는 환자\n\n10) 고령자\n\n3. 부작용\n\n1) 과민증 : 발진 등이 나타날 수 있으므로 이러한 경우에는 투여를 중지한다.\n\n2) 소화기계 : 복통, 복명, 복부팽만감, 직장불쾌감, 항문부의 열감, 이화감 등이 나타날 수 있다.\n\n3) 순환기 : 혈압변동, 기립성 조절장애 등이 나타날 수 있다.\n\n4. 일반적 주의\n\n1) 정해진 용법ㆍ용량을 잘 지킨다.\n\n2) 소아에게 투여할 경우에는 보호자의 지도 감독하에 투여한다.\n\n3) 상용함으로써 효과가 감소하고(소위 “습관”이 생김) 약에 대한 의존성이 나타나므로 연용은 피한다.\n\n5. 고령자에 대한 투여\n\n일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.\n\n6. 적용상의 주의\n\n1) 이 약은 관장에만 사용하고 내복하지 않는다.\n\n2) 직장점막을 다칠 염려가 있으므로 신중히 삽입한다. 삽입시 손상을 일으켜 출혈이 나타난 경우 글리세린이 혈관내로 들어가 용혈을 일으킬 수 있다.\n\n3) 환자의 상태를 관찰하면서 투여하고 이상이 인정되는 경우에는 즉시 투여를 중지한다.\n\n4) 사용잔액은 재사용하지 않고 버린다.\n\n7. 저장상의 주의사항\n\n1) 소아의 손이 닿지 않는 곳에 보관한다.\n\n2) 직사일광을 피하고 되도록이면 습기가 적은 서늘한 곳에 밀전하여 보관한다.",
+  "raw_xml": "<DOC title=\"사용상주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 장관의 천공 또는 그 의심이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 장관내 출혈 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 심한 전신쇠약 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 심한 복통 또는 구역, 구토 환자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 급성 복증이 의심되는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 국소(장관, 항문)에 염증·창상이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중증의 심질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 당뇨병 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 중증의 경결변 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 신생아, 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[7) 임부 또는 임신하고 있을 가능성이 있는 부인]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[8) 장관마비 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[9) 치출혈의 증상이 있는 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[10) 고령자]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 과민증 : 발진 등이 나타날 수 있으므로 이러한 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소화기계 : 복통, 복명, 복부팽만감, 직장불쾌감, 항문부의 열감, 이화감 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 순환기 : 혈압변동, 기립성 조절장애 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정해진 용법ㆍ용량을 잘 지킨다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소아에게 투여할 경우에는 보호자의 지도 감독하에 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 상용함으로써 효과가 감소하고(소위 “습관”이 생김) 약에 대한 의존성이 나타나므로 연용은 피한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 고령자에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[일반적으로 고령자는 생리기능이 저하되어 있으므로 감량하는 등 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 적용상의 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약은 관장에만 사용하고 내복하지 않는다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직장점막을 다칠 염려가 있으므로 신중히 삽입한다. 삽입시 손상을 일으켜 출혈이 나타난 경우 글리세린이 혈관내로 들어가 용혈을 일으킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 환자의 상태를 관찰하면서 투여하고 이상이 인정되는 경우에는 즉시 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 사용잔액은 재사용하지 않고 버린다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"7. 저장상의 주의사항\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 소아의 손이 닿지 않는 곳에 보관한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 직사일광을 피하고 되도록이면 습기가 적은 서늘한 곳에 밀전하여 보관한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "a658ef17667763a300acf25c581eda555f64efecd00d8f77142854bf463f9e6b"
+}

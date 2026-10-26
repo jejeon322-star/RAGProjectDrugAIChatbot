@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:196300025:EE",
+  "drug_id": "mfds:196300025",
+  "scope_type": "product",
+  "title": "옥시톤주사액5아이유(옥시토신) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196300025/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196300025.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20220208",
+  "collected_at": "2026-10-22T05:05:05.960879+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "다음 경우의 자궁수축의 유발, 촉진 및 자궁출혈의 치료 : 분만유도, 진통미약, 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 제왕절개술(태아만출 후), 유산, 인공임신중절",
+          "raw_content": "다음 경우의 자궁수축의 유발, 촉진 및 자궁출혈의 치료 : 분만유도, 진통미약, 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 제왕절개술(태아만출 후), 유산, 인공임신중절"
+        }
+      ]
+    }
+  ],
+  "text": "다음 경우의 자궁수축의 유발, 촉진 및 자궁출혈의 치료 : 분만유도, 진통미약, 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 제왕절개술(태아만출 후), 유산, 인공임신중절",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"0\" marginLeft=\"0\"><![CDATA[다음 경우의 자궁수축의 유발, 촉진 및 자궁출혈의 치료 : 분만유도, 진통미약, 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 제왕절개술(태아만출 후), 유산, 인공임신중절]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "0fc37325415e92d12fa23e4543e0936b8eb031df194982bd419511f9e6e313c3"
+}

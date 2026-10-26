@@ -1,0 +1,56 @@
+{
+  "doc_id": "mfds:196100002:EE",
+  "drug_id": "mfds:196100002",
+  "scope_type": "product",
+  "title": "종근당황산스트렙토마이신주(스트렙토마이신황산염) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/196100002/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\196100002.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20151103",
+  "collected_at": "2026-10-22T05:03:17.577452+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "○ 유효균종",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "결핵균, 인플루엔자균, 페스트균, 야토병균, 브루셀라, 폐렴간균",
+          "raw_content": "결핵균, 인플루엔자균, 페스트균, 야토병균, 브루셀라, 폐렴간균"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "○ 적응증",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "결핵, 인플루엔자, 세균성심내막염(페니실린 G 또는 암피실린과 병용투여할 경우에 한함), 폐렴간균에 의한 폐렴, 와일병, 페스트, 야토병, 브루셀라증",
+          "raw_content": "결핵, 인플루엔자, 세균성심내막염(페니실린 G 또는 암피실린과 병용투여할 경우에 한함), 폐렴간균에 의한 폐렴, 와일병, 페스트, 야토병, 브루셀라증"
+        }
+      ]
+    }
+  ],
+  "text": "○ 유효균종\n\n결핵균, 인플루엔자균, 페스트균, 야토병균, 브루셀라, 폐렴간균\n\n○ 적응증\n\n결핵, 인플루엔자, 세균성심내막염(페니실린 G 또는 암피실린과 병용투여할 경우에 한함), 폐렴간균에 의한 폐렴, 와일병, 페스트, 야토병, 브루셀라증",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 유효균종\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[결핵균, 인플루엔자균, 페스트균, 야토병균, 브루셀라, 폐렴간균]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"○ 적응증\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[결핵, 인플루엔자, 세균성심내막염(페니실린 G 또는 암피실린과 병용투여할 경우에 한함), 폐렴간균에 의한 폐렴, 와일병, 페스트, 야토병, 브루셀라증]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "140bcac3bd7d1dc99b5fb4a1bfd27947a676bcb3cb11ff937dd6ce2cfe5fb8f3"
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "mfds:201600826:EE",
+  "drug_id": "mfds:201600826",
+  "scope_type": "product",
+  "title": "스트렌식주40mg/mL(아스포타제알파) — 효능·효과 (공식 PDF)",
+  "section_type": "EE",
+  "xml_title": "효능·효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600826/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\official_pdf\\201600826_EE.pdf",
+  "source_field": "EE_DOC_ID",
+  "source_updated_at": null,
+  "collected_at": "2026-10-23T01:03:31.336233+00:00",
+  "text": "[원문 1쪽]\n효능효과\n소아기에 발병한 저인산효소증 환자의 골 증상을 치료하기 위한 장기간의 효소 대체 요법\n소아기는 주산기/영아기(발병 시 생후 0~6개월) 및 청소년기(발병 시 생후 6개월~만 18세)를 포함한다.",
+  "content_hash": "20cb3b8ed66d752223f53e9dcdef5fa74c368ccda6de190f78ad51438af07267",
+  "extraction_method": "pdfplumber_layout_text",
+  "pdf_sha256": "65b498edee1a21448ce32a24151ba3f27edc1c7ca6bba5e2a7f4d91e2c6274d9",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "공식 PDF 전체 · 1~1쪽",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "[원문 1쪽]\n효능효과\n소아기에 발병한 저인산효소증 환자의 골 증상을 치료하기 위한 장기간의 효소 대체 요법\n소아기는 주산기/영아기(발병 시 생후 0~6개월) 및 청소년기(발병 시 생후 6개월~만 18세)를 포함한다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "doc_id": "mfds:197200036:UD",
+  "drug_id": "mfds:197200036",
+  "scope_type": "product",
+  "title": "대한젖산나트륨염화나트륨포도당주사액(1-2-3) — 용법·용량",
+  "section_type": "UD",
+  "xml_title": "용법용량",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197200036/UD",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197200036.json",
+  "source_field": "UD_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20191008",
+  "collected_at": "2026-10-22T05:25:47.320355+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "",
+          "raw_content": "&nbsp;"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "보통 성인 1회 500～1,000mL를 점적 정맥주사한다.",
+          "raw_content": "보통 성인 1회 500～1,000mL를 점적 정맥주사한다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다.",
+          "raw_content": "투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+          "raw_content": "투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다."
+        }
+      ]
+    }
+  ],
+  "text": "보통 성인 1회 500～1,000mL를 점적 정맥주사한다.\n\n투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다.\n\n투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.",
+  "raw_xml": "<DOC title=\"용법용량\" type=\"UD\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[&nbsp;]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[보통 성인 1회 500～1,000mL를 점적 정맥주사한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여속도는 시간당 300～500mL(분당 75～120방울)이고, 소아의 경우 시간당 50～100mL로 한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[투여량, 투여속도는 연령, 체중, 증상에 따라 적절히 증감한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "f1dad34ddcd58c5023d563bb59e43802d582531fbd0d27641c9704aa448dd3c3"
+}

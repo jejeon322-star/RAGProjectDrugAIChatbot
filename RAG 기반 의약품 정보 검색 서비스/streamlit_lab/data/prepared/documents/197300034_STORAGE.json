@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:197300034",
+  "doc_id": "mfds:197300034:STORAGE",
+  "title": "중외헤파린주(헤파린나트륨) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "89bfd45cdaf3aaa8d7dfad9787bbdf5f4cc245680ab538ba03a37eb1618057c8",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197300034.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-22T05:28:13.816880+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 내수용: 차광한 밀봉용기\n수출용: 밀봉용기, 30℃ 이하 보관, 얼리지 말 것.\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 내수용: 차광한 밀봉용기\n수출용: 밀봉용기, 30℃ 이하 보관, 얼리지 말 것.\n사용기간: 제조일로부터 36 개월"
+}

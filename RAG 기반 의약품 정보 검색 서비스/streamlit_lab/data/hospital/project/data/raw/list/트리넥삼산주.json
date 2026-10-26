@@ -1,0 +1,11 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 0,
+    "numOfRows": 100
+  }
+}

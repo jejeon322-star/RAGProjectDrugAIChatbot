@@ -1,0 +1,194 @@
+{
+  "doc_id": "mfds:197100097:NB",
+  "drug_id": "mfds:197100097",
+  "scope_type": "product",
+  "title": "환인벤즈트로핀정(벤즈트로핀메실산염) — 사용상의 주의사항",
+  "section_type": "NB",
+  "xml_title": "사용상의주의사항",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197100097/NB",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197100097.json",
+  "source_field": "NB_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20241108",
+  "collected_at": "2026-10-22T05:25:44.396237+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "1. 다음 환자에는 투여하지 말 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 녹내장 환자",
+          "raw_content": "1) 녹내장 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약에 과민증 환자",
+          "raw_content": "2) 이 약에 과민증 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 중증 근무력증 환자",
+          "raw_content": "3) 중증 근무력증 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 3세 미만의 유아",
+          "raw_content": "4) 3세 미만의 유아"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.",
+          "raw_content": "5) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다."
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "heading": "2. 다음 환자에는 신중히 투여할 것.",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 전립선 비대 등 요로 폐쇄성 질환 환자",
+          "raw_content": "1) 전립선 비대 등 요로 폐쇄성 질환 환자"
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 부정맥 또는 빈맥 환자",
+          "raw_content": "2) 부정맥 또는 빈맥 환자"
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 간ㆍ신장애 환자",
+          "raw_content": "3) 간ㆍ신장애 환자"
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 고령자",
+          "raw_content": "4) 고령자"
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 3세 이상의 유ㆍ소아",
+          "raw_content": "5) 3세 이상의 유ㆍ소아"
+        },
+        {
+          "paragraph_index": 6,
+          "kind": "p",
+          "text": "6) 고온 환경에 있는 자(발한 억제가 나타나기 쉬운 환자)",
+          "raw_content": "6) 고온 환경에 있는 자(발한 억제가 나타나기 쉬운 환자)"
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "heading": "3. 부작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 정신신경계 : 운동실조 또는 정신착란, 환각, 의식장애, 헛소리, 신경과민, 흥분, 불안, 우울증, 권태감, 수족의 지각이상 등이 나타날 수 있다.",
+          "raw_content": "1) 정신신경계 : 운동실조 또는 정신착란, 환각, 의식장애, 헛소리, 신경과민, 흥분, 불안, 우울증, 권태감, 수족의 지각이상 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 소화기계 : 구갈, 구역, 구토, 변비 등의 증상이 나타날 수 있다.",
+          "raw_content": "2) 소화기계 : 구갈, 구역, 구토, 변비 등의 증상이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 비뇨기계 : 때때로 배뇨곤란, 요폐 등이 나타날 수 있다.",
+          "raw_content": "3) 비뇨기계 : 때때로 배뇨곤란, 요폐 등이 나타날 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 과민증 : 때때로 발진 등이 나타날 수 있으며 이러한 경우에는 투여를 중지한다.",
+          "raw_content": "4) 과민증 : 때때로 발진 등이 나타날 수 있으며 이러한 경우에는 투여를 중지한다."
+        },
+        {
+          "paragraph_index": 5,
+          "kind": "p",
+          "text": "5) 눈 : 조절장애 등이 나타날 수 있다.",
+          "raw_content": "5) 눈 : 조절장애 등이 나타날 수 있다."
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "heading": "4. 일반적 주의",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 이 약을 투여할 때 소량부터 시작해서 충분히 관찰하여 신중히 유지량까지 증량한다. 또 다른 약에서 이 약으로 바꿀 때는 다른 약을 천천히 감량하고 이 약을 점차로 증량한다.",
+          "raw_content": "1) 이 약을 투여할 때 소량부터 시작해서 충분히 관찰하여 신중히 유지량까지 증량한다. 또 다른 약에서 이 약으로 바꿀 때는 다른 약을 천천히 감량하고 이 약을 점차로 증량한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 이 약 투여중에는 정기적인 우각검사와 함께 안압검사를 하는 것이 바람직하다.",
+          "raw_content": "2) 이 약 투여중에는 정기적인 우각검사와 함께 안압검사를 하는 것이 바람직하다."
+        },
+        {
+          "paragraph_index": 3,
+          "kind": "p",
+          "text": "3) 일반적으로 항파킨슨제는 페노치아진계 약물ㆍ유도체로 인한 입주위 등의 불수의운동(지발성 운동장애)을 경감시키지 않는다. 경우에 따라 이러한 증상을 악화시킬 수 있다.",
+          "raw_content": "3) 일반적으로 항파킨슨제는 페노치아진계 약물ㆍ유도체로 인한 입주위 등의 불수의운동(지발성 운동장애)을 경감시키지 않는다. 경우에 따라 이러한 증상을 악화시킬 수 있다."
+        },
+        {
+          "paragraph_index": 4,
+          "kind": "p",
+          "text": "4) 조절장애와 더불어 주의력, 집중력, 반사기능 등의 저하가 나타날 수 있으므로 이 약을 투여중인 환자는 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.",
+          "raw_content": "4) 조절장애와 더불어 주의력, 집중력, 반사기능 등의 저하가 나타날 수 있으므로 이 약을 투여중인 환자는 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "heading": "5. 상호작용",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "1) 페노치아진계 약물, 삼환계 항우울약, MAO저해제, 레세르핀 유도체와 병용시 이 약의 작용이 증강될 수 있으므로 신중히 투여한다.",
+          "raw_content": "1) 페노치아진계 약물, 삼환계 항우울약, MAO저해제, 레세르핀 유도체와 병용시 이 약의 작용이 증강될 수 있으므로 신중히 투여한다."
+        },
+        {
+          "paragraph_index": 2,
+          "kind": "p",
+          "text": "2) 항콜린성 약물(페노치아진계 약물, 삼환계 항울약 등)과 병용시 장관마비(식욕부진, 구역·구토, 심한 변비, 복부팽만 또는 이완 및 장내용물 울체 등의 증상)가 나타나 마비성 장폐색으로 이행될 수 있으므로 장관마비가 나타나는 경우에는 투여를 중지한다. 또한 이러한 구역, 구토는 진토작용에 의하여 은폐될 수 있으므로 주의한다.",
+          "raw_content": "2) 항콜린성 약물(페노치아진계 약물, 삼환계 항울약 등)과 병용시 장관마비(식욕부진, 구역·구토, 심한 변비, 복부팽만 또는 이완 및 장내용물 울체 등의 증상)가 나타나 마비성 장폐색으로 이행될 수 있으므로 장관마비가 나타나는 경우에는 투여를 중지한다. 또한 이러한 구역, 구토는 진토작용에 의하여 은폐될 수 있으므로 주의한다."
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "heading": "6. 임부 및 수유부에 대한 투여",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "임부 및 수유부의 투여에 관한 안전성은 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 부인, 수유부에는 투여하지 않는 것이 바람직하다.",
+          "raw_content": "임부 및 수유부의 투여에 관한 안전성은 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 부인, 수유부에는 투여하지 않는 것이 바람직하다."
+        }
+      ]
+    }
+  ],
+  "text": "1. 다음 환자에는 투여하지 말 것.\n\n1) 녹내장 환자\n\n2) 이 약에 과민증 환자\n\n3) 중증 근무력증 환자\n\n4) 3세 미만의 유아\n\n5) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.\n\n2. 다음 환자에는 신중히 투여할 것.\n\n1) 전립선 비대 등 요로 폐쇄성 질환 환자\n\n2) 부정맥 또는 빈맥 환자\n\n3) 간ㆍ신장애 환자\n\n4) 고령자\n\n5) 3세 이상의 유ㆍ소아\n\n6) 고온 환경에 있는 자(발한 억제가 나타나기 쉬운 환자)\n\n3. 부작용\n\n1) 정신신경계 : 운동실조 또는 정신착란, 환각, 의식장애, 헛소리, 신경과민, 흥분, 불안, 우울증, 권태감, 수족의 지각이상 등이 나타날 수 있다.\n\n2) 소화기계 : 구갈, 구역, 구토, 변비 등의 증상이 나타날 수 있다.\n\n3) 비뇨기계 : 때때로 배뇨곤란, 요폐 등이 나타날 수 있다.\n\n4) 과민증 : 때때로 발진 등이 나타날 수 있으며 이러한 경우에는 투여를 중지한다.\n\n5) 눈 : 조절장애 등이 나타날 수 있다.\n\n4. 일반적 주의\n\n1) 이 약을 투여할 때 소량부터 시작해서 충분히 관찰하여 신중히 유지량까지 증량한다. 또 다른 약에서 이 약으로 바꿀 때는 다른 약을 천천히 감량하고 이 약을 점차로 증량한다.\n\n2) 이 약 투여중에는 정기적인 우각검사와 함께 안압검사를 하는 것이 바람직하다.\n\n3) 일반적으로 항파킨슨제는 페노치아진계 약물ㆍ유도체로 인한 입주위 등의 불수의운동(지발성 운동장애)을 경감시키지 않는다. 경우에 따라 이러한 증상을 악화시킬 수 있다.\n\n4) 조절장애와 더불어 주의력, 집중력, 반사기능 등의 저하가 나타날 수 있으므로 이 약을 투여중인 환자는 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.\n\n5. 상호작용\n\n1) 페노치아진계 약물, 삼환계 항우울약, MAO저해제, 레세르핀 유도체와 병용시 이 약의 작용이 증강될 수 있으므로 신중히 투여한다.\n\n2) 항콜린성 약물(페노치아진계 약물, 삼환계 항울약 등)과 병용시 장관마비(식욕부진, 구역·구토, 심한 변비, 복부팽만 또는 이완 및 장내용물 울체 등의 증상)가 나타나 마비성 장폐색으로 이행될 수 있으므로 장관마비가 나타나는 경우에는 투여를 중지한다. 또한 이러한 구역, 구토는 진토작용에 의하여 은폐될 수 있으므로 주의한다.\n\n6. 임부 및 수유부에 대한 투여\n\n임부 및 수유부의 투여에 관한 안전성은 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 부인, 수유부에는 투여하지 않는 것이 바람직하다.",
+  "raw_xml": "<DOC title=\"사용상의주의사항\" type=\"NB\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"1. 다음 환자에는 투여하지 말 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 녹내장 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약에 과민증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 중증 근무력증 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 3세 미만의 유아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안 된다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"2. 다음 환자에는 신중히 투여할 것.\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 전립선 비대 등 요로 폐쇄성 질환 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 부정맥 또는 빈맥 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 간ㆍ신장애 환자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 고령자]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 3세 이상의 유ㆍ소아]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[6) 고온 환경에 있는 자(발한 억제가 나타나기 쉬운 환자)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"3. 부작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 정신신경계 : 운동실조 또는 정신착란, 환각, 의식장애, 헛소리, 신경과민, 흥분, 불안, 우울증, 권태감, 수족의 지각이상 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 소화기계 : 구갈, 구역, 구토, 변비 등의 증상이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 비뇨기계 : 때때로 배뇨곤란, 요폐 등이 나타날 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 과민증 : 때때로 발진 등이 나타날 수 있으며 이러한 경우에는 투여를 중지한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[5) 눈 : 조절장애 등이 나타날 수 있다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"4. 일반적 주의\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 이 약을 투여할 때 소량부터 시작해서 충분히 관찰하여 신중히 유지량까지 증량한다. 또 다른 약에서 이 약으로 바꿀 때는 다른 약을 천천히 감량하고 이 약을 점차로 증량한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 이 약 투여중에는 정기적인 우각검사와 함께 안압검사를 하는 것이 바람직하다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[3) 일반적으로 항파킨슨제는 페노치아진계 약물ㆍ유도체로 인한 입주위 등의 불수의운동(지발성 운동장애)을 경감시키지 않는다. 경우에 따라 이러한 증상을 악화시킬 수 있다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[4) 조절장애와 더불어 주의력, 집중력, 반사기능 등의 저하가 나타날 수 있으므로 이 약을 투여중인 환자는 자동차운전 등 위험이 수반되는 기계조작을 하지 않도록 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"5. 상호작용\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[1) 페노치아진계 약물, 삼환계 항우울약, MAO저해제, 레세르핀 유도체와 병용시 이 약의 작용이 증강될 수 있으므로 신중히 투여한다.]]></PARAGRAPH>\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[2) 항콜린성 약물(페노치아진계 약물, 삼환계 항울약 등)과 병용시 장관마비(식욕부진, 구역·구토, 심한 변비, 복부팽만 또는 이완 및 장내용물 울체 등의 증상)가 나타나 마비성 장폐색으로 이행될 수 있으므로 장관마비가 나타나는 경우에는 투여를 중지한다. 또한 이러한 구역, 구토는 진토작용에 의하여 은폐될 수 있으므로 주의한다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n    <ARTICLE title=\"6. 임부 및 수유부에 대한 투여\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[임부 및 수유부의 투여에 관한 안전성은 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 부인, 수유부에는 투여하지 않는 것이 바람직하다.]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "c526cc17a1cd4d4d3263beaa0e468a9be4369ace43e9ba17943f8c1456065427"
+}

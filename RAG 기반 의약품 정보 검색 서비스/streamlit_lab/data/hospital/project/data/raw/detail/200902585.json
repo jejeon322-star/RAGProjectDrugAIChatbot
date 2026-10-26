@@ -1,0 +1,60 @@
+{
+  "header": {
+    "resultCode": "00",
+    "resultMsg": "NORMAL SERVICE."
+  },
+  "body": {
+    "pageNo": 1,
+    "totalCount": 1,
+    "numOfRows": 1,
+    "items": [
+      {
+        "ITEM_SEQ": "200902585",
+        "ITEM_NAME": "코러스덱사메타손주(덱사메타손디나트륨인산염)(수출용)",
+        "ENTP_NAME": "한국코러스(주)",
+        "ITEM_PERMIT_DATE": "20090410",
+        "CNSGN_MANUF": "대원제약(주)",
+        "ETC_OTC_CODE": "전문의약품",
+        "CHART": "무색투명한 액이 든 앰플제",
+        "BAR_CODE": "8806472022401,8806472022418,8806472022425",
+        "MATERIAL_NAME": "총량 : 1밀리리터|성분명 : 덱사메타손포스페이트이나트륨|분량 : 5.0|단위 : 밀리그램|규격 : KP|성분정보 : |비고 :",
+        "EE_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902585/EE",
+        "UD_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902585/UD",
+        "NB_DOC_ID": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902585/NB",
+        "INSERT_FILE": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902585/II",
+        "STORAGE_METHOD": "밀봉용기, 실온(1-30℃) 보관",
+        "VALID_TERM": "제조일로부터 36 개월",
+        "REEXAM_TARGET": null,
+        "REEXAM_DATE": null,
+        "PACK_UNIT": "1앰플(1mL) x 50 ",
+        "EDI_CODE": null,
+        "PERMIT_KIND_NAME": "신고",
+        "ENTP_NO": "1728",
+        "MAKE_MATERIAL_FLAG": "완제의약품",
+        "NEWDRUG_CLASS_NAME": "",
+        "INDUTY_TYPE": "의약품",
+        "CANCEL_DATE": null,
+        "CANCEL_NAME": "정상",
+        "CHANGE_DATE": "20250507",
+        "NARCOTIC_KIND_CODE": null,
+        "GBN_NAME": "사용상주의사항변경(부작용포함), 2025-05-07/사용상주의사항변경(부작용포함), 2024-06-21/사용상주의사항변경(부작용포함), 2023-01-13/사용상의 주의사항, 2022-04-26/사용상주의사항변경(부작용포함), 2018-11-22/사용상주의사항변경(부작용포함), 2018-07-18/사용상주의사항변경(부작용포함), 2015-09-13",
+        "TOTAL_CONTENT": "1",
+        "EE_DOC_DATA": null,
+        "UD_DOC_DATA": null,
+        "NB_DOC_DATA": null,
+        "PN_DOC_DATA": null,
+        "MAIN_ITEM_INGR": "[M256848]덱사메타손포스페이트이나트륨",
+        "INGR_NAME": "[M040220]벤질알코올|[M040305]수산화나트륨|[M040378]아황산수소나트륨|[M040534]주사용수|[M223087]시트르산나트륨수화물|[M223090]시트르산수화물",
+        "ATC_CODE": "H02AB02",
+        "ITEM_ENG_NAME": "Chorus Dexametasone Inj.(for export)",
+        "ENTP_ENG_NAME": "Hankook Korus Pharm. Co., Ltd",
+        "MAIN_INGR_ENG": "Dexamethasone Disodium Phosphate",
+        "BIZRNO": "2058140116",
+        "RARE_DRUG_YN": "N",
+        "DATA_PROTECT_START_DATE": null,
+        "DATA_PROTECT_END_DATE": null
+      }
+    ]
+  },
+  "_hospital_detail_single_row": true
+}

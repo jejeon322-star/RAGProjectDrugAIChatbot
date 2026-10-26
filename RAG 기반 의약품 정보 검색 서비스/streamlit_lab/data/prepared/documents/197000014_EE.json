@@ -1,0 +1,32 @@
+{
+  "doc_id": "mfds:197000014:EE",
+  "drug_id": "mfds:197000014",
+  "scope_type": "product",
+  "title": "중외염화나트륨주사액(117mg/1ml) — 효능·효과",
+  "section_type": "EE",
+  "xml_title": "효능효과",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000014/EE",
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\raw\\detail\\197000014.json",
+  "source_field": "EE_DOC_DATA",
+  "source_updated_at": null,
+  "source_record_change_date_raw": "20210929",
+  "collected_at": "2026-10-22T05:16:31.309684+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "",
+      "paragraphs": [
+        {
+          "paragraph_index": 1,
+          "kind": "p",
+          "text": "전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
+          "raw_content": "전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)"
+        }
+      ]
+    }
+  ],
+  "text": "전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
+  "raw_xml": "<DOC title=\"효능효과\" type=\"EE\">\r\n  <SECTION title=\"\">\r\n    <ARTICLE title=\"\">\r\n      <PARAGRAPH tagName=\"p\" textIndent=\"\" marginLeft=\"\"><![CDATA[전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)]]></PARAGRAPH>\r\n    </ARTICLE>\r\n  </SECTION>\r\n</DOC>",
+  "content_hash": "b80b45135a88d7dfad30167b392051bc28b80c993ea7e3dd4fa3da81e9e62fa7"
+}

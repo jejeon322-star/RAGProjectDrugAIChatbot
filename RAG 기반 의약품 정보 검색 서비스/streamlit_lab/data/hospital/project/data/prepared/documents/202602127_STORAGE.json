@@ -1,0 +1,26 @@
+{
+  "drug_id": "mfds:202602127",
+  "doc_id": "mfds:202602127:STORAGE",
+  "title": "펠루엘정(펠루비프로펜(미분화)) — 저장방법·사용기간",
+  "section_type": "STORAGE",
+  "xml_title": "저장방법·사용기간",
+  "content_hash": "7ba95045ce9bbd1c6884c31c572e3058f183b8714a38eeae5d18d05907321fbd",
+  "source_name": "식품의약품안전처_의약품 제품 허가정보",
+  "source_url": null,
+  "source_file": "C:\\SSAFY\\workspace\\project\\05. AI Core2 프로젝트\\교육생배포용\\streamlit_lab\\data\\hospital\\project\\data\\raw\\detail\\202602127.json",
+  "source_field": "STORAGE_METHOD,VALID_TERM",
+  "collected_at": "2026-10-23T00:53:37.589108+00:00",
+  "sections": [
+    {
+      "article_index": 1,
+      "heading": "저장방법·사용기간",
+      "paragraphs": [
+        {
+          "kind": "p",
+          "text": "저장방법: 차광기밀용기, 실온(1 ~ 30 ℃)보관\n사용기간: 제조일로부터 36 개월"
+        }
+      ]
+    }
+  ],
+  "text": "저장방법: 차광기밀용기, 실온(1 ~ 30 ℃)보관\n사용기간: 제조일로부터 36 개월"
+}
